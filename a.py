@@ -318,8 +318,8 @@ class RcloneUploader:
                 # "--progress", "--stats-one-line", "--stats=15s",  # Progress every 15 seconds
                 "--checksum",  # Use checksum for file verification
                 "--log-file=rclone-log.txt",  # Output detailed logs to file
-                "--retries", self.max_failures,  # Built-in retries for rclone itself
-                "--low-level-retries", "10",
+                "--retries", "5",  # Built-in retries for rclone itself - fixed: convert int to str
+                "--low-level-retries", "10",  # Fixed: convert int to str
                 # "--tpslimit", "10"  # Limit transactions per second to avoid API rate limits
             ]
             
