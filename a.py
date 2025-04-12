@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-qBittorrent to OneDrive Uploader
-This script monitors qBittorrent downloads and uploads completed downloads to OneDrive using rclone.
+qBittorrent to OneDrive Mover
+This script monitors qBittorrent downloads and moves completed downloads to OneDrive using rclone.
 """
 
 import os
@@ -53,7 +53,7 @@ def retry(max_tries: int = 3, delay_seconds: int = 5,
                         break
                         
                     logger.warning(f"Retry {max_tries - mtries} for {func.__name__} failed with {str(e)}. "
-                                  f"Retrying in {mdelay} seconds...")
+                                    f"Retrying in {mdelay} seconds...")
                     time.sleep(mdelay)
                     mdelay *= backoff_factor
             
@@ -177,7 +177,7 @@ class QBittorrentClient:
 
 
 class RcloneUploader:
-    """Handles uploads to cloud storage using rclone"""
+    """Handles moving files/folders to cloud storage using rclone"""
     
     def __init__(self, remote_name: str = "onedrive", remote_path: str = "Torrents"):
         self.remote_name = remote_name
@@ -251,7 +251,7 @@ class RcloneUploader:
     
     @retry(max_tries=2, delay_seconds=10, exceptions=(subprocess.SubprocessError, OSError, IOError))
     def upload_file(self, local_path: str, remote_subpath: str = "") -> bool:
-        """Upload a file to cloud storage via rclone with retry"""
+        """Move a file/folder to cloud storage via rclone with retry"""
         if not self.rclone_path:
             error_msg = "rclone not found, cannot upload"
             self.last_error = error_msg
@@ -284,9 +284,9 @@ class RcloneUploader:
         if remote_subpath:
             remote_full_path = os.path.join(remote_full_path, remote_subpath)
         
-        # Run rclone copy command
+        # Run rclone move command
         try:
-            logger.info(f"Starting upload: {local_path} -> {remote_full_path}")
+            logger.info(f"Starting move: {local_path} -> {remote_full_path}")
             
             # Get file/directory size before upload
             try:
@@ -299,16 +299,18 @@ class RcloneUploader:
                                for filename in filenames) / (1024 * 1024)
                     item_type = "directory"
                     
-                logger.info(f"Uploading {item_type} of size {size_mb:.2f} MB")
+                logger.info(f"Moving {item_type} of size {size_mb:.2f} MB")
             except (PermissionError, OSError) as e:
                 logger.warning(f"Could not calculate size of {local_path}: {e}")
-                # Continue with upload despite size calculation failure
+                # Continue with move operation despite size calculation failure
             
             # Execute the rclone command with progress monitoring
             process = subprocess.Popen(
                 [
-                    self.rclone_path, "copy", local_path, remote_full_path,
+                    self.rclone_path, "move", local_path, remote_full_path,
                     "--progress", "--stats-one-line", "--stats=15s",  # Progress every 15 seconds
+                    "--checksum",  # Use checksum for file verification
+                    "--log-file=rclone-log.txt",  # Output detailed logs to file
                     "--retries", "3",  # Built-in retries for rclone itself
                     "--low-level-retries", "10",
                     "--tpslimit", "10"  # Limit transactions per second to avoid API rate limits
@@ -329,101 +331,27 @@ class RcloneUploader:
             process.wait()
             
             if process.returncode == 0:
-                logger.info(f"Successfully uploaded to {remote_full_path}")
+                logger.info(f"Successfully moved to {remote_full_path}")
                 self.last_error = None
                 return True
             else:
-                error_msg = f"Failed to upload to {remote_full_path}"
+                error_msg = f"Failed to move to {remote_full_path}"
                 self.last_error = error_msg
                 logger.error(error_msg)
                 return False
                 
         except Exception as e:
-            error_msg = f"Error during upload: {str(e)}"
+            error_msg = f"Error during move operation: {str(e)}"
             self.last_error = error_msg
             logger.error(error_msg)
             logger.error(traceback.format_exc())  # Print full traceback
             raise
 
-
 class QBittorrentRcloneManager:
-    """Main class to manage qBittorrent downloads and rclone uploads"""
-    
-    def __init__(self, config: Dict):
-        self.config = config
-        self.qbit_client = QBittorrentClient(
-            host=config.get("qbittorrent", {}).get("host", "localhost"),
-            port=config.get("qbittorrent", {}).get("port", 8080),
-            username=config.get("qbittorrent", {}).get("username", "admin"),
-            password=config.get("qbittorrent", {}).get("password", "adminadmin")
-        )
-        self.rclone = RcloneUploader(
-            remote_name=config.get("rclone", {}).get("remote_name", "onedrive"),
-            remote_path=config.get("rclone", {}).get("remote_path", "Torrents")
-        )
-        self.processed_torrents = self._load_processed_torrents()
-        self.failed_uploads = self._load_failed_uploads()
-        self.max_failures = config.get("max_upload_failures", 3)
-        
-    def _load_processed_torrents(self) -> Dict:
-        """Load list of already processed torrents"""
-        return self._load_json_file("processed_torrents.json")
-            
-    def _load_failed_uploads(self) -> Dict:
-        """Load list of failed uploads to manage retries"""
-        return self._load_json_file("failed_uploads.json")
-    
-    def _load_json_file(self, filename: str) -> Dict:
-        """Generic JSON file loader with error handling"""
-        try:
-            if os.path.exists(filename):
-                with open(filename, "r") as f:
-                    return json.load(f)
-            return {}
-        except json.JSONDecodeError as e:
-            logger.error(f"Error parsing {filename}: {e}")
-            # Create backup of corrupted file
-            if os.path.exists(filename):
-                backup_name = f"{filename}.{int(time.time())}.bak"
-                try:
-                    shutil.copy2(filename, backup_name)
-                    logger.info(f"Created backup of corrupted file: {backup_name}")
-                except Exception as backup_err:
-                    logger.error(f"Failed to create backup of corrupted file: {backup_err}")
-            return {}
-        except Exception as e:
-            logger.error(f"Error loading {filename}: {e}")
-            return {}
-            
-    def _save_processed_torrents(self) -> bool:
-        """Save list of processed torrents to avoid re-uploading"""
-        return self._save_json_file("processed_torrents.json", self.processed_torrents)
-            
-    def _save_failed_uploads(self) -> bool:
-        """Save list of failed uploads for retry tracking"""
-        return self._save_json_file("failed_uploads.json", self.failed_uploads)
-    
-    def _save_json_file(self, filename: str, data: Dict) -> bool:
-        """Generic JSON file saver with error handling"""
-        try:
-            # First write to a temporary file, then rename for atomicity
-            temp_filename = f"{filename}.tmp"
-            with open(temp_filename, "w") as f:
-                json.dump(data, f, indent=2)
-            
-            # Replace the original file with the temp file
-            if os.path.exists(filename):
-                os.replace(temp_filename, filename)
-            else:
-                os.rename(temp_filename, filename)
-            return True
-        except Exception as e:
-            logger.error(f"Error saving {filename}: {e}")
-            logger.error(traceback.format_exc())
-            return False
-    
-    def check_and_upload_completed(self) -> None:
-        """Check for completed torrents and upload them"""
+    """Main class to manage qBittorrent downloads and rclone moves to OneDrive"""
+
+    def check_and_move_completed(self) -> None:
+        """Check for completed torrents and move them to OneDrive"""
         logger.info("Checking for completed torrents...")
         
         try:
@@ -431,8 +359,8 @@ class QBittorrentRcloneManager:
             completed_torrents = self.qbit_client.get_torrents(filter="completed")
             logger.info(f"Found {len(completed_torrents)} completed torrents")
             
-            # Check for any failed uploads to retry
-            self._retry_failed_uploads()
+            # Check for any failed operations to retry
+            self._retry_failed_operations()
             
             for torrent in completed_torrents:
                 try:
@@ -467,20 +395,20 @@ class QBittorrentRcloneManager:
                     if category and self.config.get("use_categories", True):
                         remote_subpath = category
                     
-                    # Upload the completed download
-                    logger.info(f"Uploading torrent: {torrent_name}")
+                    # Move the completed download
+                    logger.info(f"Moving torrent: {torrent_name}")
                     success = self.rclone.upload_file(content_path, remote_subpath)
                     
                     if success:
                         # Mark as processed
                         self.processed_torrents[torrent_hash] = {
                             "name": torrent_name,
-                            "uploaded_at": datetime.now().isoformat(),
+                            "moved_at": datetime.now().isoformat(),
                             "path": content_path
                         }
                         self._save_processed_torrents()
                         
-                        # Remove from failed uploads if it was there
+                        # Remove from failed operations if it was there
                         if torrent_hash in self.failed_uploads:
                             del self.failed_uploads[torrent_hash]
                             self._save_failed_uploads()
@@ -488,78 +416,23 @@ class QBittorrentRcloneManager:
                         logger.info(f"Successfully processed torrent: {torrent_name}")
                     else:
                         # Track failure
-                        self._record_upload_failure(torrent_hash, torrent_name, content_path, 
+                        self._record_move_failure(torrent_hash, torrent_name, content_path, 
                                                    self.rclone.last_error)
-                        logger.error(f"Failed to upload torrent: {torrent_name}")
+                        logger.error(f"Failed to move torrent: {torrent_name}")
                 except Exception as e:
                     logger.error(f"Error processing torrent: {e}")
                     logger.error(traceback.format_exc())
         except Exception as e:
-            logger.error(f"Error in check_and_upload_completed: {e}")
+            logger.error(f"Error in check_and_move_completed cycle: {e}")
             logger.error(traceback.format_exc())
-    
-    def _get_torrent_content_path(self, torrent: Dict) -> Optional[str]:
-        """Determine the content path for a torrent with fallback methods"""
-        content_path = torrent.get("content_path", "")
-        
-        # First try the content_path if available
-        if content_path and os.path.exists(content_path):
-            return content_path
-            
-        # Next, try to construct from save_path and name
-        save_path = torrent.get("save_path", "")
-        name = torrent.get("name", "")
-        
-        if save_path and name:
-            constructed_path = os.path.join(save_path, name)
-            if os.path.exists(constructed_path):
-                return constructed_path
-                
-        # As a last resort for multi-file torrents, try to find any files
-        # This is a partial implementation and may need expansion
-        try:
-            torrent_hash = torrent.get("hash")
-            if torrent_hash:
-                torrent_files = self.qbit_client.get_torrent_content(torrent_hash)
-                if torrent_files and len(torrent_files) > 0:
-                    # This might need more logic depending on qBittorrent's API
-                    first_file = torrent_files[0]
-                    file_path = first_file.get("name", "")
-                    if file_path and save_path:
-                        potential_path = os.path.join(save_path, os.path.dirname(file_path))
-                        if os.path.exists(potential_path):
-                            return potential_path
-        except Exception as e:
-            logger.error(f"Error getting torrent files: {e}")
-            
-        # Could not determine content path
-        return None
-    
-    def _record_upload_failure(self, torrent_hash: str, torrent_name: str, 
-                              content_path: str, error_message: Optional[str]) -> None:
-        """Record a failed upload attempt for retry later"""
-        if torrent_hash not in self.failed_uploads:
-            self.failed_uploads[torrent_hash] = {
-                "name": torrent_name,
-                "path": content_path,
-                "first_failure": datetime.now().isoformat(),
-                "last_failure": datetime.now().isoformat(),
-                "failures": 1,
-                "last_error": error_message or "Unknown error"
-            }
-        else:
-            self.failed_uploads[torrent_hash]["failures"] += 1
-            self.failed_uploads[torrent_hash]["last_failure"] = datetime.now().isoformat()
-            self.failed_uploads[torrent_hash]["last_error"] = error_message or "Unknown error"
-            
-        self._save_failed_uploads()
-    
-    def _retry_failed_uploads(self) -> None:
-        """Retry previously failed uploads"""
+            # Continue despite errors
+
+    def _retry_failed_operations(self) -> None:
+        """Retry previously failed move operations"""
         if not self.failed_uploads:
             return
             
-        logger.info(f"Checking {len(self.failed_uploads)} failed uploads for retry")
+        logger.info(f"Checking {len(self.failed_uploads)} failed operations for retry")
         
         # Create a copy of the keys since we might modify the dictionary
         failed_hashes = list(self.failed_uploads.keys())
@@ -575,20 +448,20 @@ class QBittorrentRcloneManager:
             # Check if path still exists
             content_path = failed_info.get("path")
             if not content_path or not os.path.exists(content_path):
-                logger.warning(f"Content no longer exists for failed upload: {failed_info['name']}")
+                logger.warning(f"Content no longer exists for failed operation: {failed_info['name']}")
                 del self.failed_uploads[torrent_hash]
                 self._save_failed_uploads()
                 continue
                 
-            # Attempt to upload
-            logger.info(f"Retrying upload for: {failed_info['name']}")
+            # Attempt to move
+            logger.info(f"Retrying move operation for: {failed_info['name']}")
             success = self.rclone.upload_file(content_path, "")
             
             if success:
                 # Mark as processed and remove from failures
                 self.processed_torrents[torrent_hash] = {
                     "name": failed_info["name"],
-                    "uploaded_at": datetime.now().isoformat(),
+                    "moved_at": datetime.now().isoformat(),
                     "path": content_path,
                     "retries": failed_info.get("failures", 0)
                 }
@@ -597,13 +470,32 @@ class QBittorrentRcloneManager:
                 del self.failed_uploads[torrent_hash]
                 self._save_failed_uploads()
                 
-                logger.info(f"Successfully uploaded previously failed torrent: {failed_info['name']}")
+                logger.info(f"Successfully moved previously failed torrent: {failed_info['name']}")
             else:
                 # Update failure count
-                self._record_upload_failure(torrent_hash, failed_info["name"], 
+                self._record_move_failure(torrent_hash, failed_info["name"], 
                                           content_path, self.rclone.last_error)
                 logger.error(f"Retry failed for torrent: {failed_info['name']}")
-    
+
+    def _record_move_failure(self, torrent_hash: str, torrent_name: str, 
+                              content_path: str, error_message: Optional[str]) -> None:
+        """Record a failed move operation attempt for retry later"""
+        if torrent_hash not in self.failed_uploads:
+            self.failed_uploads[torrent_hash] = {
+                "name": torrent_name,
+                "path": content_path,
+                "first_failure": datetime.now().isoformat(),
+                "last_failure": datetime.now().isoformat(),
+                "failures": 1,
+                "last_error": error_message or "Unknown error"
+            }
+        else:
+            self.failed_uploads[torrent_hash]["failures"] += 1
+            self.failed_uploads[torrent_hash]["last_failure"] = datetime.now().isoformat()
+            self.failed_uploads[torrent_hash]["last_error"] = error_message or "Unknown error"
+            
+        self._save_failed_uploads()
+
     def run(self) -> bool:
         """Run the main manager loop"""
         # Health checks
@@ -625,15 +517,15 @@ class QBittorrentRcloneManager:
             logger.error("Health checks failed. Set 'continue_on_errors' to true in config to run anyway.")
             return False
             
-        logger.info("Starting qBittorrent to OneDrive uploader service")
+        logger.info("Starting qBittorrent to OneDrive mover service")
         
         # Main loop
         try:
             while True:
                 try:
-                    self.check_and_upload_completed()
+                    self.check_and_move_completed()
                 except Exception as e:
-                    logger.error(f"Error in check_and_upload_completed cycle: {e}")
+                    logger.error(f"Error in check_and_move_completed cycle: {e}")
                     logger.error(traceback.format_exc())
                     # Continue despite errors
                     
@@ -648,187 +540,3 @@ class QBittorrentRcloneManager:
             return False
             
         return True
-
-
-def create_default_config() -> Dict:
-    """Create a default configuration file"""
-    config = {
-        "qbittorrent": {
-            "host": "localhost",
-            "port": 8080,
-            "username": "admin",
-            "password": "adminadmin",
-        },
-        "rclone": {
-            "remote_name": "onedrive",
-            "remote_path": "Torrents"
-        },
-        "check_interval": 300,  # 5 minutes
-        "use_categories": True,
-        "max_upload_failures": 3,
-        "continue_on_errors": False
-    }
-    
-    try:
-        # First write to temp file, then move (atomic operation)
-        temp_file = "config.json.tmp"
-        with open(temp_file, "w") as f:
-            json.dump(config, f, indent=4)
-        
-        # Move temp file to actual config file
-        if os.path.exists("config.json"):
-            os.replace(temp_file, "config.json")
-        else:
-            os.rename(temp_file, "config.json")
-            
-        logger.info("Created default configuration file: config.json")
-        return config
-    except Exception as e:
-        logger.error(f"Error creating default configuration: {e}")
-        logger.error(traceback.format_exc())
-        return config
-
-
-def load_config() -> Dict:
-    """Load configuration from file or create default"""
-    try:
-        if os.path.exists("config.json"):
-            with open("config.json", "r") as f:
-                config = json.load(f)
-            logger.info("Loaded configuration from config.json")
-            return config
-        else:
-            logger.info("Configuration file not found, creating default")
-            return create_default_config()
-    except json.JSONDecodeError as e:
-        logger.error(f"Invalid JSON in config.json: {e}")
-        # Create backup of invalid config
-        try:
-            backup_name = f"config.json.{int(time.time())}.bak"
-            shutil.copy2("config.json", backup_name)
-            logger.info(f"Created backup of invalid config as {backup_name}")
-        except Exception as backup_err:
-            logger.error(f"Failed to backup invalid config: {backup_err}")
-        # Create a fresh config
-        return create_default_config()
-    except Exception as e:
-        logger.error(f"Error loading configuration: {e}")
-        logger.error(traceback.format_exc())
-        return create_default_config()
-
-
-def validate_config(config: Dict) -> bool:
-    """Validate configuration parameters"""
-    # List of required fields
-    required_fields = [
-        ("qbittorrent", dict),
-        ("qbittorrent.host", str),
-        ("qbittorrent.port", int),
-        ("qbittorrent.username", str),
-        ("qbittorrent.password", str),
-        ("rclone", dict),
-        ("rclone.remote_name", str),
-        ("rclone.remote_path", str)
-    ]
-    
-    valid = True
-    for field_path, expected_type in required_fields:
-        # Split path components
-        components = field_path.split(".")
-        
-        # Navigate to the specified config item
-        current = config
-        for component in components:
-            if isinstance(current, dict) and component in current:
-                current = current[component]
-            else:
-                logger.error(f"Missing required config field: {field_path}")
-                valid = False
-                break
-                
-        # Check type if we found the item
-        if isinstance(current, dict) and len(components) > 1:
-            if not isinstance(current, expected_type):
-                logger.error(f"Config field {field_path} should be {expected_type.__name__}, got {type(current).__name__}")
-                valid = False
-    
-    # Check specific value constraints
-    if valid:
-        # Port should be a valid number
-        port = config.get("qbittorrent", {}).get("port", 0)
-        if not isinstance(port, int) or port <= 0 or port > 65535:
-            logger.error(f"Invalid port number: {port}")
-            valid = False
-            
-        # Check interval (must be positive)
-        interval = config.get("check_interval", 0)
-        if not isinstance(interval, int) or interval <= 0:
-            logger.error(f"Invalid check_interval: {interval} (should be positive integer)")
-            valid = False
-    
-    return valid
-
-
-def main() -> None:
-    """Main entry point"""
-    parser = argparse.ArgumentParser(description="qBittorrent to OneDrive Uploader")
-    parser.add_argument("--config", help="Path to configuration file")
-    parser.add_argument("--setup", action="store_true", help="Create default configuration file and exit")
-    parser.add_argument("--validate", action="store_true", help="Validate configuration and exit")
-    parser.add_argument("--log-level", choices=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"],
-                       default="INFO", help="Set the logging level")
-    args = parser.parse_args()
-    
-    # Set log level based on argument
-    logging.getLogger().setLevel(getattr(logging, args.log_level))
-    
-    # Create default config and exit if --setup is provided
-    if args.setup:
-        create_default_config()
-        print("Created default configuration file: config.json")
-        print("Please edit this file with your qBittorrent and rclone settings")
-        return
-    
-    # Load configuration
-    config_file = args.config if args.config else "config.json"
-    if args.config and os.path.exists(args.config):
-        try:
-            with open(args.config, "r") as f:
-                config = json.load(f)
-        except Exception as e:
-            logger.error(f"Error reading config file {args.config}: {e}")
-            sys.exit(1)
-    else:
-        config = load_config()
-    
-    # Validate configuration if requested
-    if args.validate or config.get("validate_on_start", False):
-        if validate_config(config):
-            print("Configuration validation successful")
-            if args.validate:
-                return
-        else:
-            print("Configuration validation failed. See log for details.")
-            if args.validate:
-                sys.exit(1)
-    
-    try:
-        # Create and run manager
-        manager = QBittorrentRcloneManager(config)
-        success = manager.run()
-        sys.exit(0 if success else 1)
-    except KeyboardInterrupt:
-        print("\nService stopped by user")
-    except Exception as e:
-        logger.critical(f"Unhandled exception: {e}")
-        logger.critical(traceback.format_exc())
-        sys.exit(1)
-
-
-if __name__ == "__main__":
-    try:
-        main()
-    except Exception as e:
-        logger.critical(f"Fatal unhandled exception: {e}")
-        logger.critical(traceback.format_exc())
-        sys.exit(1)
