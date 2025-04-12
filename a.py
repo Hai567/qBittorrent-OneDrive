@@ -444,29 +444,30 @@ class QBittorrentRcloneManager:
             
         # Next, try to construct from save_path and name
         save_path = torrent.get("save_path", "")
-        name = torrent.get("name", "")
+        return save_path
+        # name = torrent.get("name", "")
         
-        if save_path and name:
-            constructed_path = os.path.join(save_path, name)
-            if os.path.exists(constructed_path):
-                return constructed_path
+        # if save_path and name:
+        #     constructed_path = os.path.join(save_path, name)
+        #     if os.path.exists(constructed_path):
+        #         return constructed_path
                 
-        # As a last resort for multi-file torrents, try to find any files
-        # This is a partial implementation and may need expansion
-        try:
-            torrent_hash = torrent.get("hash")
-            if torrent_hash:
-                torrent_files = self.qbit_client.get_torrent_content(torrent_hash)
-                if torrent_files and len(torrent_files) > 0:
-                    # This might need more logic depending on qBittorrent's API
-                    first_file = torrent_files[0]
-                    file_path = first_file.get("name", "")
-                    if file_path and save_path:
-                        potential_path = os.path.join(save_path, os.path.dirname(file_path))
-                        if os.path.exists(potential_path):
-                            return potential_path
-        except Exception as e:
-            logger.error(f"Error getting torrent files: {e}")
+        # # As a last resort for multi-file torrents, try to find any files
+        # # This is a partial implementation and may need expansion
+        # try:
+        #     torrent_hash = torrent.get("hash")
+        #     if torrent_hash:
+        #         torrent_files = self.qbit_client.get_torrent_content(torrent_hash)
+        #         if torrent_files and len(torrent_files) > 0:
+        #             # This might need more logic depending on qBittorrent's API
+        #             first_file = torrent_files[0]
+        #             file_path = first_file.get("name", "")
+        #             if file_path and save_path:
+        #                 potential_path = os.path.join(save_path, os.path.dirname(file_path))
+        #                 if os.path.exists(potential_path):
+        #                     return potential_path
+        # except Exception as e:
+        #     logger.error(f"Error getting torrent files: {e}")
             
         # Could not determine content path
         return None
