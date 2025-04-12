@@ -251,7 +251,7 @@ class RcloneUploader:
     
     @retry(max_tries=2, delay_seconds=10, exceptions=(subprocess.SubprocessError, OSError, IOError))
     def upload_file(self, local_path: str, remote_subpath: str = "") -> bool:
-        """Move a file/folder to cloud storage via rclone with retry"""
+        """Copy a file/folder to cloud storage via rclone and delete locally only after verification"""
         if not self.rclone_path:
             error_msg = "rclone not found, cannot upload"
             self.last_error = error_msg
@@ -269,12 +269,12 @@ class RcloneUploader:
             if os.path.isdir(local_path):
                 # Check if directory is readable
                 os.listdir(local_path)
-                logger.info(f"Preparing to move entire folder: {local_path}")
+                logger.info(f"Preparing to copy entire folder: {local_path}")
             else:
                 # Check if file is readable
                 with open(local_path, 'rb') as f:
                     f.read(1)  # Just read 1 byte to test access
-                logger.info(f"Preparing to move file: {local_path}")
+                logger.info(f"Preparing to copy file: {local_path}")
         except (PermissionError, IOError) as e:
             error_msg = f"Cannot access local path {local_path}: {e}"
             self.last_error = error_msg
@@ -290,11 +290,11 @@ class RcloneUploader:
         if os.path.isdir(local_path) and not local_path.endswith(os.sep):
             folder_name = os.path.basename(local_path)
             remote_full_path = os.path.join(remote_full_path, folder_name)
-            logger.info(f"Moving entire folder to: {remote_full_path}")
+            logger.info(f"Copying entire folder to: {remote_full_path}")
         
-        # Run rclone move command
+        # Step 1: Copy files to remote
         try:
-            logger.info(f"Starting move: {local_path} -> {remote_full_path}")
+            logger.info(f"Starting copy: {local_path} -> {remote_full_path}")
             
             # Get file/directory size before upload
             try:
@@ -307,25 +307,24 @@ class RcloneUploader:
                                for filename in filenames) / (1024 * 1024)
                     item_type = "directory"
                     
-                logger.info(f"Moving {item_type} of size {size_mb:.2f} MB")
+                logger.info(f"Copying {item_type} of size {size_mb:.2f} MB")
             except (PermissionError, OSError) as e:
                 logger.warning(f"Could not calculate size of {local_path}: {e}")
-                # Continue with move operation despite size calculation failure
+                # Continue with copy operation despite size calculation failure
             
-            # Build rclone command with appropriate flags
-            rclone_cmd = [
-                self.rclone_path, "move", local_path, remote_full_path,
-                # "--progress", "--stats-one-line", "--stats=15s",  # Progress every 15 seconds
+            # Build rclone command for COPY (not move)
+            rclone_copy_cmd = [
+                self.rclone_path, "copy", local_path, remote_full_path,
                 "--checksum",  # Use checksum for file verification
-                "--log-file=rclone-log.txt",  # Output detailed logs to file
-                "--retries", "5",  # Built-in retries for rclone itself - fixed: convert int to str
-                "--low-level-retries", "10",  # Fixed: convert int to str
-                # "--tpslimit", "10"  # Limit transactions per second to avoid API rate limits
+                "--log-file=rclone-copy-log.txt",  # Output detailed logs to file
+                "--retries", "5",
+                "--low-level-retries", "10",
             ]
             
-            # Execute the rclone command with progress monitoring
+            # Execute the rclone copy command with progress monitoring
+            logger.info("STEP 1/3: Copying files to remote destination")
             process = subprocess.Popen(
-                rclone_cmd,
+                rclone_copy_cmd,
                 stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
                 text=True, bufsize=1
             )
@@ -341,15 +340,44 @@ class RcloneUploader:
                 
             process.wait()
             
-            if process.returncode == 0:
-                logger.info(f"Successfully moved to {remote_full_path}")
-                self.last_error = None
-                return True
-            else:
-                error_msg = f"Failed to move to {remote_full_path} (exit code: {process.returncode})"
+            if process.returncode != 0:
+                error_msg = f"Failed to copy to {remote_full_path} (exit code: {process.returncode})"
                 self.last_error = error_msg
                 logger.error(error_msg)
                 return False
+                
+            logger.info("STEP 2/3: Verifying files were copied successfully")
+            # Step 2: Verify the files were copied successfully
+            rclone_check_cmd = [
+                self.rclone_path, "check", local_path, remote_full_path,
+                "--one-way",  # Only check if local files exist at remote destination
+            ]
+            
+            check_process = subprocess.run(
+                rclone_check_cmd, 
+                capture_output=True, 
+                text=True
+            )
+            
+            if check_process.returncode != 0:
+                # Files don't match or other error
+                error_msg = f"Verification failed: {check_process.stderr or check_process.stdout}"
+                self.last_error = error_msg
+                logger.error(error_msg)
+                return False
+            
+            logger.info("Files successfully verified on remote destination")
+            
+            # Step 3: Delete the local files now that we've confirmed the copy worked
+            logger.info("STEP 3/3: Deleting local files")
+            if os.path.isfile(local_path):
+                os.remove(local_path)
+            else:
+                shutil.rmtree(local_path)
+                
+            logger.info(f"Successfully moved to {remote_full_path} (copy + verify + delete)")
+            self.last_error = None
+            return True
                 
         except Exception as e:
             error_msg = f"Error during move operation: {str(e)}"
@@ -445,32 +473,6 @@ class QBittorrentRcloneManager:
         # Next, try to construct from save_path and name
         save_path = torrent.get("save_path", "")
         return save_path
-        # name = torrent.get("name", "")
-        
-        # if save_path and name:
-        #     constructed_path = os.path.join(save_path, name)
-        #     if os.path.exists(constructed_path):
-        #         return constructed_path
-                
-        # # As a last resort for multi-file torrents, try to find any files
-        # # This is a partial implementation and may need expansion
-        # try:
-        #     torrent_hash = torrent.get("hash")
-        #     if torrent_hash:
-        #         torrent_files = self.qbit_client.get_torrent_content(torrent_hash)
-        #         if torrent_files and len(torrent_files) > 0:
-        #             # This might need more logic depending on qBittorrent's API
-        #             first_file = torrent_files[0]
-        #             file_path = first_file.get("name", "")
-        #             if file_path and save_path:
-        #                 potential_path = os.path.join(save_path, os.path.dirname(file_path))
-        #                 if os.path.exists(potential_path):
-        #                     return potential_path
-        # except Exception as e:
-        #     logger.error(f"Error getting torrent files: {e}")
-            
-        # Could not determine content path
-        return None
         
     def check_and_move_completed(self) -> None:
         """Check for completed torrents and move them to OneDrive"""
