@@ -269,10 +269,12 @@ class RcloneUploader:
             if os.path.isdir(local_path):
                 # Check if directory is readable
                 os.listdir(local_path)
+                logger.info(f"Preparing to move entire folder: {local_path}")
             else:
                 # Check if file is readable
                 with open(local_path, 'rb') as f:
                     f.read(1)  # Just read 1 byte to test access
+                logger.info(f"Preparing to move file: {local_path}")
         except (PermissionError, IOError) as e:
             error_msg = f"Cannot access local path {local_path}: {e}"
             self.last_error = error_msg
@@ -283,6 +285,12 @@ class RcloneUploader:
         remote_full_path = f"{self.remote_name}:{self.remote_path}"
         if remote_subpath:
             remote_full_path = os.path.join(remote_full_path, remote_subpath)
+        
+        # Make sure destination folder includes the source folder name when moving a directory
+        if os.path.isdir(local_path) and not local_path.endswith(os.sep):
+            folder_name = os.path.basename(local_path)
+            remote_full_path = os.path.join(remote_full_path, folder_name)
+            logger.info(f"Moving entire folder to: {remote_full_path}")
         
         # Run rclone move command
         try:
@@ -304,17 +312,20 @@ class RcloneUploader:
                 logger.warning(f"Could not calculate size of {local_path}: {e}")
                 # Continue with move operation despite size calculation failure
             
+            # Build rclone command with appropriate flags
+            rclone_cmd = [
+                self.rclone_path, "move", local_path, remote_full_path,
+                # "--progress", "--stats-one-line", "--stats=15s",  # Progress every 15 seconds
+                "--checksum",  # Use checksum for file verification
+                "--log-file=rclone-log.txt",  # Output detailed logs to file
+                "--retries", self.max_failures,  # Built-in retries for rclone itself
+                "--low-level-retries", "10",
+                # "--tpslimit", "10"  # Limit transactions per second to avoid API rate limits
+            ]
+            
             # Execute the rclone command with progress monitoring
             process = subprocess.Popen(
-                [
-                    self.rclone_path, "move", local_path, remote_full_path,
-                    "--progress", "--stats-one-line", "--stats=15s",  # Progress every 15 seconds
-                    "--checksum",  # Use checksum for file verification
-                    "--log-file=rclone-log.txt",  # Output detailed logs to file
-                    "--retries", "3",  # Built-in retries for rclone itself
-                    "--low-level-retries", "10",
-                    "--tpslimit", "10"  # Limit transactions per second to avoid API rate limits
-                ],
+                rclone_cmd,
                 stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
                 text=True, bufsize=1
             )
@@ -335,7 +346,7 @@ class RcloneUploader:
                 self.last_error = None
                 return True
             else:
-                error_msg = f"Failed to move to {remote_full_path}"
+                error_msg = f"Failed to move to {remote_full_path} (exit code: {process.returncode})"
                 self.last_error = error_msg
                 logger.error(error_msg)
                 return False
