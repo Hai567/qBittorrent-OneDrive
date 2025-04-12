@@ -342,11 +342,11 @@ class RcloneUploader:
             # Execute the rclone command with progress monitoring
             process = subprocess.Popen(
                 [
-                    self.rclone_path, "copy", local_path, remote_full_path,
+                    self.rclone_path, "copy", local_path, remote_full_path, "--log-file=rclone-log.txt",
                     "--progress", "--stats-one-line", "--stats=15s",  # Progress every 15 seconds
                     "--retries", "3",  # Built-in retries for rclone itself
                     "--low-level-retries", "10",
-                    "--tpslimit", "10"  # Limit transactions per second to avoid API rate limits
+                    # "--tpslimit", "10"  # Limit transactions per second to avoid API rate limits
                 ],
                 stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
                 text=True, bufsize=1
