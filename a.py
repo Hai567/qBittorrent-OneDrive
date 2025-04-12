@@ -601,6 +601,7 @@ class QBittorrentRcloneManager:
                         logger.warning(f"Cannot find content path for torrent: {torrent_name}")
                         continue
                         
+                    # Use torrent name as the subpath to preserve folder structure
                     remote_subpath = torrent_name
                     
                     # Upload the completed download
@@ -739,20 +740,24 @@ class QBittorrentRcloneManager:
                 del self.failed_uploads[torrent_hash]
                 self._save_failed_uploads()
                 continue
+            
+            # Use torrent name as the subpath to preserve folder structure
+            torrent_name = failed_info.get("name", "")
+            remote_subpath = torrent_name
                 
             # Attempt to upload
-            logger.info(f"Retrying upload for: {failed_info['name']}")
-            upload_success = self.rclone.upload_file(content_path, "")
+            logger.info(f"Retrying upload for: {torrent_name}")
+            upload_success = self.rclone.upload_file(content_path, remote_subpath)
             
             if upload_success:
                 # Verify the upload was successful
-                logger.info(f"Verifying upload for: {failed_info['name']}")
-                verify_success = self.rclone.verify_upload(content_path, "")
+                logger.info(f"Verifying upload for: {torrent_name}")
+                verify_success = self.rclone.verify_upload(content_path, remote_subpath)
                 
                 if verify_success:
                     # Mark as processed and remove from failures
                     self.processed_torrents[torrent_hash] = {
-                        "name": failed_info["name"],
+                        "name": torrent_name,
                         "uploaded_at": datetime.now().isoformat(),
                         "path": content_path,
                         "retries": failed_info.get("failures", 0)
@@ -765,29 +770,29 @@ class QBittorrentRcloneManager:
                     # Delete the torrent from qBittorrent (but not its files, as we handle that separately)
                     delete_from_client = self.config.get("auto_delete", {}).get("delete_from_client", True)
                     if delete_from_client:
-                        logger.info(f"Deleting torrent from qBittorrent: {failed_info['name']}")
+                        logger.info(f"Deleting torrent from qBittorrent: {torrent_name}")
                         delete_success = self.qbit_client.delete_torrent(torrent_hash, delete_files=False)
                         if not delete_success:
-                            logger.error(f"Failed to delete torrent from qBittorrent: {failed_info['name']}")
+                            logger.error(f"Failed to delete torrent from qBittorrent: {torrent_name}")
                     
                     # Delete the content files from filesystem
                     delete_content = self.config.get("auto_delete", {}).get("delete_content", True)
                     if delete_content:
-                        logger.info(f"Deleting content files: {failed_info['name']}")
+                        logger.info(f"Deleting content files: {torrent_name}")
                         self._delete_content(content_path)
                     
-                    logger.info(f"Successfully uploaded previously failed torrent: {failed_info['name']}")
+                    logger.info(f"Successfully uploaded previously failed torrent: {torrent_name}")
                 else:
                     # Verification failed, update failure count
                     error_msg = "Upload verification failed"
                     self._record_upload_failure(torrent_hash, failed_info["name"], 
                                               content_path, error_msg)
-                    logger.error(f"Upload verification failed for: {failed_info['name']}")
+                    logger.error(f"Upload verification failed for: {torrent_name}")
             else:
                 # Update failure count
                 self._record_upload_failure(torrent_hash, failed_info["name"], 
                                           content_path, self.rclone.last_error)
-                logger.error(f"Retry failed for torrent: {failed_info['name']}")
+                logger.error(f"Retry failed for torrent: {torrent_name}")
     
     def run(self) -> bool:
         """Run the main manager loop"""
