@@ -286,7 +286,7 @@ class RcloneUploader:
     
     @retry(max_tries=2, delay_seconds=10, exceptions=(subprocess.SubprocessError, OSError, IOError))
     def upload_file(self, local_path: str, remote_subpath: str = "") -> bool:
-        """Upload a file to cloud storage via rclone with retry"""
+        """Upload a file or directory to cloud storage via rclone with retry"""
         if not self.rclone_path:
             error_msg = "rclone not found, cannot upload"
             self.last_error = error_msg
@@ -321,7 +321,30 @@ class RcloneUploader:
         
         # Run rclone copy command
         try:
-            logger.info(f"Starting upload: {local_path} -> {remote_full_path}")
+            # If we're copying a directory, we need to preserve the directory structure
+            # To do this, we'll modify how we handle the paths
+            if os.path.isdir(local_path):
+                # Get the parent directory and the directory name we want to copy
+                parent_dir = os.path.dirname(os.path.normpath(local_path))
+                dir_name = os.path.basename(os.path.normpath(local_path))
+                
+                # Log what we're actually doing
+                logger.info(f"Uploading directory: {dir_name} from {parent_dir} to {remote_full_path}")
+                
+                # We'll copy from the parent directory but specify the directory name
+                source_path = parent_dir
+                # Make sure the source path ends with os-specific separator 
+                if not source_path.endswith(os.sep):
+                    source_path += os.sep
+                
+                # Append the directory name to include only that directory
+                source_path += dir_name
+                
+                logger.info(f"Starting upload: {source_path} -> {remote_full_path}")
+            else:
+                # For files, proceed as before
+                source_path = local_path
+                logger.info(f"Starting upload: {source_path} -> {remote_full_path}")
             
             # Get file/directory size before upload
             try:
@@ -342,7 +365,7 @@ class RcloneUploader:
             # Execute the rclone command with progress monitoring
             process = subprocess.Popen(
                 [
-                    self.rclone_path, "copy", local_path, remote_full_path, "--log-file=rclone-log.txt",
+                    self.rclone_path, "copy", source_path, remote_full_path, "--log-file=rclone-log.txt",
                     "--progress", "--stats-one-line", "--stats=15s",  # Progress every 15 seconds
                     "--retries", "3",  # Built-in retries for rclone itself
                     "--low-level-retries", "10",
@@ -405,10 +428,17 @@ class RcloneUploader:
         if remote_subpath:
             remote_full_path = os.path.join(remote_full_path, remote_subpath)
             
-        # Get the basename of the local path to append to the remote path
-        local_basename = os.path.basename(os.path.normpath(local_path))
-        if local_basename:
-            remote_full_path = os.path.join(remote_full_path, local_basename)
+        # When verifying a directory, we need to make sure we're checking the correct paths
+        if os.path.isdir(local_path):
+            # Get the directory name to append to the remote path
+            dir_name = os.path.basename(os.path.normpath(local_path))
+            remote_full_path = os.path.join(remote_full_path, dir_name)
+            logger.info(f"Verifying directory upload: {local_path} -> {remote_full_path}")
+        else:
+            # For files, we need to append the filename to the remote path
+            file_name = os.path.basename(local_path)
+            remote_full_path = os.path.join(remote_full_path, file_name)
+            logger.info(f"Verifying file upload: {local_path} -> {remote_full_path}")
         
         # Run rclone check command to verify the upload
         try:

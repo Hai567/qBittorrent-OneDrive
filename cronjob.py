@@ -17,13 +17,35 @@ logging.basicConfig(
 
 logger = logging.getLogger('git-cronjob')
 
+def check_for_changes():
+    try:
+        # Run git status to check for changes
+        result = subprocess.run(
+            ["git", "status", "--porcelain"], 
+            capture_output=True, 
+            text=True
+        )
+        
+        # If output is empty, there are no changes
+        return bool(result.stdout.strip())
+    except Exception as e:
+        logger.error(f"Error checking for changes: {str(e)}")
+        return False
+
 def run_git_commands():
     try:
-        logger.info("Starting git commit and push job")
+        logger.info("Checking for changes in repository")
         
         # Change to the directory containing the script
         script_dir = os.path.dirname(os.path.abspath(__file__))
         os.chdir(script_dir)
+        
+        # Check if there are changes to commit
+        if not check_for_changes():
+            logger.info("No changes detected. Skipping commit and push.")
+            return
+        
+        logger.info("Changes detected. Proceeding with commit and push.")
         
         # Run git commands
         commands = [
