@@ -318,6 +318,11 @@ class RcloneUploader:
         remote_full_path = f"{self.remote_name}:{self.remote_path}"
         if remote_subpath:
             remote_full_path = os.path.join(remote_full_path, remote_subpath)
+        else:
+            # Only append local basename if remote_subpath is not provided
+            local_basename = os.path.basename(os.path.normpath(local_path))
+            if local_basename:
+                remote_full_path = os.path.join(remote_full_path, local_basename)
         
         # Run rclone copy command
         try:
@@ -404,11 +409,11 @@ class RcloneUploader:
         remote_full_path = f"{self.remote_name}:{self.remote_path}"
         if remote_subpath:
             remote_full_path = os.path.join(remote_full_path, remote_subpath)
-            
-        # Get the basename of the local path to append to the remote path
-        local_basename = os.path.basename(os.path.normpath(local_path))
-        if local_basename:
-            remote_full_path = os.path.join(remote_full_path, local_basename)
+        else:
+            # Only append local basename if remote_subpath is not provided
+            local_basename = os.path.basename(os.path.normpath(local_path))
+            if local_basename:
+                remote_full_path = os.path.join(remote_full_path, local_basename)
         
         # Run rclone check command to verify the upload
         try:
