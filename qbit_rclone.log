@@ -1002,3 +1002,47 @@ OSError: [Errno 28] No space left on device
 2025-04-13 14:20:10,136 - INFO - Deleting content: /home/user/Desktop/torrents/The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-13 14:20:10,138 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-13 14:20:10,138 - INFO - Successfully processed torrent: The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 14:59:42,442 - INFO - Loaded configuration from config.json
+2025-04-13 14:59:42,443 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-13 14:59:42,526 - INFO - Found onedrive remote in rclone configuration
+2025-04-13 14:59:42,531 - INFO - Successfully logged in to qBittorrent
+2025-04-13 14:59:42,532 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-13 14:59:42,532 - INFO - Checking for completed torrents...
+2025-04-13 14:59:42,535 - INFO - Found 2 completed torrents
+2025-04-13 14:59:42,535 - INFO - Uploading torrent: Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-13 14:59:42,535 - INFO - Starting upload: /home/user/Desktop/torrents/Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX] -> onedrive:Torrents/Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-13 14:59:42,535 - INFO - Uploading directory of size 1696.59 MB
+2025-04-13 15:03:23,940 - INFO - Successfully uploaded to onedrive:Torrents/Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-13 15:03:23,940 - INFO - Verifying upload for: Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-13 15:03:23,940 - INFO - Verifying upload: /home/user/Desktop/torrents/Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX] -> onedrive:Torrents/Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-13 15:03:26,596 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-13 15:03:26,598 - INFO - Deleting torrent from qBittorrent: Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-13 15:03:26,598 - INFO - Deleting torrent with hash c973d20c2e1f341a43eb13d5e0e0e1d1609cef70 (delete_files=False)
+2025-04-13 15:03:26,620 - INFO - Successfully deleted torrent with hash c973d20c2e1f341a43eb13d5e0e0e1d1609cef70
+2025-04-13 15:03:26,621 - INFO - Deleting content files: Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-13 15:03:26,621 - INFO - Deleting content: /home/user/Desktop/torrents/Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-13 15:03:26,622 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-13 15:03:26,622 - INFO - Successfully processed torrent: Mufasa The Lion King (2024) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-13 15:03:26,622 - INFO - Uploading torrent: Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG]
+2025-04-13 15:03:26,623 - INFO - Starting upload: /home/user/Desktop/torrents/Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG]
+2025-04-13 15:03:26,623 - INFO - Uploading directory of size 2158.43 MB
+2025-04-13 15:07:47,285 - INFO - Successfully uploaded to onedrive:Torrents/Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG]
+2025-04-13 15:07:47,285 - INFO - Verifying upload for: Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG]
+2025-04-13 15:07:47,286 - INFO - Verifying upload: /home/user/Desktop/torrents/Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG]
+2025-04-13 15:07:49,571 - INFO - Upload verification successful for /home/user/Desktop/torrents/Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG]
+2025-04-13 15:07:49,572 - INFO - Deleting torrent from qBittorrent: Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG]
+2025-04-13 15:07:49,572 - INFO - Deleting torrent with hash 423eed0c53f3857f66fcfb7522fb8c3829d1dcf4 (delete_files=False)
+2025-04-13 15:07:49,593 - INFO - Successfully deleted torrent with hash 423eed0c53f3857f66fcfb7522fb8c3829d1dcf4
+2025-04-13 15:07:49,593 - INFO - Deleting content files: Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG]
+2025-04-13 15:07:49,593 - INFO - Deleting content: /home/user/Desktop/torrents/Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG]
+2025-04-13 15:07:49,594 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG]
+2025-04-13 15:07:49,594 - INFO - Successfully processed torrent: Star Wars Episode VII - The Force Awakens (2015) [1080p] [YTS.AG]
+2025-04-13 15:12:49,616 - INFO - Checking for completed torrents...
+2025-04-13 15:12:49,620 - INFO - Found 0 completed torrents
+2025-04-13 15:17:49,720 - INFO - Checking for completed torrents...
+2025-04-13 15:17:49,723 - INFO - Found 0 completed torrents
+2025-04-13 15:22:49,730 - INFO - Checking for completed torrents...
+2025-04-13 15:22:49,734 - INFO - Found 2 completed torrents
+2025-04-13 15:22:49,734 - INFO - Uploading torrent: Adam (2009) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 15:22:49,735 - INFO - Starting upload: /home/user/Desktop/torrents/Adam (2009) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Adam (2009) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 15:22:49,735 - INFO - Uploading directory of size 1621.94 MB
