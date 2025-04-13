@@ -1046,3 +1046,103 @@ OSError: [Errno 28] No space left on device
 2025-04-13 15:22:49,734 - INFO - Uploading torrent: Adam (2009) [WEBRip] [1080p] [YTS.AM]
 2025-04-13 15:22:49,735 - INFO - Starting upload: /home/user/Desktop/torrents/Adam (2009) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Adam (2009) [WEBRip] [1080p] [YTS.AM]
 2025-04-13 15:22:49,735 - INFO - Uploading directory of size 1621.94 MB
+2025-04-13 15:26:14,084 - INFO - Successfully uploaded to onedrive:Torrents/Adam (2009) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 15:26:14,084 - INFO - Verifying upload for: Adam (2009) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 15:26:14,084 - INFO - Verifying upload: /home/user/Desktop/torrents/Adam (2009) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Adam (2009) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 15:26:16,419 - INFO - Upload verification successful for /home/user/Desktop/torrents/Adam (2009) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 15:26:16,420 - INFO - Deleting torrent from qBittorrent: Adam (2009) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 15:26:16,420 - INFO - Deleting torrent with hash 40ac6c2fea730e78d85beb565bee941aea9b2549 (delete_files=False)
+2025-04-13 15:26:16,431 - INFO - Successfully deleted torrent with hash 40ac6c2fea730e78d85beb565bee941aea9b2549
+2025-04-13 15:26:16,432 - INFO - Deleting content files: Adam (2009) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 15:26:16,432 - INFO - Deleting content: /home/user/Desktop/torrents/Adam (2009) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 15:26:16,433 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Adam (2009) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 15:26:16,433 - INFO - Successfully processed torrent: Adam (2009) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 15:26:16,433 - INFO - Uploading torrent: Paddington (2014) [1080p]
+2025-04-13 15:26:16,433 - INFO - Starting upload: /home/user/Desktop/torrents/Paddington (2014) [1080p] -> onedrive:Torrents/Paddington (2014) [1080p]
+2025-04-13 15:26:16,434 - INFO - Uploading directory of size 1469.62 MB
+2025-04-13 15:29:35,082 - INFO - Successfully uploaded to onedrive:Torrents/Paddington (2014) [1080p]
+2025-04-13 15:29:35,082 - INFO - Verifying upload for: Paddington (2014) [1080p]
+2025-04-13 15:29:35,082 - INFO - Verifying upload: /home/user/Desktop/torrents/Paddington (2014) [1080p] -> onedrive:Torrents/Paddington (2014) [1080p]
+2025-04-13 15:29:36,380 - INFO - Upload verification successful for /home/user/Desktop/torrents/Paddington (2014) [1080p]
+2025-04-13 15:29:36,381 - INFO - Deleting torrent from qBittorrent: Paddington (2014) [1080p]
+2025-04-13 15:29:36,382 - INFO - Deleting torrent with hash 8ec835c8285ef421d3b77768425a8fdcef72b2bd (delete_files=False)
+2025-04-13 15:29:36,394 - INFO - Successfully deleted torrent with hash 8ec835c8285ef421d3b77768425a8fdcef72b2bd
+2025-04-13 15:29:36,394 - INFO - Deleting content files: Paddington (2014) [1080p]
+2025-04-13 15:29:36,394 - INFO - Deleting content: /home/user/Desktop/torrents/Paddington (2014) [1080p]
+2025-04-13 15:29:36,395 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Paddington (2014) [1080p]
+2025-04-13 15:29:36,395 - INFO - Successfully processed torrent: Paddington (2014) [1080p]
+2025-04-13 15:34:36,495 - INFO - Checking for completed torrents...
+2025-04-13 15:34:36,500 - INFO - Found 8 completed torrents
+2025-04-13 15:34:36,501 - INFO - Uploading torrent: Sherlock Holmes (2009) [1080p]
+2025-04-13 15:34:36,501 - INFO - Starting upload: /home/user/Desktop/torrents/Sherlock Holmes (2009) [1080p] -> onedrive:Torrents/Sherlock Holmes (2009) [1080p]
+2025-04-13 15:34:36,501 - INFO - Uploading directory of size 1742.63 MB
+2025-04-13 15:37:48,455 - INFO - Successfully uploaded to onedrive:Torrents/Sherlock Holmes (2009) [1080p]
+2025-04-13 15:37:48,455 - INFO - Verifying upload for: Sherlock Holmes (2009) [1080p]
+2025-04-13 15:37:48,455 - INFO - Verifying upload: /home/user/Desktop/torrents/Sherlock Holmes (2009) [1080p] -> onedrive:Torrents/Sherlock Holmes (2009) [1080p]
+2025-04-13 15:37:50,816 - INFO - Upload verification successful for /home/user/Desktop/torrents/Sherlock Holmes (2009) [1080p]
+2025-04-13 15:37:50,817 - INFO - Deleting torrent from qBittorrent: Sherlock Holmes (2009) [1080p]
+2025-04-13 15:37:50,817 - INFO - Deleting torrent with hash 5ce06b786378d8287128d83e6d7cbebb06f8800f (delete_files=False)
+2025-04-13 15:37:50,827 - INFO - Successfully deleted torrent with hash 5ce06b786378d8287128d83e6d7cbebb06f8800f
+2025-04-13 15:37:50,828 - INFO - Deleting content files: Sherlock Holmes (2009) [1080p]
+2025-04-13 15:37:50,828 - INFO - Deleting content: /home/user/Desktop/torrents/Sherlock Holmes (2009) [1080p]
+2025-04-13 15:37:50,828 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Sherlock Holmes (2009) [1080p]
+2025-04-13 15:37:50,829 - INFO - Successfully processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-13 15:37:50,829 - INFO - Uploading torrent: The Matrix Reloaded (2003) [1080p]
+2025-04-13 15:37:50,829 - INFO - Starting upload: /home/user/Desktop/torrents/The Matrix Reloaded (2003) [1080p] -> onedrive:Torrents/The Matrix Reloaded (2003) [1080p]
+2025-04-13 15:37:50,829 - INFO - Uploading directory of size 1899.66 MB
+2025-04-13 15:41:13,441 - INFO - Successfully uploaded to onedrive:Torrents/The Matrix Reloaded (2003) [1080p]
+2025-04-13 15:41:13,441 - INFO - Verifying upload for: The Matrix Reloaded (2003) [1080p]
+2025-04-13 15:41:13,441 - INFO - Verifying upload: /home/user/Desktop/torrents/The Matrix Reloaded (2003) [1080p] -> onedrive:Torrents/The Matrix Reloaded (2003) [1080p]
+2025-04-13 15:41:16,130 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Matrix Reloaded (2003) [1080p]
+2025-04-13 15:41:16,131 - INFO - Deleting torrent from qBittorrent: The Matrix Reloaded (2003) [1080p]
+2025-04-13 15:41:16,131 - INFO - Deleting torrent with hash 5f67a9966aa41c5e3cfd7c25226d49e1a656c982 (delete_files=False)
+2025-04-13 15:41:16,142 - INFO - Successfully deleted torrent with hash 5f67a9966aa41c5e3cfd7c25226d49e1a656c982
+2025-04-13 15:41:16,142 - INFO - Deleting content files: The Matrix Reloaded (2003) [1080p]
+2025-04-13 15:41:16,142 - INFO - Deleting content: /home/user/Desktop/torrents/The Matrix Reloaded (2003) [1080p]
+2025-04-13 15:41:16,143 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Matrix Reloaded (2003) [1080p]
+2025-04-13 15:41:16,143 - INFO - Successfully processed torrent: The Matrix Reloaded (2003) [1080p]
+2025-04-13 15:41:16,143 - INFO - Uploading torrent: The Other Guys [1080p]
+2025-04-13 15:41:16,143 - INFO - Starting upload: /home/user/Desktop/torrents/The Other Guys [1080p] -> onedrive:Torrents/The Other Guys [1080p]
+2025-04-13 15:41:16,143 - INFO - Uploading directory of size 1540.70 MB
+2025-04-13 15:45:10,141 - INFO - Successfully uploaded to onedrive:Torrents/The Other Guys [1080p]
+2025-04-13 15:45:10,141 - INFO - Verifying upload for: The Other Guys [1080p]
+2025-04-13 15:45:10,141 - INFO - Verifying upload: /home/user/Desktop/torrents/The Other Guys [1080p] -> onedrive:Torrents/The Other Guys [1080p]
+2025-04-13 15:45:12,700 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Other Guys [1080p]
+2025-04-13 15:45:12,702 - INFO - Deleting torrent from qBittorrent: The Other Guys [1080p]
+2025-04-13 15:45:12,702 - INFO - Deleting torrent with hash a2ce6369ac3a7dc72e47c35fb7d602dbcba5a3ba (delete_files=False)
+2025-04-13 15:45:12,712 - INFO - Successfully deleted torrent with hash a2ce6369ac3a7dc72e47c35fb7d602dbcba5a3ba
+2025-04-13 15:45:12,712 - INFO - Deleting content files: The Other Guys [1080p]
+2025-04-13 15:45:12,713 - INFO - Deleting content: /home/user/Desktop/torrents/The Other Guys [1080p]
+2025-04-13 15:45:12,714 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Other Guys [1080p]
+2025-04-13 15:45:12,714 - INFO - Successfully processed torrent: The Other Guys [1080p]
+2025-04-13 15:45:12,714 - INFO - Uploading torrent: William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:45:12,714 - INFO - Starting upload: /home/user/Desktop/torrents/William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:45:12,714 - INFO - Uploading directory of size 2514.62 MB
+2025-04-13 15:49:53,450 - INFO - Successfully uploaded to onedrive:Torrents/William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:49:53,450 - INFO - Verifying upload for: William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:49:53,450 - INFO - Verifying upload: /home/user/Desktop/torrents/William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:49:54,811 - INFO - Upload verification successful for /home/user/Desktop/torrents/William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:49:54,812 - INFO - Deleting torrent from qBittorrent: William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:49:54,812 - INFO - Deleting torrent with hash 853464c3640fe5dc0ff6c2185b8d62b82f5330f2 (delete_files=False)
+2025-04-13 15:49:54,821 - INFO - Successfully deleted torrent with hash 853464c3640fe5dc0ff6c2185b8d62b82f5330f2
+2025-04-13 15:49:54,821 - INFO - Deleting content files: William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:49:54,821 - INFO - Deleting content: /home/user/Desktop/torrents/William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:49:54,822 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:49:54,822 - INFO - Successfully processed torrent: William Tell (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:49:54,823 - INFO - Uploading torrent: Star Wars Episode II Attack of the Clones (2002) [1080p]
+2025-04-13 15:49:54,823 - INFO - Starting upload: /home/user/Desktop/torrents/Star Wars Episode II Attack of the Clones (2002) [1080p] -> onedrive:Torrents/Star Wars Episode II Attack of the Clones (2002) [1080p]
+2025-04-13 15:49:54,823 - INFO - Uploading directory of size 1948.33 MB
+2025-04-13 15:53:46,157 - INFO - Successfully uploaded to onedrive:Torrents/Star Wars Episode II Attack of the Clones (2002) [1080p]
+2025-04-13 15:53:46,157 - INFO - Verifying upload for: Star Wars Episode II Attack of the Clones (2002) [1080p]
+2025-04-13 15:53:46,157 - INFO - Verifying upload: /home/user/Desktop/torrents/Star Wars Episode II Attack of the Clones (2002) [1080p] -> onedrive:Torrents/Star Wars Episode II Attack of the Clones (2002) [1080p]
+2025-04-13 15:53:47,992 - INFO - Upload verification successful for /home/user/Desktop/torrents/Star Wars Episode II Attack of the Clones (2002) [1080p]
+2025-04-13 15:53:47,993 - INFO - Deleting torrent from qBittorrent: Star Wars Episode II Attack of the Clones (2002) [1080p]
+2025-04-13 15:53:47,993 - INFO - Deleting torrent with hash 2134be121500e48bd1b0ad2683ebcaa08869ac81 (delete_files=False)
+2025-04-13 15:53:48,003 - INFO - Successfully deleted torrent with hash 2134be121500e48bd1b0ad2683ebcaa08869ac81
+2025-04-13 15:53:48,003 - INFO - Deleting content files: Star Wars Episode II Attack of the Clones (2002) [1080p]
+2025-04-13 15:53:48,003 - INFO - Deleting content: /home/user/Desktop/torrents/Star Wars Episode II Attack of the Clones (2002) [1080p]
+2025-04-13 15:53:48,005 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Star Wars Episode II Attack of the Clones (2002) [1080p]
+2025-04-13 15:53:48,005 - INFO - Successfully processed torrent: Star Wars Episode II Attack of the Clones (2002) [1080p]
+2025-04-13 15:53:48,005 - INFO - Uploading torrent: Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 15:53:48,005 - INFO - Starting upload: /home/user/Desktop/torrents/Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 15:53:48,005 - INFO - Uploading directory of size 1623.48 MB
