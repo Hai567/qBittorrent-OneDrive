@@ -649,3 +649,31 @@ OSError: [Errno 28] No space left on device
 2025-04-13 12:10:56,516 - INFO - Uploading torrent: Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-13 12:10:56,516 - INFO - Starting upload: /home/user/Desktop/torrents/Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-13 12:10:56,516 - INFO - Uploading directory of size 2133.10 MB
+2025-04-13 12:37:55,253 - INFO - Successfully uploaded to onedrive:Torrents/Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:37:55,254 - INFO - Verifying upload for: Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:37:55,254 - INFO - Verifying upload: /home/user/Desktop/torrents/Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:37:57,606 - INFO - Upload verification successful for /home/user/Desktop/torrents/Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:37:57,607 - INFO - Deleting torrent from qBittorrent: Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:37:57,607 - INFO - Deleting torrent with hash 9cea61c83d3a514c855ca71d466924c5f618da3f (delete_files=False)
+2025-04-13 12:37:57,619 - INFO - Successfully deleted torrent with hash 9cea61c83d3a514c855ca71d466924c5f618da3f
+2025-04-13 12:37:57,619 - INFO - Deleting content files: Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:37:57,620 - INFO - Deleting content: /home/user/Desktop/torrents/Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:37:57,623 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:37:57,623 - INFO - Successfully processed torrent: Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:37:57,623 - INFO - Uploading torrent: Star Wars Episode VI Return of the Jedi (1983) [1080p]
+2025-04-13 12:37:57,623 - INFO - Starting upload: /home/user/Desktop/torrents/Star Wars Episode VI Return of the Jedi (1983) [1080p] -> onedrive:Torrents/Star Wars Episode VI Return of the Jedi (1983) [1080p]
+2025-04-13 12:37:57,624 - INFO - Uploading directory of size 1845.32 MB
+2025-04-13 12:41:53,560 - INFO - Successfully uploaded to onedrive:Torrents/Star Wars Episode VI Return of the Jedi (1983) [1080p]
+2025-04-13 12:41:53,560 - INFO - Verifying upload for: Star Wars Episode VI Return of the Jedi (1983) [1080p]
+2025-04-13 12:41:53,561 - INFO - Verifying upload: /home/user/Desktop/torrents/Star Wars Episode VI Return of the Jedi (1983) [1080p] -> onedrive:Torrents/Star Wars Episode VI Return of the Jedi (1983) [1080p]
+2025-04-13 12:41:55,878 - INFO - Upload verification successful for /home/user/Desktop/torrents/Star Wars Episode VI Return of the Jedi (1983) [1080p]
+2025-04-13 12:41:55,879 - INFO - Deleting torrent from qBittorrent: Star Wars Episode VI Return of the Jedi (1983) [1080p]
+2025-04-13 12:41:55,879 - INFO - Deleting torrent with hash c92f656155d0d8e87d21471d7ea43e3ad0d42723 (delete_files=False)
+2025-04-13 12:41:55,888 - INFO - Successfully deleted torrent with hash c92f656155d0d8e87d21471d7ea43e3ad0d42723
+2025-04-13 12:41:55,889 - INFO - Deleting content files: Star Wars Episode VI Return of the Jedi (1983) [1080p]
+2025-04-13 12:41:55,889 - INFO - Deleting content: /home/user/Desktop/torrents/Star Wars Episode VI Return of the Jedi (1983) [1080p]
+2025-04-13 12:41:55,890 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Star Wars Episode VI Return of the Jedi (1983) [1080p]
+2025-04-13 12:41:55,890 - INFO - Successfully processed torrent: Star Wars Episode VI Return of the Jedi (1983) [1080p]
+2025-04-13 12:41:55,890 - INFO - Uploading torrent: Constantine (2005) [1080p]
+2025-04-13 12:41:55,890 - INFO - Starting upload: /home/user/Desktop/torrents/Constantine (2005) [1080p] -> onedrive:Torrents/Constantine (2005) [1080p]
+2025-04-13 12:41:55,891 - INFO - Uploading directory of size 1643.49 MB
