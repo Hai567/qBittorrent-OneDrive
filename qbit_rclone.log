@@ -1218,3 +1218,129 @@ OSError: [Errno 28] No space left on device
 2025-04-13 16:19:17,464 - INFO - Uploading torrent: Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-13 16:19:17,464 - INFO - Starting upload: /home/user/Desktop/torrents/Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-13 16:19:17,465 - INFO - Uploading directory of size 3047.93 MB
+2025-04-13 16:26:11,375 - INFO - Successfully uploaded to onedrive:Torrents/Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:26:11,376 - INFO - Verifying upload for: Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:26:11,376 - INFO - Verifying upload: /home/user/Desktop/torrents/Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:26:14,022 - INFO - Upload verification successful for /home/user/Desktop/torrents/Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:26:14,024 - INFO - Deleting torrent from qBittorrent: Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:26:14,025 - INFO - Deleting torrent with hash 792ee58e122d8f818ca6f83608fbfd1e44c54098 (delete_files=False)
+2025-04-13 16:26:14,034 - INFO - Successfully deleted torrent with hash 792ee58e122d8f818ca6f83608fbfd1e44c54098
+2025-04-13 16:26:14,034 - INFO - Deleting content files: Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:26:14,034 - INFO - Deleting content: /home/user/Desktop/torrents/Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:26:14,035 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:26:14,035 - INFO - Successfully processed torrent: Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:26:14,035 - INFO - Uploading torrent: Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:26:14,036 - INFO - Starting upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:26:14,036 - INFO - Uploading file of size 2431.53 MB
+2025-04-13 16:30:33,760 - INFO - Successfully uploaded to onedrive:Torrents/Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:30:33,761 - INFO - Verifying upload for: Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:30:33,761 - INFO - Verifying upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:30:36,051 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:30:36,053 - INFO - Deleting torrent from qBittorrent: Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:30:36,053 - INFO - Deleting torrent with hash f66d09ba7c3244dfb5d8e0185fe9e968bb7e3844 (delete_files=False)
+2025-04-13 16:30:36,062 - INFO - Successfully deleted torrent with hash f66d09ba7c3244dfb5d8e0185fe9e968bb7e3844
+2025-04-13 16:30:36,062 - INFO - Deleting content files: Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:30:36,062 - INFO - Deleting content: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:30:36,063 - INFO - Successfully deleted file: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:30:36,063 - INFO - Successfully processed torrent: Hyper.Knife.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:30:36,063 - INFO - Uploading torrent: Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:30:36,063 - INFO - Starting upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:30:36,063 - INFO - Uploading file of size 2372.73 MB
+2025-04-13 16:34:25,820 - INFO - Successfully uploaded to onedrive:Torrents/Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:34:25,820 - INFO - Verifying upload for: Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:34:25,820 - INFO - Verifying upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:34:28,085 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:34:28,086 - INFO - Deleting torrent from qBittorrent: Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:34:28,087 - INFO - Deleting torrent with hash c4e61cf1d9a19e9f254ca1c747c79eb3de2f2823 (delete_files=False)
+2025-04-13 16:34:28,096 - INFO - Successfully deleted torrent with hash c4e61cf1d9a19e9f254ca1c747c79eb3de2f2823
+2025-04-13 16:34:28,096 - INFO - Deleting content files: Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:34:28,096 - INFO - Deleting content: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:34:28,097 - INFO - Successfully deleted file: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:34:28,097 - INFO - Successfully processed torrent: Hyper.Knife.S01E06.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:34:28,097 - INFO - Uploading torrent: Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:34:28,097 - INFO - Starting upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:34:28,097 - INFO - Uploading file of size 2184.74 MB
+2025-04-13 16:38:31,967 - INFO - Successfully uploaded to onedrive:Torrents/Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:38:31,967 - INFO - Verifying upload for: Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:38:31,967 - INFO - Verifying upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:38:34,299 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:38:34,301 - INFO - Deleting torrent from qBittorrent: Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:38:34,302 - INFO - Deleting torrent with hash 980599fd6924f12e625aaa116282f0fe7c3e4b1f (delete_files=False)
+2025-04-13 16:38:34,311 - INFO - Successfully deleted torrent with hash 980599fd6924f12e625aaa116282f0fe7c3e4b1f
+2025-04-13 16:38:34,311 - INFO - Deleting content files: Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:38:34,311 - INFO - Deleting content: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:38:34,311 - INFO - Successfully deleted file: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:38:34,312 - INFO - Successfully processed torrent: Hyper.Knife.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:38:34,312 - INFO - Uploading torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-13 16:38:34,312 - INFO - Starting upload: /home/user/Desktop/torrents/Warcraft (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Warcraft (2016) [1080p] [YTS.AG]
+2025-04-13 16:38:34,312 - INFO - Uploading directory of size 1920.86 MB
+2025-04-13 16:42:13,018 - INFO - Successfully uploaded to onedrive:Torrents/Warcraft (2016) [1080p] [YTS.AG]
+2025-04-13 16:42:13,018 - INFO - Verifying upload for: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-13 16:42:13,018 - INFO - Verifying upload: /home/user/Desktop/torrents/Warcraft (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Warcraft (2016) [1080p] [YTS.AG]
+2025-04-13 16:42:15,281 - INFO - Upload verification successful for /home/user/Desktop/torrents/Warcraft (2016) [1080p] [YTS.AG]
+2025-04-13 16:42:15,282 - INFO - Deleting torrent from qBittorrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-13 16:42:15,282 - INFO - Deleting torrent with hash 1b5ad195a79dfc49da7876bdba4d22274e1bcab7 (delete_files=False)
+2025-04-13 16:42:15,292 - INFO - Successfully deleted torrent with hash 1b5ad195a79dfc49da7876bdba4d22274e1bcab7
+2025-04-13 16:42:15,292 - INFO - Deleting content files: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-13 16:42:15,292 - INFO - Deleting content: /home/user/Desktop/torrents/Warcraft (2016) [1080p] [YTS.AG]
+2025-04-13 16:42:15,293 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Warcraft (2016) [1080p] [YTS.AG]
+2025-04-13 16:42:15,293 - INFO - Successfully processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-13 16:42:15,293 - INFO - Uploading torrent: Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:42:15,293 - INFO - Starting upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:42:15,293 - INFO - Uploading file of size 2265.86 MB
+2025-04-13 16:46:03,191 - INFO - Successfully uploaded to onedrive:Torrents/Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:46:03,192 - INFO - Verifying upload for: Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:46:03,192 - INFO - Verifying upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:46:05,465 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:46:05,466 - INFO - Deleting torrent from qBittorrent: Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:46:05,466 - INFO - Deleting torrent with hash 42ac84b9aeba410496bfe1714b4f306de2234954 (delete_files=False)
+2025-04-13 16:46:05,477 - INFO - Successfully deleted torrent with hash 42ac84b9aeba410496bfe1714b4f306de2234954
+2025-04-13 16:46:05,477 - INFO - Deleting content files: Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:46:05,477 - INFO - Deleting content: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:46:05,478 - INFO - Successfully deleted file: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:46:05,478 - INFO - Successfully processed torrent: Hyper.Knife.S01E07.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:46:05,478 - INFO - Uploading torrent: Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:46:05,478 - INFO - Starting upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:46:05,478 - INFO - Uploading file of size 2481.82 MB
+2025-04-13 16:50:20,198 - INFO - Successfully uploaded to onedrive:Torrents/Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:50:20,198 - INFO - Verifying upload for: Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:50:20,198 - INFO - Verifying upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:50:22,463 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:50:22,465 - INFO - Deleting torrent from qBittorrent: Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:50:22,465 - INFO - Deleting torrent with hash a231f61bc11417535e2e5176dfa3f14fdc557f36 (delete_files=False)
+2025-04-13 16:50:22,477 - INFO - Successfully deleted torrent with hash a231f61bc11417535e2e5176dfa3f14fdc557f36
+2025-04-13 16:50:22,478 - INFO - Deleting content files: Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:50:22,478 - INFO - Deleting content: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:50:22,478 - INFO - Successfully deleted file: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:50:22,478 - INFO - Successfully processed torrent: Hyper.Knife.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:50:22,479 - INFO - Uploading torrent: Passengers (2016) [1080p] [YTS.AG]
+2025-04-13 16:50:22,479 - INFO - Starting upload: /home/user/Desktop/torrents/Passengers (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Passengers (2016) [1080p] [YTS.AG]
+2025-04-13 16:50:22,479 - INFO - Uploading directory of size 1811.10 MB
+2025-04-13 16:53:36,788 - INFO - Successfully uploaded to onedrive:Torrents/Passengers (2016) [1080p] [YTS.AG]
+2025-04-13 16:53:36,789 - INFO - Verifying upload for: Passengers (2016) [1080p] [YTS.AG]
+2025-04-13 16:53:36,789 - INFO - Verifying upload: /home/user/Desktop/torrents/Passengers (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Passengers (2016) [1080p] [YTS.AG]
+2025-04-13 16:53:39,128 - INFO - Upload verification successful for /home/user/Desktop/torrents/Passengers (2016) [1080p] [YTS.AG]
+2025-04-13 16:53:39,129 - INFO - Deleting torrent from qBittorrent: Passengers (2016) [1080p] [YTS.AG]
+2025-04-13 16:53:39,129 - INFO - Deleting torrent with hash ffcdcb5312f25db37034552849843981bd401c9d (delete_files=False)
+2025-04-13 16:53:39,140 - INFO - Successfully deleted torrent with hash ffcdcb5312f25db37034552849843981bd401c9d
+2025-04-13 16:53:39,140 - INFO - Deleting content files: Passengers (2016) [1080p] [YTS.AG]
+2025-04-13 16:53:39,141 - INFO - Deleting content: /home/user/Desktop/torrents/Passengers (2016) [1080p] [YTS.AG]
+2025-04-13 16:53:39,142 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Passengers (2016) [1080p] [YTS.AG]
+2025-04-13 16:53:39,142 - INFO - Successfully processed torrent: Passengers (2016) [1080p] [YTS.AG]
+2025-04-13 16:53:39,142 - INFO - Uploading torrent: Hitman Agent 47 (2015) [1080p]
+2025-04-13 16:53:39,142 - INFO - Starting upload: /home/user/Desktop/torrents/Hitman Agent 47 (2015) [1080p] -> onedrive:Torrents/Hitman Agent 47 (2015) [1080p]
+2025-04-13 16:53:39,142 - INFO - Uploading directory of size 1001.13 MB
+2025-04-13 16:55:27,943 - INFO - Successfully uploaded to onedrive:Torrents/Hitman Agent 47 (2015) [1080p]
+2025-04-13 16:55:27,944 - INFO - Verifying upload for: Hitman Agent 47 (2015) [1080p]
+2025-04-13 16:55:27,944 - INFO - Verifying upload: /home/user/Desktop/torrents/Hitman Agent 47 (2015) [1080p] -> onedrive:Torrents/Hitman Agent 47 (2015) [1080p]
+2025-04-13 16:55:30,262 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hitman Agent 47 (2015) [1080p]
+2025-04-13 16:55:30,264 - INFO - Deleting torrent from qBittorrent: Hitman Agent 47 (2015) [1080p]
+2025-04-13 16:55:30,264 - INFO - Deleting torrent with hash c0602e072c816a780a9aebe1066a4bd5ce4d3f95 (delete_files=False)
+2025-04-13 16:55:30,273 - INFO - Successfully deleted torrent with hash c0602e072c816a780a9aebe1066a4bd5ce4d3f95
+2025-04-13 16:55:30,273 - INFO - Deleting content files: Hitman Agent 47 (2015) [1080p]
+2025-04-13 16:55:30,273 - INFO - Deleting content: /home/user/Desktop/torrents/Hitman Agent 47 (2015) [1080p]
+2025-04-13 16:55:30,273 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Hitman Agent 47 (2015) [1080p]
+2025-04-13 16:55:30,273 - INFO - Successfully processed torrent: Hitman Agent 47 (2015) [1080p]
+2025-04-13 16:55:30,274 - INFO - Uploading torrent: Independence Day (1996) [1080p] [YTS.AG]
+2025-04-13 16:55:30,274 - INFO - Starting upload: /home/user/Desktop/torrents/Independence Day (1996) [1080p] [YTS.AG] -> onedrive:Torrents/Independence Day (1996) [1080p] [YTS.AG]
+2025-04-13 16:55:30,274 - INFO - Uploading directory of size 2389.56 MB
