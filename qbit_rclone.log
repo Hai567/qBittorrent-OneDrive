@@ -1146,3 +1146,75 @@ OSError: [Errno 28] No space left on device
 2025-04-13 15:53:48,005 - INFO - Uploading torrent: Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-13 15:53:48,005 - INFO - Starting upload: /home/user/Desktop/torrents/Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-13 15:53:48,005 - INFO - Uploading directory of size 1623.48 MB
+2025-04-13 15:57:21,184 - INFO - Successfully uploaded to onedrive:Torrents/Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 15:57:21,184 - INFO - Verifying upload for: Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 15:57:21,184 - INFO - Verifying upload: /home/user/Desktop/torrents/Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 15:57:23,829 - INFO - Upload verification successful for /home/user/Desktop/torrents/Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 15:57:23,830 - INFO - Deleting torrent from qBittorrent: Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 15:57:23,830 - INFO - Deleting torrent with hash e4de9f8544e12914bb4722ff593694dbe6db296c (delete_files=False)
+2025-04-13 15:57:23,840 - INFO - Successfully deleted torrent with hash e4de9f8544e12914bb4722ff593694dbe6db296c
+2025-04-13 15:57:23,840 - INFO - Deleting content files: Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 15:57:23,840 - INFO - Deleting content: /home/user/Desktop/torrents/Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 15:57:23,841 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 15:57:23,841 - INFO - Successfully processed torrent: Borderline (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 15:57:23,841 - INFO - Uploading torrent: Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:57:23,841 - INFO - Starting upload: /home/user/Desktop/torrents/Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 15:57:23,841 - INFO - Uploading directory of size 2835.95 MB
+2025-04-13 16:03:35,674 - INFO - Successfully uploaded to onedrive:Torrents/Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:03:35,674 - INFO - Verifying upload for: Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:03:35,674 - INFO - Verifying upload: /home/user/Desktop/torrents/Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:03:37,987 - INFO - Upload verification successful for /home/user/Desktop/torrents/Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:03:37,988 - INFO - Deleting torrent from qBittorrent: Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:03:37,989 - INFO - Deleting torrent with hash 182b1965adf9dcd3cdae27c68de9e810cef75346 (delete_files=False)
+2025-04-13 16:03:38,000 - INFO - Successfully deleted torrent with hash 182b1965adf9dcd3cdae27c68de9e810cef75346
+2025-04-13 16:03:38,000 - INFO - Deleting content files: Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:03:38,001 - INFO - Deleting content: /home/user/Desktop/torrents/Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:03:38,002 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:03:38,002 - INFO - Successfully processed torrent: Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:03:38,003 - INFO - Uploading torrent: Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 16:03:38,003 - INFO - Starting upload: /home/user/Desktop/torrents/Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 16:03:38,003 - INFO - Uploading directory of size 2170.20 MB
+2025-04-13 16:07:27,853 - INFO - Successfully uploaded to onedrive:Torrents/Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 16:07:27,853 - INFO - Verifying upload for: Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 16:07:27,853 - INFO - Verifying upload: /home/user/Desktop/torrents/Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 16:07:30,513 - INFO - Upload verification successful for /home/user/Desktop/torrents/Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 16:07:30,514 - INFO - Deleting torrent from qBittorrent: Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 16:07:30,514 - INFO - Deleting torrent with hash f1c9be467c4bc1a168d1a7df78fbdb6ff07b78db (delete_files=False)
+2025-04-13 16:07:30,523 - INFO - Successfully deleted torrent with hash f1c9be467c4bc1a168d1a7df78fbdb6ff07b78db
+2025-04-13 16:07:30,523 - INFO - Deleting content files: Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 16:07:30,523 - INFO - Deleting content: /home/user/Desktop/torrents/Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 16:07:30,525 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 16:07:30,525 - INFO - Successfully processed torrent: Kraven The Hunter (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 16:12:30,625 - INFO - Checking for completed torrents...
+2025-04-13 16:12:30,632 - INFO - Found 15 completed torrents
+2025-04-13 16:12:30,632 - INFO - Uploading torrent: Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:12:30,632 - INFO - Starting upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:12:30,632 - INFO - Uploading file of size 2078.99 MB
+2025-04-13 16:15:56,581 - INFO - Successfully uploaded to onedrive:Torrents/Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:15:56,582 - INFO - Verifying upload for: Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:15:56,582 - INFO - Verifying upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:15:58,892 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:15:58,893 - INFO - Deleting torrent from qBittorrent: Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:15:58,894 - INFO - Deleting torrent with hash 79ab5181c3f79800f4bbb5226c292b50bd1afe70 (delete_files=False)
+2025-04-13 16:15:58,903 - INFO - Successfully deleted torrent with hash 79ab5181c3f79800f4bbb5226c292b50bd1afe70
+2025-04-13 16:15:58,903 - INFO - Deleting content files: Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:15:58,903 - INFO - Deleting content: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:15:58,904 - INFO - Successfully deleted file: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:15:58,904 - INFO - Successfully processed torrent: Hyper.Knife.S01E08.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 16:15:58,904 - INFO - Uploading torrent: Ghost Rider (2007) [1080p]
+2025-04-13 16:15:58,904 - INFO - Starting upload: /home/user/Desktop/torrents/Ghost Rider (2007) [1080p] -> onedrive:Torrents/Ghost Rider (2007) [1080p]
+2025-04-13 16:15:58,904 - INFO - Uploading directory of size 1892.53 MB
+2025-04-13 16:19:15,636 - INFO - Successfully uploaded to onedrive:Torrents/Ghost Rider (2007) [1080p]
+2025-04-13 16:19:15,637 - INFO - Verifying upload for: Ghost Rider (2007) [1080p]
+2025-04-13 16:19:15,637 - INFO - Verifying upload: /home/user/Desktop/torrents/Ghost Rider (2007) [1080p] -> onedrive:Torrents/Ghost Rider (2007) [1080p]
+2025-04-13 16:19:17,451 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ghost Rider (2007) [1080p]
+2025-04-13 16:19:17,452 - INFO - Deleting torrent from qBittorrent: Ghost Rider (2007) [1080p]
+2025-04-13 16:19:17,452 - INFO - Deleting torrent with hash 8bf104f62c927ee170398b60067b5c0ec452b942 (delete_files=False)
+2025-04-13 16:19:17,463 - INFO - Successfully deleted torrent with hash 8bf104f62c927ee170398b60067b5c0ec452b942
+2025-04-13 16:19:17,463 - INFO - Deleting content files: Ghost Rider (2007) [1080p]
+2025-04-13 16:19:17,463 - INFO - Deleting content: /home/user/Desktop/torrents/Ghost Rider (2007) [1080p]
+2025-04-13 16:19:17,464 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ghost Rider (2007) [1080p]
+2025-04-13 16:19:17,464 - INFO - Successfully processed torrent: Ghost Rider (2007) [1080p]
+2025-04-13 16:19:17,464 - INFO - Uploading torrent: Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:19:17,464 - INFO - Starting upload: /home/user/Desktop/torrents/Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 16:19:17,465 - INFO - Uploading directory of size 3047.93 MB
