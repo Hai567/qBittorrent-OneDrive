@@ -1,0 +1,232 @@
+2025-04-12 18:00:56,723 - INFO - Loaded configuration from config.json
+2025-04-12 18:00:56,723 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-12 18:00:56,807 - INFO - Found onedrive remote in rclone configuration
+2025-04-12 18:00:56,812 - INFO - Successfully logged in to qBittorrent
+2025-04-12 18:00:56,812 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-12 18:00:56,812 - INFO - Checking for completed torrents...
+2025-04-12 18:00:56,816 - INFO - Found 8 completed torrents
+2025-04-12 18:00:56,816 - INFO - Uploading torrent: Life of Pi (2012) [1080p]
+2025-04-12 18:00:56,817 - INFO - Starting upload: /home/user/Downloads/Life of Pi (2012) [1080p] -> onedrive:Torrents/Life of Pi (2012) [1080p]
+2025-04-12 18:00:56,817 - INFO - Uploading directory of size 1944.37 MB
+2025-04-12 18:00:59,306 - INFO - Successfully uploaded to onedrive:Torrents/Life of Pi (2012) [1080p]
+2025-04-12 18:00:59,306 - INFO - Verifying upload for: Life of Pi (2012) [1080p]
+2025-04-12 18:00:59,306 - INFO - Verifying upload: /home/user/Downloads/Life of Pi (2012) [1080p] -> onedrive:Torrents/Life of Pi (2012) [1080p]
+2025-04-12 18:01:01,633 - INFO - Upload verification successful for /home/user/Downloads/Life of Pi (2012) [1080p]
+2025-04-12 18:01:01,634 - INFO - Deleting torrent from qBittorrent: Life of Pi (2012) [1080p]
+2025-04-12 18:01:01,634 - INFO - Deleting torrent with hash db19274e188060b2815860d1d61e5c0daf8807f5 (delete_files=False)
+2025-04-12 18:01:01,643 - INFO - Successfully deleted torrent with hash db19274e188060b2815860d1d61e5c0daf8807f5
+2025-04-12 18:01:01,643 - INFO - Deleting content files: Life of Pi (2012) [1080p]
+2025-04-12 18:01:01,643 - INFO - Deleting content: /home/user/Downloads/Life of Pi (2012) [1080p]
+2025-04-12 18:01:01,644 - INFO - Successfully deleted directory: /home/user/Downloads/Life of Pi (2012) [1080p]
+2025-04-12 18:01:01,645 - INFO - Successfully processed torrent: Life of Pi (2012) [1080p]
+2025-04-12 18:01:01,645 - INFO - Uploading torrent: The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:01:01,646 - INFO - Starting upload: /home/user/Downloads/The Wolf of Wall Street (2013) [1080p] -> onedrive:Torrents/The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:01:01,646 - INFO - Uploading directory of size 2125.85 MB
+2025-04-12 18:01:25,910 - INFO - Service stopped by user
+2025-04-12 18:01:38,063 - INFO - Loaded configuration from config.json
+2025-04-12 18:01:38,063 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-12 18:01:38,136 - INFO - Found onedrive remote in rclone configuration
+2025-04-12 18:01:38,141 - INFO - Successfully logged in to qBittorrent
+2025-04-12 18:01:38,142 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-12 18:01:38,142 - INFO - Checking for completed torrents...
+2025-04-12 18:01:38,146 - INFO - Found 7 completed torrents
+2025-04-12 18:01:38,146 - INFO - Uploading torrent: The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:01:38,146 - INFO - Starting upload: /home/user/Downloads/The Wolf of Wall Street (2013) [1080p] -> onedrive:Torrents/The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:01:38,146 - INFO - Uploading directory of size 2125.85 MB
+2025-04-12 18:05:33,820 - INFO - Successfully uploaded to onedrive:Torrents/The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:05:33,820 - INFO - Verifying upload for: The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:05:33,821 - INFO - Verifying upload: /home/user/Downloads/The Wolf of Wall Street (2013) [1080p] -> onedrive:Torrents/The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:05:36,117 - INFO - Upload verification successful for /home/user/Downloads/The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:05:36,117 - INFO - Deleting torrent from qBittorrent: The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:05:36,118 - INFO - Deleting torrent with hash 4b642d022980e5ebaa7cf4b6e1cc93769921cb42 (delete_files=False)
+2025-04-12 18:05:36,136 - INFO - Successfully deleted torrent with hash 4b642d022980e5ebaa7cf4b6e1cc93769921cb42
+2025-04-12 18:05:36,137 - INFO - Deleting content files: The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:05:36,137 - INFO - Deleting content: /home/user/Downloads/The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:05:36,138 - INFO - Successfully deleted directory: /home/user/Downloads/The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:05:36,138 - INFO - Successfully processed torrent: The Wolf of Wall Street (2013) [1080p]
+2025-04-12 18:05:36,138 - INFO - Uploading torrent: A Beautiful Mind (2001) [1080p]
+2025-04-12 18:05:36,138 - INFO - Starting upload: /home/user/Downloads/A Beautiful Mind (2001) [1080p] -> onedrive:Torrents/A Beautiful Mind (2001) [1080p]
+2025-04-12 18:05:36,138 - INFO - Uploading directory of size 1064.78 MB
+2025-04-12 18:07:44,614 - INFO - Successfully uploaded to onedrive:Torrents/A Beautiful Mind (2001) [1080p]
+2025-04-12 18:07:44,614 - INFO - Verifying upload for: A Beautiful Mind (2001) [1080p]
+2025-04-12 18:07:44,615 - INFO - Verifying upload: /home/user/Downloads/A Beautiful Mind (2001) [1080p] -> onedrive:Torrents/A Beautiful Mind (2001) [1080p]
+2025-04-12 18:07:46,928 - INFO - Upload verification successful for /home/user/Downloads/A Beautiful Mind (2001) [1080p]
+2025-04-12 18:07:46,929 - INFO - Deleting torrent from qBittorrent: A Beautiful Mind (2001) [1080p]
+2025-04-12 18:07:46,929 - INFO - Deleting torrent with hash 9ca50da836b52a6bcb06aaa91bb2478fd96f5dd0 (delete_files=False)
+2025-04-12 18:07:46,938 - INFO - Successfully deleted torrent with hash 9ca50da836b52a6bcb06aaa91bb2478fd96f5dd0
+2025-04-12 18:07:46,938 - INFO - Deleting content files: A Beautiful Mind (2001) [1080p]
+2025-04-12 18:07:46,938 - INFO - Deleting content: /home/user/Downloads/A Beautiful Mind (2001) [1080p]
+2025-04-12 18:07:46,939 - INFO - Successfully deleted directory: /home/user/Downloads/A Beautiful Mind (2001) [1080p]
+2025-04-12 18:07:46,939 - INFO - Successfully processed torrent: A Beautiful Mind (2001) [1080p]
+2025-04-12 18:07:46,939 - INFO - Uploading torrent: 3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem
+2025-04-12 18:07:46,939 - INFO - Starting upload: /home/user/Downloads/3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem -> onedrive:Torrents/3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem
+2025-04-12 18:07:46,940 - INFO - Uploading directory of size 2567.25 MB
+2025-04-12 18:13:06,651 - INFO - Successfully uploaded to onedrive:Torrents/3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem
+2025-04-12 18:13:06,651 - INFO - Verifying upload for: 3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem
+2025-04-12 18:13:06,651 - INFO - Verifying upload: /home/user/Downloads/3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem -> onedrive:Torrents/3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem
+2025-04-12 18:13:08,941 - INFO - Upload verification successful for /home/user/Downloads/3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem
+2025-04-12 18:13:08,942 - INFO - Deleting torrent from qBittorrent: 3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem
+2025-04-12 18:13:08,942 - INFO - Deleting torrent with hash 8f50891fcc8ac9b8c0127803f6f30c4f8d611311 (delete_files=False)
+2025-04-12 18:13:08,951 - INFO - Successfully deleted torrent with hash 8f50891fcc8ac9b8c0127803f6f30c4f8d611311
+2025-04-12 18:13:08,951 - INFO - Deleting content files: 3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem
+2025-04-12 18:13:08,951 - INFO - Deleting content: /home/user/Downloads/3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem
+2025-04-12 18:13:08,952 - INFO - Successfully deleted directory: /home/user/Downloads/3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem
+2025-04-12 18:13:08,953 - INFO - Successfully processed torrent: 3 Idiots 2009 1080p BluRay x264 Hindi AAC - Ozlem
+2025-04-12 18:13:08,953 - INFO - Uploading torrent: Slumdog Millionaire (2008) [1080p]
+2025-04-12 18:13:08,953 - INFO - Starting upload: /home/user/Downloads/Slumdog Millionaire (2008) [1080p] -> onedrive:Torrents/Slumdog Millionaire (2008) [1080p]
+2025-04-12 18:13:08,953 - INFO - Uploading directory of size 1883.97 MB
+2025-04-12 18:17:06,835 - INFO - Successfully uploaded to onedrive:Torrents/Slumdog Millionaire (2008) [1080p]
+2025-04-12 18:17:06,835 - INFO - Verifying upload for: Slumdog Millionaire (2008) [1080p]
+2025-04-12 18:17:06,835 - INFO - Verifying upload: /home/user/Downloads/Slumdog Millionaire (2008) [1080p] -> onedrive:Torrents/Slumdog Millionaire (2008) [1080p]
+2025-04-12 18:17:09,123 - INFO - Upload verification successful for /home/user/Downloads/Slumdog Millionaire (2008) [1080p]
+2025-04-12 18:17:09,123 - INFO - Deleting torrent from qBittorrent: Slumdog Millionaire (2008) [1080p]
+2025-04-12 18:17:09,123 - INFO - Deleting torrent with hash 8689eb06dd5f744b7937bed04c3f8b9b44bbcf04 (delete_files=False)
+2025-04-12 18:17:09,132 - INFO - Successfully deleted torrent with hash 8689eb06dd5f744b7937bed04c3f8b9b44bbcf04
+2025-04-12 18:17:09,132 - INFO - Deleting content files: Slumdog Millionaire (2008) [1080p]
+2025-04-12 18:17:09,132 - INFO - Deleting content: /home/user/Downloads/Slumdog Millionaire (2008) [1080p]
+2025-04-12 18:17:09,133 - INFO - Successfully deleted directory: /home/user/Downloads/Slumdog Millionaire (2008) [1080p]
+2025-04-12 18:17:09,133 - INFO - Successfully processed torrent: Slumdog Millionaire (2008) [1080p]
+2025-04-12 18:17:09,133 - INFO - Uploading torrent: Forrest Gump (1994) [1080p]
+2025-04-12 18:17:09,133 - INFO - Starting upload: /home/user/Downloads/Forrest Gump (1994) [1080p] -> onedrive:Torrents/Forrest Gump (1994) [1080p]
+2025-04-12 18:17:09,134 - INFO - Uploading directory of size 1946.14 MB
+2025-04-12 18:20:38,209 - INFO - Successfully uploaded to onedrive:Torrents/Forrest Gump (1994) [1080p]
+2025-04-12 18:20:38,209 - INFO - Verifying upload for: Forrest Gump (1994) [1080p]
+2025-04-12 18:20:38,209 - INFO - Verifying upload: /home/user/Downloads/Forrest Gump (1994) [1080p] -> onedrive:Torrents/Forrest Gump (1994) [1080p]
+2025-04-12 18:20:40,547 - INFO - Upload verification successful for /home/user/Downloads/Forrest Gump (1994) [1080p]
+2025-04-12 18:20:40,548 - INFO - Deleting torrent from qBittorrent: Forrest Gump (1994) [1080p]
+2025-04-12 18:20:40,548 - INFO - Deleting torrent with hash fee625a78cb2057ce7845aa66e95f60d43ea8ab0 (delete_files=False)
+2025-04-12 18:20:40,557 - INFO - Successfully deleted torrent with hash fee625a78cb2057ce7845aa66e95f60d43ea8ab0
+2025-04-12 18:20:40,557 - INFO - Deleting content files: Forrest Gump (1994) [1080p]
+2025-04-12 18:20:40,557 - INFO - Deleting content: /home/user/Downloads/Forrest Gump (1994) [1080p]
+2025-04-12 18:20:40,558 - INFO - Successfully deleted directory: /home/user/Downloads/Forrest Gump (1994) [1080p]
+2025-04-12 18:20:40,559 - INFO - Successfully processed torrent: Forrest Gump (1994) [1080p]
+2025-04-12 18:20:40,559 - INFO - Uploading torrent: 127 Hours (2010) [1080p]
+2025-04-12 18:20:40,559 - INFO - Starting upload: /home/user/Downloads/127 Hours (2010) [1080p] -> onedrive:Torrents/127 Hours (2010) [1080p]
+2025-04-12 18:20:40,559 - INFO - Uploading directory of size 1435.14 MB
+2025-04-12 18:23:41,976 - INFO - Successfully uploaded to onedrive:Torrents/127 Hours (2010) [1080p]
+2025-04-12 18:23:41,976 - INFO - Verifying upload for: 127 Hours (2010) [1080p]
+2025-04-12 18:23:41,976 - INFO - Verifying upload: /home/user/Downloads/127 Hours (2010) [1080p] -> onedrive:Torrents/127 Hours (2010) [1080p]
+2025-04-12 18:23:44,616 - INFO - Upload verification successful for /home/user/Downloads/127 Hours (2010) [1080p]
+2025-04-12 18:23:44,617 - INFO - Deleting torrent from qBittorrent: 127 Hours (2010) [1080p]
+2025-04-12 18:23:44,617 - INFO - Deleting torrent with hash 420eac6f6131ce8d291a648c226f2cd3b9ad8103 (delete_files=False)
+2025-04-12 18:23:44,627 - INFO - Successfully deleted torrent with hash 420eac6f6131ce8d291a648c226f2cd3b9ad8103
+2025-04-12 18:23:44,627 - INFO - Deleting content files: 127 Hours (2010) [1080p]
+2025-04-12 18:23:44,627 - INFO - Deleting content: /home/user/Downloads/127 Hours (2010) [1080p]
+2025-04-12 18:23:44,628 - INFO - Successfully deleted directory: /home/user/Downloads/127 Hours (2010) [1080p]
+2025-04-12 18:23:44,628 - INFO - Successfully processed torrent: 127 Hours (2010) [1080p]
+2025-04-12 18:23:44,628 - INFO - Uploading torrent: The Shawshank Redemption (1994) [1080p]
+2025-04-12 18:23:44,628 - INFO - Starting upload: /home/user/Downloads/The Shawshank Redemption (1994) [1080p] -> onedrive:Torrents/The Shawshank Redemption (1994) [1080p]
+2025-04-12 18:23:44,629 - INFO - Uploading directory of size 1642.49 MB
+2025-04-12 18:26:40,574 - INFO - Successfully uploaded to onedrive:Torrents/The Shawshank Redemption (1994) [1080p]
+2025-04-12 18:26:40,575 - INFO - Verifying upload for: The Shawshank Redemption (1994) [1080p]
+2025-04-12 18:26:40,575 - INFO - Verifying upload: /home/user/Downloads/The Shawshank Redemption (1994) [1080p] -> onedrive:Torrents/The Shawshank Redemption (1994) [1080p]
+2025-04-12 18:26:43,173 - INFO - Upload verification successful for /home/user/Downloads/The Shawshank Redemption (1994) [1080p]
+2025-04-12 18:26:43,174 - INFO - Deleting torrent from qBittorrent: The Shawshank Redemption (1994) [1080p]
+2025-04-12 18:26:43,174 - INFO - Deleting torrent with hash e0d00667650aba9ee05aacbbbd8b55ea8a51f534 (delete_files=False)
+2025-04-12 18:26:43,190 - INFO - Successfully deleted torrent with hash e0d00667650aba9ee05aacbbbd8b55ea8a51f534
+2025-04-12 18:26:43,190 - INFO - Deleting content files: The Shawshank Redemption (1994) [1080p]
+2025-04-12 18:26:43,190 - INFO - Deleting content: /home/user/Downloads/The Shawshank Redemption (1994) [1080p]
+2025-04-12 18:26:43,191 - INFO - Successfully deleted directory: /home/user/Downloads/The Shawshank Redemption (1994) [1080p]
+2025-04-12 18:26:43,191 - INFO - Successfully processed torrent: The Shawshank Redemption (1994) [1080p]
+2025-04-12 18:31:43,292 - INFO - Checking for completed torrents...
+2025-04-12 18:31:43,295 - INFO - Found 0 completed torrents
+2025-04-12 18:36:43,396 - INFO - Checking for completed torrents...
+2025-04-12 18:36:43,399 - INFO - Found 0 completed torrents
+2025-04-12 18:41:43,488 - INFO - Checking for completed torrents...
+2025-04-12 18:41:43,491 - INFO - Found 0 completed torrents
+2025-04-12 18:46:43,592 - INFO - Checking for completed torrents...
+2025-04-12 18:46:43,596 - INFO - Found 0 completed torrents
+2025-04-12 18:51:43,696 - INFO - Checking for completed torrents...
+2025-04-12 18:51:43,700 - INFO - Found 0 completed torrents
+2025-04-12 18:56:43,800 - INFO - Checking for completed torrents...
+2025-04-12 18:56:43,804 - INFO - Found 0 completed torrents
+2025-04-12 19:01:43,832 - INFO - Checking for completed torrents...
+2025-04-12 19:01:43,836 - INFO - Found 0 completed torrents
+2025-04-13 00:53:33,320 - INFO - Loaded configuration from config.json
+2025-04-13 00:53:33,321 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-13 00:53:33,397 - INFO - Found onedrive remote in rclone configuration
+2025-04-13 00:53:33,403 - INFO - Successfully logged in to qBittorrent
+2025-04-13 00:53:33,403 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-13 00:53:33,403 - INFO - Checking for completed torrents...
+2025-04-13 00:53:33,405 - INFO - Found 0 completed torrents
+2025-04-13 00:55:42,653 - INFO - Service stopped by user
+2025-04-13 00:59:55,400 - INFO - Loaded configuration from config.json
+2025-04-13 00:59:55,401 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-13 00:59:55,482 - INFO - Found onedrive remote in rclone configuration
+2025-04-13 00:59:55,487 - INFO - Successfully logged in to qBittorrent
+2025-04-13 00:59:55,487 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-13 00:59:55,487 - INFO - Checking for completed torrents...
+2025-04-13 00:59:55,490 - INFO - Found 2 completed torrents
+2025-04-13 00:59:55,490 - INFO - Uploading torrent: Cast Away (2000) [1080p]
+2025-04-13 00:59:55,490 - INFO - Starting upload: /home/user/Downloads/Cast Away (2000) [1080p] -> onedrive:Torrents/Cast Away (2000) [1080p]
+2025-04-13 00:59:55,490 - INFO - Uploading directory of size 1130.93 MB
+2025-04-13 01:01:52,493 - INFO - Successfully uploaded to onedrive:Torrents/Cast Away (2000) [1080p]
+2025-04-13 01:01:52,494 - INFO - Verifying upload for: Cast Away (2000) [1080p]
+2025-04-13 01:01:52,494 - INFO - Verifying upload: /home/user/Downloads/Cast Away (2000) [1080p] -> onedrive:Torrents/Cast Away (2000) [1080p]
+2025-04-13 01:01:54,867 - INFO - Upload verification successful for /home/user/Downloads/Cast Away (2000) [1080p]
+2025-04-13 01:01:54,868 - INFO - Deleting torrent from qBittorrent: Cast Away (2000) [1080p]
+2025-04-13 01:01:54,868 - INFO - Deleting torrent with hash 4be5e0519f5e41d4119565f177c7bc5ae3d98289 (delete_files=False)
+2025-04-13 01:01:54,877 - INFO - Successfully deleted torrent with hash 4be5e0519f5e41d4119565f177c7bc5ae3d98289
+2025-04-13 01:01:54,877 - INFO - Deleting content files: Cast Away (2000) [1080p]
+2025-04-13 01:01:54,877 - INFO - Deleting content: /home/user/Downloads/Cast Away (2000) [1080p]
+2025-04-13 01:01:54,880 - INFO - Successfully deleted directory: /home/user/Downloads/Cast Away (2000) [1080p]
+2025-04-13 01:01:54,880 - INFO - Successfully processed torrent: Cast Away (2000) [1080p]
+2025-04-13 01:01:54,881 - INFO - Uploading torrent: Freedom Writers (2007) [1080p]
+2025-04-13 01:01:54,881 - INFO - Starting upload: /home/user/Downloads/Freedom Writers (2007) [1080p] -> onedrive:Torrents/Freedom Writers (2007) [1080p]
+2025-04-13 01:01:54,881 - INFO - Uploading directory of size 1692.00 MB
+2025-04-13 01:04:57,482 - INFO - Successfully uploaded to onedrive:Torrents/Freedom Writers (2007) [1080p]
+2025-04-13 01:04:57,482 - INFO - Verifying upload for: Freedom Writers (2007) [1080p]
+2025-04-13 01:04:57,482 - INFO - Verifying upload: /home/user/Downloads/Freedom Writers (2007) [1080p] -> onedrive:Torrents/Freedom Writers (2007) [1080p]
+2025-04-13 01:04:59,816 - INFO - Upload verification successful for /home/user/Downloads/Freedom Writers (2007) [1080p]
+2025-04-13 01:04:59,817 - INFO - Deleting torrent from qBittorrent: Freedom Writers (2007) [1080p]
+2025-04-13 01:04:59,817 - INFO - Deleting torrent with hash 60d8e6a4445459d7b868c1f1bd6b810cbedaa152 (delete_files=False)
+2025-04-13 01:04:59,825 - INFO - Successfully deleted torrent with hash 60d8e6a4445459d7b868c1f1bd6b810cbedaa152
+2025-04-13 01:04:59,825 - INFO - Deleting content files: Freedom Writers (2007) [1080p]
+2025-04-13 01:04:59,825 - INFO - Deleting content: /home/user/Downloads/Freedom Writers (2007) [1080p]
+2025-04-13 01:04:59,826 - INFO - Successfully deleted directory: /home/user/Downloads/Freedom Writers (2007) [1080p]
+2025-04-13 01:04:59,826 - INFO - Successfully processed torrent: Freedom Writers (2007) [1080p]
+2025-04-13 01:09:59,927 - INFO - Checking for completed torrents...
+2025-04-13 01:09:59,930 - INFO - Found 0 completed torrents
+2025-04-13 01:15:00,030 - INFO - Checking for completed torrents...
+2025-04-13 01:15:00,075 - INFO - Found 0 completed torrents
+2025-04-13 01:20:00,174 - INFO - Checking for completed torrents...
+2025-04-13 01:20:00,177 - INFO - Found 0 completed torrents
+2025-04-13 01:25:00,277 - INFO - Checking for completed torrents...
+2025-04-13 01:25:00,282 - INFO - Found 1 completed torrents
+2025-04-13 01:25:00,282 - INFO - Uploading torrent: Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]
+2025-04-13 01:25:00,282 - INFO - Starting upload: /home/user/Downloads/Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx] -> onedrive:Torrents/Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]
+2025-04-13 01:25:00,282 - INFO - Uploading directory of size 15610.05 MB
+2025-04-13 01:33:29,938 - INFO - Successfully uploaded to onedrive:Torrents/Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]
+2025-04-13 01:33:29,942 - INFO - Verifying upload for: Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]
+2025-04-13 01:33:29,943 - INFO - Verifying upload: /home/user/Downloads/Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx] -> onedrive:Torrents/Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]
+2025-04-13 01:33:32,430 - INFO - Upload verification successful for /home/user/Downloads/Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]
+2025-04-13 01:33:32,431 - INFO - Deleting torrent from qBittorrent: Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]
+2025-04-13 01:33:32,431 - INFO - Deleting torrent with hash 32a3f11f9cca920f4af99bba725d7ae0bf9e10e9 (delete_files=False)
+2025-04-13 01:33:32,441 - INFO - Successfully deleted torrent with hash 32a3f11f9cca920f4af99bba725d7ae0bf9e10e9
+2025-04-13 01:33:32,441 - INFO - Deleting content files: Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]
+2025-04-13 01:33:32,441 - INFO - Deleting content: /home/user/Downloads/Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]
+2025-04-13 01:33:32,447 - INFO - Successfully deleted directory: /home/user/Downloads/Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]
+2025-04-13 01:33:32,447 - INFO - Successfully processed torrent: Arcane.S02.COMPLETE.REPACK.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]
+2025-04-13 01:38:32,547 - INFO - Checking for completed torrents...
+2025-04-13 01:38:32,550 - INFO - Found 0 completed torrents
+2025-04-13 01:43:32,650 - INFO - Checking for completed torrents...
+2025-04-13 01:43:32,653 - INFO - Found 0 completed torrents
+2025-04-13 01:48:32,753 - INFO - Checking for completed torrents...
+2025-04-13 01:48:32,757 - INFO - Found 0 completed torrents
+2025-04-13 01:53:32,856 - INFO - Checking for completed torrents...
+2025-04-13 01:53:32,859 - INFO - Found 0 completed torrents
+2025-04-13 01:58:32,960 - INFO - Checking for completed torrents...
+2025-04-13 01:58:32,973 - INFO - Found 0 completed torrents
+2025-04-13 02:03:33,073 - INFO - Checking for completed torrents...
+2025-04-13 02:03:33,076 - INFO - Found 0 completed torrents
+2025-04-13 02:08:33,176 - INFO - Checking for completed torrents...
+2025-04-13 02:08:33,180 - INFO - Found 0 completed torrents
+2025-04-13 02:13:33,279 - INFO - Checking for completed torrents...
+2025-04-13 02:13:33,282 - INFO - Found 0 completed torrents
+2025-04-13 02:18:33,375 - INFO - Checking for completed torrents...
+2025-04-13 02:18:33,397 - INFO - Found 0 completed torrents
+2025-04-13 02:23:33,497 - INFO - Checking for completed torrents...
+2025-04-13 02:23:33,505 - INFO - Found 1 completed torrents
+2025-04-13 02:23:33,505 - INFO - Uploading torrent: Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 02:23:33,506 - INFO - Starting upload: /home/user/Downloads/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE) -> onedrive:Torrents/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 02:23:33,516 - INFO - Uploading directory of size 180449.03 MB
