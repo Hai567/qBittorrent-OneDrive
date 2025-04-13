@@ -328,3 +328,18 @@ OSError: [Errno 28] No space left on device
 2025-04-13 07:44:46,018 - INFO - Uploading torrent: TheVampireDiariesSeason2
 2025-04-13 07:44:46,018 - INFO - Starting upload: /home/user/Downloads/TheVampireDiariesSeason2 -> onedrive:Torrents/TheVampireDiariesSeason2
 2025-04-13 07:44:46,019 - INFO - Uploading directory of size 6322.46 MB
+2025-04-13 07:50:00,718 - INFO - Successfully uploaded to onedrive:Torrents/TheVampireDiariesSeason2
+2025-04-13 07:50:00,719 - INFO - Verifying upload for: TheVampireDiariesSeason2
+2025-04-13 07:50:00,719 - INFO - Verifying upload: /home/user/Downloads/TheVampireDiariesSeason2 -> onedrive:Torrents/TheVampireDiariesSeason2
+2025-04-13 07:50:03,238 - INFO - Upload verification successful for /home/user/Downloads/TheVampireDiariesSeason2
+2025-04-13 07:50:03,239 - INFO - Deleting torrent from qBittorrent: TheVampireDiariesSeason2
+2025-04-13 07:50:03,239 - INFO - Deleting torrent with hash 636fddf6e5e901ba38bf9c2d93f70fe0b20f3a05 (delete_files=False)
+2025-04-13 07:50:03,251 - INFO - Successfully deleted torrent with hash 636fddf6e5e901ba38bf9c2d93f70fe0b20f3a05
+2025-04-13 07:50:03,251 - INFO - Deleting content files: TheVampireDiariesSeason2
+2025-04-13 07:50:03,251 - INFO - Deleting content: /home/user/Downloads/TheVampireDiariesSeason2
+2025-04-13 07:50:03,256 - INFO - Successfully deleted directory: /home/user/Downloads/TheVampireDiariesSeason2
+2025-04-13 07:50:03,256 - INFO - Successfully processed torrent: TheVampireDiariesSeason2
+2025-04-13 07:55:03,357 - INFO - Checking for completed torrents...
+2025-04-13 07:55:03,361 - INFO - Found 0 completed torrents
+2025-04-13 08:00:03,461 - INFO - Checking for completed torrents...
+2025-04-13 08:00:03,465 - INFO - Found 0 completed torrents
