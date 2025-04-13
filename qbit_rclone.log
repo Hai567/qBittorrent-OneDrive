@@ -789,3 +789,117 @@ OSError: [Errno 28] No space left on device
 2025-04-13 13:10:03,257 - INFO - Uploading torrent: Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-13 13:10:03,258 - INFO - Starting upload: /home/user/Desktop/torrents/Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-13 13:10:03,258 - INFO - Uploading directory of size 2269.57 MB
+2025-04-13 13:14:23,796 - INFO - Successfully uploaded to onedrive:Torrents/Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:14:23,796 - INFO - Verifying upload for: Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:14:23,796 - INFO - Verifying upload: /home/user/Desktop/torrents/Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:14:25,901 - INFO - Upload verification successful for /home/user/Desktop/torrents/Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:14:25,903 - INFO - Deleting torrent from qBittorrent: Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:14:25,903 - INFO - Deleting torrent with hash 5fcc91100ea5399c1a307e45f76551d98390ec4e (delete_files=False)
+2025-04-13 13:14:25,914 - INFO - Successfully deleted torrent with hash 5fcc91100ea5399c1a307e45f76551d98390ec4e
+2025-04-13 13:14:25,914 - INFO - Deleting content files: Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:14:25,914 - INFO - Deleting content: /home/user/Desktop/torrents/Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:14:25,916 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:14:25,916 - INFO - Successfully processed torrent: Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:14:25,916 - INFO - Uploading torrent: X-Men Apocalypse (2016) [1080p] [YTS.AG]
+2025-04-13 13:14:25,917 - INFO - Starting upload: /home/user/Desktop/torrents/X-Men Apocalypse (2016) [1080p] [YTS.AG] -> onedrive:Torrents/X-Men Apocalypse (2016) [1080p] [YTS.AG]
+2025-04-13 13:14:25,917 - INFO - Uploading directory of size 2253.63 MB
+2025-04-13 13:17:57,775 - INFO - Successfully uploaded to onedrive:Torrents/X-Men Apocalypse (2016) [1080p] [YTS.AG]
+2025-04-13 13:17:57,776 - INFO - Verifying upload for: X-Men Apocalypse (2016) [1080p] [YTS.AG]
+2025-04-13 13:17:57,776 - INFO - Verifying upload: /home/user/Desktop/torrents/X-Men Apocalypse (2016) [1080p] [YTS.AG] -> onedrive:Torrents/X-Men Apocalypse (2016) [1080p] [YTS.AG]
+2025-04-13 13:18:00,079 - INFO - Upload verification successful for /home/user/Desktop/torrents/X-Men Apocalypse (2016) [1080p] [YTS.AG]
+2025-04-13 13:18:00,080 - INFO - Deleting torrent from qBittorrent: X-Men Apocalypse (2016) [1080p] [YTS.AG]
+2025-04-13 13:18:00,081 - INFO - Deleting torrent with hash d411da76e36a00c6ef9101d1642af6a2e5ef9883 (delete_files=False)
+2025-04-13 13:18:00,091 - INFO - Successfully deleted torrent with hash d411da76e36a00c6ef9101d1642af6a2e5ef9883
+2025-04-13 13:18:00,091 - INFO - Deleting content files: X-Men Apocalypse (2016) [1080p] [YTS.AG]
+2025-04-13 13:18:00,091 - INFO - Deleting content: /home/user/Desktop/torrents/X-Men Apocalypse (2016) [1080p] [YTS.AG]
+2025-04-13 13:18:00,096 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/X-Men Apocalypse (2016) [1080p] [YTS.AG]
+2025-04-13 13:18:00,096 - INFO - Successfully processed torrent: X-Men Apocalypse (2016) [1080p] [YTS.AG]
+2025-04-13 13:18:00,096 - INFO - Uploading torrent: Creed II (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 13:18:00,096 - INFO - Starting upload: /home/user/Desktop/torrents/Creed II (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Creed II (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 13:18:00,096 - INFO - Uploading directory of size 2132.99 MB
+2025-04-13 13:21:25,789 - INFO - Successfully uploaded to onedrive:Torrents/Creed II (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 13:21:25,791 - INFO - Verifying upload for: Creed II (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 13:21:25,792 - INFO - Verifying upload: /home/user/Desktop/torrents/Creed II (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Creed II (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 13:21:28,263 - INFO - Upload verification successful for /home/user/Desktop/torrents/Creed II (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 13:21:28,264 - INFO - Deleting torrent from qBittorrent: Creed II (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 13:21:28,264 - INFO - Deleting torrent with hash 157a5c4fd51184ab6e4b7b2b13a26856a2e0832f (delete_files=False)
+2025-04-13 13:21:28,278 - INFO - Successfully deleted torrent with hash 157a5c4fd51184ab6e4b7b2b13a26856a2e0832f
+2025-04-13 13:21:28,278 - INFO - Deleting content files: Creed II (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 13:21:28,278 - INFO - Deleting content: /home/user/Desktop/torrents/Creed II (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 13:21:28,282 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Creed II (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 13:21:28,282 - INFO - Successfully processed torrent: Creed II (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 13:21:28,282 - INFO - Uploading torrent: Madagascar Escape 2 Africa (2008) [1080p]
+2025-04-13 13:21:28,282 - INFO - Starting upload: /home/user/Desktop/torrents/Madagascar Escape 2 Africa (2008) [1080p] -> onedrive:Torrents/Madagascar Escape 2 Africa (2008) [1080p]
+2025-04-13 13:21:28,283 - INFO - Uploading directory of size 1432.91 MB
+2025-04-13 13:24:17,517 - INFO - Successfully uploaded to onedrive:Torrents/Madagascar Escape 2 Africa (2008) [1080p]
+2025-04-13 13:24:17,518 - INFO - Verifying upload for: Madagascar Escape 2 Africa (2008) [1080p]
+2025-04-13 13:24:17,518 - INFO - Verifying upload: /home/user/Desktop/torrents/Madagascar Escape 2 Africa (2008) [1080p] -> onedrive:Torrents/Madagascar Escape 2 Africa (2008) [1080p]
+2025-04-13 13:24:19,904 - INFO - Upload verification successful for /home/user/Desktop/torrents/Madagascar Escape 2 Africa (2008) [1080p]
+2025-04-13 13:24:19,905 - INFO - Deleting torrent from qBittorrent: Madagascar Escape 2 Africa (2008) [1080p]
+2025-04-13 13:24:19,906 - INFO - Deleting torrent with hash 9758e8902a6868ecbd653808c8f1eebcabc4fc45 (delete_files=False)
+2025-04-13 13:24:19,916 - INFO - Successfully deleted torrent with hash 9758e8902a6868ecbd653808c8f1eebcabc4fc45
+2025-04-13 13:24:19,916 - INFO - Deleting content files: Madagascar Escape 2 Africa (2008) [1080p]
+2025-04-13 13:24:19,916 - INFO - Deleting content: /home/user/Desktop/torrents/Madagascar Escape 2 Africa (2008) [1080p]
+2025-04-13 13:24:19,918 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Madagascar Escape 2 Africa (2008) [1080p]
+2025-04-13 13:24:19,918 - INFO - Successfully processed torrent: Madagascar Escape 2 Africa (2008) [1080p]
+2025-04-13 13:24:19,918 - INFO - Uploading torrent: Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 13:24:19,919 - INFO - Starting upload: /home/user/Desktop/torrents/Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 13:24:19,919 - INFO - Uploading directory of size 1704.48 MB
+2025-04-13 13:27:22,146 - INFO - Successfully uploaded to onedrive:Torrents/Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 13:27:22,146 - INFO - Verifying upload for: Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 13:27:22,147 - INFO - Verifying upload: /home/user/Desktop/torrents/Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 13:27:24,462 - INFO - Upload verification successful for /home/user/Desktop/torrents/Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 13:27:24,463 - INFO - Deleting torrent from qBittorrent: Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 13:27:24,463 - INFO - Deleting torrent with hash 172831bfe83b28b0826c6685267691ad6c9e1f1e (delete_files=False)
+2025-04-13 13:27:24,474 - INFO - Successfully deleted torrent with hash 172831bfe83b28b0826c6685267691ad6c9e1f1e
+2025-04-13 13:27:24,475 - INFO - Deleting content files: Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 13:27:24,475 - INFO - Deleting content: /home/user/Desktop/torrents/Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 13:27:24,476 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 13:27:24,476 - INFO - Successfully processed torrent: Puss In Boots (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 13:27:24,476 - INFO - Uploading torrent: Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:27:24,476 - INFO - Starting upload: /home/user/Desktop/torrents/Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:27:24,476 - INFO - Uploading directory of size 2350.88 MB
+2025-04-13 13:31:53,644 - INFO - Successfully uploaded to onedrive:Torrents/Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:31:53,644 - INFO - Verifying upload for: Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:31:53,644 - INFO - Verifying upload: /home/user/Desktop/torrents/Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:31:56,972 - INFO - Upload verification successful for /home/user/Desktop/torrents/Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:31:56,973 - INFO - Deleting torrent from qBittorrent: Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:31:56,973 - INFO - Deleting torrent with hash df85a8ca88a8c0678b1f6f3fc5e04d1e2788e318 (delete_files=False)
+2025-04-13 13:31:56,984 - INFO - Successfully deleted torrent with hash df85a8ca88a8c0678b1f6f3fc5e04d1e2788e318
+2025-04-13 13:31:56,984 - INFO - Deleting content files: Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:31:56,984 - INFO - Deleting content: /home/user/Desktop/torrents/Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:31:56,987 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:31:56,988 - INFO - Successfully processed torrent: Im Still Here (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:36:57,075 - INFO - Checking for completed torrents...
+2025-04-13 13:36:57,082 - INFO - Found 8 completed torrents
+2025-04-13 13:36:57,083 - INFO - Uploading torrent: Star Wars Episode IV A New Hope (1977) [1080p]
+2025-04-13 13:36:57,083 - INFO - Starting upload: /home/user/Desktop/torrents/Star Wars Episode IV A New Hope (1977) [1080p] -> onedrive:Torrents/Star Wars Episode IV A New Hope (1977) [1080p]
+2025-04-13 13:36:57,083 - INFO - Uploading directory of size 1742.56 MB
+2025-04-13 13:39:55,031 - INFO - Successfully uploaded to onedrive:Torrents/Star Wars Episode IV A New Hope (1977) [1080p]
+2025-04-13 13:39:55,031 - INFO - Verifying upload for: Star Wars Episode IV A New Hope (1977) [1080p]
+2025-04-13 13:39:55,032 - INFO - Verifying upload: /home/user/Desktop/torrents/Star Wars Episode IV A New Hope (1977) [1080p] -> onedrive:Torrents/Star Wars Episode IV A New Hope (1977) [1080p]
+2025-04-13 13:39:56,393 - INFO - Upload verification successful for /home/user/Desktop/torrents/Star Wars Episode IV A New Hope (1977) [1080p]
+2025-04-13 13:39:56,394 - INFO - Deleting torrent from qBittorrent: Star Wars Episode IV A New Hope (1977) [1080p]
+2025-04-13 13:39:56,394 - INFO - Deleting torrent with hash fe1e1069de410fb44157f02b4f6655dde99621c6 (delete_files=False)
+2025-04-13 13:39:56,406 - INFO - Successfully deleted torrent with hash fe1e1069de410fb44157f02b4f6655dde99621c6
+2025-04-13 13:39:56,407 - INFO - Deleting content files: Star Wars Episode IV A New Hope (1977) [1080p]
+2025-04-13 13:39:56,407 - INFO - Deleting content: /home/user/Desktop/torrents/Star Wars Episode IV A New Hope (1977) [1080p]
+2025-04-13 13:39:56,408 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Star Wars Episode IV A New Hope (1977) [1080p]
+2025-04-13 13:39:56,408 - INFO - Successfully processed torrent: Star Wars Episode IV A New Hope (1977) [1080p]
+2025-04-13 13:39:56,408 - INFO - Uploading torrent: Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:39:56,409 - INFO - Starting upload: /home/user/Desktop/torrents/Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:39:56,409 - INFO - Uploading directory of size 1809.03 MB
+2025-04-13 13:43:32,697 - INFO - Successfully uploaded to onedrive:Torrents/Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:43:32,698 - INFO - Verifying upload for: Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:43:32,698 - INFO - Verifying upload: /home/user/Desktop/torrents/Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:43:35,030 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:43:35,031 - INFO - Deleting torrent from qBittorrent: Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:43:35,031 - INFO - Deleting torrent with hash ec1ebed6947a3abe1b72f723b0acd8c3b09ff2c2 (delete_files=False)
+2025-04-13 13:43:35,040 - INFO - Successfully deleted torrent with hash ec1ebed6947a3abe1b72f723b0acd8c3b09ff2c2
+2025-04-13 13:43:35,041 - INFO - Deleting content files: Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:43:35,041 - INFO - Deleting content: /home/user/Desktop/torrents/Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:43:35,042 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:43:35,042 - INFO - Successfully processed torrent: Cocaine Bear (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:43:35,043 - INFO - Uploading torrent: The Matrix Revolutions (2003) [1080p]
+2025-04-13 13:43:35,043 - INFO - Starting upload: /home/user/Desktop/torrents/The Matrix Revolutions (2003) [1080p] -> onedrive:Torrents/The Matrix Revolutions (2003) [1080p]
+2025-04-13 13:43:35,043 - INFO - Uploading directory of size 1897.77 MB
