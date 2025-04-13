@@ -986,3 +986,19 @@ OSError: [Errno 28] No space left on device
 2025-04-13 14:06:44,343 - INFO - Successfully processed torrent: The Mummy Tomb of the Dragon Emperor (2008) [1080p]
 2025-04-13 14:11:44,443 - INFO - Checking for completed torrents...
 2025-04-13 14:11:44,446 - INFO - Found 0 completed torrents
+2025-04-13 14:16:44,517 - INFO - Checking for completed torrents...
+2025-04-13 14:16:44,524 - INFO - Found 1 completed torrents
+2025-04-13 14:16:44,524 - INFO - Uploading torrent: The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 14:16:44,524 - INFO - Starting upload: /home/user/Desktop/torrents/The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 14:16:44,524 - INFO - Uploading directory of size 1725.52 MB
+2025-04-13 14:20:07,586 - INFO - Successfully uploaded to onedrive:Torrents/The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 14:20:07,587 - INFO - Verifying upload for: The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 14:20:07,587 - INFO - Verifying upload: /home/user/Desktop/torrents/The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 14:20:10,005 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 14:20:10,111 - INFO - Deleting torrent from qBittorrent: The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 14:20:10,111 - INFO - Deleting torrent with hash b0c0b6356edf6a78705e1ef7a9121418aa458703 (delete_files=False)
+2025-04-13 14:20:10,136 - INFO - Successfully deleted torrent with hash b0c0b6356edf6a78705e1ef7a9121418aa458703
+2025-04-13 14:20:10,136 - INFO - Deleting content files: The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 14:20:10,136 - INFO - Deleting content: /home/user/Desktop/torrents/The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 14:20:10,138 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 14:20:10,138 - INFO - Successfully processed torrent: The Scorpion King (2002) [1080p] [BluRay] [5.1] [YTS.MX]
