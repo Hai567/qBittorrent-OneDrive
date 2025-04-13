@@ -474,3 +474,64 @@ OSError: [Errno 28] No space left on device
 2025-04-13 11:12:42,544 - INFO - Deleting content: /home/user/Desktop/torrents/Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
 2025-04-13 11:12:42,547 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
 2025-04-13 11:12:42,547 - INFO - Successfully processed torrent: Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
+2025-04-13 11:17:42,647 - INFO - Checking for completed torrents...
+2025-04-13 11:17:42,655 - INFO - Found 12 completed torrents
+2025-04-13 11:17:42,655 - INFO - Uploading torrent: Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:17:42,655 - INFO - Starting upload: /home/user/Desktop/torrents/Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:17:42,656 - INFO - Uploading directory of size 3085.00 MB
+2025-04-13 11:24:03,672 - INFO - Successfully uploaded to onedrive:Torrents/Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:24:03,673 - INFO - Verifying upload for: Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:24:03,673 - INFO - Verifying upload: /home/user/Desktop/torrents/Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:24:06,067 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:24:06,068 - INFO - Deleting torrent from qBittorrent: Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:24:06,068 - INFO - Deleting torrent with hash 993e453aa859f3d38efd713df82bff9d33676896 (delete_files=False)
+2025-04-13 11:24:06,080 - INFO - Successfully deleted torrent with hash 993e453aa859f3d38efd713df82bff9d33676896
+2025-04-13 11:24:06,080 - INFO - Deleting content files: Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:24:06,080 - INFO - Deleting content: /home/user/Desktop/torrents/Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:24:06,081 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:24:06,081 - INFO - Successfully processed torrent: Mission Impossible - Dead Reckoning Part One (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:24:06,081 - INFO - Uploading torrent: Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-13 11:24:06,081 - INFO - Starting upload: /home/user/Desktop/torrents/Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-13 11:24:06,082 - INFO - Uploading directory of size 2494.39 MB
+2025-04-13 11:29:54,983 - INFO - Successfully uploaded to onedrive:Torrents/Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-13 11:29:54,983 - INFO - Verifying upload for: Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-13 11:29:54,983 - INFO - Verifying upload: /home/user/Desktop/torrents/Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-13 11:29:57,295 - INFO - Upload verification successful for /home/user/Desktop/torrents/Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-13 11:29:57,296 - INFO - Deleting torrent from qBittorrent: Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-13 11:29:57,296 - INFO - Deleting torrent with hash 25476766bdb2d52119e1f40cf4801c05f9f3cd06 (delete_files=False)
+2025-04-13 11:29:57,307 - INFO - Successfully deleted torrent with hash 25476766bdb2d52119e1f40cf4801c05f9f3cd06
+2025-04-13 11:29:57,307 - INFO - Deleting content files: Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-13 11:29:57,308 - INFO - Deleting content: /home/user/Desktop/torrents/Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-13 11:29:57,309 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-13 11:29:57,309 - INFO - Successfully processed torrent: Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-13 11:29:57,309 - INFO - Uploading torrent: Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:29:57,309 - INFO - Starting upload: /home/user/Desktop/torrents/Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:29:57,309 - INFO - Uploading directory of size 3636.56 MB
+2025-04-13 11:37:51,504 - INFO - Successfully uploaded to onedrive:Torrents/Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:37:51,504 - INFO - Verifying upload for: Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:37:51,505 - INFO - Verifying upload: /home/user/Desktop/torrents/Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:37:53,116 - INFO - Upload verification successful for /home/user/Desktop/torrents/Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:37:53,117 - INFO - Deleting torrent from qBittorrent: Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:37:53,117 - INFO - Deleting torrent with hash 8ba89a34225442b00be6f9ab626db3b9a632822b (delete_files=False)
+2025-04-13 11:37:53,130 - INFO - Successfully deleted torrent with hash 8ba89a34225442b00be6f9ab626db3b9a632822b
+2025-04-13 11:37:53,131 - INFO - Deleting content files: Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:37:53,131 - INFO - Deleting content: /home/user/Desktop/torrents/Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:37:53,132 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:37:53,132 - INFO - Successfully processed torrent: Avatar The Way Of Water (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:37:53,132 - INFO - Uploading torrent: Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 11:37:53,132 - INFO - Starting upload: /home/user/Desktop/torrents/Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 11:37:53,132 - INFO - Uploading directory of size 1663.29 MB
+2025-04-13 11:41:35,930 - INFO - Successfully uploaded to onedrive:Torrents/Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 11:41:35,932 - INFO - Verifying upload for: Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 11:41:35,932 - INFO - Verifying upload: /home/user/Desktop/torrents/Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 11:41:38,099 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 11:41:38,100 - INFO - Deleting torrent from qBittorrent: Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 11:41:38,100 - INFO - Deleting torrent with hash 717593b085cfec7548b0036e1ea90bc7e1e43221 (delete_files=False)
+2025-04-13 11:41:38,113 - INFO - Successfully deleted torrent with hash 717593b085cfec7548b0036e1ea90bc7e1e43221
+2025-04-13 11:41:38,113 - INFO - Deleting content files: Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 11:41:38,113 - INFO - Deleting content: /home/user/Desktop/torrents/Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 11:41:38,116 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 11:41:38,116 - INFO - Successfully processed torrent: Cleaner (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 11:41:38,116 - INFO - Uploading torrent: Independence Day Resurgence (2016) [1080p] [YTS.AG]
+2025-04-13 11:41:38,117 - INFO - Starting upload: /home/user/Desktop/torrents/Independence Day Resurgence (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Independence Day Resurgence (2016) [1080p] [YTS.AG]
+2025-04-13 11:41:38,117 - INFO - Uploading directory of size 1864.75 MB
