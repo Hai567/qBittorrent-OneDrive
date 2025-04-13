@@ -279,3 +279,37 @@ OSError: [Errno 28] No space left on device
 2025-04-13 06:48:42,226 - INFO - Deleting content: /home/user/Downloads/TheVampireDiariesSeason1
 2025-04-13 06:48:42,245 - INFO - Successfully deleted directory: /home/user/Downloads/TheVampireDiariesSeason1
 2025-04-13 06:48:42,246 - INFO - Successfully processed torrent: TheVampireDiariesSeason1
+2025-04-13 06:53:42,346 - INFO - Checking for completed torrents...
+2025-04-13 06:53:42,350 - INFO - Found 2 completed torrents
+2025-04-13 06:53:42,350 - INFO - Uploading torrent: His Dark Materials Season 3 Complete Mp4 1080p
+2025-04-13 06:53:42,350 - INFO - Starting upload: /home/user/Downloads/His Dark Materials Season 3 Complete Mp4 1080p -> onedrive:Torrents/His Dark Materials Season 3 Complete Mp4 1080p
+2025-04-13 06:53:42,350 - INFO - Uploading directory of size 12280.74 MB
+2025-04-13 06:59:52,652 - INFO - Successfully uploaded to onedrive:Torrents/His Dark Materials Season 3 Complete Mp4 1080p
+2025-04-13 06:59:52,652 - INFO - Verifying upload for: His Dark Materials Season 3 Complete Mp4 1080p
+2025-04-13 06:59:52,652 - INFO - Verifying upload: /home/user/Downloads/His Dark Materials Season 3 Complete Mp4 1080p -> onedrive:Torrents/His Dark Materials Season 3 Complete Mp4 1080p
+2025-04-13 06:59:55,022 - INFO - Upload verification successful for /home/user/Downloads/His Dark Materials Season 3 Complete Mp4 1080p
+2025-04-13 06:59:55,023 - INFO - Deleting torrent from qBittorrent: His Dark Materials Season 3 Complete Mp4 1080p
+2025-04-13 06:59:55,023 - INFO - Deleting torrent with hash 7ae39bc2567a8e9bcba55bb44f2e7b6d3302a885 (delete_files=False)
+2025-04-13 06:59:55,032 - INFO - Successfully deleted torrent with hash 7ae39bc2567a8e9bcba55bb44f2e7b6d3302a885
+2025-04-13 06:59:55,033 - INFO - Deleting content files: His Dark Materials Season 3 Complete Mp4 1080p
+2025-04-13 06:59:55,033 - INFO - Deleting content: /home/user/Downloads/His Dark Materials Season 3 Complete Mp4 1080p
+2025-04-13 06:59:55,060 - INFO - Successfully deleted directory: /home/user/Downloads/His Dark Materials Season 3 Complete Mp4 1080p
+2025-04-13 06:59:55,060 - INFO - Successfully processed torrent: His Dark Materials Season 3 Complete Mp4 1080p
+2025-04-13 06:59:55,060 - INFO - Uploading torrent: Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin)
+2025-04-13 06:59:55,060 - INFO - Starting upload: /home/user/Downloads/Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin) -> onedrive:Torrents/Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin)
+2025-04-13 06:59:55,061 - INFO - Uploading directory of size 9746.22 MB
+2025-04-13 07:04:43,375 - INFO - Successfully uploaded to onedrive:Torrents/Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin)
+2025-04-13 07:04:43,375 - INFO - Verifying upload for: Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin)
+2025-04-13 07:04:43,376 - INFO - Verifying upload: /home/user/Downloads/Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin) -> onedrive:Torrents/Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin)
+2025-04-13 07:04:45,311 - INFO - Upload verification successful for /home/user/Downloads/Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin)
+2025-04-13 07:04:45,312 - INFO - Deleting torrent from qBittorrent: Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin)
+2025-04-13 07:04:45,312 - INFO - Deleting torrent with hash 5171b4457decf93a345eb86c80d164533059040b (delete_files=False)
+2025-04-13 07:04:45,332 - INFO - Successfully deleted torrent with hash 5171b4457decf93a345eb86c80d164533059040b
+2025-04-13 07:04:45,333 - INFO - Deleting content files: Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin)
+2025-04-13 07:04:45,333 - INFO - Deleting content: /home/user/Downloads/Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin)
+2025-04-13 07:04:45,337 - INFO - Successfully deleted directory: /home/user/Downloads/Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin)
+2025-04-13 07:04:45,337 - INFO - Successfully processed torrent: Arcane (2021) Season 1 S01 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 t3nzin)
+2025-04-13 07:09:45,426 - INFO - Checking for completed torrents...
+2025-04-13 07:09:45,431 - INFO - Found 0 completed torrents
+2025-04-13 07:14:45,453 - INFO - Checking for completed torrents...
+2025-04-13 07:14:45,457 - INFO - Found 0 completed torrents
