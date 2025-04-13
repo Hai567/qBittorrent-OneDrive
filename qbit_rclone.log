@@ -677,3 +677,115 @@ OSError: [Errno 28] No space left on device
 2025-04-13 12:41:55,890 - INFO - Uploading torrent: Constantine (2005) [1080p]
 2025-04-13 12:41:55,890 - INFO - Starting upload: /home/user/Desktop/torrents/Constantine (2005) [1080p] -> onedrive:Torrents/Constantine (2005) [1080p]
 2025-04-13 12:41:55,891 - INFO - Uploading directory of size 1643.49 MB
+2025-04-13 12:45:03,744 - INFO - Successfully uploaded to onedrive:Torrents/Constantine (2005) [1080p]
+2025-04-13 12:45:03,744 - INFO - Verifying upload for: Constantine (2005) [1080p]
+2025-04-13 12:45:03,744 - INFO - Verifying upload: /home/user/Desktop/torrents/Constantine (2005) [1080p] -> onedrive:Torrents/Constantine (2005) [1080p]
+2025-04-13 12:45:05,855 - INFO - Upload verification successful for /home/user/Desktop/torrents/Constantine (2005) [1080p]
+2025-04-13 12:45:05,856 - INFO - Deleting torrent from qBittorrent: Constantine (2005) [1080p]
+2025-04-13 12:45:05,856 - INFO - Deleting torrent with hash bad4719c9fb4767a53dab2d957b046b9f4d998a1 (delete_files=False)
+2025-04-13 12:45:05,868 - INFO - Successfully deleted torrent with hash bad4719c9fb4767a53dab2d957b046b9f4d998a1
+2025-04-13 12:45:05,868 - INFO - Deleting content files: Constantine (2005) [1080p]
+2025-04-13 12:45:05,868 - INFO - Deleting content: /home/user/Desktop/torrents/Constantine (2005) [1080p]
+2025-04-13 12:45:05,870 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Constantine (2005) [1080p]
+2025-04-13 12:45:05,870 - INFO - Successfully processed torrent: Constantine (2005) [1080p]
+2025-04-13 12:45:05,870 - INFO - Uploading torrent: Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:45:05,870 - INFO - Starting upload: /home/user/Desktop/torrents/Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:45:05,871 - INFO - Uploading directory of size 1660.75 MB
+2025-04-13 12:49:07,877 - INFO - Successfully uploaded to onedrive:Torrents/Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:49:07,877 - INFO - Verifying upload for: Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:49:07,877 - INFO - Verifying upload: /home/user/Desktop/torrents/Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:49:10,680 - INFO - Upload verification successful for /home/user/Desktop/torrents/Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:49:10,681 - INFO - Deleting torrent from qBittorrent: Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:49:10,681 - INFO - Deleting torrent with hash 08daa465f1212ecf47a98d21210741feb3d09b71 (delete_files=False)
+2025-04-13 12:49:10,690 - INFO - Successfully deleted torrent with hash 08daa465f1212ecf47a98d21210741feb3d09b71
+2025-04-13 12:49:10,690 - INFO - Deleting content files: Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:49:10,690 - INFO - Deleting content: /home/user/Desktop/torrents/Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:49:10,692 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:49:10,693 - INFO - Successfully processed torrent: Companion (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:49:10,693 - INFO - Uploading torrent: Van Helsing (2004) [1080p]
+2025-04-13 12:49:10,693 - INFO - Starting upload: /home/user/Desktop/torrents/Van Helsing (2004) [1080p] -> onedrive:Torrents/Van Helsing (2004) [1080p]
+2025-04-13 12:49:10,693 - INFO - Uploading directory of size 1794.60 MB
+2025-04-13 12:52:23,834 - INFO - Successfully uploaded to onedrive:Torrents/Van Helsing (2004) [1080p]
+2025-04-13 12:52:23,835 - INFO - Verifying upload for: Van Helsing (2004) [1080p]
+2025-04-13 12:52:23,836 - INFO - Verifying upload: /home/user/Desktop/torrents/Van Helsing (2004) [1080p] -> onedrive:Torrents/Van Helsing (2004) [1080p]
+2025-04-13 12:52:26,221 - INFO - Upload verification successful for /home/user/Desktop/torrents/Van Helsing (2004) [1080p]
+2025-04-13 12:52:26,222 - INFO - Deleting torrent from qBittorrent: Van Helsing (2004) [1080p]
+2025-04-13 12:52:26,223 - INFO - Deleting torrent with hash c18e394c568e1f58587e04929ab98a34384eb952 (delete_files=False)
+2025-04-13 12:52:26,236 - INFO - Successfully deleted torrent with hash c18e394c568e1f58587e04929ab98a34384eb952
+2025-04-13 12:52:26,236 - INFO - Deleting content files: Van Helsing (2004) [1080p]
+2025-04-13 12:52:26,236 - INFO - Deleting content: /home/user/Desktop/torrents/Van Helsing (2004) [1080p]
+2025-04-13 12:52:26,239 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Van Helsing (2004) [1080p]
+2025-04-13 12:52:26,239 - INFO - Successfully processed torrent: Van Helsing (2004) [1080p]
+2025-04-13 12:52:26,239 - INFO - Uploading torrent: Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:52:26,239 - INFO - Starting upload: /home/user/Desktop/torrents/Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:52:26,240 - INFO - Uploading directory of size 2206.32 MB
+2025-04-13 12:56:31,215 - INFO - Successfully uploaded to onedrive:Torrents/Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:56:31,215 - INFO - Verifying upload for: Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:56:31,215 - INFO - Verifying upload: /home/user/Desktop/torrents/Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:56:33,304 - INFO - Upload verification successful for /home/user/Desktop/torrents/Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:56:33,306 - INFO - Deleting torrent from qBittorrent: Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:56:33,306 - INFO - Deleting torrent with hash 1b0f503d5c2351525863fb6afa863236f3535025 (delete_files=False)
+2025-04-13 12:56:33,318 - INFO - Successfully deleted torrent with hash 1b0f503d5c2351525863fb6afa863236f3535025
+2025-04-13 12:56:33,318 - INFO - Deleting content files: Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:56:33,319 - INFO - Deleting content: /home/user/Desktop/torrents/Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:56:33,321 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:56:33,321 - INFO - Successfully processed torrent: Smile 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:56:33,321 - INFO - Uploading torrent: Rogue One (2016) [1080p] [YTS.AG]
+2025-04-13 12:56:33,321 - INFO - Starting upload: /home/user/Desktop/torrents/Rogue One (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Rogue One (2016) [1080p] [YTS.AG]
+2025-04-13 12:56:33,322 - INFO - Uploading directory of size 2096.35 MB
+2025-04-13 13:00:09,314 - INFO - Successfully uploaded to onedrive:Torrents/Rogue One (2016) [1080p] [YTS.AG]
+2025-04-13 13:00:09,315 - INFO - Verifying upload for: Rogue One (2016) [1080p] [YTS.AG]
+2025-04-13 13:00:09,315 - INFO - Verifying upload: /home/user/Desktop/torrents/Rogue One (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Rogue One (2016) [1080p] [YTS.AG]
+2025-04-13 13:00:11,628 - INFO - Upload verification successful for /home/user/Desktop/torrents/Rogue One (2016) [1080p] [YTS.AG]
+2025-04-13 13:00:11,629 - INFO - Deleting torrent from qBittorrent: Rogue One (2016) [1080p] [YTS.AG]
+2025-04-13 13:00:11,630 - INFO - Deleting torrent with hash fc9b4318e4d45ff9b52e60d28177d58bc573cc0d (delete_files=False)
+2025-04-13 13:00:11,642 - INFO - Successfully deleted torrent with hash fc9b4318e4d45ff9b52e60d28177d58bc573cc0d
+2025-04-13 13:00:11,642 - INFO - Deleting content files: Rogue One (2016) [1080p] [YTS.AG]
+2025-04-13 13:00:11,642 - INFO - Deleting content: /home/user/Desktop/torrents/Rogue One (2016) [1080p] [YTS.AG]
+2025-04-13 13:00:11,645 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Rogue One (2016) [1080p] [YTS.AG]
+2025-04-13 13:00:11,645 - INFO - Successfully processed torrent: Rogue One (2016) [1080p] [YTS.AG]
+2025-04-13 13:00:11,645 - INFO - Uploading torrent: Star Wars Episode III Revenge of the Sith (2005) [1080p]
+2025-04-13 13:00:11,645 - INFO - Starting upload: /home/user/Desktop/torrents/Star Wars Episode III Revenge of the Sith (2005) [1080p] -> onedrive:Torrents/Star Wars Episode III Revenge of the Sith (2005) [1080p]
+2025-04-13 13:00:11,646 - INFO - Uploading directory of size 1946.39 MB
+2025-04-13 13:03:43,307 - INFO - Successfully uploaded to onedrive:Torrents/Star Wars Episode III Revenge of the Sith (2005) [1080p]
+2025-04-13 13:03:43,308 - INFO - Verifying upload for: Star Wars Episode III Revenge of the Sith (2005) [1080p]
+2025-04-13 13:03:43,308 - INFO - Verifying upload: /home/user/Desktop/torrents/Star Wars Episode III Revenge of the Sith (2005) [1080p] -> onedrive:Torrents/Star Wars Episode III Revenge of the Sith (2005) [1080p]
+2025-04-13 13:03:44,680 - INFO - Upload verification successful for /home/user/Desktop/torrents/Star Wars Episode III Revenge of the Sith (2005) [1080p]
+2025-04-13 13:03:44,681 - INFO - Deleting torrent from qBittorrent: Star Wars Episode III Revenge of the Sith (2005) [1080p]
+2025-04-13 13:03:44,681 - INFO - Deleting torrent with hash f85205ac49e3ffdfdcf8bca341d8300f306df7ad (delete_files=False)
+2025-04-13 13:03:44,693 - INFO - Successfully deleted torrent with hash f85205ac49e3ffdfdcf8bca341d8300f306df7ad
+2025-04-13 13:03:44,693 - INFO - Deleting content files: Star Wars Episode III Revenge of the Sith (2005) [1080p]
+2025-04-13 13:03:44,693 - INFO - Deleting content: /home/user/Desktop/torrents/Star Wars Episode III Revenge of the Sith (2005) [1080p]
+2025-04-13 13:03:44,695 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Star Wars Episode III Revenge of the Sith (2005) [1080p]
+2025-04-13 13:03:44,695 - INFO - Successfully processed torrent: Star Wars Episode III Revenge of the Sith (2005) [1080p]
+2025-04-13 13:03:44,695 - INFO - Uploading torrent: The Mummy Returns (2001) [1080p]
+2025-04-13 13:03:44,695 - INFO - Starting upload: /home/user/Desktop/torrents/The Mummy Returns (2001) [1080p] -> onedrive:Torrents/The Mummy Returns (2001) [1080p]
+2025-04-13 13:03:44,696 - INFO - Uploading directory of size 1946.60 MB
+2025-04-13 13:07:16,835 - INFO - Successfully uploaded to onedrive:Torrents/The Mummy Returns (2001) [1080p]
+2025-04-13 13:07:16,835 - INFO - Verifying upload for: The Mummy Returns (2001) [1080p]
+2025-04-13 13:07:16,836 - INFO - Verifying upload: /home/user/Desktop/torrents/The Mummy Returns (2001) [1080p] -> onedrive:Torrents/The Mummy Returns (2001) [1080p]
+2025-04-13 13:07:19,207 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Mummy Returns (2001) [1080p]
+2025-04-13 13:07:19,208 - INFO - Deleting torrent from qBittorrent: The Mummy Returns (2001) [1080p]
+2025-04-13 13:07:19,208 - INFO - Deleting torrent with hash 9ff873ae0e01d06eb75345ae031c68ce58c5da87 (delete_files=False)
+2025-04-13 13:07:19,219 - INFO - Successfully deleted torrent with hash 9ff873ae0e01d06eb75345ae031c68ce58c5da87
+2025-04-13 13:07:19,219 - INFO - Deleting content files: The Mummy Returns (2001) [1080p]
+2025-04-13 13:07:19,219 - INFO - Deleting content: /home/user/Desktop/torrents/The Mummy Returns (2001) [1080p]
+2025-04-13 13:07:19,221 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Mummy Returns (2001) [1080p]
+2025-04-13 13:07:19,221 - INFO - Successfully processed torrent: The Mummy Returns (2001) [1080p]
+2025-04-13 13:07:19,221 - INFO - Uploading torrent: The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:07:19,221 - INFO - Starting upload: /home/user/Desktop/torrents/The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:07:19,222 - INFO - Uploading directory of size 1578.98 MB
+2025-04-13 13:10:00,884 - INFO - Successfully uploaded to onedrive:Torrents/The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:10:00,885 - INFO - Verifying upload for: The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:10:00,885 - INFO - Verifying upload: /home/user/Desktop/torrents/The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:10:03,242 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:10:03,243 - INFO - Deleting torrent from qBittorrent: The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:10:03,243 - INFO - Deleting torrent with hash 208555419038e36c9b5a216df81f5eb2c5c03021 (delete_files=False)
+2025-04-13 13:10:03,255 - INFO - Successfully deleted torrent with hash 208555419038e36c9b5a216df81f5eb2c5c03021
+2025-04-13 13:10:03,256 - INFO - Deleting content files: The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:10:03,256 - INFO - Deleting content: /home/user/Desktop/torrents/The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:10:03,257 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:10:03,257 - INFO - Successfully processed torrent: The Super Mario Bros. Movie (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:10:03,257 - INFO - Uploading torrent: Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:10:03,258 - INFO - Starting upload: /home/user/Desktop/torrents/Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Nosferatu (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:10:03,258 - INFO - Uploading directory of size 2269.57 MB
