@@ -230,3 +230,13 @@
 2025-04-13 02:23:33,505 - INFO - Uploading torrent: Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
 2025-04-13 02:23:33,506 - INFO - Starting upload: /home/user/Downloads/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE) -> onedrive:Torrents/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
 2025-04-13 02:23:33,516 - INFO - Uploading directory of size 180449.03 MB
+2025-04-13 05:18:13,231 - INFO - Loaded configuration from config.json
+2025-04-13 05:18:13,232 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-13 05:18:13,331 - INFO - Found onedrive remote in rclone configuration
+2025-04-13 05:18:13,337 - INFO - Successfully logged in to qBittorrent
+2025-04-13 05:18:13,338 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-13 05:18:13,338 - INFO - Checking for completed torrents...
+2025-04-13 05:18:13,340 - INFO - Found 1 completed torrents
+2025-04-13 05:18:13,340 - INFO - Uploading torrent: Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 05:18:13,341 - INFO - Starting upload: /home/user/Downloads/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE) -> onedrive:Torrents/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 05:18:13,343 - INFO - Uploading directory of size 180449.03 MB
