@@ -76,3 +76,9 @@
 2025-04-13 07:49:04,506 - git-cronjob - INFO - Running command: git push origin master
 2025-04-13 07:49:05,909 - git-cronjob - INFO - Success: 
 2025-04-13 07:49:05,910 - git-cronjob - INFO - Git operations completed successfully
+2025-04-13 11:14:03,083 - git-cronjob - INFO - Starting cronjob scheduler
+2025-04-13 11:14:03,084 - git-cronjob - INFO - Configuration loaded from cron_config.json
+2025-04-13 11:14:03,084 - git-cronjob - INFO - Setting job interval to 30 minutes
+2025-04-13 11:14:03,085 - git-cronjob - INFO - Checking for changes in repository
+2025-04-13 11:14:03,090 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-13 11:14:03,090 - git-cronjob - INFO - Running command: git add .

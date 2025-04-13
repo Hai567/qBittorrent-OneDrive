@@ -343,3 +343,134 @@ OSError: [Errno 28] No space left on device
 2025-04-13 07:55:03,361 - INFO - Found 0 completed torrents
 2025-04-13 08:00:03,461 - INFO - Checking for completed torrents...
 2025-04-13 08:00:03,465 - INFO - Found 0 completed torrents
+2025-04-13 09:46:57,314 - INFO - Loaded configuration from config.json
+2025-04-13 09:46:57,314 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-13 09:46:57,399 - INFO - Found onedrive remote in rclone configuration
+2025-04-13 09:46:57,404 - INFO - Successfully logged in to qBittorrent
+2025-04-13 09:46:57,405 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-13 09:46:57,405 - INFO - Checking for completed torrents...
+2025-04-13 09:46:57,407 - INFO - Found 0 completed torrents
+2025-04-13 09:51:57,485 - INFO - Checking for completed torrents...
+2025-04-13 09:51:57,488 - INFO - Found 0 completed torrents
+2025-04-13 09:56:57,588 - INFO - Checking for completed torrents...
+2025-04-13 09:56:57,591 - INFO - Found 0 completed torrents
+2025-04-13 10:01:57,691 - INFO - Checking for completed torrents...
+2025-04-13 10:01:57,699 - INFO - Found 1 completed torrents
+2025-04-13 10:01:57,700 - INFO - Uploading torrent: His Dark Materials Season 2 Mp4 1080p
+2025-04-13 10:01:57,700 - INFO - Starting upload: /home/user/Downloads/His Dark Materials Season 2 Mp4 1080p -> onedrive:Torrents/His Dark Materials Season 2 Mp4 1080p
+2025-04-13 10:01:57,700 - INFO - Uploading directory of size 9220.81 MB
+2025-04-13 10:06:44,629 - INFO - Successfully uploaded to onedrive:Torrents/His Dark Materials Season 2 Mp4 1080p
+2025-04-13 10:06:44,629 - INFO - Verifying upload for: His Dark Materials Season 2 Mp4 1080p
+2025-04-13 10:06:44,630 - INFO - Verifying upload: /home/user/Downloads/His Dark Materials Season 2 Mp4 1080p -> onedrive:Torrents/His Dark Materials Season 2 Mp4 1080p
+2025-04-13 10:06:46,097 - INFO - Upload verification successful for /home/user/Downloads/His Dark Materials Season 2 Mp4 1080p
+2025-04-13 10:06:46,098 - INFO - Deleting torrent from qBittorrent: His Dark Materials Season 2 Mp4 1080p
+2025-04-13 10:06:46,098 - INFO - Deleting torrent with hash d444962969437e197097afbb32c52da2a069266d (delete_files=False)
+2025-04-13 10:06:46,107 - INFO - Successfully deleted torrent with hash d444962969437e197097afbb32c52da2a069266d
+2025-04-13 10:06:46,107 - INFO - Deleting content files: His Dark Materials Season 2 Mp4 1080p
+2025-04-13 10:06:46,108 - INFO - Deleting content: /home/user/Downloads/His Dark Materials Season 2 Mp4 1080p
+2025-04-13 10:06:46,112 - INFO - Successfully deleted directory: /home/user/Downloads/His Dark Materials Season 2 Mp4 1080p
+2025-04-13 10:06:46,112 - INFO - Successfully processed torrent: His Dark Materials Season 2 Mp4 1080p
+2025-04-13 10:11:46,212 - INFO - Checking for completed torrents...
+2025-04-13 10:11:46,216 - INFO - Found 1 completed torrents
+2025-04-13 10:11:46,216 - INFO - Uploading torrent: His Dark Materials Season 1 Mp4 1080p
+2025-04-13 10:11:46,216 - INFO - Starting upload: /home/user/Downloads/His Dark Materials Season 1 Mp4 1080p -> onedrive:Torrents/His Dark Materials Season 1 Mp4 1080p
+2025-04-13 10:11:46,217 - INFO - Uploading directory of size 13712.75 MB
+2025-04-13 10:18:02,842 - INFO - Successfully uploaded to onedrive:Torrents/His Dark Materials Season 1 Mp4 1080p
+2025-04-13 10:18:02,843 - INFO - Verifying upload for: His Dark Materials Season 1 Mp4 1080p
+2025-04-13 10:18:02,843 - INFO - Verifying upload: /home/user/Downloads/His Dark Materials Season 1 Mp4 1080p -> onedrive:Torrents/His Dark Materials Season 1 Mp4 1080p
+2025-04-13 10:18:05,153 - INFO - Upload verification successful for /home/user/Downloads/His Dark Materials Season 1 Mp4 1080p
+2025-04-13 10:18:05,154 - INFO - Deleting torrent from qBittorrent: His Dark Materials Season 1 Mp4 1080p
+2025-04-13 10:18:05,155 - INFO - Deleting torrent with hash 5d2c55cabe273604462098f7a8d62c0ed45f9b39 (delete_files=False)
+2025-04-13 10:18:05,164 - INFO - Successfully deleted torrent with hash 5d2c55cabe273604462098f7a8d62c0ed45f9b39
+2025-04-13 10:18:05,164 - INFO - Deleting content files: His Dark Materials Season 1 Mp4 1080p
+2025-04-13 10:18:05,164 - INFO - Deleting content: /home/user/Downloads/His Dark Materials Season 1 Mp4 1080p
+2025-04-13 10:18:05,167 - INFO - Successfully deleted directory: /home/user/Downloads/His Dark Materials Season 1 Mp4 1080p
+2025-04-13 10:18:05,167 - INFO - Successfully processed torrent: His Dark Materials Season 1 Mp4 1080p
+2025-04-13 10:23:05,267 - INFO - Checking for completed torrents...
+2025-04-13 10:23:05,271 - INFO - Found 1 completed torrents
+2025-04-13 10:23:05,271 - INFO - Uploading torrent: Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE
+2025-04-13 10:23:05,271 - INFO - Starting upload: /home/user/Downloads/Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE -> onedrive:Torrents/Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE
+2025-04-13 10:23:05,272 - INFO - Uploading directory of size 17163.24 MB
+2025-04-13 10:32:01,346 - INFO - Successfully uploaded to onedrive:Torrents/Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE
+2025-04-13 10:32:01,346 - INFO - Verifying upload for: Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE
+2025-04-13 10:32:01,347 - INFO - Verifying upload: /home/user/Downloads/Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE -> onedrive:Torrents/Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE
+2025-04-13 10:32:04,516 - INFO - Upload verification successful for /home/user/Downloads/Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE
+2025-04-13 10:32:04,615 - INFO - Deleting torrent from qBittorrent: Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE
+2025-04-13 10:32:04,616 - INFO - Deleting torrent with hash 2eaf2232114fa87e4e4871121a465861fdc4cf71 (delete_files=False)
+2025-04-13 10:32:04,627 - INFO - Successfully deleted torrent with hash 2eaf2232114fa87e4e4871121a465861fdc4cf71
+2025-04-13 10:32:04,627 - INFO - Deleting content files: Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE
+2025-04-13 10:32:04,627 - INFO - Deleting content: /home/user/Downloads/Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE
+2025-04-13 10:32:04,642 - INFO - Successfully deleted directory: /home/user/Downloads/Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE
+2025-04-13 10:32:04,643 - INFO - Successfully processed torrent: Peaky Blinders (2013-2022) S01-S06 720p BluRay HEVC x265 BONE
+2025-04-13 10:37:04,743 - INFO - Checking for completed torrents...
+2025-04-13 10:37:04,748 - INFO - Found 5 completed torrents
+2025-04-13 10:37:04,748 - INFO - Uploading torrent: The Conjuring (2013) [1080p]
+2025-04-13 10:37:04,748 - INFO - Starting upload: /home/user/Desktop/torrents/The Conjuring (2013) [1080p] -> onedrive:Torrents/The Conjuring (2013) [1080p]
+2025-04-13 10:37:04,748 - INFO - Uploading directory of size 1691.82 MB
+2025-04-13 10:40:05,381 - INFO - Successfully uploaded to onedrive:Torrents/The Conjuring (2013) [1080p]
+2025-04-13 10:40:05,382 - INFO - Verifying upload for: The Conjuring (2013) [1080p]
+2025-04-13 10:40:05,382 - INFO - Verifying upload: /home/user/Desktop/torrents/The Conjuring (2013) [1080p] -> onedrive:Torrents/The Conjuring (2013) [1080p]
+2025-04-13 10:40:07,688 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Conjuring (2013) [1080p]
+2025-04-13 10:40:07,797 - INFO - Deleting torrent from qBittorrent: The Conjuring (2013) [1080p]
+2025-04-13 10:40:07,797 - INFO - Deleting torrent with hash 374a9448662b6d8073fe54933b52d9fc8e206b93 (delete_files=False)
+2025-04-13 10:40:07,807 - INFO - Successfully deleted torrent with hash 374a9448662b6d8073fe54933b52d9fc8e206b93
+2025-04-13 10:40:07,808 - INFO - Deleting content files: The Conjuring (2013) [1080p]
+2025-04-13 10:40:07,808 - INFO - Deleting content: /home/user/Desktop/torrents/The Conjuring (2013) [1080p]
+2025-04-13 10:40:07,809 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Conjuring (2013) [1080p]
+2025-04-13 10:40:07,809 - INFO - Successfully processed torrent: The Conjuring (2013) [1080p]
+2025-04-13 10:40:07,809 - INFO - Uploading torrent: Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 10:40:07,809 - INFO - Starting upload: /home/user/Desktop/torrents/Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 10:40:07,809 - INFO - Uploading directory of size 3085.87 MB
+2025-04-13 10:46:26,867 - INFO - Successfully uploaded to onedrive:Torrents/Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 10:46:26,868 - INFO - Verifying upload for: Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 10:46:26,868 - INFO - Verifying upload: /home/user/Desktop/torrents/Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 10:46:29,169 - INFO - Upload verification successful for /home/user/Desktop/torrents/Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 10:46:29,170 - INFO - Deleting torrent from qBittorrent: Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 10:46:29,170 - INFO - Deleting torrent with hash 41fc13d0a99d5b31aa9bdc7b46bc9d98e5bc7138 (delete_files=False)
+2025-04-13 10:46:29,180 - INFO - Successfully deleted torrent with hash 41fc13d0a99d5b31aa9bdc7b46bc9d98e5bc7138
+2025-04-13 10:46:29,180 - INFO - Deleting content files: Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 10:46:29,181 - INFO - Deleting content: /home/user/Desktop/torrents/Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 10:46:29,182 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 10:46:29,182 - INFO - Successfully processed torrent: Oppenheimer (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 10:46:29,182 - INFO - Uploading torrent: The Conjuring 2 (2016) [1080p] [YTS.MX]
+2025-04-13 10:46:29,182 - INFO - Starting upload: /home/user/Desktop/torrents/The Conjuring 2 (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Conjuring 2 (2016) [1080p] [YTS.MX]
+2025-04-13 10:46:29,182 - INFO - Uploading directory of size 2075.68 MB
+2025-04-13 10:50:38,201 - INFO - Successfully uploaded to onedrive:Torrents/The Conjuring 2 (2016) [1080p] [YTS.MX]
+2025-04-13 10:50:38,202 - INFO - Verifying upload for: The Conjuring 2 (2016) [1080p] [YTS.MX]
+2025-04-13 10:50:38,202 - INFO - Verifying upload: /home/user/Desktop/torrents/The Conjuring 2 (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Conjuring 2 (2016) [1080p] [YTS.MX]
+2025-04-13 10:50:40,496 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Conjuring 2 (2016) [1080p] [YTS.AG]
+2025-04-13 10:50:40,497 - INFO - Deleting torrent from qBittorrent: The Conjuring 2 (2016) [1080p] [YTS.MX]
+2025-04-13 10:50:40,497 - INFO - Deleting torrent with hash b51a833c9c2df976d1b9c9864aadfd20a3008641 (delete_files=False)
+2025-04-13 10:50:40,508 - INFO - Successfully deleted torrent with hash b51a833c9c2df976d1b9c9864aadfd20a3008641
+2025-04-13 10:50:40,508 - INFO - Deleting content files: The Conjuring 2 (2016) [1080p] [YTS.MX]
+2025-04-13 10:50:40,508 - INFO - Deleting content: /home/user/Desktop/torrents/The Conjuring 2 (2016) [1080p] [YTS.AG]
+2025-04-13 10:50:40,509 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Conjuring 2 (2016) [1080p] [YTS.AG]
+2025-04-13 10:50:40,509 - INFO - Successfully processed torrent: The Conjuring 2 (2016) [1080p] [YTS.MX]
+2025-04-13 10:50:40,509 - INFO - Uploading torrent: The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 10:50:40,510 - INFO - Starting upload: /home/user/Desktop/torrents/The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 10:50:40,510 - INFO - Uploading directory of size 2071.28 MB
+2025-04-13 11:00:00,321 - INFO - Successfully uploaded to onedrive:Torrents/The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:00:00,321 - INFO - Verifying upload for: The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:00:00,321 - INFO - Verifying upload: /home/user/Desktop/torrents/The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:00:02,715 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:00:02,716 - INFO - Deleting torrent from qBittorrent: The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:00:02,716 - INFO - Deleting torrent with hash 9fd5293d97b5d1641b2ef1ac4e755a9bdc1d5e10 (delete_files=False)
+2025-04-13 11:00:02,727 - INFO - Successfully deleted torrent with hash 9fd5293d97b5d1641b2ef1ac4e755a9bdc1d5e10
+2025-04-13 11:00:02,727 - INFO - Deleting content files: The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:00:02,727 - INFO - Deleting content: /home/user/Desktop/torrents/The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:00:02,729 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:00:02,729 - INFO - Successfully processed torrent: The Nun II (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-13 11:00:02,729 - INFO - Uploading torrent: Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
+2025-04-13 11:00:02,729 - INFO - Starting upload: /home/user/Desktop/torrents/Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869 -> onedrive:Torrents/Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
+2025-04-13 11:00:02,730 - INFO - Uploading directory of size 5270.65 MB
+2025-04-13 11:12:40,673 - INFO - Successfully uploaded to onedrive:Torrents/Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
+2025-04-13 11:12:40,673 - INFO - Verifying upload for: Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
+2025-04-13 11:12:40,673 - INFO - Verifying upload: /home/user/Desktop/torrents/Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869 -> onedrive:Torrents/Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
+2025-04-13 11:12:42,533 - INFO - Upload verification successful for /home/user/Desktop/torrents/Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
+2025-04-13 11:12:42,534 - INFO - Deleting torrent from qBittorrent: Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
+2025-04-13 11:12:42,534 - INFO - Deleting torrent with hash 19d0c3f10bd19867d19ca3dff445c833cb927b35 (delete_files=False)
+2025-04-13 11:12:42,543 - INFO - Successfully deleted torrent with hash 19d0c3f10bd19867d19ca3dff445c833cb927b35
+2025-04-13 11:12:42,544 - INFO - Deleting content files: Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
+2025-04-13 11:12:42,544 - INFO - Deleting content: /home/user/Desktop/torrents/Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
+2025-04-13 11:12:42,547 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
+2025-04-13 11:12:42,547 - INFO - Successfully processed torrent: Captain.America.Brave.New.World.2025.1080p.TeleSync.X264.Will1869
