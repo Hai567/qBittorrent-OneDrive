@@ -1,0 +1,25 @@
+{
+    "qbittorrent": {
+        "host": "localhost",
+        "port": 8080,
+        "username": "admin",
+        "password": "adminadmin"
+    },
+    "rclone": {
+        "remote_name": "onedrive",
+        "remote_path": "Torrents"
+    },
+    "check_interval": 300,
+    "use_categories": true,
+    "max_upload_failures": 3,
+    "continue_on_errors": false,
+    "auto_delete": {
+        "delete_from_client": true,
+        "delete_content": true
+    },
+    "verification": {
+        "verify_uploads": true,
+        "use_full_hash": false,
+        "verification_timeout": 300
+    }
+}
