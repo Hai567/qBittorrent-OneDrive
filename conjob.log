@@ -187,3 +187,16 @@
 2025-04-13 16:56:03,564 - git-cronjob - INFO - Checking for changes in repository
 2025-04-13 16:56:03,571 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
 2025-04-13 16:56:03,571 - git-cronjob - INFO - Running command: git add .
+2025-04-13 16:56:03,580 - git-cronjob - INFO - Success: 
+2025-04-13 16:56:03,580 - git-cronjob - INFO - Running command: git commit -m [bot] update crawling data
+2025-04-13 16:56:03,601 - git-cronjob - INFO - Success: [master 23f296d] [bot] update crawling data
+ 3 files changed, 181 insertions(+)
+2025-04-13 16:56:03,602 - git-cronjob - INFO - Running command: git push origin master
+2025-04-13 16:56:04,827 - git-cronjob - INFO - Success: 
+2025-04-13 16:56:04,827 - git-cronjob - INFO - Git operations completed successfully
+2025-04-13 23:43:01,631 - git-cronjob - INFO - Starting cronjob scheduler
+2025-04-13 23:43:01,631 - git-cronjob - INFO - Configuration loaded from cron_config.json
+2025-04-13 23:43:01,631 - git-cronjob - INFO - Setting job interval to 30 minutes
+2025-04-13 23:43:01,631 - git-cronjob - INFO - Checking for changes in repository
+2025-04-13 23:43:01,636 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-13 23:43:01,636 - git-cronjob - INFO - Running command: git add .

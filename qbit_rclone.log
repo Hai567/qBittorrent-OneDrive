@@ -1344,3 +1344,71 @@ OSError: [Errno 28] No space left on device
 2025-04-13 16:55:30,274 - INFO - Uploading torrent: Independence Day (1996) [1080p] [YTS.AG]
 2025-04-13 16:55:30,274 - INFO - Starting upload: /home/user/Desktop/torrents/Independence Day (1996) [1080p] [YTS.AG] -> onedrive:Torrents/Independence Day (1996) [1080p] [YTS.AG]
 2025-04-13 16:55:30,274 - INFO - Uploading directory of size 2389.56 MB
+2025-04-13 17:00:33,336 - INFO - Successfully uploaded to onedrive:Torrents/Independence Day (1996) [1080p] [YTS.AG]
+2025-04-13 17:00:33,336 - INFO - Verifying upload for: Independence Day (1996) [1080p] [YTS.AG]
+2025-04-13 17:00:33,336 - INFO - Verifying upload: /home/user/Desktop/torrents/Independence Day (1996) [1080p] [YTS.AG] -> onedrive:Torrents/Independence Day (1996) [1080p] [YTS.AG]
+2025-04-13 17:00:35,193 - INFO - Upload verification successful for /home/user/Desktop/torrents/Independence Day (1996) [1080p] [YTS.AG]
+2025-04-13 17:00:35,195 - INFO - Deleting torrent from qBittorrent: Independence Day (1996) [1080p] [YTS.AG]
+2025-04-13 17:00:35,195 - INFO - Deleting torrent with hash 280f93268d0e59d9b52a9f2d3bc8b2084374a990 (delete_files=False)
+2025-04-13 17:00:35,205 - INFO - Successfully deleted torrent with hash 280f93268d0e59d9b52a9f2d3bc8b2084374a990
+2025-04-13 17:00:35,205 - INFO - Deleting content files: Independence Day (1996) [1080p] [YTS.AG]
+2025-04-13 17:00:35,205 - INFO - Deleting content: /home/user/Desktop/torrents/Independence Day (1996) [1080p] [YTS.AG]
+2025-04-13 17:00:35,206 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Independence Day (1996) [1080p] [YTS.AG]
+2025-04-13 17:00:35,206 - INFO - Successfully processed torrent: Independence Day (1996) [1080p] [YTS.AG]
+2025-04-13 17:00:35,207 - INFO - Uploading torrent: Spider Man 3 (2007) [1080p]
+2025-04-13 17:00:35,207 - INFO - Starting upload: /home/user/Desktop/torrents/Spider Man 3 (2007) [1080p] -> onedrive:Torrents/Spider Man 3 (2007) [1080p]
+2025-04-13 17:00:35,207 - INFO - Uploading directory of size 2100.64 MB
+2025-04-13 17:04:53,447 - INFO - Successfully uploaded to onedrive:Torrents/Spider Man 3 (2007) [1080p]
+2025-04-13 17:04:53,447 - INFO - Verifying upload for: Spider Man 3 (2007) [1080p]
+2025-04-13 17:04:53,447 - INFO - Verifying upload: /home/user/Desktop/torrents/Spider Man 3 (2007) [1080p] -> onedrive:Torrents/Spider Man 3 (2007) [1080p]
+2025-04-13 17:04:55,689 - INFO - Upload verification successful for /home/user/Desktop/torrents/Spider Man 3 (2007) [1080p]
+2025-04-13 17:04:55,690 - INFO - Deleting torrent from qBittorrent: Spider Man 3 (2007) [1080p]
+2025-04-13 17:04:55,690 - INFO - Deleting torrent with hash fe56bf80229c4d35a5e3dd4f12ca78945e91189e (delete_files=False)
+2025-04-13 17:04:55,700 - INFO - Successfully deleted torrent with hash fe56bf80229c4d35a5e3dd4f12ca78945e91189e
+2025-04-13 17:04:55,700 - INFO - Deleting content files: Spider Man 3 (2007) [1080p]
+2025-04-13 17:04:55,700 - INFO - Deleting content: /home/user/Desktop/torrents/Spider Man 3 (2007) [1080p]
+2025-04-13 17:04:55,701 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Spider Man 3 (2007) [1080p]
+2025-04-13 17:04:55,702 - INFO - Successfully processed torrent: Spider Man 3 (2007) [1080p]
+2025-04-13 17:04:55,702 - INFO - Uploading torrent: Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 17:04:55,703 - INFO - Starting upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 17:04:55,703 - INFO - Uploading file of size 2771.82 MB
+2025-04-13 17:09:28,677 - INFO - Successfully uploaded to onedrive:Torrents/Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 17:09:28,677 - INFO - Verifying upload for: Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 17:09:28,678 - INFO - Verifying upload: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv -> onedrive:Torrents/Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 17:09:30,969 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 17:09:30,971 - INFO - Deleting torrent from qBittorrent: Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 17:09:30,971 - INFO - Deleting torrent with hash 7a6b86fb508a47f593984f2a2f4ab4ea23fdb9e1 (delete_files=False)
+2025-04-13 17:09:30,982 - INFO - Successfully deleted torrent with hash 7a6b86fb508a47f593984f2a2f4ab4ea23fdb9e1
+2025-04-13 17:09:30,982 - INFO - Deleting content files: Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 17:09:30,982 - INFO - Deleting content: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 17:09:30,983 - INFO - Successfully deleted file: /home/user/Desktop/torrents/Hyper Knife 2025/Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 17:09:30,983 - INFO - Successfully processed torrent: Hyper.Knife.S01E01.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+2025-04-13 17:09:30,983 - INFO - Uploading torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-13 17:09:30,983 - INFO - Starting upload: /home/user/Desktop/torrents/Sherlock Holmes A Game Of Shadows (2011) [1080p] -> onedrive:Torrents/Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-13 17:09:30,984 - INFO - Uploading directory of size 1640.35 MB
+2025-04-13 17:12:34,424 - INFO - Successfully uploaded to onedrive:Torrents/Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-13 17:12:34,424 - INFO - Verifying upload for: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-13 17:12:34,424 - INFO - Verifying upload: /home/user/Desktop/torrents/Sherlock Holmes A Game Of Shadows (2011) [1080p] -> onedrive:Torrents/Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-13 17:12:36,989 - INFO - Upload verification successful for /home/user/Desktop/torrents/Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-13 17:12:36,990 - INFO - Deleting torrent from qBittorrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-13 17:12:36,990 - INFO - Deleting torrent with hash 7de2d079c2ad50f4af24870d800f5d5a23947721 (delete_files=False)
+2025-04-13 17:12:36,999 - INFO - Successfully deleted torrent with hash 7de2d079c2ad50f4af24870d800f5d5a23947721
+2025-04-13 17:12:37,000 - INFO - Deleting content files: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-13 17:12:37,000 - INFO - Deleting content: /home/user/Desktop/torrents/Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-13 17:12:37,000 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-13 17:12:37,001 - INFO - Successfully processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-13 17:17:37,101 - INFO - Checking for completed torrents...
+2025-04-13 17:17:37,110 - INFO - Found 22 completed torrents
+2025-04-13 17:17:37,110 - INFO - Uploading torrent: www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-13 17:17:37,110 - INFO - Starting upload: /home/user/Desktop/torrents/Hyper Knife 2025/www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH -> onedrive:Torrents/www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-13 17:17:37,110 - INFO - Uploading directory of size 2506.16 MB
+2025-04-13 23:41:24,781 - INFO - Loaded configuration from config.json
+2025-04-13 23:41:24,781 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-13 23:41:24,862 - INFO - Found onedrive remote in rclone configuration
+2025-04-13 23:41:24,867 - INFO - Successfully logged in to qBittorrent
+2025-04-13 23:41:24,867 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-13 23:41:24,867 - INFO - Checking for completed torrents...
+2025-04-13 23:41:24,874 - INFO - Found 22 completed torrents
+2025-04-13 23:41:24,874 - INFO - Uploading torrent: The Hunger Games (2012) [1080p]
+2025-04-13 23:41:24,874 - INFO - Starting upload: /home/user/Desktop/torrents/The Hunger Games (2012) [1080p] -> onedrive:Torrents/The Hunger Games (2012) [1080p]
+2025-04-13 23:41:24,875 - INFO - Uploading directory of size 2050.14 MB
