@@ -903,3 +903,86 @@ OSError: [Errno 28] No space left on device
 2025-04-13 13:43:35,043 - INFO - Uploading torrent: The Matrix Revolutions (2003) [1080p]
 2025-04-13 13:43:35,043 - INFO - Starting upload: /home/user/Desktop/torrents/The Matrix Revolutions (2003) [1080p] -> onedrive:Torrents/The Matrix Revolutions (2003) [1080p]
 2025-04-13 13:43:35,043 - INFO - Uploading directory of size 1897.77 MB
+2025-04-13 13:47:05,699 - INFO - Successfully uploaded to onedrive:Torrents/The Matrix Revolutions (2003) [1080p]
+2025-04-13 13:47:05,700 - INFO - Verifying upload for: The Matrix Revolutions (2003) [1080p]
+2025-04-13 13:47:05,700 - INFO - Verifying upload: /home/user/Desktop/torrents/The Matrix Revolutions (2003) [1080p] -> onedrive:Torrents/The Matrix Revolutions (2003) [1080p]
+2025-04-13 13:47:08,293 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Matrix Revolutions (2003) [1080p]
+2025-04-13 13:47:08,295 - INFO - Deleting torrent from qBittorrent: The Matrix Revolutions (2003) [1080p]
+2025-04-13 13:47:08,295 - INFO - Deleting torrent with hash 0b1fd1cc66b90232dd0298558627173d8b442153 (delete_files=False)
+2025-04-13 13:47:08,305 - INFO - Successfully deleted torrent with hash 0b1fd1cc66b90232dd0298558627173d8b442153
+2025-04-13 13:47:08,305 - INFO - Deleting content files: The Matrix Revolutions (2003) [1080p]
+2025-04-13 13:47:08,306 - INFO - Deleting content: /home/user/Desktop/torrents/The Matrix Revolutions (2003) [1080p]
+2025-04-13 13:47:08,308 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Matrix Revolutions (2003) [1080p]
+2025-04-13 13:47:08,308 - INFO - Successfully processed torrent: The Matrix Revolutions (2003) [1080p]
+2025-04-13 13:47:08,308 - INFO - Uploading torrent: Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:47:08,308 - INFO - Starting upload: /home/user/Desktop/torrents/Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:47:08,308 - INFO - Uploading directory of size 1708.26 MB
+2025-04-13 13:50:33,329 - INFO - Successfully uploaded to onedrive:Torrents/Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:50:33,330 - INFO - Verifying upload for: Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:50:33,330 - INFO - Verifying upload: /home/user/Desktop/torrents/Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:50:35,659 - INFO - Upload verification successful for /home/user/Desktop/torrents/Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:50:35,661 - INFO - Deleting torrent from qBittorrent: Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:50:35,661 - INFO - Deleting torrent with hash 0a270c6ae80ba37389d80c5182854465806a58e0 (delete_files=False)
+2025-04-13 13:50:35,673 - INFO - Successfully deleted torrent with hash 0a270c6ae80ba37389d80c5182854465806a58e0
+2025-04-13 13:50:35,674 - INFO - Deleting content files: Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:50:35,674 - INFO - Deleting content: /home/user/Desktop/torrents/Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:50:35,675 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:50:35,676 - INFO - Successfully processed torrent: Moana 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:50:35,676 - INFO - Uploading torrent: Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:50:35,676 - INFO - Starting upload: /home/user/Desktop/torrents/Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:50:35,676 - INFO - Uploading directory of size 1862.51 MB
+2025-04-13 13:54:02,642 - INFO - Successfully uploaded to onedrive:Torrents/Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:54:02,642 - INFO - Verifying upload for: Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:54:02,642 - INFO - Verifying upload: /home/user/Desktop/torrents/Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:54:05,395 - INFO - Upload verification successful for /home/user/Desktop/torrents/Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:54:05,397 - INFO - Deleting torrent from qBittorrent: Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:54:05,397 - INFO - Deleting torrent with hash 18a883a25630a387504ed600a2f1d9e44b012e75 (delete_files=False)
+2025-04-13 13:54:05,407 - INFO - Successfully deleted torrent with hash 18a883a25630a387504ed600a2f1d9e44b012e75
+2025-04-13 13:54:05,407 - INFO - Deleting content files: Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:54:05,407 - INFO - Deleting content: /home/user/Desktop/torrents/Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:54:05,409 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:54:05,409 - INFO - Successfully processed torrent: Venom The Last Dance (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 13:54:05,409 - INFO - Uploading torrent: Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:54:05,409 - INFO - Starting upload: /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:54:05,409 - INFO - Uploading directory of size 2460.99 MB
+2025-04-13 13:59:41,220 - INFO - Successfully uploaded to onedrive:Torrents/Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:59:41,220 - INFO - Verifying upload for: Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:59:41,220 - INFO - Verifying upload: /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:59:43,826 - INFO - Upload verification successful for /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:59:43,828 - INFO - Deleting torrent from qBittorrent: Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:59:43,828 - INFO - Deleting torrent with hash c7bad62f1380efcd22c174ce3b671189593a2f5f (delete_files=False)
+2025-04-13 13:59:43,840 - INFO - Successfully deleted torrent with hash c7bad62f1380efcd22c174ce3b671189593a2f5f
+2025-04-13 13:59:43,840 - INFO - Deleting content files: Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:59:43,840 - INFO - Deleting content: /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:59:43,844 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:59:43,844 - INFO - Successfully processed torrent: Shazam Fury Of The Gods (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 13:59:43,844 - INFO - Uploading torrent: Creed (2015) [1080p] [YTS.AG]
+2025-04-13 13:59:43,844 - INFO - Starting upload: /home/user/Desktop/torrents/Creed (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Creed (2015) [1080p] [YTS.AG]
+2025-04-13 13:59:43,845 - INFO - Uploading directory of size 2072.33 MB
+2025-04-13 14:03:29,443 - INFO - Successfully uploaded to onedrive:Torrents/Creed (2015) [1080p] [YTS.AG]
+2025-04-13 14:03:29,443 - INFO - Verifying upload for: Creed (2015) [1080p] [YTS.AG]
+2025-04-13 14:03:29,443 - INFO - Verifying upload: /home/user/Desktop/torrents/Creed (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Creed (2015) [1080p] [YTS.AG]
+2025-04-13 14:03:31,207 - INFO - Upload verification successful for /home/user/Desktop/torrents/Creed (2015) [1080p] [YTS.AG]
+2025-04-13 14:03:31,208 - INFO - Deleting torrent from qBittorrent: Creed (2015) [1080p] [YTS.AG]
+2025-04-13 14:03:31,208 - INFO - Deleting torrent with hash 61f4841963901478db54de00aecc72297ec2e0bd (delete_files=False)
+2025-04-13 14:03:31,217 - INFO - Successfully deleted torrent with hash 61f4841963901478db54de00aecc72297ec2e0bd
+2025-04-13 14:03:31,217 - INFO - Deleting content files: Creed (2015) [1080p] [YTS.AG]
+2025-04-13 14:03:31,217 - INFO - Deleting content: /home/user/Desktop/torrents/Creed (2015) [1080p] [YTS.AG]
+2025-04-13 14:03:31,218 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Creed (2015) [1080p] [YTS.AG]
+2025-04-13 14:03:31,218 - INFO - Successfully processed torrent: Creed (2015) [1080p] [YTS.AG]
+2025-04-13 14:03:31,218 - INFO - Uploading torrent: The Mummy Tomb of the Dragon Emperor (2008) [1080p]
+2025-04-13 14:03:31,219 - INFO - Starting upload: /home/user/Desktop/torrents/The Mummy Tomb of the Dragon Emperor (2008) [1080p] -> onedrive:Torrents/The Mummy Tomb of the Dragon Emperor (2008) [1080p]
+2025-04-13 14:03:31,219 - INFO - Uploading directory of size 1741.24 MB
+2025-04-13 14:06:41,990 - INFO - Successfully uploaded to onedrive:Torrents/The Mummy Tomb of the Dragon Emperor (2008) [1080p]
+2025-04-13 14:06:41,990 - INFO - Verifying upload for: The Mummy Tomb of the Dragon Emperor (2008) [1080p]
+2025-04-13 14:06:41,990 - INFO - Verifying upload: /home/user/Desktop/torrents/The Mummy Tomb of the Dragon Emperor (2008) [1080p] -> onedrive:Torrents/The Mummy Tomb of the Dragon Emperor (2008) [1080p]
+2025-04-13 14:06:44,330 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Mummy Tomb of the Dragon Emperor (2008) [1080p]
+2025-04-13 14:06:44,331 - INFO - Deleting torrent from qBittorrent: The Mummy Tomb of the Dragon Emperor (2008) [1080p]
+2025-04-13 14:06:44,331 - INFO - Deleting torrent with hash ba93d6a6c57d157f048f2e97c75143b1727412c5 (delete_files=False)
+2025-04-13 14:06:44,342 - INFO - Successfully deleted torrent with hash ba93d6a6c57d157f048f2e97c75143b1727412c5
+2025-04-13 14:06:44,342 - INFO - Deleting content files: The Mummy Tomb of the Dragon Emperor (2008) [1080p]
+2025-04-13 14:06:44,342 - INFO - Deleting content: /home/user/Desktop/torrents/The Mummy Tomb of the Dragon Emperor (2008) [1080p]
+2025-04-13 14:06:44,343 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Mummy Tomb of the Dragon Emperor (2008) [1080p]
+2025-04-13 14:06:44,343 - INFO - Successfully processed torrent: The Mummy Tomb of the Dragon Emperor (2008) [1080p]
+2025-04-13 14:11:44,443 - INFO - Checking for completed torrents...
+2025-04-13 14:11:44,446 - INFO - Found 0 completed torrents
