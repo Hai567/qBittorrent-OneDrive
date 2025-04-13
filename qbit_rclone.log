@@ -535,3 +535,117 @@ OSError: [Errno 28] No space left on device
 2025-04-13 11:41:38,116 - INFO - Uploading torrent: Independence Day Resurgence (2016) [1080p] [YTS.AG]
 2025-04-13 11:41:38,117 - INFO - Starting upload: /home/user/Desktop/torrents/Independence Day Resurgence (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Independence Day Resurgence (2016) [1080p] [YTS.AG]
 2025-04-13 11:41:38,117 - INFO - Uploading directory of size 1864.75 MB
+2025-04-13 11:45:20,095 - INFO - Successfully uploaded to onedrive:Torrents/Independence Day Resurgence (2016) [1080p] [YTS.AG]
+2025-04-13 11:45:20,096 - INFO - Verifying upload for: Independence Day Resurgence (2016) [1080p] [YTS.AG]
+2025-04-13 11:45:20,096 - INFO - Verifying upload: /home/user/Desktop/torrents/Independence Day Resurgence (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Independence Day Resurgence (2016) [1080p] [YTS.AG]
+2025-04-13 11:45:22,436 - INFO - Upload verification successful for /home/user/Desktop/torrents/Independence Day Resurgence (2016) [1080p] [YTS.AG]
+2025-04-13 11:45:22,437 - INFO - Deleting torrent from qBittorrent: Independence Day Resurgence (2016) [1080p] [YTS.AG]
+2025-04-13 11:45:22,437 - INFO - Deleting torrent with hash 70dc736f22fe5455fe9a27c1e6ada4b23175defa (delete_files=False)
+2025-04-13 11:45:22,446 - INFO - Successfully deleted torrent with hash 70dc736f22fe5455fe9a27c1e6ada4b23175defa
+2025-04-13 11:45:22,446 - INFO - Deleting content files: Independence Day Resurgence (2016) [1080p] [YTS.AG]
+2025-04-13 11:45:22,446 - INFO - Deleting content: /home/user/Desktop/torrents/Independence Day Resurgence (2016) [1080p] [YTS.AG]
+2025-04-13 11:45:22,449 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Independence Day Resurgence (2016) [1080p] [YTS.AG]
+2025-04-13 11:45:22,449 - INFO - Successfully processed torrent: Independence Day Resurgence (2016) [1080p] [YTS.AG]
+2025-04-13 11:45:22,449 - INFO - Uploading torrent: YTS.MX
+2025-04-13 11:45:22,449 - INFO - Starting upload: /home/user/Desktop/torrents/YTS.MX -> onedrive:Torrents/YTS.MX
+2025-04-13 11:45:22,449 - INFO - Uploading directory of size 0.05 MB
+2025-04-13 11:45:28,402 - INFO - Successfully uploaded to onedrive:Torrents/YTS.MX
+2025-04-13 11:45:28,403 - INFO - Verifying upload for: YTS.MX
+2025-04-13 11:45:28,403 - INFO - Verifying upload: /home/user/Desktop/torrents/YTS.MX -> onedrive:Torrents/YTS.MX
+2025-04-13 11:45:30,671 - INFO - Upload verification successful for /home/user/Desktop/torrents/YTS.MX
+2025-04-13 11:45:30,737 - INFO - Deleting torrent from qBittorrent: YTS.MX
+2025-04-13 11:45:30,737 - INFO - Deleting torrent with hash 947519273e5086e327939bfad8a79f7f29f2859c (delete_files=False)
+2025-04-13 11:45:30,748 - INFO - Successfully deleted torrent with hash 947519273e5086e327939bfad8a79f7f29f2859c
+2025-04-13 11:45:30,748 - INFO - Deleting content files: YTS.MX
+2025-04-13 11:45:30,748 - INFO - Deleting content: /home/user/Desktop/torrents/YTS.MX
+2025-04-13 11:45:30,749 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/YTS.MX
+2025-04-13 11:45:30,749 - INFO - Successfully processed torrent: YTS.MX
+2025-04-13 11:45:30,749 - INFO - Uploading torrent: The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:45:30,749 - INFO - Starting upload: /home/user/Desktop/torrents/The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:45:30,749 - INFO - Uploading directory of size 2111.84 MB
+2025-04-13 11:49:29,102 - INFO - Successfully uploaded to onedrive:Torrents/The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:49:29,103 - INFO - Verifying upload for: The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:49:29,103 - INFO - Verifying upload: /home/user/Desktop/torrents/The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:49:31,722 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:49:31,723 - INFO - Deleting torrent from qBittorrent: The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:49:31,723 - INFO - Deleting torrent with hash 700691305e73c7c8829ee1b528b5ee3275423b1e (delete_files=False)
+2025-04-13 11:49:31,736 - INFO - Successfully deleted torrent with hash 700691305e73c7c8829ee1b528b5ee3275423b1e
+2025-04-13 11:49:31,736 - INFO - Deleting content files: The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:49:31,736 - INFO - Deleting content: /home/user/Desktop/torrents/The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:49:31,739 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:49:31,739 - INFO - Successfully processed torrent: The Conjuring The Devil Made Me Do It (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:49:31,739 - INFO - Uploading torrent: How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 11:49:31,739 - INFO - Starting upload: /home/user/Desktop/torrents/How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 11:49:31,739 - INFO - Uploading directory of size 1630.68 MB
+2025-04-13 11:52:19,182 - INFO - Successfully uploaded to onedrive:Torrents/How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 11:52:19,182 - INFO - Verifying upload for: How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 11:52:19,182 - INFO - Verifying upload: /home/user/Desktop/torrents/How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 11:52:20,968 - INFO - Upload verification successful for /home/user/Desktop/torrents/How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 11:52:20,968 - INFO - Deleting torrent from qBittorrent: How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 11:52:20,969 - INFO - Deleting torrent with hash d7013f374f30b5a4755d4be5a25a4352a35d30ed (delete_files=False)
+2025-04-13 11:52:20,978 - INFO - Successfully deleted torrent with hash d7013f374f30b5a4755d4be5a25a4352a35d30ed
+2025-04-13 11:52:20,979 - INFO - Deleting content files: How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 11:52:20,979 - INFO - Deleting content: /home/user/Desktop/torrents/How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 11:52:20,980 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 11:52:20,980 - INFO - Successfully processed torrent: How To Train Your Dragon The Hidden World (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-13 11:52:20,980 - INFO - Uploading torrent: Assassin's Creed (2016) [1080p] [YTS.AG]
+2025-04-13 11:52:20,981 - INFO - Starting upload: /home/user/Desktop/torrents/Assassin's Creed (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Assassin's Creed (2016) [1080p] [YTS.AG]
+2025-04-13 11:52:20,981 - INFO - Uploading directory of size 1810.94 MB
+2025-04-13 11:55:24,457 - INFO - Successfully uploaded to onedrive:Torrents/Assassin's Creed (2016) [1080p] [YTS.AG]
+2025-04-13 11:55:24,458 - INFO - Verifying upload for: Assassin's Creed (2016) [1080p] [YTS.AG]
+2025-04-13 11:55:24,458 - INFO - Verifying upload: /home/user/Desktop/torrents/Assassin's Creed (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Assassin's Creed (2016) [1080p] [YTS.AG]
+2025-04-13 11:55:26,859 - INFO - Upload verification successful for /home/user/Desktop/torrents/Assassin's Creed (2016) [1080p] [YTS.AG]
+2025-04-13 11:55:26,860 - INFO - Deleting torrent from qBittorrent: Assassin's Creed (2016) [1080p] [YTS.AG]
+2025-04-13 11:55:26,861 - INFO - Deleting torrent with hash ff6705c7a7cd984e53ebc301051fba6ae4bb3264 (delete_files=False)
+2025-04-13 11:55:26,871 - INFO - Successfully deleted torrent with hash ff6705c7a7cd984e53ebc301051fba6ae4bb3264
+2025-04-13 11:55:26,871 - INFO - Deleting content files: Assassin's Creed (2016) [1080p] [YTS.AG]
+2025-04-13 11:55:26,871 - INFO - Deleting content: /home/user/Desktop/torrents/Assassin's Creed (2016) [1080p] [YTS.AG]
+2025-04-13 11:55:26,873 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Assassin's Creed (2016) [1080p] [YTS.AG]
+2025-04-13 11:55:26,873 - INFO - Successfully processed torrent: Assassin's Creed (2016) [1080p] [YTS.AG]
+2025-04-13 11:55:26,873 - INFO - Uploading torrent: Ghost Rider Spirit of Vengeance (2011) [1080p]
+2025-04-13 11:55:26,873 - INFO - Starting upload: /home/user/Desktop/torrents/Ghost Rider Spirit of Vengeance (2011) [1080p] -> onedrive:Torrents/Ghost Rider Spirit of Vengeance (2011) [1080p]
+2025-04-13 11:55:26,873 - INFO - Uploading directory of size 1435.33 MB
+2025-04-13 11:58:10,615 - INFO - Successfully uploaded to onedrive:Torrents/Ghost Rider Spirit of Vengeance (2011) [1080p]
+2025-04-13 11:58:10,616 - INFO - Verifying upload for: Ghost Rider Spirit of Vengeance (2011) [1080p]
+2025-04-13 11:58:10,616 - INFO - Verifying upload: /home/user/Desktop/torrents/Ghost Rider Spirit of Vengeance (2011) [1080p] -> onedrive:Torrents/Ghost Rider Spirit of Vengeance (2011) [1080p]
+2025-04-13 11:58:13,182 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ghost Rider Spirit of Vengeance (2011) [1080p]
+2025-04-13 11:58:13,183 - INFO - Deleting torrent from qBittorrent: Ghost Rider Spirit of Vengeance (2011) [1080p]
+2025-04-13 11:58:13,183 - INFO - Deleting torrent with hash 598bd95a8009e30d243144f195d40024ef936d83 (delete_files=False)
+2025-04-13 11:58:13,193 - INFO - Successfully deleted torrent with hash 598bd95a8009e30d243144f195d40024ef936d83
+2025-04-13 11:58:13,193 - INFO - Deleting content files: Ghost Rider Spirit of Vengeance (2011) [1080p]
+2025-04-13 11:58:13,194 - INFO - Deleting content: /home/user/Desktop/torrents/Ghost Rider Spirit of Vengeance (2011) [1080p]
+2025-04-13 11:58:13,195 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ghost Rider Spirit of Vengeance (2011) [1080p]
+2025-04-13 11:58:13,195 - INFO - Successfully processed torrent: Ghost Rider Spirit of Vengeance (2011) [1080p]
+2025-04-13 11:58:13,195 - INFO - Uploading torrent: Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:58:13,195 - INFO - Starting upload: /home/user/Desktop/torrents/Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 11:58:13,195 - INFO - Uploading directory of size 2206.53 MB
+2025-04-13 12:02:43,562 - INFO - Successfully uploaded to onedrive:Torrents/Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 12:02:43,562 - INFO - Verifying upload for: Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 12:02:43,562 - INFO - Verifying upload: /home/user/Desktop/torrents/Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 12:02:45,847 - INFO - Upload verification successful for /home/user/Desktop/torrents/Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 12:02:45,848 - INFO - Deleting torrent from qBittorrent: Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 12:02:45,848 - INFO - Deleting torrent with hash 5e197437ec43cb7131c62bdc92e016f0b9b38ee9 (delete_files=False)
+2025-04-13 12:02:45,858 - INFO - Successfully deleted torrent with hash 5e197437ec43cb7131c62bdc92e016f0b9b38ee9
+2025-04-13 12:02:45,858 - INFO - Deleting content files: Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 12:02:45,858 - INFO - Deleting content: /home/user/Desktop/torrents/Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 12:02:45,860 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 12:02:45,860 - INFO - Successfully processed torrent: Creed III (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-13 12:02:45,860 - INFO - Uploading torrent: The Mummy (1999) [1080p]
+2025-04-13 12:02:45,860 - INFO - Starting upload: /home/user/Desktop/torrents/The Mummy (1999) [1080p] -> onedrive:Torrents/The Mummy (1999) [1080p]
+2025-04-13 12:02:45,860 - INFO - Uploading directory of size 1838.93 MB
+2025-04-13 12:05:54,553 - INFO - Successfully uploaded to onedrive:Torrents/The Mummy (1999) [1080p]
+2025-04-13 12:05:54,554 - INFO - Verifying upload for: The Mummy (1999) [1080p]
+2025-04-13 12:05:54,554 - INFO - Verifying upload: /home/user/Desktop/torrents/The Mummy (1999) [1080p] -> onedrive:Torrents/The Mummy (1999) [1080p]
+2025-04-13 12:05:56,392 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Mummy (1999) [1080p]
+2025-04-13 12:05:56,394 - INFO - Deleting torrent from qBittorrent: The Mummy (1999) [1080p]
+2025-04-13 12:05:56,394 - INFO - Deleting torrent with hash e77b63eba3dcc91b0d9d618be1c520a97a508987 (delete_files=False)
+2025-04-13 12:05:56,405 - INFO - Successfully deleted torrent with hash e77b63eba3dcc91b0d9d618be1c520a97a508987
+2025-04-13 12:05:56,405 - INFO - Deleting content files: The Mummy (1999) [1080p]
+2025-04-13 12:05:56,406 - INFO - Deleting content: /home/user/Desktop/torrents/The Mummy (1999) [1080p]
+2025-04-13 12:05:56,407 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Mummy (1999) [1080p]
+2025-04-13 12:05:56,407 - INFO - Successfully processed torrent: The Mummy (1999) [1080p]
+2025-04-13 12:10:56,507 - INFO - Checking for completed torrents...
+2025-04-13 12:10:56,516 - INFO - Found 16 completed torrents
+2025-04-13 12:10:56,516 - INFO - Uploading torrent: Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:10:56,516 - INFO - Starting upload: /home/user/Desktop/torrents/Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Terrifier 3 (2024) [DCP] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-13 12:10:56,516 - INFO - Uploading directory of size 2133.10 MB
