@@ -208,3 +208,55 @@ This project is released under the MIT License.
 -   [qBittorrent](https://www.qbittorrent.org/)
 -   [rclone](https://rclone.org/)
 -   [Python Requests Library](https://requests.readthedocs.io/)
+
+# Git Auto-Commit Cronjob
+
+This script automatically checks for changes in your repository and commits them at regular intervals.
+
+## Configuration
+
+You can configure the behavior of the script by editing the `git_config.json` file:
+
+```json
+{
+    "interval_minutes": 30,
+    "git_commands": [
+        ["git", "add", "."],
+        ["git", "commit", "-m", "Custom commit message"],
+        ["git", "push", "origin", "main"]
+    ],
+    "branch": "main",
+    "commit_message": "Custom commit message"
+}
+```
+
+### Configuration Options
+
+-   `interval_minutes`: How often the script should check for and commit changes (in minutes)
+-   `git_commands`: List of git commands to run (each command is an array of arguments)
+-   `branch`: The branch to push to (used in the git push command)
+-   `commit_message`: The commit message to use
+
+## Usage
+
+1. Make sure you have Python installed with the required packages:
+
+    ```
+    pip install schedule
+    ```
+
+2. Run the script:
+    ```
+    python cronjob.py
+    ```
+
+The script will:
+
+-   Create a default configuration file if none exists
+-   Check for changes every X minutes (as specified in the config)
+-   Commit and push changes when detected
+-   Log all activities to the console and `conjob.log` file
+
+## Stopping the Script
+
+Press `Ctrl+C` to stop the script.

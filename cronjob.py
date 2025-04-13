@@ -3,6 +3,7 @@ import time
 import subprocess
 import logging
 import os
+import json
 from datetime import datetime
 
 # Configure logging
@@ -16,6 +17,39 @@ logging.basicConfig(
 )
 
 logger = logging.getLogger('git-cronjob')
+
+def load_config():
+    """
+    Load configuration from cron_config.json file.
+    If the file doesn't exist, default configuration is returned.
+    """
+    default_config = {
+        "interval_minutes": 5,
+        "git_commands": [
+            ["git", "add", "."],
+            ["git", "commit", "-m", "[bot] update crawling data"],
+            ["git", "push", "origin", "master"]
+        ]
+    }
+    
+    config_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cron_config.json")
+    
+    try:
+        if os.path.exists(config_file):
+            with open(config_file, 'r') as f:
+                config = json.load(f)
+                logger.info("Configuration loaded from cron_config.json")
+                return config
+        else:
+            logger.info("No cron_config.json found, using default configuration")
+            # Create a default config file for future use
+            with open(config_file, 'w') as f:
+                json.dump(default_config, f, indent=4)
+            
+            return default_config
+    except Exception as e:
+        logger.error(f"Error loading configuration: {str(e)}")
+        return default_config
 
 def check_for_changes():
     try:
@@ -32,7 +66,10 @@ def check_for_changes():
         logger.error(f"Error checking for changes: {str(e)}")
         return False
 
-def run_git_commands():
+def run_git_commands(config=None):
+    if config is None:
+        config = load_config()
+        
     try:
         logger.info("Checking for changes in repository")
         
@@ -47,12 +84,8 @@ def run_git_commands():
         
         logger.info("Changes detected. Proceeding with commit and push.")
         
-        # Run git commands
-        commands = [
-            ["git", "add", "."],
-            ["git", "commit", "-m", "[bot] update crawling data"],
-            ["git", "push", "origin", "master"]
-        ]
+        # Use git commands from config
+        commands = config.get("git_commands")
         
         for cmd in commands:
             logger.info(f"Running command: {' '.join(cmd)}")
@@ -74,11 +107,18 @@ def run_git_commands():
 def main():
     logger.info("Starting cronjob scheduler")
     
-    # Schedule the job to run every 5 minutes
-    schedule.every(5).minutes.do(run_git_commands)
+    # Load configuration
+    config = load_config()
+    
+    # Get interval from config
+    interval_minutes = config.get("interval_minutes", 5)
+    logger.info(f"Setting job interval to {interval_minutes} minutes")
+    
+    # Schedule the job to run with the specified interval
+    schedule.every(interval_minutes).minutes.do(run_git_commands, config=config)
     
     # Run the job once immediately when the script starts
-    run_git_commands()
+    run_git_commands(config)
     
     # Keep the script running
     logger.info("Scheduler running. Press Ctrl+C to stop.")
