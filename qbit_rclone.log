@@ -240,3 +240,42 @@
 2025-04-13 05:18:13,340 - INFO - Uploading torrent: Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
 2025-04-13 05:18:13,341 - INFO - Starting upload: /home/user/Downloads/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE) -> onedrive:Torrents/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
 2025-04-13 05:18:13,343 - INFO - Uploading directory of size 180449.03 MB
+2025-04-13 06:35:40,921 - INFO - Successfully uploaded to onedrive:Torrents/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 06:35:40,922 - INFO - Verifying upload for: Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 06:35:40,922 - INFO - Verifying upload: /home/user/Downloads/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE) -> onedrive:Torrents/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 06:35:44,676 - INFO - Upload verification successful for /home/user/Downloads/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 06:35:44,679 - ERROR - Error saving processed_torrents.json: [Errno 28] No space left on device
+2025-04-13 06:35:44,680 - ERROR - OSError: [Errno 28] No space left on device
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/user/Desktop/qBittorrent-OneDrive/a.py", line 534, in _save_json_file
+    with open(temp_filename, "w") as f:
+OSError: [Errno 28] No space left on device
+
+2025-04-13 06:35:44,680 - INFO - Deleting torrent from qBittorrent: Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 06:35:44,680 - INFO - Deleting torrent with hash e629d2aa430e4f28895112501920709041d67971 (delete_files=False)
+2025-04-13 06:35:44,692 - INFO - Successfully deleted torrent with hash e629d2aa430e4f28895112501920709041d67971
+2025-04-13 06:35:44,692 - INFO - Deleting content files: Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 06:35:44,692 - INFO - Deleting content: /home/user/Downloads/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 06:35:44,777 - INFO - Successfully deleted directory: /home/user/Downloads/Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 06:35:44,777 - INFO - Successfully processed torrent: Suits (2011) Season 1-9 S01-S09 (1080p BluRay x265 HEVC 10bit AAC 5.1 ImE)
+2025-04-13 06:40:44,826 - INFO - Checking for completed torrents...
+2025-04-13 06:40:44,830 - INFO - Found 0 completed torrents
+2025-04-13 06:45:44,930 - INFO - Checking for completed torrents...
+2025-04-13 06:45:44,935 - INFO - Found 1 completed torrents
+2025-04-13 06:45:44,935 - INFO - Uploading torrent: TheVampireDiariesSeason1
+2025-04-13 06:45:44,935 - INFO - Starting upload: /home/user/Downloads/TheVampireDiariesSeason1 -> onedrive:Torrents/TheVampireDiariesSeason1
+2025-04-13 06:45:44,936 - INFO - Uploading directory of size 6308.21 MB
+2025-04-13 06:48:39,579 - INFO - Successfully uploaded to onedrive:Torrents/TheVampireDiariesSeason1
+2025-04-13 06:48:39,579 - INFO - Verifying upload for: TheVampireDiariesSeason1
+2025-04-13 06:48:39,580 - INFO - Verifying upload: /home/user/Downloads/TheVampireDiariesSeason1 -> onedrive:Torrents/TheVampireDiariesSeason1
+2025-04-13 06:48:42,199 - INFO - Upload verification successful for /home/user/Downloads/TheVampireDiariesSeason1
+2025-04-13 06:48:42,199 - INFO - Deleting torrent from qBittorrent: TheVampireDiariesSeason1
+2025-04-13 06:48:42,200 - INFO - Deleting torrent with hash 1ca4171a573dc65dc1e6933e6c57c00c0cd72d78 (delete_files=False)
+2025-04-13 06:48:42,225 - INFO - Successfully deleted torrent with hash 1ca4171a573dc65dc1e6933e6c57c00c0cd72d78
+2025-04-13 06:48:42,226 - INFO - Deleting content files: TheVampireDiariesSeason1
+2025-04-13 06:48:42,226 - INFO - Deleting content: /home/user/Downloads/TheVampireDiariesSeason1
+2025-04-13 06:48:42,245 - INFO - Successfully deleted directory: /home/user/Downloads/TheVampireDiariesSeason1
+2025-04-13 06:48:42,246 - INFO - Successfully processed torrent: TheVampireDiariesSeason1
