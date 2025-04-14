@@ -1468,3 +1468,115 @@ OSError: [Errno 28] No space left on device
 2025-04-14 00:09:19,620 - INFO - Uploading torrent: Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-14 00:09:19,620 - INFO - Starting upload: /home/user/Desktop/torrents/Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-14 00:09:19,620 - INFO - Uploading directory of size 2114.69 MB
+2025-04-14 00:13:36,917 - INFO - Successfully uploaded to onedrive:Torrents/Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:13:36,918 - INFO - Verifying upload for: Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:13:36,918 - INFO - Verifying upload: /home/user/Desktop/torrents/Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:13:39,703 - INFO - Upload verification successful for /home/user/Desktop/torrents/Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:13:39,704 - INFO - Deleting torrent from qBittorrent: Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:13:39,704 - INFO - Deleting torrent with hash 63afe4170c4cf830df49959d14c88a28337e484f (delete_files=False)
+2025-04-14 00:13:39,713 - INFO - Successfully deleted torrent with hash 63afe4170c4cf830df49959d14c88a28337e484f
+2025-04-14 00:13:39,714 - INFO - Deleting content files: Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:13:39,714 - INFO - Deleting content: /home/user/Desktop/torrents/Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:13:39,716 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:13:39,716 - INFO - Successfully processed torrent: Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:13:39,716 - INFO - Uploading torrent: Spider-Man Homecoming (2017) [1080p] [YTS.AG]
+2025-04-14 00:13:39,716 - INFO - Starting upload: /home/user/Desktop/torrents/Spider-Man Homecoming (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Spider-Man Homecoming (2017) [1080p] [YTS.AG]
+2025-04-14 00:13:39,717 - INFO - Uploading directory of size 2082.81 MB
+2025-04-14 00:17:43,196 - INFO - Successfully uploaded to onedrive:Torrents/Spider-Man Homecoming (2017) [1080p] [YTS.AG]
+2025-04-14 00:17:43,196 - INFO - Verifying upload for: Spider-Man Homecoming (2017) [1080p] [YTS.AG]
+2025-04-14 00:17:43,196 - INFO - Verifying upload: /home/user/Desktop/torrents/Spider-Man Homecoming (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Spider-Man Homecoming (2017) [1080p] [YTS.AG]
+2025-04-14 00:17:45,477 - INFO - Upload verification successful for /home/user/Desktop/torrents/Spider-Man Homecoming (2017) [1080p] [YTS.AG]
+2025-04-14 00:17:45,479 - INFO - Deleting torrent from qBittorrent: Spider-Man Homecoming (2017) [1080p] [YTS.AG]
+2025-04-14 00:17:45,479 - INFO - Deleting torrent with hash 4415109a20908d55cd42eaf24df9aaf89f7b0f7b (delete_files=False)
+2025-04-14 00:17:45,487 - INFO - Successfully deleted torrent with hash 4415109a20908d55cd42eaf24df9aaf89f7b0f7b
+2025-04-14 00:17:45,487 - INFO - Deleting content files: Spider-Man Homecoming (2017) [1080p] [YTS.AG]
+2025-04-14 00:17:45,488 - INFO - Deleting content: /home/user/Desktop/torrents/Spider-Man Homecoming (2017) [1080p] [YTS.AG]
+2025-04-14 00:17:45,488 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Spider-Man Homecoming (2017) [1080p] [YTS.AG]
+2025-04-14 00:17:45,488 - INFO - Successfully processed torrent: Spider-Man Homecoming (2017) [1080p] [YTS.AG]
+2025-04-14 00:17:45,488 - INFO - Uploading torrent: www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-14 00:17:45,488 - INFO - Starting upload: /home/user/Desktop/torrents/Hyper Knife 2025/www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH -> onedrive:Torrents/www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-14 00:17:45,489 - INFO - Uploading directory of size 2506.16 MB
+2025-04-14 00:22:21,721 - INFO - Successfully uploaded to onedrive:Torrents/www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-14 00:22:21,722 - INFO - Verifying upload for: www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-14 00:22:21,722 - INFO - Verifying upload: /home/user/Desktop/torrents/Hyper Knife 2025/www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH -> onedrive:Torrents/www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-14 00:22:24,027 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hyper Knife 2025/www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-14 00:22:24,029 - INFO - Deleting torrent from qBittorrent: www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-14 00:22:24,029 - INFO - Deleting torrent with hash cc06cae8b2d1054f957ec87216eaaa128df30320 (delete_files=False)
+2025-04-14 00:22:24,036 - INFO - Successfully deleted torrent with hash cc06cae8b2d1054f957ec87216eaaa128df30320
+2025-04-14 00:22:24,036 - INFO - Deleting content files: www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-14 00:22:24,036 - INFO - Deleting content: /home/user/Desktop/torrents/Hyper Knife 2025/www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-14 00:22:24,038 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Hyper Knife 2025/www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-14 00:22:24,038 - INFO - Successfully processed torrent: www.UIndex.org    -    Hyper.Knife.S01E05.1080p.WEB.h264-EDITH
+2025-04-14 00:22:24,038 - INFO - Uploading torrent: Inception (2010) [1080p]
+2025-04-14 00:22:24,038 - INFO - Starting upload: /home/user/Desktop/torrents/Inception (2010) [1080p] -> onedrive:Torrents/Inception (2010) [1080p]
+2025-04-14 00:22:24,038 - INFO - Uploading directory of size 1899.35 MB
+2025-04-14 00:26:07,738 - INFO - Successfully uploaded to onedrive:Torrents/Inception (2010) [1080p]
+2025-04-14 00:26:07,738 - INFO - Verifying upload for: Inception (2010) [1080p]
+2025-04-14 00:26:07,738 - INFO - Verifying upload: /home/user/Desktop/torrents/Inception (2010) [1080p] -> onedrive:Torrents/Inception (2010) [1080p]
+2025-04-14 00:26:10,366 - INFO - Upload verification successful for /home/user/Desktop/torrents/Inception (2010) [1080p]
+2025-04-14 00:26:10,368 - INFO - Deleting torrent from qBittorrent: Inception (2010) [1080p]
+2025-04-14 00:26:10,368 - INFO - Deleting torrent with hash 224bf45881252643dfc2e71abc7b2660a21c68c4 (delete_files=False)
+2025-04-14 00:26:10,376 - INFO - Successfully deleted torrent with hash 224bf45881252643dfc2e71abc7b2660a21c68c4
+2025-04-14 00:26:10,377 - INFO - Deleting content files: Inception (2010) [1080p]
+2025-04-14 00:26:10,377 - INFO - Deleting content: /home/user/Desktop/torrents/Inception (2010) [1080p]
+2025-04-14 00:26:10,378 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Inception (2010) [1080p]
+2025-04-14 00:26:10,378 - INFO - Successfully processed torrent: Inception (2010) [1080p]
+2025-04-14 00:26:10,378 - INFO - Uploading torrent: Thor The Dark World (2013) [1080p]
+2025-04-14 00:26:10,378 - INFO - Starting upload: /home/user/Desktop/torrents/Thor The Dark World (2013) [1080p] -> onedrive:Torrents/Thor The Dark World (2013) [1080p]
+2025-04-14 00:26:10,378 - INFO - Uploading directory of size 1678.99 MB
+2025-04-14 00:29:20,095 - INFO - Successfully uploaded to onedrive:Torrents/Thor The Dark World (2013) [1080p]
+2025-04-14 00:29:20,095 - INFO - Verifying upload for: Thor The Dark World (2013) [1080p]
+2025-04-14 00:29:20,095 - INFO - Verifying upload: /home/user/Desktop/torrents/Thor The Dark World (2013) [1080p] -> onedrive:Torrents/Thor The Dark World (2013) [1080p]
+2025-04-14 00:29:22,406 - INFO - Upload verification successful for /home/user/Desktop/torrents/Thor The Dark World (2013) [1080p]
+2025-04-14 00:29:22,408 - INFO - Deleting torrent from qBittorrent: Thor The Dark World (2013) [1080p]
+2025-04-14 00:29:22,408 - INFO - Deleting torrent with hash 6393195b9986c748e4f8e7ccb4f10c72f6ce7bbc (delete_files=False)
+2025-04-14 00:29:22,417 - INFO - Successfully deleted torrent with hash 6393195b9986c748e4f8e7ccb4f10c72f6ce7bbc
+2025-04-14 00:29:22,417 - INFO - Deleting content files: Thor The Dark World (2013) [1080p]
+2025-04-14 00:29:22,417 - INFO - Deleting content: /home/user/Desktop/torrents/Thor The Dark World (2013) [1080p]
+2025-04-14 00:29:22,418 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Thor The Dark World (2013) [1080p]
+2025-04-14 00:29:22,418 - INFO - Successfully processed torrent: Thor The Dark World (2013) [1080p]
+2025-04-14 00:29:22,418 - INFO - Uploading torrent: The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG]
+2025-04-14 00:29:22,418 - INFO - Starting upload: /home/user/Desktop/torrents/The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG]
+2025-04-14 00:29:22,418 - INFO - Uploading directory of size 2133.10 MB
+2025-04-14 00:33:22,774 - INFO - Successfully uploaded to onedrive:Torrents/The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG]
+2025-04-14 00:33:22,775 - INFO - Verifying upload for: The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG]
+2025-04-14 00:33:22,775 - INFO - Verifying upload: /home/user/Desktop/torrents/The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG]
+2025-04-14 00:33:24,617 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG]
+2025-04-14 00:33:24,619 - INFO - Deleting torrent from qBittorrent: The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG]
+2025-04-14 00:33:24,619 - INFO - Deleting torrent with hash 42fdf1aeee3c641be8c41bc1feeddf87a50cae12 (delete_files=False)
+2025-04-14 00:33:24,627 - INFO - Successfully deleted torrent with hash 42fdf1aeee3c641be8c41bc1feeddf87a50cae12
+2025-04-14 00:33:24,627 - INFO - Deleting content files: The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG]
+2025-04-14 00:33:24,628 - INFO - Deleting content: /home/user/Desktop/torrents/The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG]
+2025-04-14 00:33:24,629 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG]
+2025-04-14 00:33:24,629 - INFO - Successfully processed torrent: The Hunger Games Mockingjay - Part 2 (2015) [1080p] [YTS.AG]
+2025-04-14 00:33:24,629 - INFO - Uploading torrent: Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:33:24,629 - INFO - Starting upload: /home/user/Desktop/torrents/Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:33:24,629 - INFO - Uploading directory of size 1763.27 MB
+2025-04-14 00:37:09,371 - INFO - Successfully uploaded to onedrive:Torrents/Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:37:09,371 - INFO - Verifying upload for: Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:37:09,371 - INFO - Verifying upload: /home/user/Desktop/torrents/Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:37:12,030 - INFO - Upload verification successful for /home/user/Desktop/torrents/Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:37:12,032 - INFO - Deleting torrent from qBittorrent: Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:37:12,032 - INFO - Deleting torrent with hash b241be10fad116ea4a4d9d81cbfdf9ab6441d78e (delete_files=False)
+2025-04-14 00:37:12,040 - INFO - Successfully deleted torrent with hash b241be10fad116ea4a4d9d81cbfdf9ab6441d78e
+2025-04-14 00:37:12,040 - INFO - Deleting content files: Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:37:12,040 - INFO - Deleting content: /home/user/Desktop/torrents/Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:37:12,041 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:37:12,041 - INFO - Successfully processed torrent: Caddo Lake (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:37:12,041 - INFO - Uploading torrent: You're Next (2011) [1080p]
+2025-04-14 00:37:12,042 - INFO - Starting upload: /home/user/Desktop/torrents/You're Next (2011) [1080p] -> onedrive:Torrents/You're Next (2011) [1080p]
+2025-04-14 00:37:12,042 - INFO - Uploading directory of size 1475.83 MB
+2025-04-14 00:40:09,851 - INFO - Successfully uploaded to onedrive:Torrents/You're Next (2011) [1080p]
+2025-04-14 00:40:09,851 - INFO - Verifying upload for: You're Next (2011) [1080p]
+2025-04-14 00:40:09,851 - INFO - Verifying upload: /home/user/Desktop/torrents/You're Next (2011) [1080p] -> onedrive:Torrents/You're Next (2011) [1080p]
+2025-04-14 00:40:12,639 - INFO - Upload verification successful for /home/user/Desktop/torrents/You're Next (2011) [1080p]
+2025-04-14 00:40:12,641 - INFO - Deleting torrent from qBittorrent: You're Next (2011) [1080p]
+2025-04-14 00:40:12,641 - INFO - Deleting torrent with hash b42cc1ada858a941a9754ecad2ec83f0f6a483e5 (delete_files=False)
+2025-04-14 00:40:12,648 - INFO - Successfully deleted torrent with hash b42cc1ada858a941a9754ecad2ec83f0f6a483e5
+2025-04-14 00:40:12,649 - INFO - Deleting content files: You're Next (2011) [1080p]
+2025-04-14 00:40:12,649 - INFO - Deleting content: /home/user/Desktop/torrents/You're Next (2011) [1080p]
+2025-04-14 00:40:12,649 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/You're Next (2011) [1080p]
+2025-04-14 00:40:12,650 - INFO - Successfully processed torrent: You're Next (2011) [1080p]
+2025-04-14 00:40:12,650 - INFO - Uploading torrent: Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 00:40:12,650 - INFO - Starting upload: /home/user/Desktop/torrents/Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 00:40:12,650 - INFO - Uploading directory of size 1758.68 MB
