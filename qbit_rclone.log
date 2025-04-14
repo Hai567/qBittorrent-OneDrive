@@ -2786,3 +2786,53 @@ OSError: [Errno 28] No space left on device
 2025-04-14 09:57:12,339 - INFO - Found 0 completed torrents
 2025-04-14 10:02:12,439 - INFO - Checking for completed torrents...
 2025-04-14 10:02:12,443 - INFO - Found 0 completed torrents
+2025-04-14 10:07:12,544 - INFO - Checking for completed torrents...
+2025-04-14 10:07:12,548 - INFO - Found 1 completed torrents
+2025-04-14 10:07:12,548 - INFO - Uploading torrent: The Vampire Diaries S01-S08 (2009-)
+2025-04-14 10:07:12,548 - INFO - Starting upload: /home/user/Desktop/torrents/The Vampire Diaries S01-S08 (2009-) -> onedrive:Torrents/The Vampire Diaries S01-S08 (2009-)
+2025-04-14 10:07:12,550 - INFO - Uploading directory of size 19906.69 MB
+2025-04-14 10:17:36,999 - INFO - Successfully uploaded to onedrive:Torrents/The Vampire Diaries S01-S08 (2009-)
+2025-04-14 10:17:36,999 - INFO - Verifying upload for: The Vampire Diaries S01-S08 (2009-)
+2025-04-14 10:17:36,999 - INFO - Verifying upload: /home/user/Desktop/torrents/The Vampire Diaries S01-S08 (2009-) -> onedrive:Torrents/The Vampire Diaries S01-S08 (2009-)
+2025-04-14 10:17:40,424 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Vampire Diaries S01-S08 (2009-)
+2025-04-14 10:17:40,426 - INFO - Deleting torrent from qBittorrent: The Vampire Diaries S01-S08 (2009-)
+2025-04-14 10:17:40,426 - INFO - Deleting torrent with hash 6ea2ed056e56abd7f0775bd0d6c60f11dbd0a86a (delete_files=False)
+2025-04-14 10:17:40,437 - INFO - Successfully deleted torrent with hash 6ea2ed056e56abd7f0775bd0d6c60f11dbd0a86a
+2025-04-14 10:17:40,437 - INFO - Deleting content files: The Vampire Diaries S01-S08 (2009-)
+2025-04-14 10:17:40,437 - INFO - Deleting content: /home/user/Desktop/torrents/The Vampire Diaries S01-S08 (2009-)
+2025-04-14 10:17:40,458 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Vampire Diaries S01-S08 (2009-)
+2025-04-14 10:17:40,458 - INFO - Successfully processed torrent: The Vampire Diaries S01-S08 (2009-)
+2025-04-14 10:22:40,558 - INFO - Checking for completed torrents...
+2025-04-14 10:22:40,562 - INFO - Found 2 completed torrents
+2025-04-14 10:22:40,563 - INFO - Uploading torrent: The Originals - Season 2 Complete-ChameE
+2025-04-14 10:22:40,563 - INFO - Starting upload: /home/user/Desktop/torrents/The Originals - Season 2 Complete-ChameE -> onedrive:Torrents/The Originals - Season 2 Complete-ChameE
+2025-04-14 10:22:40,563 - INFO - Uploading directory of size 2695.96 MB
+2025-04-14 10:24:25,246 - INFO - Successfully uploaded to onedrive:Torrents/The Originals - Season 2 Complete-ChameE
+2025-04-14 10:24:25,246 - INFO - Verifying upload for: The Originals - Season 2 Complete-ChameE
+2025-04-14 10:24:25,247 - INFO - Verifying upload: /home/user/Desktop/torrents/The Originals - Season 2 Complete-ChameE -> onedrive:Torrents/The Originals - Season 2 Complete-ChameE
+2025-04-14 10:24:27,321 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Originals - Season 2 Complete-ChameE
+2025-04-14 10:24:27,323 - INFO - Deleting torrent from qBittorrent: The Originals - Season 2 Complete-ChameE
+2025-04-14 10:24:27,324 - INFO - Deleting torrent with hash 1dbfa6a63c2b0c966ad05f7d86114378af5637f7 (delete_files=False)
+2025-04-14 10:24:27,334 - INFO - Successfully deleted torrent with hash 1dbfa6a63c2b0c966ad05f7d86114378af5637f7
+2025-04-14 10:24:27,334 - INFO - Deleting content files: The Originals - Season 2 Complete-ChameE
+2025-04-14 10:24:27,334 - INFO - Deleting content: /home/user/Desktop/torrents/The Originals - Season 2 Complete-ChameE
+2025-04-14 10:24:27,337 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Originals - Season 2 Complete-ChameE
+2025-04-14 10:24:27,337 - INFO - Successfully processed torrent: The Originals - Season 2 Complete-ChameE
+2025-04-14 10:24:27,337 - INFO - Uploading torrent: The orginals season 5
+2025-04-14 10:24:27,337 - INFO - Starting upload: /home/user/Desktop/torrents/The orginals season 5 -> onedrive:Torrents/The orginals season 5
+2025-04-14 10:24:27,337 - INFO - Uploading directory of size 2277.12 MB
+2025-04-14 10:25:49,642 - INFO - Successfully uploaded to onedrive:Torrents/The orginals season 5
+2025-04-14 10:25:49,642 - INFO - Verifying upload for: The orginals season 5
+2025-04-14 10:25:49,642 - INFO - Verifying upload: /home/user/Desktop/torrents/The orginals season 5 -> onedrive:Torrents/The orginals season 5
+2025-04-14 10:25:52,000 - INFO - Upload verification successful for /home/user/Desktop/torrents/The orginals season 5
+2025-04-14 10:25:52,004 - INFO - Deleting torrent from qBittorrent: The orginals season 5
+2025-04-14 10:25:52,004 - INFO - Deleting torrent with hash c36845f89355e7227009304bbbe469b1b0efd014 (delete_files=False)
+2025-04-14 10:25:52,016 - INFO - Successfully deleted torrent with hash c36845f89355e7227009304bbbe469b1b0efd014
+2025-04-14 10:25:52,016 - INFO - Deleting content files: The orginals season 5
+2025-04-14 10:25:52,016 - INFO - Deleting content: /home/user/Desktop/torrents/The orginals season 5
+2025-04-14 10:25:52,018 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The orginals season 5
+2025-04-14 10:25:52,019 - INFO - Successfully processed torrent: The orginals season 5
+2025-04-14 10:30:52,051 - INFO - Checking for completed torrents...
+2025-04-14 10:30:52,054 - INFO - Found 0 completed torrents
+2025-04-14 10:35:52,154 - INFO - Checking for completed torrents...
+2025-04-14 10:35:52,157 - INFO - Found 0 completed torrents
