@@ -2679,3 +2679,36 @@ OSError: [Errno 28] No space left on device
 2025-04-14 07:24:16,248 - INFO - Uploading torrent: Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-14 07:24:16,248 - INFO - Starting upload: /home/user/Desktop/torrents/Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-14 07:24:16,249 - INFO - Uploading directory of size 1965.26 MB
+2025-04-14 07:28:04,040 - INFO - Successfully uploaded to onedrive:Torrents/Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 07:28:04,040 - INFO - Verifying upload for: Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 07:28:04,040 - INFO - Verifying upload: /home/user/Desktop/torrents/Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 07:28:06,750 - INFO - Upload verification successful for /home/user/Desktop/torrents/Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 07:28:06,752 - INFO - Deleting torrent from qBittorrent: Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 07:28:06,752 - INFO - Deleting torrent with hash 2937c45b67988079719576d74d4b68bcc61b5af6 (delete_files=False)
+2025-04-14 07:28:06,761 - INFO - Successfully deleted torrent with hash 2937c45b67988079719576d74d4b68bcc61b5af6
+2025-04-14 07:28:06,761 - INFO - Deleting content files: Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 07:28:06,761 - INFO - Deleting content: /home/user/Desktop/torrents/Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 07:28:06,763 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 07:28:06,764 - INFO - Successfully processed torrent: Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 07:33:06,864 - INFO - Checking for completed torrents...
+2025-04-14 07:33:06,867 - INFO - Found 1 completed torrents
+2025-04-14 07:33:06,868 - INFO - Uploading torrent: The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx]
+2025-04-14 07:33:06,868 - INFO - Starting upload: /home/user/Desktop/torrents/The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx] -> onedrive:Torrents/The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx]
+2025-04-14 07:33:06,868 - INFO - Uploading directory of size 17271.92 MB
+2025-04-14 07:41:49,422 - INFO - Successfully uploaded to onedrive:Torrents/The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx]
+2025-04-14 07:41:49,422 - INFO - Verifying upload for: The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx]
+2025-04-14 07:41:49,422 - INFO - Verifying upload: /home/user/Desktop/torrents/The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx] -> onedrive:Torrents/The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx]
+2025-04-14 07:41:51,769 - INFO - Upload verification successful for /home/user/Desktop/torrents/The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx]
+2025-04-14 07:41:51,771 - INFO - Deleting torrent from qBittorrent: The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx]
+2025-04-14 07:41:51,771 - INFO - Deleting torrent with hash 80dbce0eb17c8d9e018dfbde5ddb51520dc29b44 (delete_files=False)
+2025-04-14 07:41:51,791 - INFO - Successfully deleted torrent with hash 80dbce0eb17c8d9e018dfbde5ddb51520dc29b44
+2025-04-14 07:41:51,791 - INFO - Deleting content files: The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx]
+2025-04-14 07:41:51,792 - INFO - Deleting content: /home/user/Desktop/torrents/The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx]
+2025-04-14 07:41:51,798 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx]
+2025-04-14 07:41:51,798 - INFO - Successfully processed torrent: The.Days.2023.S01.COMPLETE.JAPANESE.1080p.NF.WEB.h264-EDITH[TGx]
+2025-04-14 07:46:51,898 - INFO - Checking for completed torrents...
+2025-04-14 07:46:51,902 - INFO - Found 0 completed torrents
+2025-04-14 07:51:51,995 - INFO - Checking for completed torrents...
+2025-04-14 07:51:51,998 - INFO - Found 0 completed torrents
+2025-04-14 07:56:52,095 - INFO - Checking for completed torrents...
+2025-04-14 07:56:52,098 - INFO - Found 0 completed torrents
