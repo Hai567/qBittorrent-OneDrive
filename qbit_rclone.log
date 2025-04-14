@@ -2313,3 +2313,87 @@ OSError: [Errno 28] No space left on device
 2025-04-14 05:25:59,176 - INFO - Uploading torrent: Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-14 05:25:59,176 - INFO - Starting upload: /home/user/Desktop/torrents/Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-14 05:25:59,176 - INFO - Uploading directory of size 2529.51 MB
+2025-04-14 05:31:20,942 - INFO - Successfully uploaded to onedrive:Torrents/Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:31:20,942 - INFO - Verifying upload for: Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:31:20,942 - INFO - Verifying upload: /home/user/Desktop/torrents/Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:31:23,256 - INFO - Upload verification successful for /home/user/Desktop/torrents/Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:31:23,258 - INFO - Deleting torrent from qBittorrent: Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:31:23,258 - INFO - Deleting torrent with hash b5a9ff40b247269c9f21a6fd0f3778e2e8c0a52d (delete_files=False)
+2025-04-14 05:31:23,268 - INFO - Successfully deleted torrent with hash b5a9ff40b247269c9f21a6fd0f3778e2e8c0a52d
+2025-04-14 05:31:23,269 - INFO - Deleting content files: Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:31:23,269 - INFO - Deleting content: /home/user/Desktop/torrents/Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:31:23,277 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:31:23,277 - INFO - Successfully processed torrent: Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:31:23,277 - INFO - Uploading torrent: Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:31:23,277 - INFO - Starting upload: /home/user/Desktop/torrents/Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:31:23,277 - INFO - Uploading directory of size 1647.91 MB
+2025-04-14 05:35:29,649 - INFO - Successfully uploaded to onedrive:Torrents/Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:35:29,649 - INFO - Verifying upload for: Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:35:29,650 - INFO - Verifying upload: /home/user/Desktop/torrents/Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:35:32,220 - INFO - Upload verification successful for /home/user/Desktop/torrents/Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:35:32,222 - INFO - Deleting torrent from qBittorrent: Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:35:32,222 - INFO - Deleting torrent with hash 8bc39acc55a0eb49565a382349bfd7c91af20879 (delete_files=False)
+2025-04-14 05:35:32,230 - INFO - Successfully deleted torrent with hash 8bc39acc55a0eb49565a382349bfd7c91af20879
+2025-04-14 05:35:32,230 - INFO - Deleting content files: Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:35:32,230 - INFO - Deleting content: /home/user/Desktop/torrents/Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:35:32,232 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:35:32,232 - INFO - Successfully processed torrent: Inside Out 2 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:35:32,232 - INFO - Uploading torrent: How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:35:32,232 - INFO - Starting upload: /home/user/Desktop/torrents/How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:35:32,232 - INFO - Uploading directory of size 2168.62 MB
+2025-04-14 05:40:10,167 - INFO - Successfully uploaded to onedrive:Torrents/How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:40:10,167 - INFO - Verifying upload for: How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:40:10,167 - INFO - Verifying upload: /home/user/Desktop/torrents/How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:40:12,809 - INFO - Upload verification successful for /home/user/Desktop/torrents/How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:40:12,810 - INFO - Deleting torrent from qBittorrent: How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:40:12,811 - INFO - Deleting torrent with hash 851e6361b096a202d3f69cd74fc9aa32a7c96ec8 (delete_files=False)
+2025-04-14 05:40:12,821 - INFO - Successfully deleted torrent with hash 851e6361b096a202d3f69cd74fc9aa32a7c96ec8
+2025-04-14 05:40:12,822 - INFO - Deleting content files: How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:40:12,822 - INFO - Deleting content: /home/user/Desktop/torrents/How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:40:12,827 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:40:12,827 - INFO - Successfully processed torrent: How To Make Millions Before Grandma Dies (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:40:12,827 - INFO - Uploading torrent: Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:40:12,827 - INFO - Starting upload: /home/user/Desktop/torrents/Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:40:12,828 - INFO - Uploading directory of size 2185.73 MB
+2025-04-14 05:45:13,390 - INFO - Successfully uploaded to onedrive:Torrents/Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:45:13,391 - INFO - Verifying upload for: Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:45:13,391 - INFO - Verifying upload: /home/user/Desktop/torrents/Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:45:15,997 - INFO - Upload verification successful for /home/user/Desktop/torrents/Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:45:15,999 - INFO - Deleting torrent from qBittorrent: Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:45:15,999 - INFO - Deleting torrent with hash 4e50135ab605db4c29863ae6214a4af0f6db36d7 (delete_files=False)
+2025-04-14 05:45:16,009 - INFO - Successfully deleted torrent with hash 4e50135ab605db4c29863ae6214a4af0f6db36d7
+2025-04-14 05:45:16,009 - INFO - Deleting content files: Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:45:16,009 - INFO - Deleting content: /home/user/Desktop/torrents/Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:45:16,014 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:45:16,014 - INFO - Successfully processed torrent: Deadpool Wolverine (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:45:16,014 - INFO - Uploading torrent: The Godfather Part 2 (1974) [1080p]
+2025-04-14 05:45:16,014 - INFO - Starting upload: /home/user/Desktop/torrents/The Godfather Part 2 (1974) [1080p] -> onedrive:Torrents/The Godfather Part 2 (1974) [1080p]
+2025-04-14 05:45:16,014 - INFO - Uploading directory of size 2767.15 MB
+2025-04-14 05:51:21,205 - INFO - Successfully uploaded to onedrive:Torrents/The Godfather Part 2 (1974) [1080p]
+2025-04-14 05:51:21,206 - INFO - Verifying upload for: The Godfather Part 2 (1974) [1080p]
+2025-04-14 05:51:21,206 - INFO - Verifying upload: /home/user/Desktop/torrents/The Godfather Part 2 (1974) [1080p] -> onedrive:Torrents/The Godfather Part 2 (1974) [1080p]
+2025-04-14 05:51:23,503 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Godfather Part 2 (1974) [1080p]
+2025-04-14 05:51:23,504 - INFO - Deleting torrent from qBittorrent: The Godfather Part 2 (1974) [1080p]
+2025-04-14 05:51:23,505 - INFO - Deleting torrent with hash 6c9124fe9a99b2001fad76a76152691bc515a80d (delete_files=False)
+2025-04-14 05:51:23,513 - INFO - Successfully deleted torrent with hash 6c9124fe9a99b2001fad76a76152691bc515a80d
+2025-04-14 05:51:23,513 - INFO - Deleting content files: The Godfather Part 2 (1974) [1080p]
+2025-04-14 05:51:23,513 - INFO - Deleting content: /home/user/Desktop/torrents/The Godfather Part 2 (1974) [1080p]
+2025-04-14 05:51:23,516 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Godfather Part 2 (1974) [1080p]
+2025-04-14 05:51:23,517 - INFO - Successfully processed torrent: The Godfather Part 2 (1974) [1080p]
+2025-04-14 05:51:23,517 - INFO - Uploading torrent: The Amityvill Horror (2005) [ 1080p]
+2025-04-14 05:51:23,517 - INFO - Starting upload: /home/user/Desktop/torrents/The Amityvill Horror (2005) [ 1080p] -> onedrive:Torrents/The Amityvill Horror (2005) [ 1080p]
+2025-04-14 05:51:23,517 - INFO - Uploading directory of size 1129.17 MB
+2025-04-14 05:54:05,084 - INFO - Successfully uploaded to onedrive:Torrents/The Amityvill Horror (2005) [ 1080p]
+2025-04-14 05:54:05,084 - INFO - Verifying upload for: The Amityvill Horror (2005) [ 1080p]
+2025-04-14 05:54:05,084 - INFO - Verifying upload: /home/user/Desktop/torrents/The Amityvill Horror (2005) [ 1080p] -> onedrive:Torrents/The Amityvill Horror (2005) [ 1080p]
+2025-04-14 05:54:07,370 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Amityvill Horror (2005) [ 1080p]
+2025-04-14 05:54:07,372 - INFO - Deleting torrent from qBittorrent: The Amityvill Horror (2005) [ 1080p]
+2025-04-14 05:54:07,372 - INFO - Deleting torrent with hash b3ce23778b954836c5b3dd3d49242b31cf9df4a1 (delete_files=False)
+2025-04-14 05:54:07,383 - INFO - Successfully deleted torrent with hash b3ce23778b954836c5b3dd3d49242b31cf9df4a1
+2025-04-14 05:54:07,383 - INFO - Deleting content files: The Amityvill Horror (2005) [ 1080p]
+2025-04-14 05:54:07,383 - INFO - Deleting content: /home/user/Desktop/torrents/The Amityvill Horror (2005) [ 1080p]
+2025-04-14 05:54:07,384 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Amityvill Horror (2005) [ 1080p]
+2025-04-14 05:54:07,384 - INFO - Successfully processed torrent: The Amityvill Horror (2005) [ 1080p]
+2025-04-14 05:54:07,384 - INFO - Uploading torrent: Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:54:07,384 - INFO - Starting upload: /home/user/Desktop/torrents/Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:54:07,385 - INFO - Uploading directory of size 1976.95 MB
