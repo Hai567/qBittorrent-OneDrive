@@ -1,6 +1,7 @@
 # Install qbittorrent + python3
 # Python
-sudo apt update && sudo apt upgrade
+yes | sudo apt update
+yes | sudo apt upgrade
 sudo add-apt-repository ppa:deadsnakes/ppa -y
 sudo apt update
 yes | sudo apt install python3.10

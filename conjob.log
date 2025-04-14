@@ -407,3 +407,23 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 2025-04-14 08:27:40,216 - git-cronjob - INFO - Checking for changes in repository
 2025-04-14 08:27:40,227 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
 2025-04-14 08:27:40,227 - git-cronjob - INFO - Running command: git add .
+2025-04-14 08:27:40,244 - git-cronjob - INFO - Success: 
+2025-04-14 08:27:40,244 - git-cronjob - INFO - Running command: git commit -m [bot] update crawling data
+2025-04-14 08:27:40,279 - git-cronjob - INFO - Success: [master 081f7df] [bot] update crawling data
+ 2 files changed, 32 insertions(+)
+2025-04-14 08:27:40,279 - git-cronjob - INFO - Running command: git push origin master
+2025-04-14 08:27:41,096 - git-cronjob - ERROR - Command failed with exit code 1
+2025-04-14 08:27:41,096 - git-cronjob - ERROR - Error message: To https://github.com/Hai567/qBittorrent-OneDrive.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/Hai567/qBittorrent-OneDrive.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+2025-04-14 09:06:18,501 - git-cronjob - INFO - Starting cronjob scheduler
+2025-04-14 09:06:18,501 - git-cronjob - INFO - Configuration loaded from cron_config.json
+2025-04-14 09:06:18,501 - git-cronjob - INFO - Setting job interval to 30 minutes
+2025-04-14 09:06:18,501 - git-cronjob - INFO - Checking for changes in repository
+2025-04-14 09:06:18,505 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-14 09:06:18,505 - git-cronjob - INFO - Running command: git add .

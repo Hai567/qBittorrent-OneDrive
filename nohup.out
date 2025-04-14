@@ -1,0 +1,6 @@
+2025-04-14 09:06:18,501 - git-cronjob - INFO - Starting cronjob scheduler
+2025-04-14 09:06:18,501 - git-cronjob - INFO - Configuration loaded from cron_config.json
+2025-04-14 09:06:18,501 - git-cronjob - INFO - Setting job interval to 30 minutes
+2025-04-14 09:06:18,501 - git-cronjob - INFO - Checking for changes in repository
+2025-04-14 09:06:18,505 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-14 09:06:18,505 - git-cronjob - INFO - Running command: git add .

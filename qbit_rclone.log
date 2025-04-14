@@ -2727,3 +2727,29 @@ OSError: [Errno 28] No space left on device
 2025-04-14 08:26:52,669 - INFO - Uploading torrent: Strong Girl Nam-soon (2023) - Korean with English subs, 1080p
 2025-04-14 08:26:52,669 - INFO - Starting upload: /home/user/Desktop/torrents/Strong Girl Nam-soon (2023) -> onedrive:Torrents/Strong Girl Nam-soon (2023) - Korean with English subs, 1080p
 2025-04-14 08:26:52,670 - INFO - Uploading directory of size 19722.32 MB
+2025-04-14 08:39:09,124 - INFO - Successfully uploaded to onedrive:Torrents/Strong Girl Nam-soon (2023) - Korean with English subs, 1080p
+2025-04-14 08:39:09,124 - INFO - Verifying upload for: Strong Girl Nam-soon (2023) - Korean with English subs, 1080p
+2025-04-14 08:39:09,124 - INFO - Verifying upload: /home/user/Desktop/torrents/Strong Girl Nam-soon (2023) -> onedrive:Torrents/Strong Girl Nam-soon (2023) - Korean with English subs, 1080p
+2025-04-14 08:39:11,741 - INFO - Upload verification successful for /home/user/Desktop/torrents/Strong Girl Nam-soon (2023)
+2025-04-14 08:39:11,743 - INFO - Deleting torrent from qBittorrent: Strong Girl Nam-soon (2023) - Korean with English subs, 1080p
+2025-04-14 08:39:11,743 - INFO - Deleting torrent with hash 1ea510b1b017d8ccbbb2acd30adec9f2cde0ea09 (delete_files=False)
+2025-04-14 08:39:11,760 - INFO - Successfully deleted torrent with hash 1ea510b1b017d8ccbbb2acd30adec9f2cde0ea09
+2025-04-14 08:39:11,760 - INFO - Deleting content files: Strong Girl Nam-soon (2023) - Korean with English subs, 1080p
+2025-04-14 08:39:11,760 - INFO - Deleting content: /home/user/Desktop/torrents/Strong Girl Nam-soon (2023)
+2025-04-14 08:39:11,776 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Strong Girl Nam-soon (2023)
+2025-04-14 08:39:11,777 - INFO - Successfully processed torrent: Strong Girl Nam-soon (2023) - Korean with English subs, 1080p
+2025-04-14 08:44:11,825 - INFO - Checking for completed torrents...
+2025-04-14 08:44:11,829 - INFO - Found 1 completed torrents
+2025-04-14 08:44:11,829 - INFO - Uploading torrent: Goblin (2016-2017) - or Guardian, The Lonely and Great God 1080p
+2025-04-14 08:44:11,829 - INFO - Starting upload: /home/user/Desktop/torrents/Goblin (2016-2017) -> onedrive:Torrents/Goblin (2016-2017) - or Guardian, The Lonely and Great God 1080p
+2025-04-14 08:44:11,829 - INFO - Uploading directory of size 18469.57 MB
+2025-04-14 08:59:22,875 - INFO - Loaded configuration from config.json
+2025-04-14 08:59:22,876 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-14 08:59:22,951 - INFO - Found onedrive remote in rclone configuration
+2025-04-14 08:59:22,956 - INFO - Successfully logged in to qBittorrent
+2025-04-14 08:59:22,956 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-14 08:59:22,956 - INFO - Checking for completed torrents...
+2025-04-14 08:59:22,958 - INFO - Found 1 completed torrents
+2025-04-14 08:59:22,959 - INFO - Uploading torrent: Goblin (2016-2017) - or Guardian, The Lonely and Great God 1080p
+2025-04-14 08:59:22,959 - INFO - Starting upload: /home/user/Desktop/torrents/Goblin (2016-2017) -> onedrive:Torrents/Goblin (2016-2017) - or Guardian, The Lonely and Great God 1080p
+2025-04-14 08:59:22,959 - INFO - Uploading directory of size 18469.57 MB
