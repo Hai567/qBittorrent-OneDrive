@@ -1904,3 +1904,129 @@ OSError: [Errno 28] No space left on device
 2025-04-14 02:40:51,728 - INFO - Uploading torrent: Ant-Man (2015) [1080p]
 2025-04-14 02:40:51,728 - INFO - Starting upload: /home/user/Desktop/torrents/Ant-Man (2015) [1080p] -> onedrive:Torrents/Ant-Man (2015) [1080p]
 2025-04-14 02:40:51,728 - INFO - Uploading directory of size 1329.09 MB
+2025-04-14 02:43:31,947 - INFO - Successfully uploaded to onedrive:Torrents/Ant-Man (2015) [1080p]
+2025-04-14 02:43:31,947 - INFO - Verifying upload for: Ant-Man (2015) [1080p]
+2025-04-14 02:43:31,947 - INFO - Verifying upload: /home/user/Desktop/torrents/Ant-Man (2015) [1080p] -> onedrive:Torrents/Ant-Man (2015) [1080p]
+2025-04-14 02:43:34,226 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ant-Man (2015) [1080p]
+2025-04-14 02:43:34,228 - INFO - Deleting torrent from qBittorrent: Ant-Man (2015) [1080p]
+2025-04-14 02:43:34,228 - INFO - Deleting torrent with hash ee07fc0bc38040ac3e7440c4de02c02a4a8e0154 (delete_files=False)
+2025-04-14 02:43:34,240 - INFO - Successfully deleted torrent with hash ee07fc0bc38040ac3e7440c4de02c02a4a8e0154
+2025-04-14 02:43:34,240 - INFO - Deleting content files: Ant-Man (2015) [1080p]
+2025-04-14 02:43:34,240 - INFO - Deleting content: /home/user/Desktop/torrents/Ant-Man (2015) [1080p]
+2025-04-14 02:43:34,241 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ant-Man (2015) [1080p]
+2025-04-14 02:43:34,242 - INFO - Successfully processed torrent: Ant-Man (2015) [1080p]
+2025-04-14 02:43:34,242 - INFO - Uploading torrent: Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:43:34,242 - INFO - Starting upload: /home/user/Desktop/torrents/Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:43:34,242 - INFO - Uploading directory of size 1460.73 MB
+2025-04-14 02:47:11,338 - INFO - Successfully uploaded to onedrive:Torrents/Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:47:11,338 - INFO - Verifying upload for: Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:47:11,338 - INFO - Verifying upload: /home/user/Desktop/torrents/Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:47:13,623 - INFO - Upload verification successful for /home/user/Desktop/torrents/Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:47:13,624 - INFO - Deleting torrent from qBittorrent: Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:47:13,624 - INFO - Deleting torrent with hash ca520f8c7a43809e4901ec63b7a91e2e3e021e8e (delete_files=False)
+2025-04-14 02:47:13,633 - INFO - Successfully deleted torrent with hash ca520f8c7a43809e4901ec63b7a91e2e3e021e8e
+2025-04-14 02:47:13,633 - INFO - Deleting content files: Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:47:13,633 - INFO - Deleting content: /home/user/Desktop/torrents/Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:47:13,633 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:47:13,634 - INFO - Successfully processed torrent: Flow (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:47:13,634 - INFO - Uploading torrent: Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:47:13,634 - INFO - Starting upload: /home/user/Desktop/torrents/Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:47:13,634 - INFO - Uploading directory of size 1807.40 MB
+2025-04-14 02:50:54,867 - INFO - Successfully uploaded to onedrive:Torrents/Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:50:54,868 - INFO - Verifying upload for: Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:50:54,868 - INFO - Verifying upload: /home/user/Desktop/torrents/Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:50:57,162 - INFO - Upload verification successful for /home/user/Desktop/torrents/Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:50:57,164 - INFO - Deleting torrent from qBittorrent: Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:50:57,164 - INFO - Deleting torrent with hash 569e4e40f9331516f30dc67efb13c55908f546f0 (delete_files=False)
+2025-04-14 02:50:57,172 - INFO - Successfully deleted torrent with hash 569e4e40f9331516f30dc67efb13c55908f546f0
+2025-04-14 02:50:57,173 - INFO - Deleting content files: Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:50:57,173 - INFO - Deleting content: /home/user/Desktop/torrents/Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:50:57,174 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:50:57,174 - INFO - Successfully processed torrent: Past Lives (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:50:57,174 - INFO - Uploading torrent: The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:50:57,174 - INFO - Starting upload: /home/user/Desktop/torrents/The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:50:57,174 - INFO - Uploading directory of size 1729.25 MB
+2025-04-14 02:55:14,264 - INFO - Successfully uploaded to onedrive:Torrents/The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:55:14,265 - INFO - Verifying upload for: The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:55:14,265 - INFO - Verifying upload: /home/user/Desktop/torrents/The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:55:16,946 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:55:16,948 - INFO - Deleting torrent from qBittorrent: The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:55:16,948 - INFO - Deleting torrent with hash 8efe3d1b8a14c879010e35548d38cf219a02f773 (delete_files=False)
+2025-04-14 02:55:16,957 - INFO - Successfully deleted torrent with hash 8efe3d1b8a14c879010e35548d38cf219a02f773
+2025-04-14 02:55:16,957 - INFO - Deleting content files: The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:55:16,957 - INFO - Deleting content: /home/user/Desktop/torrents/The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:55:16,960 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:55:16,960 - INFO - Successfully processed torrent: The Garfield Movie (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:55:16,960 - INFO - Uploading torrent: Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:55:16,960 - INFO - Starting upload: /home/user/Desktop/torrents/Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:55:16,961 - INFO - Uploading directory of size 1685.05 MB
+2025-04-14 02:58:28,297 - INFO - Successfully uploaded to onedrive:Torrents/Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:58:28,298 - INFO - Verifying upload for: Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:58:28,298 - INFO - Verifying upload: /home/user/Desktop/torrents/Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:58:30,886 - INFO - Upload verification successful for /home/user/Desktop/torrents/Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:58:30,888 - INFO - Deleting torrent from qBittorrent: Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:58:30,888 - INFO - Deleting torrent with hash df9355bd1bd6bf45de5a069dfbba9c43806b1b9b (delete_files=False)
+2025-04-14 02:58:30,897 - INFO - Successfully deleted torrent with hash df9355bd1bd6bf45de5a069dfbba9c43806b1b9b
+2025-04-14 02:58:30,897 - INFO - Deleting content files: Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:58:30,897 - INFO - Deleting content: /home/user/Desktop/torrents/Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:58:30,899 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:58:30,899 - INFO - Successfully processed torrent: Small Things Like These (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:58:30,899 - INFO - Uploading torrent: The Hobbit The Desolation of Smaug (2013) [1080p]
+2025-04-14 02:58:30,899 - INFO - Starting upload: /home/user/Desktop/torrents/The Hobbit The Desolation of Smaug (2013) [1080p] -> onedrive:Torrents/The Hobbit The Desolation of Smaug (2013) [1080p]
+2025-04-14 02:58:30,899 - INFO - Uploading directory of size 2106.25 MB
+2025-04-14 03:02:44,224 - INFO - Successfully uploaded to onedrive:Torrents/The Hobbit The Desolation of Smaug (2013) [1080p]
+2025-04-14 03:02:44,225 - INFO - Verifying upload for: The Hobbit The Desolation of Smaug (2013) [1080p]
+2025-04-14 03:02:44,225 - INFO - Verifying upload: /home/user/Desktop/torrents/The Hobbit The Desolation of Smaug (2013) [1080p] -> onedrive:Torrents/The Hobbit The Desolation of Smaug (2013) [1080p]
+2025-04-14 03:02:46,562 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Hobbit The Desolation of Smaug (2013) [1080p]
+2025-04-14 03:02:46,563 - INFO - Deleting torrent from qBittorrent: The Hobbit The Desolation of Smaug (2013) [1080p]
+2025-04-14 03:02:46,563 - INFO - Deleting torrent with hash d61abdbd6a17d5fa2f116078a2fa20f02b07af8f (delete_files=False)
+2025-04-14 03:02:46,571 - INFO - Successfully deleted torrent with hash d61abdbd6a17d5fa2f116078a2fa20f02b07af8f
+2025-04-14 03:02:46,572 - INFO - Deleting content files: The Hobbit The Desolation of Smaug (2013) [1080p]
+2025-04-14 03:02:46,572 - INFO - Deleting content: /home/user/Desktop/torrents/The Hobbit The Desolation of Smaug (2013) [1080p]
+2025-04-14 03:02:46,572 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Hobbit The Desolation of Smaug (2013) [1080p]
+2025-04-14 03:02:46,572 - INFO - Successfully processed torrent: The Hobbit The Desolation of Smaug (2013) [1080p]
+2025-04-14 03:02:46,573 - INFO - Uploading torrent: Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX]
+2025-04-14 03:02:46,573 - INFO - Starting upload: /home/user/Desktop/torrents/Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX] -> onedrive:Torrents/Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX]
+2025-04-14 03:02:46,573 - INFO - Uploading directory of size 1641.28 MB
+2025-04-14 03:05:55,333 - INFO - Successfully uploaded to onedrive:Torrents/Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX]
+2025-04-14 03:05:55,334 - INFO - Verifying upload for: Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX]
+2025-04-14 03:05:55,334 - INFO - Verifying upload: /home/user/Desktop/torrents/Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX] -> onedrive:Torrents/Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX]
+2025-04-14 03:05:57,630 - INFO - Upload verification successful for /home/user/Desktop/torrents/Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX]
+2025-04-14 03:05:57,632 - INFO - Deleting torrent from qBittorrent: Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX]
+2025-04-14 03:05:57,632 - INFO - Deleting torrent with hash b96c78d2d9d51df1fc22fd4c315f84abaa76eff1 (delete_files=False)
+2025-04-14 03:05:57,640 - INFO - Successfully deleted torrent with hash b96c78d2d9d51df1fc22fd4c315f84abaa76eff1
+2025-04-14 03:05:57,640 - INFO - Deleting content files: Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX]
+2025-04-14 03:05:57,641 - INFO - Deleting content: /home/user/Desktop/torrents/Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX]
+2025-04-14 03:05:57,641 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX]
+2025-04-14 03:05:57,641 - INFO - Successfully processed torrent: Avatar (2009) [EXTENDED] [REPACK] [720p] [BluRay] [YTS.MX]
+2025-04-14 03:05:57,642 - INFO - Uploading torrent: The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:05:57,642 - INFO - Starting upload: /home/user/Desktop/torrents/The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:05:57,642 - INFO - Uploading directory of size 1739.69 MB
+2025-04-14 03:09:05,070 - INFO - Successfully uploaded to onedrive:Torrents/The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:09:05,070 - INFO - Verifying upload for: The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:09:05,070 - INFO - Verifying upload: /home/user/Desktop/torrents/The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:09:07,606 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:09:07,608 - INFO - Deleting torrent from qBittorrent: The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:09:07,608 - INFO - Deleting torrent with hash bf85efb979612629f8f30a15bc2a58d1d5d352a6 (delete_files=False)
+2025-04-14 03:09:07,617 - INFO - Successfully deleted torrent with hash bf85efb979612629f8f30a15bc2a58d1d5d352a6
+2025-04-14 03:09:07,617 - INFO - Deleting content files: The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:09:07,617 - INFO - Deleting content: /home/user/Desktop/torrents/The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:09:07,618 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:09:07,618 - INFO - Successfully processed torrent: The Watchers (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:09:07,618 - INFO - Uploading torrent: Insurgent (2015) [1080p]
+2025-04-14 03:09:07,618 - INFO - Starting upload: /home/user/Desktop/torrents/Insurgent (2015) [1080p] -> onedrive:Torrents/Insurgent (2015) [1080p]
+2025-04-14 03:09:07,619 - INFO - Uploading directory of size 1887.24 MB
+2025-04-14 03:12:26,450 - INFO - Successfully uploaded to onedrive:Torrents/Insurgent (2015) [1080p]
+2025-04-14 03:12:26,450 - INFO - Verifying upload for: Insurgent (2015) [1080p]
+2025-04-14 03:12:26,451 - INFO - Verifying upload: /home/user/Desktop/torrents/Insurgent (2015) [1080p] -> onedrive:Torrents/Insurgent (2015) [1080p]
+2025-04-14 03:12:28,770 - INFO - Upload verification successful for /home/user/Desktop/torrents/Insurgent (2015) [1080p]
+2025-04-14 03:12:28,772 - INFO - Deleting torrent from qBittorrent: Insurgent (2015) [1080p]
+2025-04-14 03:12:28,772 - INFO - Deleting torrent with hash 6ab9e319c6414f4800feb05afbb84111a671c8e1 (delete_files=False)
+2025-04-14 03:12:28,782 - INFO - Successfully deleted torrent with hash 6ab9e319c6414f4800feb05afbb84111a671c8e1
+2025-04-14 03:12:28,782 - INFO - Deleting content files: Insurgent (2015) [1080p]
+2025-04-14 03:12:28,783 - INFO - Deleting content: /home/user/Desktop/torrents/Insurgent (2015) [1080p]
+2025-04-14 03:12:28,783 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Insurgent (2015) [1080p]
+2025-04-14 03:12:28,783 - INFO - Successfully processed torrent: Insurgent (2015) [1080p]
+2025-04-14 03:12:28,784 - INFO - Uploading torrent: Iron Man 3 (2013) [1080p]
+2025-04-14 03:12:28,784 - INFO - Starting upload: /home/user/Desktop/torrents/Iron Man 3 (2013) [1080p] -> onedrive:Torrents/Iron Man 3 (2013) [1080p]
+2025-04-14 03:12:28,784 - INFO - Uploading directory of size 1999.07 MB
