@@ -2030,3 +2030,101 @@ OSError: [Errno 28] No space left on device
 2025-04-14 03:12:28,784 - INFO - Uploading torrent: Iron Man 3 (2013) [1080p]
 2025-04-14 03:12:28,784 - INFO - Starting upload: /home/user/Desktop/torrents/Iron Man 3 (2013) [1080p] -> onedrive:Torrents/Iron Man 3 (2013) [1080p]
 2025-04-14 03:12:28,784 - INFO - Uploading directory of size 1999.07 MB
+2025-04-14 03:16:48,314 - INFO - Successfully uploaded to onedrive:Torrents/Iron Man 3 (2013) [1080p]
+2025-04-14 03:16:48,315 - INFO - Verifying upload for: Iron Man 3 (2013) [1080p]
+2025-04-14 03:16:48,315 - INFO - Verifying upload: /home/user/Desktop/torrents/Iron Man 3 (2013) [1080p] -> onedrive:Torrents/Iron Man 3 (2013) [1080p]
+2025-04-14 03:16:50,592 - INFO - Upload verification successful for /home/user/Desktop/torrents/Iron Man 3 (2013) [1080p]
+2025-04-14 03:16:50,594 - INFO - Deleting torrent from qBittorrent: Iron Man 3 (2013) [1080p]
+2025-04-14 03:16:50,594 - INFO - Deleting torrent with hash 70b487b9e21e2869af831397851f45a00d3ea7ca (delete_files=False)
+2025-04-14 03:16:50,616 - INFO - Successfully deleted torrent with hash 70b487b9e21e2869af831397851f45a00d3ea7ca
+2025-04-14 03:16:50,616 - INFO - Deleting content files: Iron Man 3 (2013) [1080p]
+2025-04-14 03:16:50,616 - INFO - Deleting content: /home/user/Desktop/torrents/Iron Man 3 (2013) [1080p]
+2025-04-14 03:16:50,617 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Iron Man 3 (2013) [1080p]
+2025-04-14 03:16:50,618 - INFO - Successfully processed torrent: Iron Man 3 (2013) [1080p]
+2025-04-14 03:16:50,618 - INFO - Uploading torrent: Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:16:50,618 - INFO - Starting upload: /home/user/Desktop/torrents/Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:16:50,619 - INFO - Uploading directory of size 2789.39 MB
+2025-04-14 03:21:40,621 - INFO - Successfully uploaded to onedrive:Torrents/Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:21:40,621 - INFO - Verifying upload for: Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:21:40,621 - INFO - Verifying upload: /home/user/Desktop/torrents/Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:21:43,310 - INFO - Upload verification successful for /home/user/Desktop/torrents/Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:21:43,311 - INFO - Deleting torrent from qBittorrent: Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:21:43,311 - INFO - Deleting torrent with hash c8a3f467856fbe12c63022c225b4a5507eda448c (delete_files=False)
+2025-04-14 03:21:43,319 - INFO - Successfully deleted torrent with hash c8a3f467856fbe12c63022c225b4a5507eda448c
+2025-04-14 03:21:43,320 - INFO - Deleting content files: Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:21:43,320 - INFO - Deleting content: /home/user/Desktop/torrents/Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:21:43,322 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:21:43,322 - INFO - Successfully processed torrent: Captain America Civil War (2016) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:21:43,322 - INFO - Uploading torrent: The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:21:43,322 - INFO - Starting upload: /home/user/Desktop/torrents/The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:21:43,322 - INFO - Uploading directory of size 2103.07 MB
+2025-04-14 03:25:21,516 - INFO - Successfully uploaded to onedrive:Torrents/The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:25:21,516 - INFO - Verifying upload for: The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:25:21,517 - INFO - Verifying upload: /home/user/Desktop/torrents/The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:25:23,836 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:25:23,838 - INFO - Deleting torrent from qBittorrent: The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:25:23,838 - INFO - Deleting torrent with hash a301407a9060dea522348c791cfbc26f53a6cb50 (delete_files=False)
+2025-04-14 03:25:23,847 - INFO - Successfully deleted torrent with hash a301407a9060dea522348c791cfbc26f53a6cb50
+2025-04-14 03:25:23,847 - INFO - Deleting content files: The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:25:23,847 - INFO - Deleting content: /home/user/Desktop/torrents/The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:25:23,848 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:25:23,849 - INFO - Successfully processed torrent: The Covenant (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:25:23,849 - INFO - Uploading torrent: Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:25:23,849 - INFO - Starting upload: /home/user/Desktop/torrents/Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:25:23,849 - INFO - Uploading directory of size 2720.10 MB
+2025-04-14 03:30:29,576 - INFO - Successfully uploaded to onedrive:Torrents/Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:30:29,576 - INFO - Verifying upload for: Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:30:29,577 - INFO - Verifying upload: /home/user/Desktop/torrents/Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:30:32,206 - INFO - Upload verification successful for /home/user/Desktop/torrents/Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:30:32,207 - INFO - Deleting torrent from qBittorrent: Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:30:32,208 - INFO - Deleting torrent with hash 7509670ba7887b775aa526a434c8e4bee1a669de (delete_files=False)
+2025-04-14 03:30:32,218 - INFO - Successfully deleted torrent with hash 7509670ba7887b775aa526a434c8e4bee1a669de
+2025-04-14 03:30:32,218 - INFO - Deleting content files: Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:30:32,218 - INFO - Deleting content: /home/user/Desktop/torrents/Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:30:32,220 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:30:32,220 - INFO - Successfully processed torrent: Attack On Titan The Movie The Last Attack (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 03:30:32,220 - INFO - Uploading torrent: Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 03:30:32,220 - INFO - Starting upload: /home/user/Desktop/torrents/Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 03:30:32,221 - INFO - Uploading directory of size 2377.03 MB
+2025-04-14 03:34:51,542 - INFO - Successfully uploaded to onedrive:Torrents/Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 03:34:51,543 - INFO - Verifying upload for: Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 03:34:51,543 - INFO - Verifying upload: /home/user/Desktop/torrents/Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 03:34:54,109 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 03:34:54,111 - INFO - Deleting torrent from qBittorrent: Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 03:34:54,111 - INFO - Deleting torrent with hash ed784890c830c99a0135a22f6d5657a399e985b0 (delete_files=False)
+2025-04-14 03:34:54,119 - INFO - Successfully deleted torrent with hash ed784890c830c99a0135a22f6d5657a399e985b0
+2025-04-14 03:34:54,119 - INFO - Deleting content files: Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 03:34:54,119 - INFO - Deleting content: /home/user/Desktop/torrents/Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 03:34:54,121 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 03:34:54,121 - INFO - Successfully processed torrent: Ted 2 (2015) [EXTENDED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 03:34:54,121 - INFO - Uploading torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:34:54,121 - INFO - Starting upload: /home/user/Desktop/torrents/Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:34:54,122 - INFO - Uploading directory of size 1601.33 MB
+2025-04-14 03:37:46,889 - INFO - Successfully uploaded to onedrive:Torrents/Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:37:46,890 - INFO - Verifying upload for: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:37:46,890 - INFO - Verifying upload: /home/user/Desktop/torrents/Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:37:49,406 - INFO - Upload verification successful for /home/user/Desktop/torrents/Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:37:49,408 - INFO - Deleting torrent from qBittorrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:37:49,408 - INFO - Deleting torrent with hash 7c85d7c784416295b50010b5c92c60d7f9e4821b (delete_files=False)
+2025-04-14 03:37:49,416 - INFO - Successfully deleted torrent with hash 7c85d7c784416295b50010b5c92c60d7f9e4821b
+2025-04-14 03:37:49,416 - INFO - Deleting content files: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:37:49,416 - INFO - Deleting content: /home/user/Desktop/torrents/Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:37:49,417 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:37:49,417 - INFO - Successfully processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:37:49,417 - INFO - Uploading torrent: Johnny English (2003) [1080p] [YTS.AG]
+2025-04-14 03:37:49,418 - INFO - Starting upload: /home/user/Desktop/torrents/Johnny English (2003) [1080p] [YTS.AG] -> onedrive:Torrents/Johnny English (2003) [1080p] [YTS.AG]
+2025-04-14 03:37:49,418 - INFO - Uploading directory of size 1357.35 MB
+2025-04-14 03:40:11,232 - INFO - Successfully uploaded to onedrive:Torrents/Johnny English (2003) [1080p] [YTS.AG]
+2025-04-14 03:40:11,233 - INFO - Verifying upload for: Johnny English (2003) [1080p] [YTS.AG]
+2025-04-14 03:40:11,233 - INFO - Verifying upload: /home/user/Desktop/torrents/Johnny English (2003) [1080p] [YTS.AG] -> onedrive:Torrents/Johnny English (2003) [1080p] [YTS.AG]
+2025-04-14 03:40:13,559 - INFO - Upload verification successful for /home/user/Desktop/torrents/Johnny English (2003) [1080p] [YTS.AG]
+2025-04-14 03:40:13,561 - INFO - Deleting torrent from qBittorrent: Johnny English (2003) [1080p] [YTS.AG]
+2025-04-14 03:40:13,561 - INFO - Deleting torrent with hash ddaf275feadae6284506e8dbf1b6bf8d8067a8d0 (delete_files=False)
+2025-04-14 03:40:13,570 - INFO - Successfully deleted torrent with hash ddaf275feadae6284506e8dbf1b6bf8d8067a8d0
+2025-04-14 03:40:13,570 - INFO - Deleting content files: Johnny English (2003) [1080p] [YTS.AG]
+2025-04-14 03:40:13,570 - INFO - Deleting content: /home/user/Desktop/torrents/Johnny English (2003) [1080p] [YTS.AG]
+2025-04-14 03:40:13,571 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Johnny English (2003) [1080p] [YTS.AG]
+2025-04-14 03:40:13,571 - INFO - Successfully processed torrent: Johnny English (2003) [1080p] [YTS.AG]
+2025-04-14 03:40:13,571 - INFO - Uploading torrent: Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:40:13,571 - INFO - Starting upload: /home/user/Desktop/torrents/Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:40:13,571 - INFO - Uploading directory of size 1986.38 MB
