@@ -2128,3 +2128,76 @@ OSError: [Errno 28] No space left on device
 2025-04-14 03:40:13,571 - INFO - Uploading torrent: Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-14 03:40:13,571 - INFO - Starting upload: /home/user/Desktop/torrents/Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-14 03:40:13,571 - INFO - Uploading directory of size 1986.38 MB
+2025-04-14 03:43:53,561 - INFO - Successfully uploaded to onedrive:Torrents/Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:43:53,561 - INFO - Verifying upload for: Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:43:53,563 - INFO - Verifying upload: /home/user/Desktop/torrents/Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:43:55,756 - INFO - Upload verification successful for /home/user/Desktop/torrents/Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:43:55,757 - INFO - Deleting torrent from qBittorrent: Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:43:55,758 - INFO - Deleting torrent with hash dab8fe4bd941512327c2e3e466049c0659aa28e5 (delete_files=False)
+2025-04-14 03:43:55,765 - INFO - Successfully deleted torrent with hash dab8fe4bd941512327c2e3e466049c0659aa28e5
+2025-04-14 03:43:55,766 - INFO - Deleting content files: Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:43:55,766 - INFO - Deleting content: /home/user/Desktop/torrents/Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:43:55,767 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:43:55,767 - INFO - Successfully processed torrent: Bad Boys Ride Or Die (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 03:43:55,768 - INFO - Uploading torrent: Guardians of the Galaxy (2014) [1080p]
+2025-04-14 03:43:55,768 - INFO - Starting upload: /home/user/Desktop/torrents/Guardians of the Galaxy (2014) [1080p] -> onedrive:Torrents/Guardians of the Galaxy (2014) [1080p]
+2025-04-14 03:43:55,768 - INFO - Uploading directory of size 1896.80 MB
+2025-04-14 03:47:26,861 - INFO - Successfully uploaded to onedrive:Torrents/Guardians of the Galaxy (2014) [1080p]
+2025-04-14 03:47:26,861 - INFO - Verifying upload for: Guardians of the Galaxy (2014) [1080p]
+2025-04-14 03:47:26,862 - INFO - Verifying upload: /home/user/Desktop/torrents/Guardians of the Galaxy (2014) [1080p] -> onedrive:Torrents/Guardians of the Galaxy (2014) [1080p]
+2025-04-14 03:47:29,129 - INFO - Upload verification successful for /home/user/Desktop/torrents/Guardians of the Galaxy (2014) [1080p]
+2025-04-14 03:47:29,131 - INFO - Deleting torrent from qBittorrent: Guardians of the Galaxy (2014) [1080p]
+2025-04-14 03:47:29,131 - INFO - Deleting torrent with hash 11a2ac68a11634e980f265cb1433c599d017a759 (delete_files=False)
+2025-04-14 03:47:29,139 - INFO - Successfully deleted torrent with hash 11a2ac68a11634e980f265cb1433c599d017a759
+2025-04-14 03:47:29,140 - INFO - Deleting content files: Guardians of the Galaxy (2014) [1080p]
+2025-04-14 03:47:29,140 - INFO - Deleting content: /home/user/Desktop/torrents/Guardians of the Galaxy (2014) [1080p]
+2025-04-14 03:47:29,140 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Guardians of the Galaxy (2014) [1080p]
+2025-04-14 03:47:29,141 - INFO - Successfully processed torrent: Guardians of the Galaxy (2014) [1080p]
+2025-04-14 03:47:29,141 - INFO - Uploading torrent: The Avengers (2012) [1080p]
+2025-04-14 03:47:29,141 - INFO - Starting upload: /home/user/Desktop/torrents/The Avengers (2012) [1080p] -> onedrive:Torrents/The Avengers (2012) [1080p]
+2025-04-14 03:47:29,141 - INFO - Uploading directory of size 2249.35 MB
+2025-04-14 03:51:30,488 - INFO - Successfully uploaded to onedrive:Torrents/The Avengers (2012) [1080p]
+2025-04-14 03:51:30,488 - INFO - Verifying upload for: The Avengers (2012) [1080p]
+2025-04-14 03:51:30,488 - INFO - Verifying upload: /home/user/Desktop/torrents/The Avengers (2012) [1080p] -> onedrive:Torrents/The Avengers (2012) [1080p]
+2025-04-14 03:51:33,058 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Avengers (2012) [1080p]
+2025-04-14 03:51:33,060 - INFO - Deleting torrent from qBittorrent: The Avengers (2012) [1080p]
+2025-04-14 03:51:33,060 - INFO - Deleting torrent with hash e9f759b6a26113f3745311dad4bd332b4612eb60 (delete_files=False)
+2025-04-14 03:51:33,071 - INFO - Successfully deleted torrent with hash e9f759b6a26113f3745311dad4bd332b4612eb60
+2025-04-14 03:51:33,071 - INFO - Deleting content files: The Avengers (2012) [1080p]
+2025-04-14 03:51:33,071 - INFO - Deleting content: /home/user/Desktop/torrents/The Avengers (2012) [1080p]
+2025-04-14 03:51:33,072 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Avengers (2012) [1080p]
+2025-04-14 03:51:33,072 - INFO - Successfully processed torrent: The Avengers (2012) [1080p]
+2025-04-14 03:51:33,072 - INFO - Uploading torrent: The Hunger Games Mockingjay   Part 1 (2014) [1080p]
+2025-04-14 03:51:33,072 - INFO - Starting upload: /home/user/Desktop/torrents/The Hunger Games Mockingjay   Part 1 (2014) [1080p] -> onedrive:Torrents/The Hunger Games Mockingjay   Part 1 (2014) [1080p]
+2025-04-14 03:51:33,072 - INFO - Uploading directory of size 1899.04 MB
+2025-04-14 03:54:47,318 - INFO - Successfully uploaded to onedrive:Torrents/The Hunger Games Mockingjay   Part 1 (2014) [1080p]
+2025-04-14 03:54:47,318 - INFO - Verifying upload for: The Hunger Games Mockingjay   Part 1 (2014) [1080p]
+2025-04-14 03:54:47,319 - INFO - Verifying upload: /home/user/Desktop/torrents/The Hunger Games Mockingjay   Part 1 (2014) [1080p] -> onedrive:Torrents/The Hunger Games Mockingjay   Part 1 (2014) [1080p]
+2025-04-14 03:54:49,603 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Hunger Games Mockingjay   Part 1 (2014) [1080p]
+2025-04-14 03:54:49,605 - INFO - Deleting torrent from qBittorrent: The Hunger Games Mockingjay   Part 1 (2014) [1080p]
+2025-04-14 03:54:49,605 - INFO - Deleting torrent with hash c353f618210665a77bce482a1ee571112e24afc3 (delete_files=False)
+2025-04-14 03:54:49,613 - INFO - Successfully deleted torrent with hash c353f618210665a77bce482a1ee571112e24afc3
+2025-04-14 03:54:49,613 - INFO - Deleting content files: The Hunger Games Mockingjay   Part 1 (2014) [1080p]
+2025-04-14 03:54:49,613 - INFO - Deleting content: /home/user/Desktop/torrents/The Hunger Games Mockingjay   Part 1 (2014) [1080p]
+2025-04-14 03:54:49,614 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Hunger Games Mockingjay   Part 1 (2014) [1080p]
+2025-04-14 03:54:49,614 - INFO - Successfully processed torrent: The Hunger Games Mockingjay   Part 1 (2014) [1080p]
+2025-04-14 03:54:49,614 - INFO - Uploading torrent: Iron Man [1080p]
+2025-04-14 03:54:49,614 - INFO - Starting upload: /home/user/Desktop/torrents/Iron Man [1080p] -> onedrive:Torrents/Iron Man [1080p]
+2025-04-14 03:54:49,614 - INFO - Uploading directory of size 1692.02 MB
+2025-04-14 04:54:42,151 - INFO - Loaded configuration from config.json
+2025-04-14 04:54:42,151 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-14 04:54:42,219 - INFO - Found onedrive remote in rclone configuration
+2025-04-14 04:54:42,223 - ERROR - Error connecting to qBittorrent: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/v2/auth/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e004d880850>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-14 04:54:42,224 - WARNING - Retry 1 for login failed with HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/v2/auth/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e004d880850>: Failed to establish a new connection: [Errno 111] Connection refused')). Retrying in 3 seconds...
+2025-04-14 04:54:45,228 - ERROR - Error connecting to qBittorrent: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/v2/auth/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e004d880c70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-14 04:54:45,228 - WARNING - Retry 2 for login failed with HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/v2/auth/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e004d880c70>: Failed to establish a new connection: [Errno 111] Connection refused')). Retrying in 6 seconds...
+2025-04-14 04:55:05,138 - INFO - Loaded configuration from config.json
+2025-04-14 04:55:05,139 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-14 04:55:05,210 - INFO - Found onedrive remote in rclone configuration
+2025-04-14 04:55:05,216 - INFO - Successfully logged in to qBittorrent
+2025-04-14 04:55:05,216 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-14 04:55:05,216 - INFO - Checking for completed torrents...
+2025-04-14 04:55:05,224 - INFO - Found 31 completed torrents
+2025-04-14 04:55:05,224 - INFO - Uploading torrent: Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 04:55:05,224 - INFO - Starting upload: /home/user/Desktop/torrents/Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 04:55:05,224 - INFO - Uploading directory of size 1563.44 MB
