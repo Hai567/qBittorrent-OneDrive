@@ -1678,3 +1678,89 @@ OSError: [Errno 28] No space left on device
 2025-04-14 01:09:14,321 - INFO - Uploading torrent: The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-14 01:09:14,321 - INFO - Starting upload: /home/user/Desktop/torrents/The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-14 01:09:14,321 - INFO - Uploading directory of size 1955.95 MB
+2025-04-14 01:13:30,686 - INFO - Successfully uploaded to onedrive:Torrents/The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:13:30,686 - INFO - Verifying upload for: The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:13:30,686 - INFO - Verifying upload: /home/user/Desktop/torrents/The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:13:33,166 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:13:33,167 - INFO - Deleting torrent from qBittorrent: The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:13:33,168 - INFO - Deleting torrent with hash 4c7290673b5206b884621cb4472c073f1e9a45fb (delete_files=False)
+2025-04-14 01:13:33,177 - INFO - Successfully deleted torrent with hash 4c7290673b5206b884621cb4472c073f1e9a45fb
+2025-04-14 01:13:33,177 - INFO - Deleting content files: The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:13:33,177 - INFO - Deleting content: /home/user/Desktop/torrents/The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:13:33,179 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:13:33,179 - INFO - Successfully processed torrent: The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:13:33,179 - INFO - Uploading torrent: The Godfather Part 3 (1990) [1080p]
+2025-04-14 01:13:33,179 - INFO - Starting upload: /home/user/Desktop/torrents/The Godfather Part 3 (1990) [1080p] -> onedrive:Torrents/The Godfather Part 3 (1990) [1080p]
+2025-04-14 01:13:33,180 - INFO - Uploading directory of size 2358.17 MB
+2025-04-14 01:18:57,744 - INFO - Successfully uploaded to onedrive:Torrents/The Godfather Part 3 (1990) [1080p]
+2025-04-14 01:18:57,744 - INFO - Verifying upload for: The Godfather Part 3 (1990) [1080p]
+2025-04-14 01:18:57,745 - INFO - Verifying upload: /home/user/Desktop/torrents/The Godfather Part 3 (1990) [1080p] -> onedrive:Torrents/The Godfather Part 3 (1990) [1080p]
+2025-04-14 01:19:00,061 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Godfather Part 3 (1990) [1080p]
+2025-04-14 01:19:00,063 - INFO - Deleting torrent from qBittorrent: The Godfather Part 3 (1990) [1080p]
+2025-04-14 01:19:00,063 - INFO - Deleting torrent with hash cf892f58b4ad7589cb052f659fb3d8021ea49491 (delete_files=False)
+2025-04-14 01:19:00,072 - INFO - Successfully deleted torrent with hash cf892f58b4ad7589cb052f659fb3d8021ea49491
+2025-04-14 01:19:00,072 - INFO - Deleting content files: The Godfather Part 3 (1990) [1080p]
+2025-04-14 01:19:00,072 - INFO - Deleting content: /home/user/Desktop/torrents/The Godfather Part 3 (1990) [1080p]
+2025-04-14 01:19:00,073 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Godfather Part 3 (1990) [1080p]
+2025-04-14 01:19:00,073 - INFO - Successfully processed torrent: The Godfather Part 3 (1990) [1080p]
+2025-04-14 01:19:00,073 - INFO - Uploading torrent: Iron Man 2 (2010) [1080p]
+2025-04-14 01:19:00,074 - INFO - Starting upload: /home/user/Desktop/torrents/Iron Man 2 (2010) [1080p] -> onedrive:Torrents/Iron Man 2 (2010) [1080p]
+2025-04-14 01:19:00,074 - INFO - Uploading directory of size 1642.77 MB
+2025-04-14 01:22:36,335 - INFO - Successfully uploaded to onedrive:Torrents/Iron Man 2 (2010) [1080p]
+2025-04-14 01:22:36,335 - INFO - Verifying upload for: Iron Man 2 (2010) [1080p]
+2025-04-14 01:22:36,336 - INFO - Verifying upload: /home/user/Desktop/torrents/Iron Man 2 (2010) [1080p] -> onedrive:Torrents/Iron Man 2 (2010) [1080p]
+2025-04-14 01:22:39,016 - INFO - Upload verification successful for /home/user/Desktop/torrents/Iron Man 2 (2010) [1080p]
+2025-04-14 01:22:39,018 - INFO - Deleting torrent from qBittorrent: Iron Man 2 (2010) [1080p]
+2025-04-14 01:22:39,018 - INFO - Deleting torrent with hash b550a0a32b0749abfadb8eb0736f03d271e876e0 (delete_files=False)
+2025-04-14 01:22:39,026 - INFO - Successfully deleted torrent with hash b550a0a32b0749abfadb8eb0736f03d271e876e0
+2025-04-14 01:22:39,027 - INFO - Deleting content files: Iron Man 2 (2010) [1080p]
+2025-04-14 01:22:39,027 - INFO - Deleting content: /home/user/Desktop/torrents/Iron Man 2 (2010) [1080p]
+2025-04-14 01:22:39,028 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Iron Man 2 (2010) [1080p]
+2025-04-14 01:22:39,028 - INFO - Successfully processed torrent: Iron Man 2 (2010) [1080p]
+2025-04-14 01:27:39,127 - INFO - Checking for completed torrents...
+2025-04-14 01:27:39,140 - INFO - Found 37 completed torrents
+2025-04-14 01:27:39,140 - INFO - Uploading torrent: Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:27:39,140 - INFO - Starting upload: /home/user/Desktop/torrents/Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:27:39,141 - INFO - Uploading directory of size 3130.23 MB
+2025-04-14 01:33:45,984 - INFO - Successfully uploaded to onedrive:Torrents/Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:33:45,984 - INFO - Verifying upload for: Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:33:45,984 - INFO - Verifying upload: /home/user/Desktop/torrents/Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:33:48,448 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:33:48,450 - INFO - Deleting torrent from qBittorrent: Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:33:48,450 - INFO - Deleting torrent with hash c2f364ba7f59b22a1845b16fd8a1fc1783568f8b (delete_files=False)
+2025-04-14 01:33:48,459 - INFO - Successfully deleted torrent with hash c2f364ba7f59b22a1845b16fd8a1fc1783568f8b
+2025-04-14 01:33:48,459 - INFO - Deleting content files: Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:33:48,459 - INFO - Deleting content: /home/user/Desktop/torrents/Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:33:48,460 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:33:48,460 - INFO - Successfully processed torrent: Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:33:48,460 - INFO - Uploading torrent: Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:33:48,461 - INFO - Starting upload: /home/user/Desktop/torrents/Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:33:48,461 - INFO - Uploading directory of size 2013.30 MB
+2025-04-14 01:38:19,973 - INFO - Successfully uploaded to onedrive:Torrents/Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:38:19,973 - INFO - Verifying upload for: Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:38:19,973 - INFO - Verifying upload: /home/user/Desktop/torrents/Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:38:22,676 - INFO - Upload verification successful for /home/user/Desktop/torrents/Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:38:22,678 - INFO - Deleting torrent from qBittorrent: Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:38:22,678 - INFO - Deleting torrent with hash fc09feed9756c1f6c3e069e44aab60f724d99ed0 (delete_files=False)
+2025-04-14 01:38:22,686 - INFO - Successfully deleted torrent with hash fc09feed9756c1f6c3e069e44aab60f724d99ed0
+2025-04-14 01:38:22,686 - INFO - Deleting content files: Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:38:22,686 - INFO - Deleting content: /home/user/Desktop/torrents/Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:38:22,688 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:38:22,688 - INFO - Successfully processed torrent: Madame Web (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:38:22,688 - INFO - Uploading torrent: Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:38:22,689 - INFO - Starting upload: /home/user/Desktop/torrents/Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:38:22,689 - INFO - Uploading directory of size 1613.57 MB
+2025-04-14 01:41:59,917 - INFO - Successfully uploaded to onedrive:Torrents/Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:41:59,918 - INFO - Verifying upload for: Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:41:59,918 - INFO - Verifying upload: /home/user/Desktop/torrents/Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:42:03,129 - INFO - Upload verification successful for /home/user/Desktop/torrents/Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:42:03,130 - INFO - Deleting torrent from qBittorrent: Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:42:03,131 - INFO - Deleting torrent with hash 2ba65026e358209799101fde5ae7b08026b6ccaa (delete_files=False)
+2025-04-14 01:42:03,139 - INFO - Successfully deleted torrent with hash 2ba65026e358209799101fde5ae7b08026b6ccaa
+2025-04-14 01:42:03,139 - INFO - Deleting content files: Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:42:03,139 - INFO - Deleting content: /home/user/Desktop/torrents/Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:42:03,140 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:42:03,140 - INFO - Successfully processed torrent: Despicable Me 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:42:03,140 - INFO - Uploading torrent: It Boy (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:42:03,140 - INFO - Starting upload: /home/user/Desktop/torrents/It Boy (2013) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/It Boy (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:42:03,140 - INFO - Uploading directory of size 1748.63 MB
