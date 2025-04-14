@@ -2495,3 +2495,101 @@ OSError: [Errno 28] No space left on device
 2025-04-14 06:27:05,775 - INFO - Uploading torrent: Captain America - The First Avenger (2011)
 2025-04-14 06:27:05,775 - INFO - Starting upload: /home/user/Desktop/torrents/Captain America - The First Avenger (2011) -> onedrive:Torrents/Captain America - The First Avenger (2011)
 2025-04-14 06:27:05,775 - INFO - Uploading directory of size 1634.69 MB
+2025-04-14 06:30:22,464 - INFO - Successfully uploaded to onedrive:Torrents/Captain America - The First Avenger (2011)
+2025-04-14 06:30:22,465 - INFO - Verifying upload for: Captain America - The First Avenger (2011)
+2025-04-14 06:30:22,465 - INFO - Verifying upload: /home/user/Desktop/torrents/Captain America - The First Avenger (2011) -> onedrive:Torrents/Captain America - The First Avenger (2011)
+2025-04-14 06:30:25,087 - INFO - Upload verification successful for /home/user/Desktop/torrents/Captain America - The First Avenger (2011)
+2025-04-14 06:30:25,089 - INFO - Deleting torrent from qBittorrent: Captain America - The First Avenger (2011)
+2025-04-14 06:30:25,089 - INFO - Deleting torrent with hash 25aa732e39db228aa7989ee66cc487c914aebf40 (delete_files=False)
+2025-04-14 06:30:25,098 - INFO - Successfully deleted torrent with hash 25aa732e39db228aa7989ee66cc487c914aebf40
+2025-04-14 06:30:25,098 - INFO - Deleting content files: Captain America - The First Avenger (2011)
+2025-04-14 06:30:25,098 - INFO - Deleting content: /home/user/Desktop/torrents/Captain America - The First Avenger (2011)
+2025-04-14 06:30:25,102 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Captain America - The First Avenger (2011)
+2025-04-14 06:30:25,102 - INFO - Successfully processed torrent: Captain America - The First Avenger (2011)
+2025-04-14 06:30:25,102 - INFO - Uploading torrent: Captain America The Winter Soldier (2014) [1080p]
+2025-04-14 06:30:25,102 - INFO - Starting upload: /home/user/Desktop/torrents/Captain America The Winter Soldier (2014) [1080p] -> onedrive:Torrents/Captain America The Winter Soldier (2014) [1080p]
+2025-04-14 06:30:25,102 - INFO - Uploading directory of size 2006.16 MB
+2025-04-14 06:34:15,378 - INFO - Successfully uploaded to onedrive:Torrents/Captain America The Winter Soldier (2014) [1080p]
+2025-04-14 06:34:15,378 - INFO - Verifying upload for: Captain America The Winter Soldier (2014) [1080p]
+2025-04-14 06:34:15,378 - INFO - Verifying upload: /home/user/Desktop/torrents/Captain America The Winter Soldier (2014) [1080p] -> onedrive:Torrents/Captain America The Winter Soldier (2014) [1080p]
+2025-04-14 06:34:17,689 - INFO - Upload verification successful for /home/user/Desktop/torrents/Captain America The Winter Soldier (2014) [1080p]
+2025-04-14 06:34:17,691 - INFO - Deleting torrent from qBittorrent: Captain America The Winter Soldier (2014) [1080p]
+2025-04-14 06:34:17,691 - INFO - Deleting torrent with hash 04a8c73349e0fe148557c3a9ba8482e0aa67ad49 (delete_files=False)
+2025-04-14 06:34:17,700 - INFO - Successfully deleted torrent with hash 04a8c73349e0fe148557c3a9ba8482e0aa67ad49
+2025-04-14 06:34:17,700 - INFO - Deleting content files: Captain America The Winter Soldier (2014) [1080p]
+2025-04-14 06:34:17,700 - INFO - Deleting content: /home/user/Desktop/torrents/Captain America The Winter Soldier (2014) [1080p]
+2025-04-14 06:34:17,706 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Captain America The Winter Soldier (2014) [1080p]
+2025-04-14 06:34:17,707 - INFO - Successfully processed torrent: Captain America The Winter Soldier (2014) [1080p]
+2025-04-14 06:34:17,707 - INFO - Uploading torrent: Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:34:17,707 - INFO - Starting upload: /home/user/Desktop/torrents/Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:34:17,707 - INFO - Uploading directory of size 2563.64 MB
+2025-04-14 06:39:08,953 - INFO - Successfully uploaded to onedrive:Torrents/Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:39:08,953 - INFO - Verifying upload for: Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:39:08,953 - INFO - Verifying upload: /home/user/Desktop/torrents/Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:39:11,587 - INFO - Upload verification successful for /home/user/Desktop/torrents/Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:39:11,589 - INFO - Deleting torrent from qBittorrent: Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:39:11,589 - INFO - Deleting torrent with hash 804666c81e0ae8bf81e34a93a8746a286f9a0681 (delete_files=False)
+2025-04-14 06:39:11,601 - INFO - Successfully deleted torrent with hash 804666c81e0ae8bf81e34a93a8746a286f9a0681
+2025-04-14 06:39:11,601 - INFO - Deleting content files: Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:39:11,601 - INFO - Deleting content: /home/user/Desktop/torrents/Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:39:11,607 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:39:11,607 - INFO - Successfully processed torrent: Guardians Of The Galaxy Vol. 2 (2017) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:39:11,607 - INFO - Uploading torrent: The Phantom of the Opera (2004) [1080p]
+2025-04-14 06:39:11,607 - INFO - Starting upload: /home/user/Desktop/torrents/The Phantom of the Opera (2004) [1080p] -> onedrive:Torrents/The Phantom of the Opera (2004) [1080p]
+2025-04-14 06:39:11,607 - INFO - Uploading directory of size 2099.60 MB
+2025-04-14 06:42:57,117 - INFO - Successfully uploaded to onedrive:Torrents/The Phantom of the Opera (2004) [1080p]
+2025-04-14 06:42:57,117 - INFO - Verifying upload for: The Phantom of the Opera (2004) [1080p]
+2025-04-14 06:42:57,117 - INFO - Verifying upload: /home/user/Desktop/torrents/The Phantom of the Opera (2004) [1080p] -> onedrive:Torrents/The Phantom of the Opera (2004) [1080p]
+2025-04-14 06:42:59,628 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Phantom of the Opera (2004) [1080p]
+2025-04-14 06:42:59,630 - INFO - Deleting torrent from qBittorrent: The Phantom of the Opera (2004) [1080p]
+2025-04-14 06:42:59,630 - INFO - Deleting torrent with hash e8b7f6372776b9ff43a8a3bba29e6fadb5752d43 (delete_files=False)
+2025-04-14 06:42:59,641 - INFO - Successfully deleted torrent with hash e8b7f6372776b9ff43a8a3bba29e6fadb5752d43
+2025-04-14 06:42:59,642 - INFO - Deleting content files: The Phantom of the Opera (2004) [1080p]
+2025-04-14 06:42:59,642 - INFO - Deleting content: /home/user/Desktop/torrents/The Phantom of the Opera (2004) [1080p]
+2025-04-14 06:42:59,649 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Phantom of the Opera (2004) [1080p]
+2025-04-14 06:42:59,649 - INFO - Successfully processed torrent: The Phantom of the Opera (2004) [1080p]
+2025-04-14 06:42:59,649 - INFO - Uploading torrent: Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:42:59,649 - INFO - Starting upload: /home/user/Desktop/torrents/Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:42:59,649 - INFO - Uploading directory of size 2473.35 MB
+2025-04-14 06:48:01,628 - INFO - Successfully uploaded to onedrive:Torrents/Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:48:01,629 - INFO - Verifying upload for: Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:48:01,629 - INFO - Verifying upload: /home/user/Desktop/torrents/Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:48:04,282 - INFO - Upload verification successful for /home/user/Desktop/torrents/Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:48:04,285 - INFO - Deleting torrent from qBittorrent: Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:48:04,285 - INFO - Deleting torrent with hash 37d2e761ff9fc3b22231d5f1960aab0d05d8d29a (delete_files=False)
+2025-04-14 06:48:04,295 - INFO - Successfully deleted torrent with hash 37d2e761ff9fc3b22231d5f1960aab0d05d8d29a
+2025-04-14 06:48:04,295 - INFO - Deleting content files: Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:48:04,295 - INFO - Deleting content: /home/user/Desktop/torrents/Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:48:04,299 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:48:04,299 - INFO - Successfully processed torrent: Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:48:04,299 - INFO - Uploading torrent: Avengers Age of Ultron (2015) [1080p]
+2025-04-14 06:48:04,299 - INFO - Starting upload: /home/user/Desktop/torrents/Avengers Age of Ultron (2015) [1080p] -> onedrive:Torrents/Avengers Age of Ultron (2015) [1080p]
+2025-04-14 06:48:04,299 - INFO - Uploading directory of size 2103.55 MB
+2025-04-14 06:52:00,106 - INFO - Successfully uploaded to onedrive:Torrents/Avengers Age of Ultron (2015) [1080p]
+2025-04-14 06:52:00,107 - INFO - Verifying upload for: Avengers Age of Ultron (2015) [1080p]
+2025-04-14 06:52:00,107 - INFO - Verifying upload: /home/user/Desktop/torrents/Avengers Age of Ultron (2015) [1080p] -> onedrive:Torrents/Avengers Age of Ultron (2015) [1080p]
+2025-04-14 06:52:02,459 - INFO - Upload verification successful for /home/user/Desktop/torrents/Avengers Age of Ultron (2015) [1080p]
+2025-04-14 06:52:02,461 - INFO - Deleting torrent from qBittorrent: Avengers Age of Ultron (2015) [1080p]
+2025-04-14 06:52:02,461 - INFO - Deleting torrent with hash 92b4d5ea2d21bc2692a2cb1e5b9fbecd489863ec (delete_files=False)
+2025-04-14 06:52:02,475 - INFO - Successfully deleted torrent with hash 92b4d5ea2d21bc2692a2cb1e5b9fbecd489863ec
+2025-04-14 06:52:02,475 - INFO - Deleting content files: Avengers Age of Ultron (2015) [1080p]
+2025-04-14 06:52:02,475 - INFO - Deleting content: /home/user/Desktop/torrents/Avengers Age of Ultron (2015) [1080p]
+2025-04-14 06:52:02,481 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Avengers Age of Ultron (2015) [1080p]
+2025-04-14 06:52:02,481 - INFO - Successfully processed torrent: Avengers Age of Ultron (2015) [1080p]
+2025-04-14 06:52:02,481 - INFO - Uploading torrent: Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:52:02,481 - INFO - Starting upload: /home/user/Desktop/torrents/Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:52:02,482 - INFO - Uploading directory of size 2033.43 MB
+2025-04-14 06:56:05,096 - INFO - Successfully uploaded to onedrive:Torrents/Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:56:05,096 - INFO - Verifying upload for: Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:56:05,096 - INFO - Verifying upload: /home/user/Desktop/torrents/Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:56:07,733 - INFO - Upload verification successful for /home/user/Desktop/torrents/Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:56:07,735 - INFO - Deleting torrent from qBittorrent: Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:56:07,735 - INFO - Deleting torrent with hash da94324e3f15084417e4f2f904abf380246b2777 (delete_files=False)
+2025-04-14 06:56:07,744 - INFO - Successfully deleted torrent with hash da94324e3f15084417e4f2f904abf380246b2777
+2025-04-14 06:56:07,744 - INFO - Deleting content files: Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:56:07,744 - INFO - Deleting content: /home/user/Desktop/torrents/Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:56:07,749 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:56:07,749 - INFO - Successfully processed torrent: Alien Romulus (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 06:56:07,749 - INFO - Uploading torrent: The Hobbit An Unexpected Journey (2012) [1080p]
+2025-04-14 06:56:07,749 - INFO - Starting upload: /home/user/Desktop/torrents/The Hobbit An Unexpected Journey (2012) [1080p] -> onedrive:Torrents/The Hobbit An Unexpected Journey (2012) [1080p]
+2025-04-14 06:56:07,750 - INFO - Uploading directory of size 2560.14 MB
