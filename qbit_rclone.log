@@ -2397,3 +2397,101 @@ OSError: [Errno 28] No space left on device
 2025-04-14 05:54:07,384 - INFO - Uploading torrent: Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-14 05:54:07,384 - INFO - Starting upload: /home/user/Desktop/torrents/Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-14 05:54:07,385 - INFO - Uploading directory of size 1976.95 MB
+2025-04-14 05:57:53,970 - INFO - Successfully uploaded to onedrive:Torrents/Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:57:53,970 - INFO - Verifying upload for: Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:57:53,970 - INFO - Verifying upload: /home/user/Desktop/torrents/Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:57:56,740 - INFO - Upload verification successful for /home/user/Desktop/torrents/Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:57:56,742 - INFO - Deleting torrent from qBittorrent: Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:57:56,743 - INFO - Deleting torrent with hash 4dd74beea0c318a88630c8edfea26173d8ee3b24 (delete_files=False)
+2025-04-14 05:57:56,752 - INFO - Successfully deleted torrent with hash 4dd74beea0c318a88630c8edfea26173d8ee3b24
+2025-04-14 05:57:56,752 - INFO - Deleting content files: Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:57:56,752 - INFO - Deleting content: /home/user/Desktop/torrents/Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:57:56,756 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:57:56,756 - INFO - Successfully processed torrent: Joy (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:57:56,756 - INFO - Uploading torrent: The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p]
+2025-04-14 05:57:56,756 - INFO - Starting upload: /home/user/Desktop/torrents/The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p] -> onedrive:Torrents/The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p]
+2025-04-14 05:57:56,757 - INFO - Uploading directory of size 2460.95 MB
+2025-04-14 06:02:58,047 - INFO - Successfully uploaded to onedrive:Torrents/The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p]
+2025-04-14 06:02:58,048 - INFO - Verifying upload for: The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p]
+2025-04-14 06:02:58,048 - INFO - Verifying upload: /home/user/Desktop/torrents/The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p] -> onedrive:Torrents/The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p]
+2025-04-14 06:03:00,388 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p]
+2025-04-14 06:03:00,390 - INFO - Deleting torrent from qBittorrent: The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p]
+2025-04-14 06:03:00,390 - INFO - Deleting torrent with hash 7c286ec055a01e70c4b138fc3901a8995e47b973 (delete_files=False)
+2025-04-14 06:03:00,399 - INFO - Successfully deleted torrent with hash 7c286ec055a01e70c4b138fc3901a8995e47b973
+2025-04-14 06:03:00,399 - INFO - Deleting content files: The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p]
+2025-04-14 06:03:00,399 - INFO - Deleting content: /home/user/Desktop/torrents/The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p]
+2025-04-14 06:03:00,404 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p]
+2025-04-14 06:03:00,404 - INFO - Successfully processed torrent: The Lord of the Rings The Fellowship of the Ring THEATRICAL EDITION (2001) [1080p]
+2025-04-14 06:03:00,404 - INFO - Uploading torrent: Spider Man (2002) [1080p]
+2025-04-14 06:03:00,404 - INFO - Starting upload: /home/user/Desktop/torrents/Spider Man (2002) [1080p] -> onedrive:Torrents/Spider Man (2002) [1080p]
+2025-04-14 06:03:00,404 - INFO - Uploading directory of size 1888.11 MB
+2025-04-14 06:06:46,620 - INFO - Successfully uploaded to onedrive:Torrents/Spider Man (2002) [1080p]
+2025-04-14 06:06:46,620 - INFO - Verifying upload for: Spider Man (2002) [1080p]
+2025-04-14 06:06:46,621 - INFO - Verifying upload: /home/user/Desktop/torrents/Spider Man (2002) [1080p] -> onedrive:Torrents/Spider Man (2002) [1080p]
+2025-04-14 06:06:48,905 - INFO - Upload verification successful for /home/user/Desktop/torrents/Spider Man (2002) [1080p]
+2025-04-14 06:06:48,908 - INFO - Deleting torrent from qBittorrent: Spider Man (2002) [1080p]
+2025-04-14 06:06:48,908 - INFO - Deleting torrent with hash b6abea6bac7debb9bcf845983727fa6edfced29d (delete_files=False)
+2025-04-14 06:06:48,916 - INFO - Successfully deleted torrent with hash b6abea6bac7debb9bcf845983727fa6edfced29d
+2025-04-14 06:06:48,916 - INFO - Deleting content files: Spider Man (2002) [1080p]
+2025-04-14 06:06:48,917 - INFO - Deleting content: /home/user/Desktop/torrents/Spider Man (2002) [1080p]
+2025-04-14 06:06:48,923 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Spider Man (2002) [1080p]
+2025-04-14 06:06:48,924 - INFO - Successfully processed torrent: Spider Man (2002) [1080p]
+2025-04-14 06:06:48,924 - INFO - Uploading torrent: Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 06:06:48,924 - INFO - Starting upload: /home/user/Desktop/torrents/Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 06:06:48,924 - INFO - Uploading directory of size 2274.22 MB
+2025-04-14 06:11:04,067 - INFO - Successfully uploaded to onedrive:Torrents/Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 06:11:04,067 - INFO - Verifying upload for: Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 06:11:04,067 - INFO - Verifying upload: /home/user/Desktop/torrents/Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 06:11:06,421 - INFO - Upload verification successful for /home/user/Desktop/torrents/Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 06:11:06,423 - INFO - Deleting torrent from qBittorrent: Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 06:11:06,423 - INFO - Deleting torrent with hash 9d1fc2b6c129b265f475c4abaeed2d2b86a041a3 (delete_files=False)
+2025-04-14 06:11:06,435 - INFO - Successfully deleted torrent with hash 9d1fc2b6c129b265f475c4abaeed2d2b86a041a3
+2025-04-14 06:11:06,435 - INFO - Deleting content files: Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 06:11:06,435 - INFO - Deleting content: /home/user/Desktop/torrents/Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 06:11:06,439 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 06:11:06,439 - INFO - Successfully processed torrent: Conclave (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 06:11:06,439 - INFO - Uploading torrent: The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]
+2025-04-14 06:11:06,439 - INFO - Starting upload: /home/user/Desktop/torrents/The Lord of the Rings The Return of the King EXTENDED (2003) [1080p] -> onedrive:Torrents/The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]
+2025-04-14 06:11:06,439 - INFO - Uploading directory of size 3791.13 MB
+2025-04-14 06:18:40,884 - INFO - Successfully uploaded to onedrive:Torrents/The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]
+2025-04-14 06:18:40,884 - INFO - Verifying upload for: The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]
+2025-04-14 06:18:40,884 - INFO - Verifying upload: /home/user/Desktop/torrents/The Lord of the Rings The Return of the King EXTENDED (2003) [1080p] -> onedrive:Torrents/The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]
+2025-04-14 06:18:43,187 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]
+2025-04-14 06:18:43,189 - INFO - Deleting torrent from qBittorrent: The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]
+2025-04-14 06:18:43,189 - INFO - Deleting torrent with hash ad73d5576dc4ecfeea4353d4503f9b3f93dfa740 (delete_files=False)
+2025-04-14 06:18:43,198 - INFO - Successfully deleted torrent with hash ad73d5576dc4ecfeea4353d4503f9b3f93dfa740
+2025-04-14 06:18:43,198 - INFO - Deleting content files: The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]
+2025-04-14 06:18:43,198 - INFO - Deleting content: /home/user/Desktop/torrents/The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]
+2025-04-14 06:18:43,213 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]
+2025-04-14 06:18:43,213 - INFO - Successfully processed torrent: The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]
+2025-04-14 06:18:43,213 - INFO - Uploading torrent: Parasite (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-14 06:18:43,213 - INFO - Starting upload: /home/user/Desktop/torrents/Parasite (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Parasite (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-14 06:18:43,213 - INFO - Uploading directory of size 2118.53 MB
+2025-04-14 06:22:56,515 - INFO - Successfully uploaded to onedrive:Torrents/Parasite (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-14 06:22:56,515 - INFO - Verifying upload for: Parasite (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-14 06:22:56,515 - INFO - Verifying upload: /home/user/Desktop/torrents/Parasite (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Parasite (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-14 06:22:58,798 - INFO - Upload verification successful for /home/user/Desktop/torrents/Parasite (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-14 06:22:58,800 - INFO - Deleting torrent from qBittorrent: Parasite (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-14 06:22:58,800 - INFO - Deleting torrent with hash ce6d2a6bbc439a8f6b94b23ba63b04164400fe3b (delete_files=False)
+2025-04-14 06:22:58,810 - INFO - Successfully deleted torrent with hash ce6d2a6bbc439a8f6b94b23ba63b04164400fe3b
+2025-04-14 06:22:58,810 - INFO - Deleting content files: Parasite (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-14 06:22:58,810 - INFO - Deleting content: /home/user/Desktop/torrents/Parasite (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-14 06:22:58,813 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Parasite (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-14 06:22:58,813 - INFO - Successfully processed torrent: Parasite (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-14 06:22:58,813 - INFO - Uploading torrent: Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:22:58,813 - INFO - Starting upload: /home/user/Desktop/torrents/Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:22:58,814 - INFO - Uploading directory of size 2038.69 MB
+2025-04-14 06:27:03,307 - INFO - Successfully uploaded to onedrive:Torrents/Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:27:03,308 - INFO - Verifying upload for: Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:27:03,308 - INFO - Verifying upload: /home/user/Desktop/torrents/Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:27:05,758 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:27:05,761 - INFO - Deleting torrent from qBittorrent: Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:27:05,761 - INFO - Deleting torrent with hash d70c2e5ac9097d2874d6771bc6963e0dd7a02010 (delete_files=False)
+2025-04-14 06:27:05,771 - INFO - Successfully deleted torrent with hash d70c2e5ac9097d2874d6771bc6963e0dd7a02010
+2025-04-14 06:27:05,771 - INFO - Deleting content files: Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:27:05,771 - INFO - Deleting content: /home/user/Desktop/torrents/Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:27:05,774 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:27:05,775 - INFO - Successfully processed torrent: Pleasure (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 06:27:05,775 - INFO - Uploading torrent: Captain America - The First Avenger (2011)
+2025-04-14 06:27:05,775 - INFO - Starting upload: /home/user/Desktop/torrents/Captain America - The First Avenger (2011) -> onedrive:Torrents/Captain America - The First Avenger (2011)
+2025-04-14 06:27:05,775 - INFO - Uploading directory of size 1634.69 MB
