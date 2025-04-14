@@ -2872,3 +2872,27 @@ OSError: [Errno 28] No space left on device
 2025-04-14 11:03:05,321 - INFO - Deleting content: /home/user/Desktop/torrents/The Originals Season 4 Complete 720p HDTV x264 [i_c]
 2025-04-14 11:03:05,324 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Originals Season 4 Complete 720p HDTV x264 [i_c]
 2025-04-14 11:03:05,325 - INFO - Successfully processed torrent: The Originals Season 4 Complete 720p HDTV x264 [i_c]
+2025-04-14 11:08:05,369 - INFO - Checking for completed torrents...
+2025-04-14 11:08:05,373 - INFO - Found 1 completed torrents
+2025-04-14 11:08:05,373 - INFO - Uploading torrent: The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c]
+2025-04-14 11:08:05,373 - INFO - Starting upload: /home/user/Desktop/torrents/The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c] -> onedrive:Torrents/The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c]
+2025-04-14 11:08:05,373 - INFO - Uploading directory of size 10523.12 MB
+2025-04-14 11:12:46,269 - INFO - Successfully uploaded to onedrive:Torrents/The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c]
+2025-04-14 11:12:46,269 - INFO - Verifying upload for: The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c]
+2025-04-14 11:12:46,270 - INFO - Verifying upload: /home/user/Desktop/torrents/The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c] -> onedrive:Torrents/The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c]
+2025-04-14 11:12:48,767 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c]
+2025-04-14 11:12:48,770 - INFO - Deleting torrent from qBittorrent: The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c]
+2025-04-14 11:12:48,770 - INFO - Deleting torrent with hash 55a80cab6694eb566811c22ddf3d9d0892279192 (delete_files=False)
+2025-04-14 11:12:48,780 - INFO - Successfully deleted torrent with hash 55a80cab6694eb566811c22ddf3d9d0892279192
+2025-04-14 11:12:48,780 - INFO - Deleting content files: The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c]
+2025-04-14 11:12:48,781 - INFO - Deleting content: /home/user/Desktop/torrents/The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c]
+2025-04-14 11:12:48,786 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c]
+2025-04-14 11:12:48,786 - INFO - Successfully processed torrent: The Originals 2015 Season 1 Complete 720p WEBRip x264 [i_c]
+2025-04-14 11:17:48,869 - INFO - Checking for completed torrents...
+2025-04-14 11:17:48,872 - INFO - Found 0 completed torrents
+2025-04-14 11:22:48,920 - INFO - Checking for completed torrents...
+2025-04-14 11:22:48,923 - INFO - Found 0 completed torrents
+2025-04-14 11:27:49,024 - INFO - Checking for completed torrents...
+2025-04-14 11:27:49,027 - INFO - Found 0 completed torrents
+2025-04-14 11:32:49,043 - INFO - Checking for completed torrents...
+2025-04-14 11:32:49,047 - INFO - Found 0 completed torrents
