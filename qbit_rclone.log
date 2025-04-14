@@ -2836,3 +2836,39 @@ OSError: [Errno 28] No space left on device
 2025-04-14 10:30:52,054 - INFO - Found 0 completed torrents
 2025-04-14 10:35:52,154 - INFO - Checking for completed torrents...
 2025-04-14 10:35:52,157 - INFO - Found 0 completed torrents
+2025-04-14 10:40:52,258 - INFO - Checking for completed torrents...
+2025-04-14 10:40:52,261 - INFO - Found 0 completed torrents
+2025-04-14 10:45:52,361 - INFO - Checking for completed torrents...
+2025-04-14 10:45:52,365 - INFO - Found 0 completed torrents
+2025-04-14 10:50:52,465 - INFO - Checking for completed torrents...
+2025-04-14 10:50:52,469 - INFO - Found 1 completed torrents
+2025-04-14 10:50:52,470 - INFO - Uploading torrent: The Originals Season 3 S03 Complete [720p]~{KiNg}
+2025-04-14 10:50:52,470 - INFO - Starting upload: /home/user/Desktop/torrents/The Originals Season 3 S03 Complete [720p]~{KiNg} -> onedrive:Torrents/The Originals Season 3 S03 Complete [720p]~{KiNg}
+2025-04-14 10:50:52,470 - INFO - Uploading directory of size 7616.12 MB
+2025-04-14 10:54:25,459 - INFO - Successfully uploaded to onedrive:Torrents/The Originals Season 3 S03 Complete [720p]~{KiNg}
+2025-04-14 10:54:25,460 - INFO - Verifying upload for: The Originals Season 3 S03 Complete [720p]~{KiNg}
+2025-04-14 10:54:25,460 - INFO - Verifying upload: /home/user/Desktop/torrents/The Originals Season 3 S03 Complete [720p]~{KiNg} -> onedrive:Torrents/The Originals Season 3 S03 Complete [720p]~{KiNg}
+2025-04-14 10:54:27,472 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Originals Season 3 S03 Complete [720p]~{KiNg}
+2025-04-14 10:54:27,475 - INFO - Deleting torrent from qBittorrent: The Originals Season 3 S03 Complete [720p]~{KiNg}
+2025-04-14 10:54:27,475 - INFO - Deleting torrent with hash ce990a5b76697908908060697d53a8e2f219e9ae (delete_files=False)
+2025-04-14 10:54:27,503 - INFO - Successfully deleted torrent with hash ce990a5b76697908908060697d53a8e2f219e9ae
+2025-04-14 10:54:27,503 - INFO - Deleting content files: The Originals Season 3 S03 Complete [720p]~{KiNg}
+2025-04-14 10:54:27,503 - INFO - Deleting content: /home/user/Desktop/torrents/The Originals Season 3 S03 Complete [720p]~{KiNg}
+2025-04-14 10:54:27,508 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Originals Season 3 S03 Complete [720p]~{KiNg}
+2025-04-14 10:54:27,509 - INFO - Successfully processed torrent: The Originals Season 3 S03 Complete [720p]~{KiNg}
+2025-04-14 10:59:27,609 - INFO - Checking for completed torrents...
+2025-04-14 10:59:27,613 - INFO - Found 1 completed torrents
+2025-04-14 10:59:27,613 - INFO - Uploading torrent: The Originals Season 4 Complete 720p HDTV x264 [i_c]
+2025-04-14 10:59:27,614 - INFO - Starting upload: /home/user/Desktop/torrents/The Originals Season 4 Complete 720p HDTV x264 [i_c] -> onedrive:Torrents/The Originals Season 4 Complete 720p HDTV x264 [i_c]
+2025-04-14 10:59:27,614 - INFO - Uploading directory of size 6463.60 MB
+2025-04-14 11:03:02,875 - INFO - Successfully uploaded to onedrive:Torrents/The Originals Season 4 Complete 720p HDTV x264 [i_c]
+2025-04-14 11:03:02,875 - INFO - Verifying upload for: The Originals Season 4 Complete 720p HDTV x264 [i_c]
+2025-04-14 11:03:02,876 - INFO - Verifying upload: /home/user/Desktop/torrents/The Originals Season 4 Complete 720p HDTV x264 [i_c] -> onedrive:Torrents/The Originals Season 4 Complete 720p HDTV x264 [i_c]
+2025-04-14 11:03:05,290 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Originals Season 4 Complete 720p HDTV x264 [i_c]
+2025-04-14 11:03:05,310 - INFO - Deleting torrent from qBittorrent: The Originals Season 4 Complete 720p HDTV x264 [i_c]
+2025-04-14 11:03:05,310 - INFO - Deleting torrent with hash 28815a371e922a0441ca41ebd95a9024bdbe75b1 (delete_files=False)
+2025-04-14 11:03:05,321 - INFO - Successfully deleted torrent with hash 28815a371e922a0441ca41ebd95a9024bdbe75b1
+2025-04-14 11:03:05,321 - INFO - Deleting content files: The Originals Season 4 Complete 720p HDTV x264 [i_c]
+2025-04-14 11:03:05,321 - INFO - Deleting content: /home/user/Desktop/torrents/The Originals Season 4 Complete 720p HDTV x264 [i_c]
+2025-04-14 11:03:05,324 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Originals Season 4 Complete 720p HDTV x264 [i_c]
+2025-04-14 11:03:05,325 - INFO - Successfully processed torrent: The Originals Season 4 Complete 720p HDTV x264 [i_c]
