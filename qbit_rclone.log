@@ -2753,3 +2753,24 @@ OSError: [Errno 28] No space left on device
 2025-04-14 08:59:22,959 - INFO - Uploading torrent: Goblin (2016-2017) - or Guardian, The Lonely and Great God 1080p
 2025-04-14 08:59:22,959 - INFO - Starting upload: /home/user/Desktop/torrents/Goblin (2016-2017) -> onedrive:Torrents/Goblin (2016-2017) - or Guardian, The Lonely and Great God 1080p
 2025-04-14 08:59:22,959 - INFO - Uploading directory of size 18469.57 MB
+2025-04-14 09:07:09,221 - INFO - Successfully uploaded to onedrive:Torrents/Goblin (2016-2017) - or Guardian, The Lonely and Great God 1080p
+2025-04-14 09:07:09,221 - INFO - Verifying upload for: Goblin (2016-2017) - or Guardian, The Lonely and Great God 1080p
+2025-04-14 09:07:09,221 - INFO - Verifying upload: /home/user/Desktop/torrents/Goblin (2016-2017) -> onedrive:Torrents/Goblin (2016-2017) - or Guardian, The Lonely and Great God 1080p
+2025-04-14 09:07:11,699 - INFO - Upload verification successful for /home/user/Desktop/torrents/Goblin (2016-2017)
+2025-04-14 09:07:11,702 - INFO - Deleting torrent from qBittorrent: Goblin (2016-2017) - or Guardian, The Lonely and Great God 1080p
+2025-04-14 09:07:11,702 - INFO - Deleting torrent with hash f2bc886a1c65264a8e4ef0fb35c4f1198172712f (delete_files=False)
+2025-04-14 09:07:11,711 - INFO - Successfully deleted torrent with hash f2bc886a1c65264a8e4ef0fb35c4f1198172712f
+2025-04-14 09:07:11,712 - INFO - Deleting content files: Goblin (2016-2017) - or Guardian, The Lonely and Great God 1080p
+2025-04-14 09:07:11,712 - INFO - Deleting content: /home/user/Desktop/torrents/Goblin (2016-2017)
+2025-04-14 09:07:11,725 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Goblin (2016-2017)
+2025-04-14 09:07:11,725 - INFO - Successfully processed torrent: Goblin (2016-2017) - or Guardian, The Lonely and Great God 1080p
+2025-04-14 09:12:11,792 - INFO - Checking for completed torrents...
+2025-04-14 09:12:11,796 - INFO - Found 0 completed torrents
+2025-04-14 09:17:11,840 - INFO - Checking for completed torrents...
+2025-04-14 09:17:11,844 - INFO - Found 0 completed torrents
+2025-04-14 09:22:11,920 - INFO - Checking for completed torrents...
+2025-04-14 09:22:11,924 - INFO - Found 0 completed torrents
+2025-04-14 09:27:11,983 - INFO - Checking for completed torrents...
+2025-04-14 09:27:11,986 - INFO - Found 0 completed torrents
+2025-04-14 09:32:12,051 - INFO - Checking for completed torrents...
+2025-04-14 09:32:12,055 - INFO - Found 0 completed torrents
