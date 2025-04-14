@@ -1,13 +1,19 @@
 # Install qbittorrent + python3
 # Python
-sudo apt update && sudo apt upgrade
+yes | sudo apt update
+yes | sudo apt upgrade
 sudo add-apt-repository ppa:deadsnakes/ppa -y
 sudo apt update
 yes | sudo apt install python3.10
 # Qbittorrent
 yes | sudo apt install dirmngr ca-certificates software-properties-common apt-transport-https
+<<<<<<< HEAD
 yes | sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable -y
 yes | sudo apt update
+=======
+sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable -y
+sudo apt update
+>>>>>>> 046e9bb ([bot] update crawling data)
 yes | sudo apt install qbittorrent
 # Rclone
 sudo -v ; curl https://rclone.org/install.sh | sudo bash
