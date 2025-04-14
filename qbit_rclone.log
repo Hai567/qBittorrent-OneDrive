@@ -2201,3 +2201,115 @@ OSError: [Errno 28] No space left on device
 2025-04-14 04:55:05,224 - INFO - Uploading torrent: Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-14 04:55:05,224 - INFO - Starting upload: /home/user/Desktop/torrents/Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-14 04:55:05,224 - INFO - Uploading directory of size 1563.44 MB
+2025-04-14 04:58:53,629 - INFO - Successfully uploaded to onedrive:Torrents/Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 04:58:53,629 - INFO - Verifying upload for: Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 04:58:53,629 - INFO - Verifying upload: /home/user/Desktop/torrents/Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 04:58:56,189 - INFO - Upload verification successful for /home/user/Desktop/torrents/Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 04:58:56,190 - INFO - Deleting torrent from qBittorrent: Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 04:58:56,191 - INFO - Deleting torrent with hash a8d5587f1ab1ff36deb4465c2eb82d42df42e59c (delete_files=False)
+2025-04-14 04:58:56,201 - INFO - Successfully deleted torrent with hash a8d5587f1ab1ff36deb4465c2eb82d42df42e59c
+2025-04-14 04:58:56,201 - INFO - Deleting content files: Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 04:58:56,201 - INFO - Deleting content: /home/user/Desktop/torrents/Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 04:58:56,205 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 04:58:56,205 - INFO - Successfully processed torrent: Elevation (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 04:58:56,206 - INFO - Uploading torrent: The Godfather (1972) [1080p]
+2025-04-14 04:58:56,206 - INFO - Starting upload: /home/user/Desktop/torrents/The Godfather (1972) [1080p] -> onedrive:Torrents/The Godfather (1972) [1080p]
+2025-04-14 04:58:56,206 - INFO - Uploading directory of size 2458.89 MB
+2025-04-14 05:04:05,433 - INFO - Successfully uploaded to onedrive:Torrents/The Godfather (1972) [1080p]
+2025-04-14 05:04:05,433 - INFO - Verifying upload for: The Godfather (1972) [1080p]
+2025-04-14 05:04:05,434 - INFO - Verifying upload: /home/user/Desktop/torrents/The Godfather (1972) [1080p] -> onedrive:Torrents/The Godfather (1972) [1080p]
+2025-04-14 05:04:07,745 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Godfather (1972) [1080p]
+2025-04-14 05:04:07,747 - INFO - Deleting torrent from qBittorrent: The Godfather (1972) [1080p]
+2025-04-14 05:04:07,747 - INFO - Deleting torrent with hash 5e915039c619366e490d08db3ffed21f3a3ae84a (delete_files=False)
+2025-04-14 05:04:07,756 - INFO - Successfully deleted torrent with hash 5e915039c619366e490d08db3ffed21f3a3ae84a
+2025-04-14 05:04:07,756 - INFO - Deleting content files: The Godfather (1972) [1080p]
+2025-04-14 05:04:07,756 - INFO - Deleting content: /home/user/Desktop/torrents/The Godfather (1972) [1080p]
+2025-04-14 05:04:07,762 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Godfather (1972) [1080p]
+2025-04-14 05:04:07,763 - INFO - Successfully processed torrent: The Godfather (1972) [1080p]
+2025-04-14 05:04:07,763 - INFO - Uploading torrent: Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-14 05:04:07,763 - INFO - Starting upload: /home/user/Desktop/torrents/Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-14 05:04:07,763 - INFO - Uploading directory of size 1457.20 MB
+2025-04-14 05:07:07,644 - INFO - Successfully uploaded to onedrive:Torrents/Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-14 05:07:07,645 - INFO - Verifying upload for: Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-14 05:07:07,645 - INFO - Verifying upload: /home/user/Desktop/torrents/Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-14 05:07:09,968 - INFO - Upload verification successful for /home/user/Desktop/torrents/Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-14 05:07:09,970 - INFO - Deleting torrent from qBittorrent: Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-14 05:07:09,971 - INFO - Deleting torrent with hash acb11c45384d68fa1cd01e2c20620df65985835e (delete_files=False)
+2025-04-14 05:07:09,981 - INFO - Successfully deleted torrent with hash acb11c45384d68fa1cd01e2c20620df65985835e
+2025-04-14 05:07:09,981 - INFO - Deleting content files: Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-14 05:07:09,981 - INFO - Deleting content: /home/user/Desktop/torrents/Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-14 05:07:09,983 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-14 05:07:09,983 - INFO - Successfully processed torrent: Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-14 05:07:09,983 - INFO - Uploading torrent: Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:07:09,983 - INFO - Starting upload: /home/user/Desktop/torrents/Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:07:09,983 - INFO - Uploading directory of size 2105.48 MB
+2025-04-14 05:11:17,653 - INFO - Successfully uploaded to onedrive:Torrents/Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:11:17,653 - INFO - Verifying upload for: Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:11:17,653 - INFO - Verifying upload: /home/user/Desktop/torrents/Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:11:20,251 - INFO - Upload verification successful for /home/user/Desktop/torrents/Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:11:20,253 - INFO - Deleting torrent from qBittorrent: Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:11:20,253 - INFO - Deleting torrent with hash a5b3d0b560f6d1e091ee5a44815b27ac4972267d (delete_files=False)
+2025-04-14 05:11:20,262 - INFO - Successfully deleted torrent with hash a5b3d0b560f6d1e091ee5a44815b27ac4972267d
+2025-04-14 05:11:20,262 - INFO - Deleting content files: Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:11:20,263 - INFO - Deleting content: /home/user/Desktop/torrents/Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:11:20,265 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:11:20,265 - INFO - Successfully processed torrent: Maria (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:11:20,265 - INFO - Uploading torrent: Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:11:20,265 - INFO - Starting upload: /home/user/Desktop/torrents/Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:11:20,266 - INFO - Uploading directory of size 2178.78 MB
+2025-04-14 05:15:45,821 - INFO - Successfully uploaded to onedrive:Torrents/Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:15:45,822 - INFO - Verifying upload for: Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:15:45,822 - INFO - Verifying upload: /home/user/Desktop/torrents/Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:15:48,115 - INFO - Upload verification successful for /home/user/Desktop/torrents/Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:15:48,117 - INFO - Deleting torrent from qBittorrent: Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:15:48,117 - INFO - Deleting torrent with hash b44cb8ea380b7a13c739b989d1f279bb3933ee15 (delete_files=False)
+2025-04-14 05:15:48,126 - INFO - Successfully deleted torrent with hash b44cb8ea380b7a13c739b989d1f279bb3933ee15
+2025-04-14 05:15:48,127 - INFO - Deleting content files: Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:15:48,127 - INFO - Deleting content: /home/user/Desktop/torrents/Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:15:48,132 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:15:48,132 - INFO - Successfully processed torrent: Spider-Man 2 (2004) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:15:48,132 - INFO - Uploading torrent: Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 05:15:48,132 - INFO - Starting upload: /home/user/Desktop/torrents/Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 05:15:48,132 - INFO - Uploading directory of size 1454.80 MB
+2025-04-14 05:18:43,396 - INFO - Successfully uploaded to onedrive:Torrents/Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 05:18:43,396 - INFO - Verifying upload for: Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 05:18:43,396 - INFO - Verifying upload: /home/user/Desktop/torrents/Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 05:18:45,690 - INFO - Upload verification successful for /home/user/Desktop/torrents/Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 05:18:45,692 - INFO - Deleting torrent from qBittorrent: Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 05:18:45,692 - INFO - Deleting torrent with hash 682e309437dfae8ba08f44ad00d236b94fc0cd30 (delete_files=False)
+2025-04-14 05:18:45,700 - INFO - Successfully deleted torrent with hash 682e309437dfae8ba08f44ad00d236b94fc0cd30
+2025-04-14 05:18:45,700 - INFO - Deleting content files: Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 05:18:45,700 - INFO - Deleting content: /home/user/Desktop/torrents/Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 05:18:45,703 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 05:18:45,703 - INFO - Successfully processed torrent: Doctor Who The Day Of The Doctor (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 05:18:45,703 - INFO - Uploading torrent: Iron Man [1080p]
+2025-04-14 05:18:45,703 - INFO - Starting upload: /home/user/Desktop/torrents/Iron Man [1080p] -> onedrive:Torrents/Iron Man [1080p]
+2025-04-14 05:18:45,703 - INFO - Uploading directory of size 1692.02 MB
+2025-04-14 05:21:50,079 - INFO - Successfully uploaded to onedrive:Torrents/Iron Man [1080p]
+2025-04-14 05:21:50,079 - INFO - Verifying upload for: Iron Man [1080p]
+2025-04-14 05:21:50,079 - INFO - Verifying upload: /home/user/Desktop/torrents/Iron Man [1080p] -> onedrive:Torrents/Iron Man [1080p]
+2025-04-14 05:21:52,448 - INFO - Upload verification successful for /home/user/Desktop/torrents/Iron Man [1080p]
+2025-04-14 05:21:52,450 - INFO - Deleting torrent from qBittorrent: Iron Man [1080p]
+2025-04-14 05:21:52,450 - INFO - Deleting torrent with hash 71754637fd29b4be433723a4a559086e2bc083dc (delete_files=False)
+2025-04-14 05:21:52,459 - INFO - Successfully deleted torrent with hash 71754637fd29b4be433723a4a559086e2bc083dc
+2025-04-14 05:21:52,459 - INFO - Deleting content files: Iron Man [1080p]
+2025-04-14 05:21:52,459 - INFO - Deleting content: /home/user/Desktop/torrents/Iron Man [1080p]
+2025-04-14 05:21:52,462 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Iron Man [1080p]
+2025-04-14 05:21:52,462 - INFO - Successfully processed torrent: Iron Man [1080p]
+2025-04-14 05:21:52,462 - INFO - Uploading torrent: Missing You (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-14 05:21:52,462 - INFO - Starting upload: /home/user/Desktop/torrents/Missing You (2016) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Missing You (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-14 05:21:52,462 - INFO - Uploading directory of size 1844.26 MB
+2025-04-14 05:25:56,890 - INFO - Successfully uploaded to onedrive:Torrents/Missing You (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-14 05:25:56,890 - INFO - Verifying upload for: Missing You (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-14 05:25:56,890 - INFO - Verifying upload: /home/user/Desktop/torrents/Missing You (2016) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Missing You (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-14 05:25:59,162 - INFO - Upload verification successful for /home/user/Desktop/torrents/Missing You (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-14 05:25:59,164 - INFO - Deleting torrent from qBittorrent: Missing You (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-14 05:25:59,164 - INFO - Deleting torrent with hash fa74f313daed74dcc42e45204f7199119a0d7a6e (delete_files=False)
+2025-04-14 05:25:59,173 - INFO - Successfully deleted torrent with hash fa74f313daed74dcc42e45204f7199119a0d7a6e
+2025-04-14 05:25:59,173 - INFO - Deleting content files: Missing You (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-14 05:25:59,173 - INFO - Deleting content: /home/user/Desktop/torrents/Missing You (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-14 05:25:59,175 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Missing You (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-14 05:25:59,175 - INFO - Successfully processed torrent: Missing You (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-14 05:25:59,176 - INFO - Uploading torrent: Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:25:59,176 - INFO - Starting upload: /home/user/Desktop/torrents/Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Lucky Baskhar (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 05:25:59,176 - INFO - Uploading directory of size 2529.51 MB
