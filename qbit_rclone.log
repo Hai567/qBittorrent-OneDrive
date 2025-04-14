@@ -1580,3 +1580,101 @@ OSError: [Errno 28] No space left on device
 2025-04-14 00:40:12,650 - INFO - Uploading torrent: Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-14 00:40:12,650 - INFO - Starting upload: /home/user/Desktop/torrents/Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-14 00:40:12,650 - INFO - Uploading directory of size 1758.68 MB
+2025-04-14 00:43:34,409 - INFO - Successfully uploaded to onedrive:Torrents/Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 00:43:34,409 - INFO - Verifying upload for: Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 00:43:34,409 - INFO - Verifying upload: /home/user/Desktop/torrents/Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 00:43:36,921 - INFO - Upload verification successful for /home/user/Desktop/torrents/Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 00:43:36,923 - INFO - Deleting torrent from qBittorrent: Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 00:43:36,923 - INFO - Deleting torrent with hash 8dcdec4fd107ef381c0d052844be9405f1a04343 (delete_files=False)
+2025-04-14 00:43:36,930 - INFO - Successfully deleted torrent with hash 8dcdec4fd107ef381c0d052844be9405f1a04343
+2025-04-14 00:43:36,930 - INFO - Deleting content files: Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 00:43:36,930 - INFO - Deleting content: /home/user/Desktop/torrents/Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 00:43:36,932 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 00:43:36,932 - INFO - Successfully processed torrent: Holbrook Twain An American Odyssey (2014) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 00:43:36,932 - INFO - Uploading torrent: Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:43:36,932 - INFO - Starting upload: /home/user/Desktop/torrents/Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:43:36,932 - INFO - Uploading directory of size 1880.61 MB
+2025-04-14 00:47:43,398 - INFO - Successfully uploaded to onedrive:Torrents/Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:47:43,398 - INFO - Verifying upload for: Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:47:43,398 - INFO - Verifying upload: /home/user/Desktop/torrents/Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:47:46,219 - INFO - Upload verification successful for /home/user/Desktop/torrents/Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:47:46,221 - INFO - Deleting torrent from qBittorrent: Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:47:46,221 - INFO - Deleting torrent with hash 40e914bd9b2f1b6f6e811dc4128b0fcc769f5793 (delete_files=False)
+2025-04-14 00:47:46,230 - INFO - Successfully deleted torrent with hash 40e914bd9b2f1b6f6e811dc4128b0fcc769f5793
+2025-04-14 00:47:46,230 - INFO - Deleting content files: Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:47:46,230 - INFO - Deleting content: /home/user/Desktop/torrents/Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:47:46,231 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:47:46,231 - INFO - Successfully processed torrent: Speak No Evil (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:47:46,231 - INFO - Uploading torrent: Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:47:46,231 - INFO - Starting upload: /home/user/Desktop/torrents/Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:47:46,232 - INFO - Uploading directory of size 1859.48 MB
+2025-04-14 00:51:15,888 - INFO - Successfully uploaded to onedrive:Torrents/Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:51:15,889 - INFO - Verifying upload for: Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:51:15,889 - INFO - Verifying upload: /home/user/Desktop/torrents/Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:51:18,675 - INFO - Upload verification successful for /home/user/Desktop/torrents/Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:51:18,677 - INFO - Deleting torrent from qBittorrent: Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:51:18,678 - INFO - Deleting torrent with hash d3b72585c5688bcf90152ff52575358c86576639 (delete_files=False)
+2025-04-14 00:51:18,686 - INFO - Successfully deleted torrent with hash d3b72585c5688bcf90152ff52575358c86576639
+2025-04-14 00:51:18,686 - INFO - Deleting content files: Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:51:18,686 - INFO - Deleting content: /home/user/Desktop/torrents/Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:51:18,687 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:51:18,687 - INFO - Successfully processed torrent: Civil War (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:51:18,687 - INFO - Uploading torrent: Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 00:51:18,687 - INFO - Starting upload: /home/user/Desktop/torrents/Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 00:51:18,687 - INFO - Uploading directory of size 1914.29 MB
+2025-04-14 00:55:06,843 - INFO - Successfully uploaded to onedrive:Torrents/Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 00:55:06,843 - INFO - Verifying upload for: Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 00:55:06,843 - INFO - Verifying upload: /home/user/Desktop/torrents/Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 00:55:09,305 - INFO - Upload verification successful for /home/user/Desktop/torrents/Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 00:55:09,306 - INFO - Deleting torrent from qBittorrent: Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 00:55:09,306 - INFO - Deleting torrent with hash 2c000d7bea27454929930e3bdc41062f9f57c4d8 (delete_files=False)
+2025-04-14 00:55:09,315 - INFO - Successfully deleted torrent with hash 2c000d7bea27454929930e3bdc41062f9f57c4d8
+2025-04-14 00:55:09,315 - INFO - Deleting content files: Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 00:55:09,315 - INFO - Deleting content: /home/user/Desktop/torrents/Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 00:55:09,316 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 00:55:09,317 - INFO - Successfully processed torrent: Johnny English Reborn (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 00:55:09,317 - INFO - Uploading torrent: The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:55:09,317 - INFO - Starting upload: /home/user/Desktop/torrents/The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:55:09,317 - INFO - Uploading directory of size 2918.66 MB
+2025-04-14 01:01:11,996 - INFO - Successfully uploaded to onedrive:Torrents/The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:01:11,996 - INFO - Verifying upload for: The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:01:11,997 - INFO - Verifying upload: /home/user/Desktop/torrents/The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:01:14,073 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:01:14,074 - INFO - Deleting torrent from qBittorrent: The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:01:14,074 - INFO - Deleting torrent with hash 9120df3bdbbea8051627595f81a81e2ff1913378 (delete_files=False)
+2025-04-14 01:01:14,084 - INFO - Successfully deleted torrent with hash 9120df3bdbbea8051627595f81a81e2ff1913378
+2025-04-14 01:01:14,084 - INFO - Deleting content files: The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:01:14,084 - INFO - Deleting content: /home/user/Desktop/torrents/The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:01:14,086 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:01:14,086 - INFO - Successfully processed torrent: The Goat Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 01:01:14,086 - INFO - Uploading torrent: Deadpool (2016) [1080p] [YTS.AG]
+2025-04-14 01:01:14,086 - INFO - Starting upload: /home/user/Desktop/torrents/Deadpool (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Deadpool (2016) [1080p] [YTS.AG]
+2025-04-14 01:01:14,086 - INFO - Uploading directory of size 1687.70 MB
+2025-04-14 01:04:51,576 - INFO - Successfully uploaded to onedrive:Torrents/Deadpool (2016) [1080p] [YTS.AG]
+2025-04-14 01:04:51,576 - INFO - Verifying upload for: Deadpool (2016) [1080p] [YTS.AG]
+2025-04-14 01:04:51,576 - INFO - Verifying upload: /home/user/Desktop/torrents/Deadpool (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Deadpool (2016) [1080p] [YTS.AG]
+2025-04-14 01:04:54,849 - INFO - Upload verification successful for /home/user/Desktop/torrents/Deadpool (2016) [1080p] [YTS.AG]
+2025-04-14 01:04:54,851 - INFO - Deleting torrent from qBittorrent: Deadpool (2016) [1080p] [YTS.AG]
+2025-04-14 01:04:54,851 - INFO - Deleting torrent with hash 6268abccb049444bee76813177aa46643a7ada88 (delete_files=False)
+2025-04-14 01:04:54,859 - INFO - Successfully deleted torrent with hash 6268abccb049444bee76813177aa46643a7ada88
+2025-04-14 01:04:54,859 - INFO - Deleting content files: Deadpool (2016) [1080p] [YTS.AG]
+2025-04-14 01:04:54,859 - INFO - Deleting content: /home/user/Desktop/torrents/Deadpool (2016) [1080p] [YTS.AG]
+2025-04-14 01:04:54,860 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Deadpool (2016) [1080p] [YTS.AG]
+2025-04-14 01:04:54,860 - INFO - Successfully processed torrent: Deadpool (2016) [1080p] [YTS.AG]
+2025-04-14 01:04:54,860 - INFO - Uploading torrent: Thor Ragnarok (2017) [1080p] [YTS.AG]
+2025-04-14 01:04:54,860 - INFO - Starting upload: /home/user/Desktop/torrents/Thor Ragnarok (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Thor Ragnarok (2017) [1080p] [YTS.AG]
+2025-04-14 01:04:54,860 - INFO - Uploading directory of size 2029.70 MB
+2025-04-14 01:09:11,973 - INFO - Successfully uploaded to onedrive:Torrents/Thor Ragnarok (2017) [1080p] [YTS.AG]
+2025-04-14 01:09:11,973 - INFO - Verifying upload for: Thor Ragnarok (2017) [1080p] [YTS.AG]
+2025-04-14 01:09:11,973 - INFO - Verifying upload: /home/user/Desktop/torrents/Thor Ragnarok (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Thor Ragnarok (2017) [1080p] [YTS.AG]
+2025-04-14 01:09:14,309 - INFO - Upload verification successful for /home/user/Desktop/torrents/Thor Ragnarok (2017) [1080p] [YTS.AG]
+2025-04-14 01:09:14,310 - INFO - Deleting torrent from qBittorrent: Thor Ragnarok (2017) [1080p] [YTS.AG]
+2025-04-14 01:09:14,310 - INFO - Deleting torrent with hash 2037b2296417b5d6d3b89dc7a288255943406cf7 (delete_files=False)
+2025-04-14 01:09:14,319 - INFO - Successfully deleted torrent with hash 2037b2296417b5d6d3b89dc7a288255943406cf7
+2025-04-14 01:09:14,320 - INFO - Deleting content files: Thor Ragnarok (2017) [1080p] [YTS.AG]
+2025-04-14 01:09:14,320 - INFO - Deleting content: /home/user/Desktop/torrents/Thor Ragnarok (2017) [1080p] [YTS.AG]
+2025-04-14 01:09:14,321 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Thor Ragnarok (2017) [1080p] [YTS.AG]
+2025-04-14 01:09:14,321 - INFO - Successfully processed torrent: Thor Ragnarok (2017) [1080p] [YTS.AG]
+2025-04-14 01:09:14,321 - INFO - Uploading torrent: The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:09:14,321 - INFO - Starting upload: /home/user/Desktop/torrents/The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Popes Exorcist (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 01:09:14,321 - INFO - Uploading directory of size 1955.95 MB
