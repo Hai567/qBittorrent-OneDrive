@@ -2593,3 +2593,89 @@ OSError: [Errno 28] No space left on device
 2025-04-14 06:56:07,749 - INFO - Uploading torrent: The Hobbit An Unexpected Journey (2012) [1080p]
 2025-04-14 06:56:07,749 - INFO - Starting upload: /home/user/Desktop/torrents/The Hobbit An Unexpected Journey (2012) [1080p] -> onedrive:Torrents/The Hobbit An Unexpected Journey (2012) [1080p]
 2025-04-14 06:56:07,750 - INFO - Uploading directory of size 2560.14 MB
+2025-04-14 07:00:56,836 - INFO - Successfully uploaded to onedrive:Torrents/The Hobbit An Unexpected Journey (2012) [1080p]
+2025-04-14 07:00:56,836 - INFO - Verifying upload for: The Hobbit An Unexpected Journey (2012) [1080p]
+2025-04-14 07:00:56,836 - INFO - Verifying upload: /home/user/Desktop/torrents/The Hobbit An Unexpected Journey (2012) [1080p] -> onedrive:Torrents/The Hobbit An Unexpected Journey (2012) [1080p]
+2025-04-14 07:00:59,192 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Hobbit An Unexpected Journey (2012) [1080p]
+2025-04-14 07:00:59,194 - INFO - Deleting torrent from qBittorrent: The Hobbit An Unexpected Journey (2012) [1080p]
+2025-04-14 07:00:59,194 - INFO - Deleting torrent with hash 0653c32f1cd717e5723793f4e422731e581cab87 (delete_files=False)
+2025-04-14 07:00:59,204 - INFO - Successfully deleted torrent with hash 0653c32f1cd717e5723793f4e422731e581cab87
+2025-04-14 07:00:59,204 - INFO - Deleting content files: The Hobbit An Unexpected Journey (2012) [1080p]
+2025-04-14 07:00:59,204 - INFO - Deleting content: /home/user/Desktop/torrents/The Hobbit An Unexpected Journey (2012) [1080p]
+2025-04-14 07:00:59,209 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Hobbit An Unexpected Journey (2012) [1080p]
+2025-04-14 07:00:59,210 - INFO - Successfully processed torrent: The Hobbit An Unexpected Journey (2012) [1080p]
+2025-04-14 07:00:59,210 - INFO - Uploading torrent: Doctor Strange (2016) [1080p] [YTS.AG]
+2025-04-14 07:00:59,210 - INFO - Starting upload: /home/user/Desktop/torrents/Doctor Strange (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Doctor Strange (2016) [1080p] [YTS.AG]
+2025-04-14 07:00:59,210 - INFO - Uploading directory of size 1790.61 MB
+2025-04-14 07:04:46,536 - INFO - Successfully uploaded to onedrive:Torrents/Doctor Strange (2016) [1080p] [YTS.AG]
+2025-04-14 07:04:46,536 - INFO - Verifying upload for: Doctor Strange (2016) [1080p] [YTS.AG]
+2025-04-14 07:04:46,536 - INFO - Verifying upload: /home/user/Desktop/torrents/Doctor Strange (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Doctor Strange (2016) [1080p] [YTS.AG]
+2025-04-14 07:04:48,894 - INFO - Upload verification successful for /home/user/Desktop/torrents/Doctor Strange (2016) [1080p] [YTS.AG]
+2025-04-14 07:04:48,896 - INFO - Deleting torrent from qBittorrent: Doctor Strange (2016) [1080p] [YTS.AG]
+2025-04-14 07:04:48,896 - INFO - Deleting torrent with hash 7ba0c6bd9b4e52ea2ad137d02394de7d83b98091 (delete_files=False)
+2025-04-14 07:04:48,905 - INFO - Successfully deleted torrent with hash 7ba0c6bd9b4e52ea2ad137d02394de7d83b98091
+2025-04-14 07:04:48,905 - INFO - Deleting content files: Doctor Strange (2016) [1080p] [YTS.AG]
+2025-04-14 07:04:48,905 - INFO - Deleting content: /home/user/Desktop/torrents/Doctor Strange (2016) [1080p] [YTS.AG]
+2025-04-14 07:04:48,907 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Doctor Strange (2016) [1080p] [YTS.AG]
+2025-04-14 07:04:48,907 - INFO - Successfully processed torrent: Doctor Strange (2016) [1080p] [YTS.AG]
+2025-04-14 07:04:48,908 - INFO - Uploading torrent: Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM]
+2025-04-14 07:04:48,908 - INFO - Starting upload: /home/user/Desktop/torrents/Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM]
+2025-04-14 07:04:48,908 - INFO - Uploading directory of size 1044.10 MB
+2025-04-14 07:07:30,566 - INFO - Successfully uploaded to onedrive:Torrents/Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM]
+2025-04-14 07:07:30,566 - INFO - Verifying upload for: Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM]
+2025-04-14 07:07:30,566 - INFO - Verifying upload: /home/user/Desktop/torrents/Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM]
+2025-04-14 07:07:32,868 - INFO - Upload verification successful for /home/user/Desktop/torrents/Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM]
+2025-04-14 07:07:32,870 - INFO - Deleting torrent from qBittorrent: Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM]
+2025-04-14 07:07:32,870 - INFO - Deleting torrent with hash 2ccf5453e327cb9e46ee40947b6d90498e778b5a (delete_files=False)
+2025-04-14 07:07:32,880 - INFO - Successfully deleted torrent with hash 2ccf5453e327cb9e46ee40947b6d90498e778b5a
+2025-04-14 07:07:32,880 - INFO - Deleting content files: Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM]
+2025-04-14 07:07:32,880 - INFO - Deleting content: /home/user/Desktop/torrents/Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM]
+2025-04-14 07:07:32,881 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM]
+2025-04-14 07:07:32,881 - INFO - Successfully processed torrent: Doctor Who The Time Of The Doctor (2013) [BluRay] [1080p] [YTS.AM]
+2025-04-14 07:12:32,982 - INFO - Checking for completed torrents...
+2025-04-14 07:12:32,986 - INFO - Found 4 completed torrents
+2025-04-14 07:12:32,987 - INFO - Uploading torrent: The Family Plan 2023 1080p ATVP WEBRip 1400MB DD5 1 x264 GalaxyRG
+2025-04-14 07:12:32,987 - INFO - Starting upload: /home/user/Desktop/torrents/The.Family.Plan.2023.1080p.ATVP.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/The Family Plan 2023 1080p ATVP WEBRip 1400MB DD5 1 x264 GalaxyRG
+2025-04-14 07:12:32,987 - INFO - Uploading directory of size 1441.59 MB
+2025-04-14 07:15:56,479 - INFO - Successfully uploaded to onedrive:Torrents/The Family Plan 2023 1080p ATVP WEBRip 1400MB DD5 1 x264 GalaxyRG
+2025-04-14 07:15:56,480 - INFO - Verifying upload for: The Family Plan 2023 1080p ATVP WEBRip 1400MB DD5 1 x264 GalaxyRG
+2025-04-14 07:15:56,480 - INFO - Verifying upload: /home/user/Desktop/torrents/The.Family.Plan.2023.1080p.ATVP.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/The Family Plan 2023 1080p ATVP WEBRip 1400MB DD5 1 x264 GalaxyRG
+2025-04-14 07:15:58,821 - INFO - Upload verification successful for /home/user/Desktop/torrents/The.Family.Plan.2023.1080p.ATVP.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-14 07:15:58,824 - INFO - Deleting torrent from qBittorrent: The Family Plan 2023 1080p ATVP WEBRip 1400MB DD5 1 x264 GalaxyRG
+2025-04-14 07:15:58,824 - INFO - Deleting torrent with hash 6b6e9f6d8f3fd3e6a59decba482792b00a036291 (delete_files=False)
+2025-04-14 07:15:58,835 - INFO - Successfully deleted torrent with hash 6b6e9f6d8f3fd3e6a59decba482792b00a036291
+2025-04-14 07:15:58,835 - INFO - Deleting content files: The Family Plan 2023 1080p ATVP WEBRip 1400MB DD5 1 x264 GalaxyRG
+2025-04-14 07:15:58,835 - INFO - Deleting content: /home/user/Desktop/torrents/The.Family.Plan.2023.1080p.ATVP.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-14 07:15:58,836 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The.Family.Plan.2023.1080p.ATVP.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-14 07:15:58,836 - INFO - Successfully processed torrent: The Family Plan 2023 1080p ATVP WEBRip 1400MB DD5 1 x264 GalaxyRG
+2025-04-14 07:15:58,836 - INFO - Uploading torrent: Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 07:15:58,836 - INFO - Starting upload: /home/user/Desktop/torrents/Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 07:15:58,837 - INFO - Uploading directory of size 2203.21 MB
+2025-04-14 07:19:52,653 - INFO - Successfully uploaded to onedrive:Torrents/Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 07:19:52,654 - INFO - Verifying upload for: Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 07:19:52,654 - INFO - Verifying upload: /home/user/Desktop/torrents/Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 07:19:55,366 - INFO - Upload verification successful for /home/user/Desktop/torrents/Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 07:19:55,368 - INFO - Deleting torrent from qBittorrent: Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 07:19:55,368 - INFO - Deleting torrent with hash 7e616d91743477ffd47c96a60fbf705e3fffb8ff (delete_files=False)
+2025-04-14 07:19:55,378 - INFO - Successfully deleted torrent with hash 7e616d91743477ffd47c96a60fbf705e3fffb8ff
+2025-04-14 07:19:55,378 - INFO - Deleting content files: Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 07:19:55,378 - INFO - Deleting content: /home/user/Desktop/torrents/Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 07:19:55,380 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 07:19:55,381 - INFO - Successfully processed torrent: Uprising (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 07:19:55,381 - INFO - Uploading torrent: Divergent (2014) [1080p]
+2025-04-14 07:19:55,381 - INFO - Starting upload: /home/user/Desktop/torrents/Divergent (2014) [1080p] -> onedrive:Torrents/Divergent (2014) [1080p]
+2025-04-14 07:19:55,381 - INFO - Uploading directory of size 2107.56 MB
+2025-04-14 07:24:13,912 - INFO - Successfully uploaded to onedrive:Torrents/Divergent (2014) [1080p]
+2025-04-14 07:24:13,913 - INFO - Verifying upload for: Divergent (2014) [1080p]
+2025-04-14 07:24:13,913 - INFO - Verifying upload: /home/user/Desktop/torrents/Divergent (2014) [1080p] -> onedrive:Torrents/Divergent (2014) [1080p]
+2025-04-14 07:24:16,234 - INFO - Upload verification successful for /home/user/Desktop/torrents/Divergent (2014) [1080p]
+2025-04-14 07:24:16,236 - INFO - Deleting torrent from qBittorrent: Divergent (2014) [1080p]
+2025-04-14 07:24:16,236 - INFO - Deleting torrent with hash 2d58067bee4d36f294d0485f2506815c32a89900 (delete_files=False)
+2025-04-14 07:24:16,247 - INFO - Successfully deleted torrent with hash 2d58067bee4d36f294d0485f2506815c32a89900
+2025-04-14 07:24:16,247 - INFO - Deleting content files: Divergent (2014) [1080p]
+2025-04-14 07:24:16,247 - INFO - Deleting content: /home/user/Desktop/torrents/Divergent (2014) [1080p]
+2025-04-14 07:24:16,248 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Divergent (2014) [1080p]
+2025-04-14 07:24:16,248 - INFO - Successfully processed torrent: Divergent (2014) [1080p]
+2025-04-14 07:24:16,248 - INFO - Uploading torrent: Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 07:24:16,248 - INFO - Starting upload: /home/user/Desktop/torrents/Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Under Paris (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 07:24:16,249 - INFO - Uploading directory of size 1965.26 MB
