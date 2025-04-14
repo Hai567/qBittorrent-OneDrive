@@ -2799,3 +2799,396 @@ OSError: [Errno 28] No space left on device
 2025-04-14 15:27:20,787 - INFO - Uploading torrent: World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX]
 2025-04-14 15:27:20,788 - INFO - Starting upload: /home/user/Desktop/torrents/World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX] -> onedrive:Torrents/World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX]
 2025-04-14 15:27:20,788 - INFO - Uploading directory of size 5300.58 MB
+2025-04-14 15:37:59,047 - INFO - Successfully uploaded to onedrive:Torrents/World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 15:37:59,047 - INFO - Verifying upload for: World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 15:37:59,047 - INFO - Verifying upload: /home/user/Desktop/torrents/World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX] -> onedrive:Torrents/World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 15:38:01,363 - INFO - Upload verification successful for /home/user/Desktop/torrents/World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 15:38:01,365 - INFO - Deleting torrent from qBittorrent: World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 15:38:01,365 - INFO - Deleting torrent with hash 17bd8b04ef445fce8ee073762240f0c55ce89264 (delete_files=False)
+2025-04-14 15:38:01,372 - INFO - Successfully deleted torrent with hash 17bd8b04ef445fce8ee073762240f0c55ce89264
+2025-04-14 15:38:01,372 - INFO - Deleting content files: World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 15:38:01,372 - INFO - Deleting content: /home/user/Desktop/torrents/World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 15:38:01,378 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 15:38:01,378 - INFO - Successfully processed torrent: World War Z (2013) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 15:38:01,379 - INFO - Uploading torrent: Rush Hour 3 (2007)
+2025-04-14 15:38:01,379 - INFO - Starting upload: /home/user/Desktop/torrents/Rush Hour 3 (2007) -> onedrive:Torrents/Rush Hour 3 (2007)
+2025-04-14 15:38:01,379 - INFO - Uploading directory of size 647.78 MB
+2025-04-14 15:39:17,488 - INFO - Successfully uploaded to onedrive:Torrents/Rush Hour 3 (2007)
+2025-04-14 15:39:17,489 - INFO - Verifying upload for: Rush Hour 3 (2007)
+2025-04-14 15:39:17,489 - INFO - Verifying upload: /home/user/Desktop/torrents/Rush Hour 3 (2007) -> onedrive:Torrents/Rush Hour 3 (2007)
+2025-04-14 15:39:18,838 - INFO - Upload verification successful for /home/user/Desktop/torrents/Rush Hour 3 (2007)
+2025-04-14 15:39:18,840 - INFO - Deleting torrent from qBittorrent: Rush Hour 3 (2007)
+2025-04-14 15:39:18,840 - INFO - Deleting torrent with hash f91fe64fdd777df684500aac160779c2215bb805 (delete_files=False)
+2025-04-14 15:39:18,850 - INFO - Successfully deleted torrent with hash f91fe64fdd777df684500aac160779c2215bb805
+2025-04-14 15:39:18,850 - INFO - Deleting content files: Rush Hour 3 (2007)
+2025-04-14 15:39:18,850 - INFO - Deleting content: /home/user/Desktop/torrents/Rush Hour 3 (2007)
+2025-04-14 15:39:18,851 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Rush Hour 3 (2007)
+2025-04-14 15:39:18,851 - INFO - Successfully processed torrent: Rush Hour 3 (2007)
+2025-04-14 15:39:18,851 - INFO - Uploading torrent: Inside Out (2015) [1080p]
+2025-04-14 15:39:18,851 - INFO - Starting upload: /home/user/Desktop/torrents/Inside Out (2015) [1080p] -> onedrive:Torrents/Inside Out (2015) [1080p]
+2025-04-14 15:39:18,851 - INFO - Uploading directory of size 1475.38 MB
+2025-04-14 15:42:09,620 - INFO - Successfully uploaded to onedrive:Torrents/Inside Out (2015) [1080p]
+2025-04-14 15:42:09,620 - INFO - Verifying upload for: Inside Out (2015) [1080p]
+2025-04-14 15:42:09,621 - INFO - Verifying upload: /home/user/Desktop/torrents/Inside Out (2015) [1080p] -> onedrive:Torrents/Inside Out (2015) [1080p]
+2025-04-14 15:42:11,899 - INFO - Upload verification successful for /home/user/Desktop/torrents/Inside Out (2015) [1080p]
+2025-04-14 15:42:11,901 - INFO - Deleting torrent from qBittorrent: Inside Out (2015) [1080p]
+2025-04-14 15:42:11,901 - INFO - Deleting torrent with hash 556be0bd40c4880e29ba567663c65bd8bae9fbeb (delete_files=False)
+2025-04-14 15:42:11,911 - INFO - Successfully deleted torrent with hash 556be0bd40c4880e29ba567663c65bd8bae9fbeb
+2025-04-14 15:42:11,911 - INFO - Deleting content files: Inside Out (2015) [1080p]
+2025-04-14 15:42:11,911 - INFO - Deleting content: /home/user/Desktop/torrents/Inside Out (2015) [1080p]
+2025-04-14 15:42:11,912 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Inside Out (2015) [1080p]
+2025-04-14 15:42:11,912 - INFO - Successfully processed torrent: Inside Out (2015) [1080p]
+2025-04-14 15:42:11,912 - INFO - Uploading torrent: Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:42:11,912 - INFO - Starting upload: /home/user/Desktop/torrents/Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:42:11,913 - INFO - Uploading directory of size 7330.33 MB
+2025-04-14 15:46:25,917 - INFO - Successfully uploaded to onedrive:Torrents/Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:46:25,918 - INFO - Verifying upload for: Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:46:25,918 - INFO - Verifying upload: /home/user/Desktop/torrents/Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:46:28,511 - INFO - Upload verification successful for /home/user/Desktop/torrents/Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:46:28,513 - INFO - Deleting torrent from qBittorrent: Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:46:28,513 - INFO - Deleting torrent with hash 5e20434a19f7169f278f3acd9b27561956095ca1 (delete_files=False)
+2025-04-14 15:46:28,521 - INFO - Successfully deleted torrent with hash 5e20434a19f7169f278f3acd9b27561956095ca1
+2025-04-14 15:46:28,521 - INFO - Deleting content files: Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:46:28,521 - INFO - Deleting content: /home/user/Desktop/torrents/Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:46:28,530 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:46:28,530 - INFO - Successfully processed torrent: Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:46:28,530 - INFO - Uploading torrent: Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-14 15:46:28,530 - INFO - Starting upload: /home/user/Desktop/torrents/Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-14 15:46:28,531 - INFO - Uploading directory of size 8408.46 MB
+2025-04-14 15:54:09,996 - INFO - Successfully uploaded to onedrive:Torrents/Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-14 15:54:09,997 - INFO - Verifying upload for: Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-14 15:54:09,997 - INFO - Verifying upload: /home/user/Desktop/torrents/Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-14 15:54:12,517 - INFO - Upload verification successful for /home/user/Desktop/torrents/Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-14 15:54:12,519 - INFO - Deleting torrent from qBittorrent: Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-14 15:54:12,520 - INFO - Deleting torrent with hash c7858d817d8e93d9c78bc6242998eea60c650230 (delete_files=False)
+2025-04-14 15:54:12,528 - INFO - Successfully deleted torrent with hash c7858d817d8e93d9c78bc6242998eea60c650230
+2025-04-14 15:54:12,528 - INFO - Deleting content files: Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-14 15:54:12,528 - INFO - Deleting content: /home/user/Desktop/torrents/Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-14 15:54:12,540 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-14 15:54:12,540 - INFO - Successfully processed torrent: Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-14 15:54:12,541 - INFO - Uploading torrent: Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:54:12,541 - INFO - Starting upload: /home/user/Desktop/torrents/Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:54:12,541 - INFO - Uploading directory of size 7836.74 MB
+2025-04-14 15:58:20,087 - INFO - Successfully uploaded to onedrive:Torrents/Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:58:20,087 - INFO - Verifying upload for: Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:58:20,088 - INFO - Verifying upload: /home/user/Desktop/torrents/Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:58:22,680 - INFO - Upload verification successful for /home/user/Desktop/torrents/Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:58:22,682 - INFO - Deleting torrent from qBittorrent: Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:58:22,682 - INFO - Deleting torrent with hash 1aba4e08ed0696d921a74d911feebc70d38847a0 (delete_files=False)
+2025-04-14 15:58:22,691 - INFO - Successfully deleted torrent with hash 1aba4e08ed0696d921a74d911feebc70d38847a0
+2025-04-14 15:58:22,691 - INFO - Deleting content files: Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:58:22,691 - INFO - Deleting content: /home/user/Desktop/torrents/Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:58:22,703 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:58:22,703 - INFO - Successfully processed torrent: Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 15:58:22,703 - INFO - Uploading torrent: Jurassic Park The Lost World (1997) [1080p]
+2025-04-14 15:58:22,703 - INFO - Starting upload: /home/user/Desktop/torrents/Jurassic Park The Lost World (1997) [1080p] -> onedrive:Torrents/Jurassic Park The Lost World (1997) [1080p]
+2025-04-14 15:58:22,704 - INFO - Uploading directory of size 1842.66 MB
+2025-04-14 16:04:19,727 - INFO - Successfully uploaded to onedrive:Torrents/Jurassic Park The Lost World (1997) [1080p]
+2025-04-14 16:04:19,728 - INFO - Verifying upload for: Jurassic Park The Lost World (1997) [1080p]
+2025-04-14 16:04:19,728 - INFO - Verifying upload: /home/user/Desktop/torrents/Jurassic Park The Lost World (1997) [1080p] -> onedrive:Torrents/Jurassic Park The Lost World (1997) [1080p]
+2025-04-14 16:04:22,097 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jurassic Park The Lost World (1997) [1080p]
+2025-04-14 16:04:22,100 - INFO - Deleting torrent from qBittorrent: Jurassic Park The Lost World (1997) [1080p]
+2025-04-14 16:04:22,100 - INFO - Deleting torrent with hash d370b1e1923f01008389a98f1fecf800dc78cc2c (delete_files=False)
+2025-04-14 16:04:22,109 - INFO - Successfully deleted torrent with hash d370b1e1923f01008389a98f1fecf800dc78cc2c
+2025-04-14 16:04:22,109 - INFO - Deleting content files: Jurassic Park The Lost World (1997) [1080p]
+2025-04-14 16:04:22,109 - INFO - Deleting content: /home/user/Desktop/torrents/Jurassic Park The Lost World (1997) [1080p]
+2025-04-14 16:04:22,110 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jurassic Park The Lost World (1997) [1080p]
+2025-04-14 16:04:22,110 - INFO - Successfully processed torrent: Jurassic Park The Lost World (1997) [1080p]
+2025-04-14 16:04:22,110 - INFO - Uploading torrent: Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:04:22,110 - INFO - Starting upload: /home/user/Desktop/torrents/Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:04:22,110 - INFO - Uploading directory of size 2023.45 MB
+2025-04-14 16:08:04,535 - INFO - Successfully uploaded to onedrive:Torrents/Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:08:04,535 - INFO - Verifying upload for: Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:08:04,535 - INFO - Verifying upload: /home/user/Desktop/torrents/Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:08:06,826 - INFO - Upload verification successful for /home/user/Desktop/torrents/Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:08:06,828 - INFO - Deleting torrent from qBittorrent: Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:08:06,828 - INFO - Deleting torrent with hash 090bab797b120ffff430ab0e250465bde95ee153 (delete_files=False)
+2025-04-14 16:08:06,836 - INFO - Successfully deleted torrent with hash 090bab797b120ffff430ab0e250465bde95ee153
+2025-04-14 16:08:06,836 - INFO - Deleting content files: Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:08:06,836 - INFO - Deleting content: /home/user/Desktop/torrents/Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:08:06,838 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:08:06,838 - INFO - Successfully processed torrent: Margin Call (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:08:06,838 - INFO - Uploading torrent: Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c]
+2025-04-14 16:08:06,838 - INFO - Starting upload: /home/user/Desktop/torrents/Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c]
+2025-04-14 16:08:06,838 - INFO - Uploading directory of size 7390.33 MB
+2025-04-14 16:12:34,867 - INFO - Successfully uploaded to onedrive:Torrents/Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c]
+2025-04-14 16:12:34,867 - INFO - Verifying upload for: Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c]
+2025-04-14 16:12:34,867 - INFO - Verifying upload: /home/user/Desktop/torrents/Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c]
+2025-04-14 16:12:37,394 - INFO - Upload verification successful for /home/user/Desktop/torrents/Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c]
+2025-04-14 16:12:37,396 - INFO - Deleting torrent from qBittorrent: Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c]
+2025-04-14 16:12:37,396 - INFO - Deleting torrent with hash 111980bd2424636ec5a8581967dd6510d914d6fd (delete_files=False)
+2025-04-14 16:12:37,403 - INFO - Successfully deleted torrent with hash 111980bd2424636ec5a8581967dd6510d914d6fd
+2025-04-14 16:12:37,403 - INFO - Deleting content files: Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c]
+2025-04-14 16:12:37,403 - INFO - Deleting content: /home/user/Desktop/torrents/Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c]
+2025-04-14 16:12:37,409 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c]
+2025-04-14 16:12:37,409 - INFO - Successfully processed torrent: Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c]
+2025-04-14 16:12:37,409 - INFO - Uploading torrent: Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:12:37,410 - INFO - Starting upload: /home/user/Desktop/torrents/Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:12:37,410 - INFO - Uploading directory of size 8347.23 MB
+2025-04-14 16:17:05,381 - INFO - Successfully uploaded to onedrive:Torrents/Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:17:05,382 - INFO - Verifying upload for: Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:17:05,382 - INFO - Verifying upload: /home/user/Desktop/torrents/Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:17:07,469 - INFO - Upload verification successful for /home/user/Desktop/torrents/Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:17:07,471 - INFO - Deleting torrent from qBittorrent: Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:17:07,471 - INFO - Deleting torrent with hash 757e2163435731174d60e259a0826abd46736cad (delete_files=False)
+2025-04-14 16:17:07,478 - INFO - Successfully deleted torrent with hash 757e2163435731174d60e259a0826abd46736cad
+2025-04-14 16:17:07,479 - INFO - Deleting content files: Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:17:07,479 - INFO - Deleting content: /home/user/Desktop/torrents/Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:17:07,488 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:17:07,488 - INFO - Successfully processed torrent: Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:17:07,488 - INFO - Uploading torrent: Inside Job (2010) [1080p]
+2025-04-14 16:17:07,488 - INFO - Starting upload: /home/user/Desktop/torrents/Inside Job (2010) [1080p] -> onedrive:Torrents/Inside Job (2010) [1080p]
+2025-04-14 16:17:07,489 - INFO - Uploading directory of size 1684.43 MB
+2025-04-14 16:21:02,619 - INFO - Successfully uploaded to onedrive:Torrents/Inside Job (2010) [1080p]
+2025-04-14 16:21:02,619 - INFO - Verifying upload for: Inside Job (2010) [1080p]
+2025-04-14 16:21:02,619 - INFO - Verifying upload: /home/user/Desktop/torrents/Inside Job (2010) [1080p] -> onedrive:Torrents/Inside Job (2010) [1080p]
+2025-04-14 16:21:04,937 - INFO - Upload verification successful for /home/user/Desktop/torrents/Inside Job (2010) [1080p]
+2025-04-14 16:21:04,939 - INFO - Deleting torrent from qBittorrent: Inside Job (2010) [1080p]
+2025-04-14 16:21:04,939 - INFO - Deleting torrent with hash cae2d86c74d18fa12906fe9fb9d23f60d8030525 (delete_files=False)
+2025-04-14 16:21:04,947 - INFO - Successfully deleted torrent with hash cae2d86c74d18fa12906fe9fb9d23f60d8030525
+2025-04-14 16:21:04,948 - INFO - Deleting content files: Inside Job (2010) [1080p]
+2025-04-14 16:21:04,948 - INFO - Deleting content: /home/user/Desktop/torrents/Inside Job (2010) [1080p]
+2025-04-14 16:21:04,953 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Inside Job (2010) [1080p]
+2025-04-14 16:21:04,953 - INFO - Successfully processed torrent: Inside Job (2010) [1080p]
+2025-04-14 16:21:04,953 - INFO - Uploading torrent: Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:21:04,953 - INFO - Starting upload: /home/user/Desktop/torrents/Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:21:04,953 - INFO - Uploading directory of size 8445.71 MB
+2025-04-14 16:26:14,812 - INFO - Successfully uploaded to onedrive:Torrents/Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:26:14,813 - INFO - Verifying upload for: Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:26:14,813 - INFO - Verifying upload: /home/user/Desktop/torrents/Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:26:16,875 - INFO - Upload verification successful for /home/user/Desktop/torrents/Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:26:16,877 - INFO - Deleting torrent from qBittorrent: Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:26:16,878 - INFO - Deleting torrent with hash cc5c8b2660249ff1ffe37a315a667bdc7f26b4e2 (delete_files=False)
+2025-04-14 16:26:16,885 - INFO - Successfully deleted torrent with hash cc5c8b2660249ff1ffe37a315a667bdc7f26b4e2
+2025-04-14 16:26:16,885 - INFO - Deleting content files: Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:26:16,885 - INFO - Deleting content: /home/user/Desktop/torrents/Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:26:16,892 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:26:16,892 - INFO - Successfully processed torrent: Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-14 16:26:16,892 - INFO - Uploading torrent: Rush Hour 1 (1998)
+2025-04-14 16:26:16,893 - INFO - Starting upload: /home/user/Desktop/torrents/Rush Hour 1 (1998) -> onedrive:Torrents/Rush Hour 1 (1998)
+2025-04-14 16:26:16,893 - INFO - Uploading directory of size 700.61 MB
+2025-04-14 16:27:35,365 - INFO - Successfully uploaded to onedrive:Torrents/Rush Hour 1 (1998)
+2025-04-14 16:27:35,365 - INFO - Verifying upload for: Rush Hour 1 (1998)
+2025-04-14 16:27:35,366 - INFO - Verifying upload: /home/user/Desktop/torrents/Rush Hour 1 (1998) -> onedrive:Torrents/Rush Hour 1 (1998)
+2025-04-14 16:27:37,719 - INFO - Upload verification successful for /home/user/Desktop/torrents/Rush Hour 1 (1998)
+2025-04-14 16:27:37,721 - INFO - Deleting torrent from qBittorrent: Rush Hour 1 (1998)
+2025-04-14 16:27:37,721 - INFO - Deleting torrent with hash 62bd98dca86ab92983ecc6a02c6d4bd67ae1b638 (delete_files=False)
+2025-04-14 16:27:37,729 - INFO - Successfully deleted torrent with hash 62bd98dca86ab92983ecc6a02c6d4bd67ae1b638
+2025-04-14 16:27:37,729 - INFO - Deleting content files: Rush Hour 1 (1998)
+2025-04-14 16:27:37,729 - INFO - Deleting content: /home/user/Desktop/torrents/Rush Hour 1 (1998)
+2025-04-14 16:27:37,730 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Rush Hour 1 (1998)
+2025-04-14 16:27:37,731 - INFO - Successfully processed torrent: Rush Hour 1 (1998)
+2025-04-14 16:27:37,731 - INFO - Uploading torrent: Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:27:37,731 - INFO - Starting upload: /home/user/Desktop/torrents/Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:27:37,731 - INFO - Uploading directory of size 7493.92 MB
+2025-04-14 16:42:03,325 - INFO - Successfully uploaded to onedrive:Torrents/Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:42:03,326 - INFO - Verifying upload for: Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:42:03,326 - INFO - Verifying upload: /home/user/Desktop/torrents/Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:42:05,701 - INFO - Upload verification successful for /home/user/Desktop/torrents/Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:42:05,703 - INFO - Deleting torrent from qBittorrent: Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:42:05,703 - INFO - Deleting torrent with hash f99044b231a20f0825e4163b31af3ba7a7ad3464 (delete_files=False)
+2025-04-14 16:42:05,712 - INFO - Successfully deleted torrent with hash f99044b231a20f0825e4163b31af3ba7a7ad3464
+2025-04-14 16:42:05,713 - INFO - Deleting content files: Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:42:05,713 - INFO - Deleting content: /home/user/Desktop/torrents/Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:42:05,718 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:42:05,718 - INFO - Successfully processed torrent: Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]
+2025-04-14 16:42:05,718 - INFO - Uploading torrent: Suicide Squad (2016) [1080p] [YTS.AG]
+2025-04-14 16:42:05,718 - INFO - Starting upload: /home/user/Desktop/torrents/Suicide Squad (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Suicide Squad (2016) [1080p] [YTS.AG]
+2025-04-14 16:42:05,719 - INFO - Uploading directory of size 2106.72 MB
+2025-04-14 16:46:23,616 - INFO - Successfully uploaded to onedrive:Torrents/Suicide Squad (2016) [1080p] [YTS.AG]
+2025-04-14 16:46:23,616 - INFO - Verifying upload for: Suicide Squad (2016) [1080p] [YTS.AG]
+2025-04-14 16:46:23,616 - INFO - Verifying upload: /home/user/Desktop/torrents/Suicide Squad (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Suicide Squad (2016) [1080p] [YTS.AG]
+2025-04-14 16:46:25,479 - INFO - Upload verification successful for /home/user/Desktop/torrents/Suicide Squad (2016) [1080p] [YTS.AG]
+2025-04-14 16:46:25,482 - INFO - Deleting torrent from qBittorrent: Suicide Squad (2016) [1080p] [YTS.AG]
+2025-04-14 16:46:25,482 - INFO - Deleting torrent with hash 8dcec817168702f38b707519356fe6e5a8367341 (delete_files=False)
+2025-04-14 16:46:25,490 - INFO - Successfully deleted torrent with hash 8dcec817168702f38b707519356fe6e5a8367341
+2025-04-14 16:46:25,490 - INFO - Deleting content files: Suicide Squad (2016) [1080p] [YTS.AG]
+2025-04-14 16:46:25,491 - INFO - Deleting content: /home/user/Desktop/torrents/Suicide Squad (2016) [1080p] [YTS.AG]
+2025-04-14 16:46:25,492 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Suicide Squad (2016) [1080p] [YTS.AG]
+2025-04-14 16:46:25,492 - INFO - Successfully processed torrent: Suicide Squad (2016) [1080p] [YTS.AG]
+2025-04-14 16:46:25,492 - INFO - Uploading torrent: Modern Family Season 9 Complete 720p HDTV x264 [i_c]
+2025-04-14 16:46:25,492 - INFO - Starting upload: /home/user/Desktop/torrents/Modern Family Season 9 Complete 720p HDTV x264 [i_c] -> onedrive:Torrents/Modern Family Season 9 Complete 720p HDTV x264 [i_c]
+2025-04-14 16:46:25,493 - INFO - Uploading directory of size 7799.62 MB
+2025-04-14 16:50:45,193 - INFO - Successfully uploaded to onedrive:Torrents/Modern Family Season 9 Complete 720p HDTV x264 [i_c]
+2025-04-14 16:50:45,193 - INFO - Verifying upload for: Modern Family Season 9 Complete 720p HDTV x264 [i_c]
+2025-04-14 16:50:45,193 - INFO - Verifying upload: /home/user/Desktop/torrents/Modern Family Season 9 Complete 720p HDTV x264 [i_c] -> onedrive:Torrents/Modern Family Season 9 Complete 720p HDTV x264 [i_c]
+2025-04-14 16:50:46,760 - INFO - Upload verification successful for /home/user/Desktop/torrents/Modern Family Season 9 Complete 720p HDTV x264 [i_c]
+2025-04-14 16:50:46,762 - INFO - Deleting torrent from qBittorrent: Modern Family Season 9 Complete 720p HDTV x264 [i_c]
+2025-04-14 16:50:46,763 - INFO - Deleting torrent with hash 20a2c914d67c8abc3b9e8139145c377efe85c90b (delete_files=False)
+2025-04-14 16:50:46,770 - INFO - Successfully deleted torrent with hash 20a2c914d67c8abc3b9e8139145c377efe85c90b
+2025-04-14 16:50:46,770 - INFO - Deleting content files: Modern Family Season 9 Complete 720p HDTV x264 [i_c]
+2025-04-14 16:50:46,771 - INFO - Deleting content: /home/user/Desktop/torrents/Modern Family Season 9 Complete 720p HDTV x264 [i_c]
+2025-04-14 16:50:46,777 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Modern Family Season 9 Complete 720p HDTV x264 [i_c]
+2025-04-14 16:50:46,777 - INFO - Successfully processed torrent: Modern Family Season 9 Complete 720p HDTV x264 [i_c]
+2025-04-14 16:50:46,777 - INFO - Uploading torrent: The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 16:50:46,777 - INFO - Starting upload: /home/user/Desktop/torrents/The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 16:50:46,777 - INFO - Uploading directory of size 2494.43 MB
+2025-04-14 16:55:35,300 - INFO - Successfully uploaded to onedrive:Torrents/The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 16:55:35,300 - INFO - Verifying upload for: The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 16:55:35,300 - INFO - Verifying upload: /home/user/Desktop/torrents/The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 16:55:37,899 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 16:55:37,902 - INFO - Deleting torrent from qBittorrent: The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 16:55:37,902 - INFO - Deleting torrent with hash 32729d0d089180d1095279069148ddc27323188b (delete_files=False)
+2025-04-14 16:55:37,910 - INFO - Successfully deleted torrent with hash 32729d0d089180d1095279069148ddc27323188b
+2025-04-14 16:55:37,910 - INFO - Deleting content files: The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 16:55:37,910 - INFO - Deleting content: /home/user/Desktop/torrents/The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 16:55:37,912 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 16:55:37,912 - INFO - Successfully processed torrent: The Suicide Squad (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-14 16:55:37,912 - INFO - Uploading torrent: Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 16:55:37,912 - INFO - Starting upload: /home/user/Desktop/torrents/Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX] -> onedrive:Torrents/Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 16:55:37,913 - INFO - Uploading directory of size 5781.33 MB
+2025-04-14 17:08:42,539 - INFO - Successfully uploaded to onedrive:Torrents/Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 17:08:42,540 - INFO - Verifying upload for: Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 17:08:42,540 - INFO - Verifying upload: /home/user/Desktop/torrents/Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX] -> onedrive:Torrents/Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 17:08:44,818 - INFO - Upload verification successful for /home/user/Desktop/torrents/Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 17:08:44,820 - INFO - Deleting torrent from qBittorrent: Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 17:08:44,820 - INFO - Deleting torrent with hash 42bd481b2e6b0245169582540dd1398b55dcef4a (delete_files=False)
+2025-04-14 17:08:44,830 - INFO - Successfully deleted torrent with hash 42bd481b2e6b0245169582540dd1398b55dcef4a
+2025-04-14 17:08:44,830 - INFO - Deleting content files: Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 17:08:44,830 - INFO - Deleting content: /home/user/Desktop/torrents/Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 17:08:44,833 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 17:08:44,833 - INFO - Successfully processed torrent: Doctor Strange In The Multiverse Of Madness (2022) [2160p] [4K] [WEB] [5.1] [YTS.MX]
+2025-04-14 17:08:44,833 - INFO - Uploading torrent: Rush Hour 2 (2001) [1080p]
+2025-04-14 17:08:44,833 - INFO - Starting upload: /home/user/Desktop/torrents/Rush Hour 2 (2001) [1080p] -> onedrive:Torrents/Rush Hour 2 (2001) [1080p]
+2025-04-14 17:08:44,833 - INFO - Uploading directory of size 1263.58 MB
+2025-04-14 17:11:11,134 - INFO - Successfully uploaded to onedrive:Torrents/Rush Hour 2 (2001) [1080p]
+2025-04-14 17:11:11,134 - INFO - Verifying upload for: Rush Hour 2 (2001) [1080p]
+2025-04-14 17:11:11,134 - INFO - Verifying upload: /home/user/Desktop/torrents/Rush Hour 2 (2001) [1080p] -> onedrive:Torrents/Rush Hour 2 (2001) [1080p]
+2025-04-14 17:11:13,382 - INFO - Upload verification successful for /home/user/Desktop/torrents/Rush Hour 2 (2001) [1080p]
+2025-04-14 17:11:13,384 - INFO - Deleting torrent from qBittorrent: Rush Hour 2 (2001) [1080p]
+2025-04-14 17:11:13,385 - INFO - Deleting torrent with hash 4e43703f7cb99cf6b7f3b0750a538fa3048f24f1 (delete_files=False)
+2025-04-14 17:11:13,395 - INFO - Successfully deleted torrent with hash 4e43703f7cb99cf6b7f3b0750a538fa3048f24f1
+2025-04-14 17:11:13,395 - INFO - Deleting content files: Rush Hour 2 (2001) [1080p]
+2025-04-14 17:11:13,395 - INFO - Deleting content: /home/user/Desktop/torrents/Rush Hour 2 (2001) [1080p]
+2025-04-14 17:11:13,396 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Rush Hour 2 (2001) [1080p]
+2025-04-14 17:11:13,396 - INFO - Successfully processed torrent: Rush Hour 2 (2001) [1080p]
+2025-04-14 17:11:13,396 - INFO - Uploading torrent: The Social Network (2010) [1080]
+2025-04-14 17:11:13,396 - INFO - Starting upload: /home/user/Desktop/torrents/The Social Network (2010) [1080] -> onedrive:Torrents/The Social Network (2010) [1080]
+2025-04-14 17:11:13,396 - INFO - Uploading directory of size 1229.72 MB
+2025-04-14 17:14:18,207 - INFO - Successfully uploaded to onedrive:Torrents/The Social Network (2010) [1080]
+2025-04-14 17:14:18,207 - INFO - Verifying upload for: The Social Network (2010) [1080]
+2025-04-14 17:14:18,207 - INFO - Verifying upload: /home/user/Desktop/torrents/The Social Network (2010) [1080] -> onedrive:Torrents/The Social Network (2010) [1080]
+2025-04-14 17:14:20,881 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Social Network (2010) [1080]
+2025-04-14 17:14:20,884 - INFO - Deleting torrent from qBittorrent: The Social Network (2010) [1080]
+2025-04-14 17:14:20,884 - INFO - Deleting torrent with hash 965554390d50f07b206115a0d6d619d5678ad5a4 (delete_files=False)
+2025-04-14 17:14:20,892 - INFO - Successfully deleted torrent with hash 965554390d50f07b206115a0d6d619d5678ad5a4
+2025-04-14 17:14:20,892 - INFO - Deleting content files: The Social Network (2010) [1080]
+2025-04-14 17:14:20,892 - INFO - Deleting content: /home/user/Desktop/torrents/The Social Network (2010) [1080]
+2025-04-14 17:14:20,895 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Social Network (2010) [1080]
+2025-04-14 17:14:20,895 - INFO - Successfully processed torrent: The Social Network (2010) [1080]
+2025-04-14 17:14:20,895 - INFO - Uploading torrent: Jurassic World (2015) [1080p]
+2025-04-14 17:14:20,895 - INFO - Starting upload: /home/user/Desktop/torrents/Jurassic World (2015) [1080p] -> onedrive:Torrents/Jurassic World (2015) [1080p]
+2025-04-14 17:14:20,895 - INFO - Uploading directory of size 1892.07 MB
+2025-04-14 17:17:49,343 - INFO - Successfully uploaded to onedrive:Torrents/Jurassic World (2015) [1080p]
+2025-04-14 17:17:49,343 - INFO - Verifying upload for: Jurassic World (2015) [1080p]
+2025-04-14 17:17:49,343 - INFO - Verifying upload: /home/user/Desktop/torrents/Jurassic World (2015) [1080p] -> onedrive:Torrents/Jurassic World (2015) [1080p]
+2025-04-14 17:17:51,815 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jurassic World (2015) [1080p]
+2025-04-14 17:17:51,817 - INFO - Deleting torrent from qBittorrent: Jurassic World (2015) [1080p]
+2025-04-14 17:17:51,817 - INFO - Deleting torrent with hash d6525c8cb07cbc6ce001a97541dad408d4f1fff0 (delete_files=False)
+2025-04-14 17:17:51,827 - INFO - Successfully deleted torrent with hash d6525c8cb07cbc6ce001a97541dad408d4f1fff0
+2025-04-14 17:17:51,827 - INFO - Deleting content files: Jurassic World (2015) [1080p]
+2025-04-14 17:17:51,827 - INFO - Deleting content: /home/user/Desktop/torrents/Jurassic World (2015) [1080p]
+2025-04-14 17:17:51,831 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jurassic World (2015) [1080p]
+2025-04-14 17:17:51,831 - INFO - Successfully processed torrent: Jurassic World (2015) [1080p]
+2025-04-14 17:17:51,831 - INFO - Uploading torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-14 17:17:51,831 - INFO - Starting upload: /home/user/Desktop/torrents/The Pursuit of Happyness (2006) [1080p] -> onedrive:Torrents/The Pursuit of Happyness (2006) [1080p]
+2025-04-14 17:17:51,831 - INFO - Uploading directory of size 1538.54 MB
+2025-04-14 17:20:39,302 - INFO - Successfully uploaded to onedrive:Torrents/The Pursuit of Happyness (2006) [1080p]
+2025-04-14 17:20:39,303 - INFO - Verifying upload for: The Pursuit of Happyness (2006) [1080p]
+2025-04-14 17:20:39,303 - INFO - Verifying upload: /home/user/Desktop/torrents/The Pursuit of Happyness (2006) [1080p] -> onedrive:Torrents/The Pursuit of Happyness (2006) [1080p]
+2025-04-14 17:20:41,644 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Pursuit of Happyness (2006) [1080p]
+2025-04-14 17:20:41,646 - INFO - Deleting torrent from qBittorrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-14 17:20:41,647 - INFO - Deleting torrent with hash 36a6aef65827481026ee91c1cc27779cc01d67a7 (delete_files=False)
+2025-04-14 17:20:41,654 - INFO - Successfully deleted torrent with hash 36a6aef65827481026ee91c1cc27779cc01d67a7
+2025-04-14 17:20:41,654 - INFO - Deleting content files: The Pursuit of Happyness (2006) [1080p]
+2025-04-14 17:20:41,655 - INFO - Deleting content: /home/user/Desktop/torrents/The Pursuit of Happyness (2006) [1080p]
+2025-04-14 17:20:41,656 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Pursuit of Happyness (2006) [1080p]
+2025-04-14 17:20:41,656 - INFO - Successfully processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-14 17:20:41,656 - INFO - Uploading torrent: Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:20:41,656 - INFO - Starting upload: /home/user/Desktop/torrents/Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:20:41,656 - INFO - Uploading directory of size 6846.24 MB
+2025-04-14 17:24:29,238 - INFO - Successfully uploaded to onedrive:Torrents/Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:24:29,239 - INFO - Verifying upload for: Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:24:29,239 - INFO - Verifying upload: /home/user/Desktop/torrents/Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:24:31,915 - INFO - Upload verification successful for /home/user/Desktop/torrents/Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:24:31,917 - INFO - Deleting torrent from qBittorrent: Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:24:31,917 - INFO - Deleting torrent with hash 68b8782875f444dddb7d2753c094c303203faec3 (delete_files=False)
+2025-04-14 17:24:31,926 - INFO - Successfully deleted torrent with hash 68b8782875f444dddb7d2753c094c303203faec3
+2025-04-14 17:24:31,926 - INFO - Deleting content files: Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:24:31,926 - INFO - Deleting content: /home/user/Desktop/torrents/Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:24:31,934 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:24:31,934 - INFO - Successfully processed torrent: Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:24:31,935 - INFO - Uploading torrent: Jurassic Park III (2001) [1080p]
+2025-04-14 17:24:31,935 - INFO - Starting upload: /home/user/Desktop/torrents/Jurassic Park III (2001) [1080p] -> onedrive:Torrents/Jurassic Park III (2001) [1080p]
+2025-04-14 17:24:31,935 - INFO - Uploading directory of size 1433.89 MB
+2025-04-14 17:27:17,957 - INFO - Successfully uploaded to onedrive:Torrents/Jurassic Park III (2001) [1080p]
+2025-04-14 17:27:17,957 - INFO - Verifying upload for: Jurassic Park III (2001) [1080p]
+2025-04-14 17:27:17,957 - INFO - Verifying upload: /home/user/Desktop/torrents/Jurassic Park III (2001) [1080p] -> onedrive:Torrents/Jurassic Park III (2001) [1080p]
+2025-04-14 17:27:19,343 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jurassic Park III (2001) [1080p]
+2025-04-14 17:27:19,345 - INFO - Deleting torrent from qBittorrent: Jurassic Park III (2001) [1080p]
+2025-04-14 17:27:19,345 - INFO - Deleting torrent with hash b6fcb8950eb453e26689a62e4a69bd815b05c8fc (delete_files=False)
+2025-04-14 17:27:19,355 - INFO - Successfully deleted torrent with hash b6fcb8950eb453e26689a62e4a69bd815b05c8fc
+2025-04-14 17:27:19,355 - INFO - Deleting content files: Jurassic Park III (2001) [1080p]
+2025-04-14 17:27:19,355 - INFO - Deleting content: /home/user/Desktop/torrents/Jurassic Park III (2001) [1080p]
+2025-04-14 17:27:19,357 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jurassic Park III (2001) [1080p]
+2025-04-14 17:27:19,357 - INFO - Successfully processed torrent: Jurassic Park III (2001) [1080p]
+2025-04-14 17:32:19,387 - INFO - Checking for completed torrents...
+2025-04-14 17:32:19,392 - INFO - Found 4 completed torrents
+2025-04-14 17:32:19,393 - INFO - Uploading torrent: Modern Family Season 10 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:32:19,393 - INFO - Starting upload: /home/user/Desktop/torrents/Modern Family Season 10 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Modern Family Season 10 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:32:19,393 - INFO - Uploading directory of size 7682.45 MB
+2025-04-14 17:36:03,835 - INFO - Successfully uploaded to onedrive:Torrents/Modern Family Season 10 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:36:03,835 - INFO - Verifying upload for: Modern Family Season 10 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:36:03,836 - INFO - Verifying upload: /home/user/Desktop/torrents/Modern Family Season 10 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Modern Family Season 10 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:36:06,516 - INFO - Upload verification successful for /home/user/Desktop/torrents/Modern Family Season 10 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:36:06,518 - INFO - Deleting torrent from qBittorrent: Modern Family Season 10 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:36:06,518 - INFO - Deleting torrent with hash f8bf7cc6befa4a465ab28a8bbae12ab6593f289b (delete_files=False)
+2025-04-14 17:36:06,527 - INFO - Successfully deleted torrent with hash f8bf7cc6befa4a465ab28a8bbae12ab6593f289b
+2025-04-14 17:36:06,527 - INFO - Deleting content files: Modern Family Season 10 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:36:06,527 - INFO - Deleting content: /home/user/Desktop/torrents/Modern Family Season 10 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:36:06,560 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Modern Family Season 10 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:36:06,560 - INFO - Successfully processed torrent: Modern Family Season 10 Complete 720p WEB-DL x264 [i_c]
+2025-04-14 17:36:06,560 - INFO - Uploading torrent: Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re]
+2025-04-14 17:36:06,561 - INFO - Starting upload: /home/user/Desktop/torrents/Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re] -> onedrive:Torrents/Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re]
+2025-04-14 17:36:06,562 - INFO - Uploading directory of size 17709.49 MB
+2025-04-14 17:47:03,035 - INFO - Successfully uploaded to onedrive:Torrents/Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re]
+2025-04-14 17:47:03,035 - INFO - Verifying upload for: Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re]
+2025-04-14 17:47:03,036 - INFO - Verifying upload: /home/user/Desktop/torrents/Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re] -> onedrive:Torrents/Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re]
+2025-04-14 17:47:07,072 - INFO - Upload verification successful for /home/user/Desktop/torrents/Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re]
+2025-04-14 17:47:07,075 - INFO - Deleting torrent from qBittorrent: Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re]
+2025-04-14 17:47:07,075 - INFO - Deleting torrent with hash 82cf2e066d60d674d4ea08bec8f9f8816011b58d (delete_files=False)
+2025-04-14 17:47:07,084 - INFO - Successfully deleted torrent with hash 82cf2e066d60d674d4ea08bec8f9f8816011b58d
+2025-04-14 17:47:07,084 - INFO - Deleting content files: Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re]
+2025-04-14 17:47:07,084 - INFO - Deleting content: /home/user/Desktop/torrents/Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re]
+2025-04-14 17:47:07,097 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re]
+2025-04-14 17:47:07,097 - INFO - Successfully processed torrent: Reborn.Rich.S01.KOREAN.1080p.WEBRip.x265[eztv.re]
+2025-04-14 17:47:07,097 - INFO - Uploading torrent: James Bond Casino Royale 2006 1080p BrRip x264 YIFY
+2025-04-14 17:47:07,097 - INFO - Starting upload: /home/user/Desktop/torrents/James Bond Casino Royale (2006) [1080p] -> onedrive:Torrents/James Bond Casino Royale 2006 1080p BrRip x264 YIFY
+2025-04-14 17:47:07,097 - INFO - Uploading directory of size 2148.46 MB
+2025-04-14 17:51:13,456 - INFO - Successfully uploaded to onedrive:Torrents/James Bond Casino Royale 2006 1080p BrRip x264 YIFY
+2025-04-14 17:51:13,457 - INFO - Verifying upload for: James Bond Casino Royale 2006 1080p BrRip x264 YIFY
+2025-04-14 17:51:13,457 - INFO - Verifying upload: /home/user/Desktop/torrents/James Bond Casino Royale (2006) [1080p] -> onedrive:Torrents/James Bond Casino Royale 2006 1080p BrRip x264 YIFY
+2025-04-14 17:51:15,729 - INFO - Upload verification successful for /home/user/Desktop/torrents/James Bond Casino Royale (2006) [1080p]
+2025-04-14 17:51:15,731 - INFO - Deleting torrent from qBittorrent: James Bond Casino Royale 2006 1080p BrRip x264 YIFY
+2025-04-14 17:51:15,731 - INFO - Deleting torrent with hash b0a6fbfae741dde2842a9640b27395538f647e11 (delete_files=False)
+2025-04-14 17:51:15,740 - INFO - Successfully deleted torrent with hash b0a6fbfae741dde2842a9640b27395538f647e11
+2025-04-14 17:51:15,740 - INFO - Deleting content files: James Bond Casino Royale 2006 1080p BrRip x264 YIFY
+2025-04-14 17:51:15,740 - INFO - Deleting content: /home/user/Desktop/torrents/James Bond Casino Royale (2006) [1080p]
+2025-04-14 17:51:15,742 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/James Bond Casino Royale (2006) [1080p]
+2025-04-14 17:51:15,742 - INFO - Successfully processed torrent: James Bond Casino Royale 2006 1080p BrRip x264 YIFY
+2025-04-14 17:51:15,742 - INFO - Uploading torrent: Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-14 17:51:15,742 - INFO - Starting upload: /home/user/Desktop/torrents/Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c] -> onedrive:Torrents/Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-14 17:51:15,743 - INFO - Uploading directory of size 5942.53 MB
+2025-04-14 17:55:08,260 - INFO - Successfully uploaded to onedrive:Torrents/Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-14 17:55:08,261 - INFO - Verifying upload for: Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-14 17:55:08,261 - INFO - Verifying upload: /home/user/Desktop/torrents/Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c] -> onedrive:Torrents/Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-14 17:55:10,801 - INFO - Upload verification successful for /home/user/Desktop/torrents/Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-14 17:55:10,804 - INFO - Deleting torrent from qBittorrent: Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-14 17:55:10,804 - INFO - Deleting torrent with hash f8e659c0ea3d6d8901b66b655032e30a20377e04 (delete_files=False)
+2025-04-14 17:55:10,812 - INFO - Successfully deleted torrent with hash f8e659c0ea3d6d8901b66b655032e30a20377e04
+2025-04-14 17:55:10,812 - INFO - Deleting content files: Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-14 17:55:10,812 - INFO - Deleting content: /home/user/Desktop/torrents/Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-14 17:55:10,830 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-14 17:55:10,831 - INFO - Successfully processed torrent: Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-14 18:00:10,931 - INFO - Checking for completed torrents...
+2025-04-14 18:00:10,935 - INFO - Found 0 completed torrents
