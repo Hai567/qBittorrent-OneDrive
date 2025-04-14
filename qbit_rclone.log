@@ -1806,3 +1806,101 @@ OSError: [Errno 28] No space left on device
 2025-04-14 02:07:04,557 - INFO - Uploading torrent: The Lord of the Rings The Two Towers (2002) [1080p]
 2025-04-14 02:07:04,557 - INFO - Starting upload: /home/user/Desktop/torrents/The Lord of the Rings The Two Towers (2002) [1080p] -> onedrive:Torrents/The Lord of the Rings The Two Towers (2002) [1080p]
 2025-04-14 02:07:04,557 - INFO - Uploading directory of size 3075.71 MB
+2025-04-14 02:14:14,579 - INFO - Successfully uploaded to onedrive:Torrents/The Lord of the Rings The Two Towers (2002) [1080p]
+2025-04-14 02:14:14,579 - INFO - Verifying upload for: The Lord of the Rings The Two Towers (2002) [1080p]
+2025-04-14 02:14:14,579 - INFO - Verifying upload: /home/user/Desktop/torrents/The Lord of the Rings The Two Towers (2002) [1080p] -> onedrive:Torrents/The Lord of the Rings The Two Towers (2002) [1080p]
+2025-04-14 02:14:16,920 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Lord of the Rings The Two Towers (2002) [1080p]
+2025-04-14 02:14:16,922 - INFO - Deleting torrent from qBittorrent: The Lord of the Rings The Two Towers (2002) [1080p]
+2025-04-14 02:14:16,922 - INFO - Deleting torrent with hash ebda5b39978f58b50b2666a808a11c971a9cf080 (delete_files=False)
+2025-04-14 02:14:16,932 - INFO - Successfully deleted torrent with hash ebda5b39978f58b50b2666a808a11c971a9cf080
+2025-04-14 02:14:16,932 - INFO - Deleting content files: The Lord of the Rings The Two Towers (2002) [1080p]
+2025-04-14 02:14:16,932 - INFO - Deleting content: /home/user/Desktop/torrents/The Lord of the Rings The Two Towers (2002) [1080p]
+2025-04-14 02:14:16,933 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Lord of the Rings The Two Towers (2002) [1080p]
+2025-04-14 02:14:16,933 - INFO - Successfully processed torrent: The Lord of the Rings The Two Towers (2002) [1080p]
+2025-04-14 02:14:16,933 - INFO - Uploading torrent: Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:14:16,933 - INFO - Starting upload: /home/user/Desktop/torrents/Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:14:16,933 - INFO - Uploading directory of size 2583.84 MB
+2025-04-14 02:19:40,331 - INFO - Successfully uploaded to onedrive:Torrents/Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:19:40,331 - INFO - Verifying upload for: Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:19:40,331 - INFO - Verifying upload: /home/user/Desktop/torrents/Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:19:42,963 - INFO - Upload verification successful for /home/user/Desktop/torrents/Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:19:42,964 - INFO - Deleting torrent from qBittorrent: Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:19:42,965 - INFO - Deleting torrent with hash 65659376fde3032372b9c3ce8cab98fd46138c7d (delete_files=False)
+2025-04-14 02:19:42,973 - INFO - Successfully deleted torrent with hash 65659376fde3032372b9c3ce8cab98fd46138c7d
+2025-04-14 02:19:42,973 - INFO - Deleting content files: Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:19:42,973 - INFO - Deleting content: /home/user/Desktop/torrents/Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:19:42,974 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:19:42,974 - INFO - Successfully processed torrent: Gladiator II (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:19:42,974 - INFO - Uploading torrent: Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:19:42,975 - INFO - Starting upload: /home/user/Desktop/torrents/Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:19:42,975 - INFO - Uploading directory of size 2164.29 MB
+2025-04-14 02:24:06,738 - INFO - Successfully uploaded to onedrive:Torrents/Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:24:06,739 - INFO - Verifying upload for: Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:24:06,739 - INFO - Verifying upload: /home/user/Desktop/torrents/Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:24:09,044 - INFO - Upload verification successful for /home/user/Desktop/torrents/Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:24:09,046 - INFO - Deleting torrent from qBittorrent: Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:24:09,046 - INFO - Deleting torrent with hash a8ff127575cd18c77bc5fad5d35366820506056b (delete_files=False)
+2025-04-14 02:24:09,054 - INFO - Successfully deleted torrent with hash a8ff127575cd18c77bc5fad5d35366820506056b
+2025-04-14 02:24:09,054 - INFO - Deleting content files: Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:24:09,054 - INFO - Deleting content: /home/user/Desktop/torrents/Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:24:09,055 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:24:09,055 - INFO - Successfully processed torrent: Godzilla X Kong The New Empire (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:24:09,055 - INFO - Uploading torrent: Ted (2012) [1080p]
+2025-04-14 02:24:09,056 - INFO - Starting upload: /home/user/Desktop/torrents/Ted (2012) [1080p] -> onedrive:Torrents/Ted (2012) [1080p]
+2025-04-14 02:24:09,056 - INFO - Uploading directory of size 1638.99 MB
+2025-04-14 02:28:09,155 - INFO - Successfully uploaded to onedrive:Torrents/Ted (2012) [1080p]
+2025-04-14 02:28:09,155 - INFO - Verifying upload for: Ted (2012) [1080p]
+2025-04-14 02:28:09,155 - INFO - Verifying upload: /home/user/Desktop/torrents/Ted (2012) [1080p] -> onedrive:Torrents/Ted (2012) [1080p]
+2025-04-14 02:28:11,438 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ted (2012) [1080p]
+2025-04-14 02:28:11,440 - INFO - Deleting torrent from qBittorrent: Ted (2012) [1080p]
+2025-04-14 02:28:11,440 - INFO - Deleting torrent with hash d1c1a7ec4f83adeecc70d698ca27f4762f11f2f5 (delete_files=False)
+2025-04-14 02:28:11,449 - INFO - Successfully deleted torrent with hash d1c1a7ec4f83adeecc70d698ca27f4762f11f2f5
+2025-04-14 02:28:11,449 - INFO - Deleting content files: Ted (2012) [1080p]
+2025-04-14 02:28:11,450 - INFO - Deleting content: /home/user/Desktop/torrents/Ted (2012) [1080p]
+2025-04-14 02:28:11,450 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ted (2012) [1080p]
+2025-04-14 02:28:11,451 - INFO - Successfully processed torrent: Ted (2012) [1080p]
+2025-04-14 02:28:11,451 - INFO - Uploading torrent: The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:28:11,451 - INFO - Starting upload: /home/user/Desktop/torrents/The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:28:11,451 - INFO - Uploading directory of size 2058.39 MB
+2025-04-14 02:32:15,500 - INFO - Successfully uploaded to onedrive:Torrents/The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:32:15,501 - INFO - Verifying upload for: The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:32:15,501 - INFO - Verifying upload: /home/user/Desktop/torrents/The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:32:17,947 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:32:17,950 - INFO - Deleting torrent from qBittorrent: The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:32:17,950 - INFO - Deleting torrent with hash 7f7b8e2d06f13aef23ba009f9004cc537b63929b (delete_files=False)
+2025-04-14 02:32:17,958 - INFO - Successfully deleted torrent with hash 7f7b8e2d06f13aef23ba009f9004cc537b63929b
+2025-04-14 02:32:17,958 - INFO - Deleting content files: The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:32:17,958 - INFO - Deleting content: /home/user/Desktop/torrents/The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:32:17,959 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:32:17,959 - INFO - Successfully processed torrent: The Equalizer 3 (2023) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-14 02:32:17,959 - INFO - Uploading torrent: Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:32:17,959 - INFO - Starting upload: /home/user/Desktop/torrents/Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:32:17,960 - INFO - Uploading directory of size 1942.61 MB
+2025-04-14 02:36:44,765 - INFO - Successfully uploaded to onedrive:Torrents/Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:36:44,765 - INFO - Verifying upload for: Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:36:44,765 - INFO - Verifying upload: /home/user/Desktop/torrents/Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:36:47,494 - INFO - Upload verification successful for /home/user/Desktop/torrents/Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:36:47,496 - INFO - Deleting torrent from qBittorrent: Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:36:47,496 - INFO - Deleting torrent with hash 20d5b452a644b5e5e94b8c17aa20bc785f39a492 (delete_files=False)
+2025-04-14 02:36:47,505 - INFO - Successfully deleted torrent with hash 20d5b452a644b5e5e94b8c17aa20bc785f39a492
+2025-04-14 02:36:47,505 - INFO - Deleting content files: Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:36:47,505 - INFO - Deleting content: /home/user/Desktop/torrents/Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:36:47,507 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:36:47,507 - INFO - Successfully processed torrent: Salems Lot (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 02:36:47,507 - INFO - Uploading torrent: The Hunger Games Catching Fire (2013) [1080p]
+2025-04-14 02:36:47,508 - INFO - Starting upload: /home/user/Desktop/torrents/The Hunger Games Catching Fire (2013) [1080p] -> onedrive:Torrents/The Hunger Games Catching Fire (2013) [1080p]
+2025-04-14 02:36:47,508 - INFO - Uploading directory of size 2096.16 MB
+2025-04-14 02:40:49,437 - INFO - Successfully uploaded to onedrive:Torrents/The Hunger Games Catching Fire (2013) [1080p]
+2025-04-14 02:40:49,438 - INFO - Verifying upload for: The Hunger Games Catching Fire (2013) [1080p]
+2025-04-14 02:40:49,438 - INFO - Verifying upload: /home/user/Desktop/torrents/The Hunger Games Catching Fire (2013) [1080p] -> onedrive:Torrents/The Hunger Games Catching Fire (2013) [1080p]
+2025-04-14 02:40:51,716 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Hunger Games Catching Fire (2013) [1080p]
+2025-04-14 02:40:51,718 - INFO - Deleting torrent from qBittorrent: The Hunger Games Catching Fire (2013) [1080p]
+2025-04-14 02:40:51,718 - INFO - Deleting torrent with hash 40d0b4bf5a44d73bc7ce64d0d59d2dbdac424a76 (delete_files=False)
+2025-04-14 02:40:51,726 - INFO - Successfully deleted torrent with hash 40d0b4bf5a44d73bc7ce64d0d59d2dbdac424a76
+2025-04-14 02:40:51,726 - INFO - Deleting content files: The Hunger Games Catching Fire (2013) [1080p]
+2025-04-14 02:40:51,726 - INFO - Deleting content: /home/user/Desktop/torrents/The Hunger Games Catching Fire (2013) [1080p]
+2025-04-14 02:40:51,727 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Hunger Games Catching Fire (2013) [1080p]
+2025-04-14 02:40:51,728 - INFO - Successfully processed torrent: The Hunger Games Catching Fire (2013) [1080p]
+2025-04-14 02:40:51,728 - INFO - Uploading torrent: Ant-Man (2015) [1080p]
+2025-04-14 02:40:51,728 - INFO - Starting upload: /home/user/Desktop/torrents/Ant-Man (2015) [1080p] -> onedrive:Torrents/Ant-Man (2015) [1080p]
+2025-04-14 02:40:51,728 - INFO - Uploading directory of size 1329.09 MB
