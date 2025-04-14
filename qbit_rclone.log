@@ -1412,3 +1412,59 @@ OSError: [Errno 28] No space left on device
 2025-04-13 23:41:24,874 - INFO - Uploading torrent: The Hunger Games (2012) [1080p]
 2025-04-13 23:41:24,874 - INFO - Starting upload: /home/user/Desktop/torrents/The Hunger Games (2012) [1080p] -> onedrive:Torrents/The Hunger Games (2012) [1080p]
 2025-04-13 23:41:24,875 - INFO - Uploading directory of size 2050.14 MB
+2025-04-13 23:45:23,345 - INFO - Successfully uploaded to onedrive:Torrents/The Hunger Games (2012) [1080p]
+2025-04-13 23:45:23,346 - INFO - Verifying upload for: The Hunger Games (2012) [1080p]
+2025-04-13 23:45:23,346 - INFO - Verifying upload: /home/user/Desktop/torrents/The Hunger Games (2012) [1080p] -> onedrive:Torrents/The Hunger Games (2012) [1080p]
+2025-04-13 23:45:25,701 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Hunger Games (2012) [1080p]
+2025-04-13 23:45:25,702 - INFO - Deleting torrent from qBittorrent: The Hunger Games (2012) [1080p]
+2025-04-13 23:45:25,702 - INFO - Deleting torrent with hash 9c696f27070a6e9927bd165aa77e61108815f8b1 (delete_files=False)
+2025-04-13 23:45:25,714 - INFO - Successfully deleted torrent with hash 9c696f27070a6e9927bd165aa77e61108815f8b1
+2025-04-13 23:45:25,714 - INFO - Deleting content files: The Hunger Games (2012) [1080p]
+2025-04-13 23:45:25,714 - INFO - Deleting content: /home/user/Desktop/torrents/The Hunger Games (2012) [1080p]
+2025-04-13 23:45:25,715 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Hunger Games (2012) [1080p]
+2025-04-13 23:45:25,716 - INFO - Successfully processed torrent: The Hunger Games (2012) [1080p]
+2025-04-13 23:45:25,716 - INFO - Uploading torrent: Queen of Tears (2024)
+2025-04-13 23:45:25,716 - INFO - Starting upload: /home/user/Downloads/Queen of Tears (2024) -> onedrive:Torrents/Queen of Tears (2024)
+2025-04-13 23:45:25,716 - INFO - Uploading directory of size 27295.61 MB
+2025-04-14 00:01:04,007 - INFO - Successfully uploaded to onedrive:Torrents/Queen of Tears (2024)
+2025-04-14 00:01:04,008 - INFO - Verifying upload for: Queen of Tears (2024)
+2025-04-14 00:01:04,008 - INFO - Verifying upload: /home/user/Downloads/Queen of Tears (2024) -> onedrive:Torrents/Queen of Tears (2024)
+2025-04-14 00:01:06,459 - INFO - Upload verification successful for /home/user/Downloads/Queen of Tears (2024)
+2025-04-14 00:01:06,461 - INFO - Deleting torrent from qBittorrent: Queen of Tears (2024)
+2025-04-14 00:01:06,461 - INFO - Deleting torrent with hash 1d77aa387a66b8044427224dd80226d48ee9550c (delete_files=False)
+2025-04-14 00:01:06,472 - INFO - Successfully deleted torrent with hash 1d77aa387a66b8044427224dd80226d48ee9550c
+2025-04-14 00:01:06,473 - INFO - Deleting content files: Queen of Tears (2024)
+2025-04-14 00:01:06,473 - INFO - Deleting content: /home/user/Downloads/Queen of Tears (2024)
+2025-04-14 00:01:06,501 - INFO - Successfully deleted directory: /home/user/Downloads/Queen of Tears (2024)
+2025-04-14 00:01:06,501 - INFO - Successfully processed torrent: Queen of Tears (2024)
+2025-04-14 00:01:06,501 - INFO - Uploading torrent: Thor (2011) [1080p]
+2025-04-14 00:01:06,501 - INFO - Starting upload: /home/user/Desktop/torrents/Thor (2011) [1080p] -> onedrive:Torrents/Thor (2011) [1080p]
+2025-04-14 00:01:06,501 - INFO - Uploading directory of size 1644.30 MB
+2025-04-14 00:04:25,086 - INFO - Successfully uploaded to onedrive:Torrents/Thor (2011) [1080p]
+2025-04-14 00:04:25,086 - INFO - Verifying upload for: Thor (2011) [1080p]
+2025-04-14 00:04:25,086 - INFO - Verifying upload: /home/user/Desktop/torrents/Thor (2011) [1080p] -> onedrive:Torrents/Thor (2011) [1080p]
+2025-04-14 00:04:27,449 - INFO - Upload verification successful for /home/user/Desktop/torrents/Thor (2011) [1080p]
+2025-04-14 00:04:27,450 - INFO - Deleting torrent from qBittorrent: Thor (2011) [1080p]
+2025-04-14 00:04:27,450 - INFO - Deleting torrent with hash abce88ccc2d0690078840a20398f32077c89ff0e (delete_files=False)
+2025-04-14 00:04:27,460 - INFO - Successfully deleted torrent with hash abce88ccc2d0690078840a20398f32077c89ff0e
+2025-04-14 00:04:27,461 - INFO - Deleting content files: Thor (2011) [1080p]
+2025-04-14 00:04:27,461 - INFO - Deleting content: /home/user/Desktop/torrents/Thor (2011) [1080p]
+2025-04-14 00:04:27,461 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Thor (2011) [1080p]
+2025-04-14 00:04:27,462 - INFO - Successfully processed torrent: Thor (2011) [1080p]
+2025-04-14 00:04:27,462 - INFO - Uploading torrent: The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG]
+2025-04-14 00:04:27,462 - INFO - Starting upload: /home/user/Desktop/torrents/The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG] -> onedrive:Torrents/The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG]
+2025-04-14 00:04:27,462 - INFO - Uploading directory of size 2497.38 MB
+2025-04-14 00:09:17,312 - INFO - Successfully uploaded to onedrive:Torrents/The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG]
+2025-04-14 00:09:17,312 - INFO - Verifying upload for: The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG]
+2025-04-14 00:09:17,313 - INFO - Verifying upload: /home/user/Desktop/torrents/The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG] -> onedrive:Torrents/The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG]
+2025-04-14 00:09:19,607 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG]
+2025-04-14 00:09:19,609 - INFO - Deleting torrent from qBittorrent: The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG]
+2025-04-14 00:09:19,609 - INFO - Deleting torrent with hash bd4544a9b63d2b2ef36f6a2fe1770df17f686592 (delete_files=False)
+2025-04-14 00:09:19,618 - INFO - Successfully deleted torrent with hash bd4544a9b63d2b2ef36f6a2fe1770df17f686592
+2025-04-14 00:09:19,618 - INFO - Deleting content files: The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG]
+2025-04-14 00:09:19,618 - INFO - Deleting content: /home/user/Desktop/torrents/The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG]
+2025-04-14 00:09:19,619 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG]
+2025-04-14 00:09:19,619 - INFO - Successfully processed torrent: The Phantom Of The Opera At The Royal Albert Hall (2011) [1080p] [YTS.AG]
+2025-04-14 00:09:19,620 - INFO - Uploading torrent: Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:09:19,620 - INFO - Starting upload: /home/user/Desktop/torrents/Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Road House (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-14 00:09:19,620 - INFO - Uploading directory of size 2114.69 MB
