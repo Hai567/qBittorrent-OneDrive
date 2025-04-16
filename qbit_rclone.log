@@ -274,3 +274,13 @@
 2025-04-16 09:46:47,963 - INFO - Uploading torrent: Perfect Marriage Revenge - Wanbyeoghan Gyeolhonui Jeongseok - 완벽한 결혼의 정석
 2025-04-16 09:46:47,963 - INFO - Starting upload: /home/user/Desktop/torrents/Perfect Marriage Revenge - Wanbyeoghan Gyeolhonui Jeongseok - 완벽한 결혼의 정석 -> onedrive:Torrents/Perfect Marriage Revenge - Wanbyeoghan Gyeolhonui Jeongseok - 완벽한 결혼의 정석
 2025-04-16 09:46:47,964 - INFO - Uploading directory of size 36341.45 MB
+2025-04-16 23:36:18,870 - INFO - Loaded configuration from config.json
+2025-04-16 23:36:18,871 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-16 23:36:18,966 - INFO - Found onedrive remote in rclone configuration
+2025-04-16 23:36:18,972 - INFO - Successfully logged in to qBittorrent
+2025-04-16 23:36:18,973 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-16 23:36:18,973 - INFO - Checking for completed torrents...
+2025-04-16 23:36:18,976 - INFO - Found 2 completed torrents
+2025-04-16 23:36:18,976 - INFO - Uploading torrent: My Perfect Stranger Korean S01 1080p AMZN WEB DL DDP2 0 H 264 Chios
+2025-04-16 23:36:18,977 - INFO - Starting upload: /home/user/Desktop/torrents/My.Perfect.Stranger.Korean.S01.1080p.AMZN.WEB-DL.DDP2.0.H.264-Chios -> onedrive:Torrents/My Perfect Stranger Korean S01 1080p AMZN WEB DL DDP2 0 H 264 Chios
+2025-04-16 23:36:18,977 - INFO - Uploading directory of size 54860.60 MB
