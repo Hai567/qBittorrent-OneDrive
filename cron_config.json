@@ -1,5 +1,5 @@
 {
-    "interval_minutes": 30,
+    "interval_minutes": 5,
     "git_commands": [
         ["git", "add", "."],
         ["git", "commit", "-m", "[bot] update crawling data"],
