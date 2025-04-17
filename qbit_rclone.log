@@ -531,3 +531,28 @@
 2025-04-17 06:05:01,690 - INFO - Uploading torrent: Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 06:05:01,690 - INFO - Starting upload: /home/user/Desktop/torrents/Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 06:05:01,690 - INFO - Uploading directory of size 1595.63 MB
+2025-04-17 06:09:16,039 - INFO - Successfully uploaded to onedrive:Torrents/Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:09:16,039 - INFO - Verifying upload for: Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:09:16,039 - INFO - Verifying upload: /home/user/Desktop/torrents/Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:09:18,700 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:09:18,704 - INFO - Deleting torrent from qBittorrent: Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:09:18,704 - INFO - Deleting torrent with hash e9af00fe91491ab9ad466c8a35051bfafefc0f11 (delete_files=False)
+2025-04-17 06:09:18,712 - INFO - Successfully deleted torrent with hash e9af00fe91491ab9ad466c8a35051bfafefc0f11
+2025-04-17 06:09:18,712 - INFO - Deleting content files: Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:09:18,712 - INFO - Deleting content: /home/user/Desktop/torrents/Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:09:18,713 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:09:18,713 - INFO - Successfully processed torrent: Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:09:18,714 - INFO - Uploading torrent: Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:09:18,714 - INFO - Starting upload: /home/user/Desktop/torrents/Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:09:18,714 - INFO - Uploading directory of size 1976.92 MB
+2025-04-17 06:12:53,182 - INFO - Successfully uploaded to onedrive:Torrents/Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:12:53,182 - INFO - Verifying upload for: Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:12:53,182 - INFO - Verifying upload: /home/user/Desktop/torrents/Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:12:55,755 - INFO - Upload verification successful for /home/user/Desktop/torrents/Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:12:55,757 - INFO - Deleting torrent from qBittorrent: Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:12:55,758 - INFO - Deleting torrent with hash e7dd6307f7bd36e8456f6ccf4b8c212300785974 (delete_files=False)
+2025-04-17 06:12:55,765 - INFO - Successfully deleted torrent with hash e7dd6307f7bd36e8456f6ccf4b8c212300785974
+2025-04-17 06:12:55,765 - INFO - Deleting content files: Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:12:55,765 - INFO - Deleting content: /home/user/Desktop/torrents/Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:12:55,766 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:12:55,766 - INFO - Successfully processed torrent: Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
