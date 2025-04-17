@@ -1246,3 +1246,25 @@ OSError: [Errno 28] No space left on device
 2025-04-17 12:20:28,637 - INFO - Uploading torrent: Mission Impossible III (2006) [1080p] [YTS.AG]
 2025-04-17 12:20:28,638 - INFO - Starting upload: /home/user/Desktop/torrents/Mission Impossible III (2006) [1080p] [YTS.AG] -> onedrive:Torrents/Mission Impossible III (2006) [1080p] [YTS.AG]
 2025-04-17 12:20:28,638 - INFO - Uploading directory of size 1952.74 MB
+2025-04-17 12:25:09,542 - INFO - Successfully uploaded to onedrive:Torrents/Mission Impossible III (2006) [1080p] [YTS.AG]
+2025-04-17 12:25:09,542 - INFO - Verifying upload for: Mission Impossible III (2006) [1080p] [YTS.AG]
+2025-04-17 12:25:09,542 - INFO - Verifying upload: /home/user/Desktop/torrents/Mission Impossible III (2006) [1080p] [YTS.AG] -> onedrive:Torrents/Mission Impossible III (2006) [1080p] [YTS.AG]
+2025-04-17 12:25:11,796 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mission Impossible III (2006) [1080p] [YTS.AG]
+2025-04-17 12:25:11,797 - ERROR - Error saving processed_torrents.json: [Errno 28] No space left on device
+2025-04-17 12:25:11,797 - ERROR - Traceback (most recent call last):
+  File "/home/user/Desktop/qBittorrent-OneDrive/a.py", line 535, in _save_json_file
+    json.dump(data, f, indent=2)
+  File "/usr/lib/python3.10/json/__init__.py", line 180, in dump
+    fp.write(chunk)
+OSError: [Errno 28] No space left on device
+
+2025-04-17 12:25:11,797 - INFO - Deleting torrent from qBittorrent: Mission Impossible III (2006) [1080p] [YTS.AG]
+2025-04-17 12:25:11,797 - INFO - Deleting torrent with hash d1183f2bbf6fffa903d2dcb231876b3461ef442e (delete_files=False)
+2025-04-17 12:25:11,807 - INFO - Successfully deleted torrent with hash d1183f2bbf6fffa903d2dcb231876b3461ef442e
+2025-04-17 12:25:11,807 - INFO - Deleting content files: Mission Impossible III (2006) [1080p] [YTS.AG]
+2025-04-17 12:25:11,807 - INFO - Deleting content: /home/user/Desktop/torrents/Mission Impossible III (2006) [1080p] [YTS.AG]
+2025-04-17 12:25:11,808 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mission Impossible III (2006) [1080p] [YTS.AG]
+2025-04-17 12:25:11,808 - INFO - Successfully processed torrent: Mission Impossible III (2006) [1080p] [YTS.AG]
+2025-04-17 12:25:11,808 - INFO - Uploading torrent: Logan (2017) [1080p] [YTS.AG]
+2025-04-17 12:25:11,808 - INFO - Starting upload: /home/user/Desktop/torrents/Logan (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Logan (2017) [1080p] [YTS.AG]
+2025-04-17 12:25:11,808 - INFO - Uploading directory of size 2144.51 MB
