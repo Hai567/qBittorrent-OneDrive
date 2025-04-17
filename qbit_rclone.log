@@ -284,3 +284,14 @@
 2025-04-16 23:36:18,976 - INFO - Uploading torrent: My Perfect Stranger Korean S01 1080p AMZN WEB DL DDP2 0 H 264 Chios
 2025-04-16 23:36:18,977 - INFO - Starting upload: /home/user/Desktop/torrents/My.Perfect.Stranger.Korean.S01.1080p.AMZN.WEB-DL.DDP2.0.H.264-Chios -> onedrive:Torrents/My Perfect Stranger Korean S01 1080p AMZN WEB DL DDP2 0 H 264 Chios
 2025-04-16 23:36:18,977 - INFO - Uploading directory of size 54860.60 MB
+2025-04-16 23:59:40,511 - INFO - Successfully uploaded to onedrive:Torrents/My Perfect Stranger Korean S01 1080p AMZN WEB DL DDP2 0 H 264 Chios
+2025-04-16 23:59:40,511 - INFO - Verifying upload for: My Perfect Stranger Korean S01 1080p AMZN WEB DL DDP2 0 H 264 Chios
+2025-04-16 23:59:40,511 - INFO - Verifying upload: /home/user/Desktop/torrents/My.Perfect.Stranger.Korean.S01.1080p.AMZN.WEB-DL.DDP2.0.H.264-Chios -> onedrive:Torrents/My Perfect Stranger Korean S01 1080p AMZN WEB DL DDP2 0 H 264 Chios
+2025-04-16 23:59:42,924 - INFO - Upload verification successful for /home/user/Desktop/torrents/My.Perfect.Stranger.Korean.S01.1080p.AMZN.WEB-DL.DDP2.0.H.264-Chios
+2025-04-16 23:59:42,928 - INFO - Deleting torrent from qBittorrent: My Perfect Stranger Korean S01 1080p AMZN WEB DL DDP2 0 H 264 Chios
+2025-04-16 23:59:42,928 - INFO - Deleting torrent with hash 475354fb9b02f0de6a21357bb6a6f4e414eaef10 (delete_files=False)
+2025-04-16 23:59:42,953 - INFO - Successfully deleted torrent with hash 475354fb9b02f0de6a21357bb6a6f4e414eaef10
+2025-04-16 23:59:42,954 - INFO - Deleting content files: My Perfect Stranger Korean S01 1080p AMZN WEB DL DDP2 0 H 264 Chios
+2025-04-16 23:59:42,954 - INFO - Deleting content: /home/user/Desktop/torrents/My.Perfect.Stranger.Korean.S01.1080p.AMZN.WEB-DL.DDP2.0.H.264-Chios
+2025-04-16 23:59:42,996 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/My.Perfect.Stranger.Korean.S01.1080p.AMZN.WEB-DL.DDP2.0.H.264-Chios
+2025-04-16 23:59:42,997 - INFO - Successfully processed torrent: My Perfect Stranger Korean S01 1080p AMZN WEB DL DDP2 0 H 264 Chios
