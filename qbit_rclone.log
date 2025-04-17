@@ -1374,3 +1374,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 12:51:38,450 - INFO - Uploading torrent: Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
 2025-04-17 12:51:38,450 - INFO - Starting upload: /home/user/Desktop/torrents/Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
 2025-04-17 12:51:38,451 - INFO - Uploading directory of size 1952.55 MB
+2025-04-17 12:56:07,306 - INFO - Successfully uploaded to onedrive:Torrents/Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 12:56:07,306 - INFO - Verifying upload for: Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 12:56:07,306 - INFO - Verifying upload: /home/user/Desktop/torrents/Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 12:56:09,617 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 12:56:09,620 - INFO - Deleting torrent from qBittorrent: Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 12:56:09,620 - INFO - Deleting torrent with hash 9d359731e2a83f7249d64d3e462177d42a13b55a (delete_files=False)
+2025-04-17 12:56:09,632 - INFO - Successfully deleted torrent with hash 9d359731e2a83f7249d64d3e462177d42a13b55a
+2025-04-17 12:56:09,632 - INFO - Deleting content files: Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 12:56:09,633 - INFO - Deleting content: /home/user/Desktop/torrents/Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 12:56:09,635 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 12:56:09,635 - INFO - Successfully processed torrent: Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 12:56:09,635 - INFO - Uploading torrent: Inferno (2016) [1080p] [YTS.AG]
+2025-04-17 12:56:09,635 - INFO - Starting upload: /home/user/Desktop/torrents/Inferno (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Inferno (2016) [1080p] [YTS.AG]
+2025-04-17 12:56:09,635 - INFO - Uploading directory of size 1911.72 MB
