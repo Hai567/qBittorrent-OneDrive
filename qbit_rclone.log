@@ -1812,3 +1812,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 15:19:10,665 - INFO - Uploading torrent: Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
 2025-04-17 15:19:10,665 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
 2025-04-17 15:19:10,666 - INFO - Uploading directory of size 9169.99 MB
+2025-04-17 15:27:09,524 - INFO - Successfully uploaded to onedrive:Torrents/Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:27:09,525 - INFO - Verifying upload for: Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:27:09,525 - INFO - Verifying upload: /home/user/Desktop/torrents/Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:27:12,372 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:27:12,376 - INFO - Deleting torrent from qBittorrent: Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:27:12,376 - INFO - Deleting torrent with hash e4cc468e315c7cfbb2b11878597492102425d07f (delete_files=False)
+2025-04-17 15:27:12,387 - INFO - Successfully deleted torrent with hash e4cc468e315c7cfbb2b11878597492102425d07f
+2025-04-17 15:27:12,388 - INFO - Deleting content files: Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:27:12,388 - INFO - Deleting content: /home/user/Desktop/torrents/Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:27:12,425 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:27:12,425 - INFO - Successfully processed torrent: Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:27:12,425 - INFO - Uploading torrent: Mission Impossible Ghost Protocol (2011) [1080p]
+2025-04-17 15:27:12,425 - INFO - Starting upload: /home/user/Desktop/torrents/Mission Impossible Ghost Protocol (2011) [1080p] -> onedrive:Torrents/Mission Impossible Ghost Protocol (2011) [1080p]
+2025-04-17 15:27:12,425 - INFO - Uploading directory of size 1436.53 MB
