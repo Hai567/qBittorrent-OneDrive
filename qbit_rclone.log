@@ -1268,3 +1268,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 12:25:11,808 - INFO - Uploading torrent: Logan (2017) [1080p] [YTS.AG]
 2025-04-17 12:25:11,808 - INFO - Starting upload: /home/user/Desktop/torrents/Logan (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Logan (2017) [1080p] [YTS.AG]
 2025-04-17 12:25:11,808 - INFO - Uploading directory of size 2144.51 MB
+2025-04-17 12:30:18,582 - INFO - Successfully uploaded to onedrive:Torrents/Logan (2017) [1080p] [YTS.AG]
+2025-04-17 12:30:18,582 - INFO - Verifying upload for: Logan (2017) [1080p] [YTS.AG]
+2025-04-17 12:30:18,583 - INFO - Verifying upload: /home/user/Desktop/torrents/Logan (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Logan (2017) [1080p] [YTS.AG]
+2025-04-17 12:30:20,816 - INFO - Upload verification successful for /home/user/Desktop/torrents/Logan (2017) [1080p] [YTS.AG]
+2025-04-17 12:30:20,819 - INFO - Deleting torrent from qBittorrent: Logan (2017) [1080p] [YTS.AG]
+2025-04-17 12:30:20,819 - INFO - Deleting torrent with hash 1ab2ce4d62a9a46e91a3a3097bcebd6248978d40 (delete_files=False)
+2025-04-17 12:30:20,828 - INFO - Successfully deleted torrent with hash 1ab2ce4d62a9a46e91a3a3097bcebd6248978d40
+2025-04-17 12:30:20,829 - INFO - Deleting content files: Logan (2017) [1080p] [YTS.AG]
+2025-04-17 12:30:20,829 - INFO - Deleting content: /home/user/Desktop/torrents/Logan (2017) [1080p] [YTS.AG]
+2025-04-17 12:30:20,830 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Logan (2017) [1080p] [YTS.AG]
+2025-04-17 12:30:20,830 - INFO - Successfully processed torrent: Logan (2017) [1080p] [YTS.AG]
+2025-04-17 12:30:20,830 - INFO - Uploading torrent: Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 12:30:20,830 - INFO - Starting upload: /home/user/Desktop/torrents/Bumblebee (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 12:30:20,831 - INFO - Uploading directory of size 1867.24 MB
