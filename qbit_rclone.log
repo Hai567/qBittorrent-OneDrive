@@ -2148,3 +2148,28 @@ OSError: [Errno 28] No space left on device
 2025-04-17 17:14:52,942 - INFO - Uploading torrent: Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-17 17:14:52,942 - INFO - Starting upload: /home/user/Desktop/torrents/Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-17 17:14:52,942 - INFO - Uploading directory of size 2693.53 MB
+2025-04-17 17:20:53,330 - INFO - Successfully uploaded to onedrive:Torrents/Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 17:20:53,331 - INFO - Verifying upload for: Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 17:20:53,331 - INFO - Verifying upload: /home/user/Desktop/torrents/Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 17:20:55,653 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 17:20:55,657 - INFO - Deleting torrent from qBittorrent: Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 17:20:55,657 - INFO - Deleting torrent with hash dd6852d51f9931563260bf59e50c1ca7d49a4f48 (delete_files=False)
+2025-04-17 17:20:55,668 - INFO - Successfully deleted torrent with hash dd6852d51f9931563260bf59e50c1ca7d49a4f48
+2025-04-17 17:20:55,668 - INFO - Deleting content files: Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 17:20:55,668 - INFO - Deleting content: /home/user/Desktop/torrents/Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 17:20:55,674 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 17:20:55,674 - INFO - Successfully processed torrent: Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 17:20:55,674 - INFO - Uploading torrent: Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-17 17:20:55,675 - INFO - Starting upload: /home/user/Desktop/torrents/Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx] -> onedrive:Torrents/Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-17 17:20:55,675 - INFO - Uploading directory of size 1436.92 MB
+2025-04-17 17:23:57,518 - INFO - Successfully uploaded to onedrive:Torrents/Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-17 17:23:57,519 - INFO - Verifying upload for: Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-17 17:23:57,519 - INFO - Verifying upload: /home/user/Desktop/torrents/Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx] -> onedrive:Torrents/Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-17 17:23:59,842 - INFO - Upload verification successful for /home/user/Desktop/torrents/Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-17 17:23:59,847 - INFO - Deleting torrent from qBittorrent: Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-17 17:23:59,848 - INFO - Deleting torrent with hash b8b77936b74095852f321f75b8151c6ce7b42f9f (delete_files=False)
+2025-04-17 17:23:59,858 - INFO - Successfully deleted torrent with hash b8b77936b74095852f321f75b8151c6ce7b42f9f
+2025-04-17 17:23:59,859 - INFO - Deleting content files: Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-17 17:23:59,859 - INFO - Deleting content: /home/user/Desktop/torrents/Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-17 17:23:59,860 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-17 17:23:59,860 - INFO - Successfully processed torrent: Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
