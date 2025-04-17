@@ -2022,3 +2022,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 16:42:12,377 - INFO - Uploading torrent: A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 16:42:12,377 - INFO - Starting upload: /home/user/Desktop/torrents/A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 16:42:12,377 - INFO - Uploading directory of size 1907.56 MB
+2025-04-17 16:46:03,158 - INFO - Successfully uploaded to onedrive:Torrents/A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:46:03,159 - INFO - Verifying upload for: A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:46:03,159 - INFO - Verifying upload: /home/user/Desktop/torrents/A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:46:05,957 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:46:05,962 - INFO - Deleting torrent from qBittorrent: A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:46:05,962 - INFO - Deleting torrent with hash f6643b9597ebb1ace9b73661da9c6a649507e0b4 (delete_files=False)
+2025-04-17 16:46:05,976 - INFO - Successfully deleted torrent with hash f6643b9597ebb1ace9b73661da9c6a649507e0b4
+2025-04-17 16:46:05,976 - INFO - Deleting content files: A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:46:05,976 - INFO - Deleting content: /home/user/Desktop/torrents/A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:46:05,983 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:46:05,983 - INFO - Successfully processed torrent: A Mistake (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:46:05,983 - INFO - Uploading torrent: Joker (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 16:46:05,983 - INFO - Starting upload: /home/user/Desktop/torrents/Joker (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Joker (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 16:46:05,983 - INFO - Uploading directory of size 1959.05 MB
