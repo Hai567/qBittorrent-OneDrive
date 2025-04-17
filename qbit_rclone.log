@@ -1040,3 +1040,17 @@
 2025-04-17 11:27:58,139 - INFO - Uploading torrent: Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 11:27:58,139 - INFO - Starting upload: /home/user/Desktop/torrents/Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 11:27:58,139 - INFO - Uploading directory of size 1346.24 MB
+2025-04-17 11:30:33,110 - INFO - Successfully uploaded to onedrive:Torrents/Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:30:33,111 - INFO - Verifying upload for: Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:30:33,111 - INFO - Verifying upload: /home/user/Desktop/torrents/Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:30:35,675 - INFO - Upload verification successful for /home/user/Desktop/torrents/Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:30:35,680 - INFO - Deleting torrent from qBittorrent: Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:30:35,680 - INFO - Deleting torrent with hash e11dd365f585feeee0ecbe2e3d797b0f6c551664 (delete_files=False)
+2025-04-17 11:30:35,690 - INFO - Successfully deleted torrent with hash e11dd365f585feeee0ecbe2e3d797b0f6c551664
+2025-04-17 11:30:35,690 - INFO - Deleting content files: Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:30:35,690 - INFO - Deleting content: /home/user/Desktop/torrents/Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:30:35,691 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:30:35,691 - INFO - Successfully processed torrent: Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:30:35,691 - INFO - Uploading torrent: Big Hero 6 (2014) [1080p]
+2025-04-17 11:30:35,692 - INFO - Starting upload: /home/user/Desktop/torrents/Big Hero 6 (2014) [1080p] -> onedrive:Torrents/Big Hero 6 (2014) [1080p]
+2025-04-17 11:30:35,692 - INFO - Uploading directory of size 1685.20 MB
