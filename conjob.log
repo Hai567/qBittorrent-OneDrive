@@ -2101,3 +2101,14 @@
 2025-04-17 11:48:07,220 - git-cronjob - INFO - Checking for changes in repository
 2025-04-17 11:48:07,225 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
 2025-04-17 11:48:07,225 - git-cronjob - INFO - Running command: git add .
+2025-04-17 11:48:07,236 - git-cronjob - INFO - Success: 
+2025-04-17 11:48:07,236 - git-cronjob - INFO - Running command: git commit -m [bot] update crawling data
+2025-04-17 11:48:07,248 - git-cronjob - INFO - Success: [master 0d22fa7] [bot] update crawling data
+ 4 files changed, 54 insertions(+)
+ delete mode 100644 processed_torrents.json.tmp
+2025-04-17 11:48:07,248 - git-cronjob - INFO - Running command: git push origin master
+2025-04-17 11:48:08,448 - git-cronjob - INFO - Success: 
+2025-04-17 11:48:08,448 - git-cronjob - INFO - Git operations completed successfully
+2025-04-17 11:53:08,749 - git-cronjob - INFO - Checking for changes in repository
+2025-04-17 11:53:08,753 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-17 11:53:08,753 - git-cronjob - INFO - Running command: git add .

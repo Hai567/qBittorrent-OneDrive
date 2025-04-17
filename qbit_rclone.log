@@ -1118,3 +1118,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 11:47:07,419 - INFO - Uploading torrent: Catch Me If You Can (2002) [1080p]
 2025-04-17 11:47:07,419 - INFO - Starting upload: /home/user/Desktop/torrents/Catch Me If You Can (2002) [1080p] -> onedrive:Torrents/Catch Me If You Can (2002) [1080p]
 2025-04-17 11:47:07,419 - INFO - Uploading directory of size 2098.22 MB
+2025-04-17 11:50:57,061 - INFO - Successfully uploaded to onedrive:Torrents/Catch Me If You Can (2002) [1080p]
+2025-04-17 11:50:57,061 - INFO - Verifying upload for: Catch Me If You Can (2002) [1080p]
+2025-04-17 11:50:57,061 - INFO - Verifying upload: /home/user/Desktop/torrents/Catch Me If You Can (2002) [1080p] -> onedrive:Torrents/Catch Me If You Can (2002) [1080p]
+2025-04-17 11:50:59,349 - INFO - Upload verification successful for /home/user/Desktop/torrents/Catch Me If You Can (2002) [1080p]
+2025-04-17 11:50:59,352 - INFO - Deleting torrent from qBittorrent: Catch Me If You Can (2002) [1080p]
+2025-04-17 11:50:59,353 - INFO - Deleting torrent with hash d77dca4f05287bab2994c237e2431da5d7c7afd3 (delete_files=False)
+2025-04-17 11:50:59,376 - INFO - Successfully deleted torrent with hash d77dca4f05287bab2994c237e2431da5d7c7afd3
+2025-04-17 11:50:59,376 - INFO - Deleting content files: Catch Me If You Can (2002) [1080p]
+2025-04-17 11:50:59,376 - INFO - Deleting content: /home/user/Desktop/torrents/Catch Me If You Can (2002) [1080p]
+2025-04-17 11:50:59,382 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Catch Me If You Can (2002) [1080p]
+2025-04-17 11:50:59,382 - INFO - Successfully processed torrent: Catch Me If You Can (2002) [1080p]
+2025-04-17 11:50:59,382 - INFO - Uploading torrent: Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 11:50:59,382 - INFO - Starting upload: /home/user/Desktop/torrents/Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 11:50:59,382 - INFO - Uploading directory of size 1939.26 MB
