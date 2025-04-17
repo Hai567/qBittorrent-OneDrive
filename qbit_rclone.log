@@ -1698,3 +1698,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 14:36:09,028 - INFO - Uploading torrent: Angels & Demons (2009) [1080p]
 2025-04-17 14:36:09,028 - INFO - Starting upload: /home/user/Desktop/torrents/Angels & Demons (2009) [1080p] -> onedrive:Torrents/Angels & Demons (2009) [1080p]
 2025-04-17 14:36:09,028 - INFO - Uploading directory of size 1845.75 MB
+2025-04-17 14:40:43,278 - INFO - Successfully uploaded to onedrive:Torrents/Angels & Demons (2009) [1080p]
+2025-04-17 14:40:43,278 - INFO - Verifying upload for: Angels & Demons (2009) [1080p]
+2025-04-17 14:40:43,278 - INFO - Verifying upload: /home/user/Desktop/torrents/Angels & Demons (2009) [1080p] -> onedrive:Torrents/Angels & Demons (2009) [1080p]
+2025-04-17 14:40:45,598 - INFO - Upload verification successful for /home/user/Desktop/torrents/Angels & Demons (2009) [1080p]
+2025-04-17 14:40:45,601 - INFO - Deleting torrent from qBittorrent: Angels & Demons (2009) [1080p]
+2025-04-17 14:40:45,601 - INFO - Deleting torrent with hash 197188e1d16d82fa9ed73264014cb5b6c8c3b2cd (delete_files=False)
+2025-04-17 14:40:45,614 - INFO - Successfully deleted torrent with hash 197188e1d16d82fa9ed73264014cb5b6c8c3b2cd
+2025-04-17 14:40:45,614 - INFO - Deleting content files: Angels & Demons (2009) [1080p]
+2025-04-17 14:40:45,614 - INFO - Deleting content: /home/user/Desktop/torrents/Angels & Demons (2009) [1080p]
+2025-04-17 14:40:45,615 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Angels & Demons (2009) [1080p]
+2025-04-17 14:40:45,615 - INFO - Successfully processed torrent: Angels & Demons (2009) [1080p]
+2025-04-17 14:40:45,615 - INFO - Uploading torrent: Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:40:45,616 - INFO - Starting upload: /home/user/Desktop/torrents/Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:40:45,616 - INFO - Uploading directory of size 1974.99 MB
