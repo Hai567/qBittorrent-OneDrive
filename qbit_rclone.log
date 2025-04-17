@@ -2078,3 +2078,31 @@ OSError: [Errno 28] No space left on device
 2025-04-17 16:58:09,637 - INFO - Uploading torrent: Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
 2025-04-17 16:58:09,637 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c] -> onedrive:Torrents/Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
 2025-04-17 16:58:09,637 - INFO - Uploading directory of size 3166.33 MB
+2025-04-17 17:00:18,718 - INFO - Successfully uploaded to onedrive:Torrents/Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+2025-04-17 17:00:18,719 - INFO - Verifying upload for: Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+2025-04-17 17:00:18,719 - INFO - Verifying upload: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c] -> onedrive:Torrents/Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+2025-04-17 17:00:21,233 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+2025-04-17 17:00:21,237 - INFO - Deleting torrent from qBittorrent: Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+2025-04-17 17:00:21,237 - INFO - Deleting torrent with hash fe0902401a21a3cac6af3cd93963d5c7fd0cb601 (delete_files=False)
+2025-04-17 17:00:21,248 - INFO - Successfully deleted torrent with hash fe0902401a21a3cac6af3cd93963d5c7fd0cb601
+2025-04-17 17:00:21,248 - INFO - Deleting content files: Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+2025-04-17 17:00:21,248 - INFO - Deleting content: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+2025-04-17 17:00:21,254 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+2025-04-17 17:00:21,254 - INFO - Successfully processed torrent: Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+2025-04-17 17:00:21,254 - INFO - Uploading torrent: Unbankable (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 17:00:21,255 - INFO - Starting upload: /home/user/Desktop/torrents/Unbankable (2024) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Unbankable (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 17:00:21,255 - INFO - Uploading directory of size 1151.24 MB
+2025-04-17 17:02:45,160 - INFO - Successfully uploaded to onedrive:Torrents/Unbankable (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 17:02:45,161 - INFO - Verifying upload for: Unbankable (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 17:02:45,161 - INFO - Verifying upload: /home/user/Desktop/torrents/Unbankable (2024) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Unbankable (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 17:02:47,853 - INFO - Upload verification successful for /home/user/Desktop/torrents/Unbankable (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 17:02:47,858 - INFO - Deleting torrent from qBittorrent: Unbankable (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 17:02:47,858 - INFO - Deleting torrent with hash 9a94b4ee69572a3ed2616c5b884abdf75f240e74 (delete_files=False)
+2025-04-17 17:02:47,869 - INFO - Successfully deleted torrent with hash 9a94b4ee69572a3ed2616c5b884abdf75f240e74
+2025-04-17 17:02:47,870 - INFO - Deleting content files: Unbankable (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 17:02:47,870 - INFO - Deleting content: /home/user/Desktop/torrents/Unbankable (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 17:02:47,871 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Unbankable (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 17:02:47,871 - INFO - Successfully processed torrent: Unbankable (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 17:02:47,872 - INFO - Uploading torrent: Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 17:02:47,872 - INFO - Starting upload: /home/user/Desktop/torrents/Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 17:02:47,872 - INFO - Uploading directory of size 1436.94 MB
