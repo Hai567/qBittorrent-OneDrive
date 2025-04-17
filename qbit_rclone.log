@@ -448,3 +448,8 @@
 2025-04-17 05:17:39,130 - INFO - Found 1 completed torrents
 2025-04-17 05:22:39,231 - INFO - Checking for completed torrents...
 2025-04-17 05:22:39,234 - INFO - Found 1 completed torrents
+2025-04-17 05:27:39,334 - INFO - Checking for completed torrents...
+2025-04-17 05:27:39,339 - INFO - Found 2 completed torrents
+2025-04-17 05:27:39,339 - INFO - Uploading torrent: Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 05:27:39,339 - INFO - Starting upload: /home/user/Desktop/torrents/Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 05:27:39,339 - INFO - Uploading directory of size 1592.67 MB
