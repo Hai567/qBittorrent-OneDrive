@@ -606,3 +606,14 @@
 2025-04-17 08:26:42,550 - INFO - Uploading torrent: Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 08:26:42,550 - INFO - Starting upload: /home/user/Desktop/torrents/Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 08:26:42,550 - INFO - Uploading directory of size 1790.64 MB
+2025-04-17 08:30:12,776 - INFO - Successfully uploaded to onedrive:Torrents/Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 08:30:12,776 - INFO - Verifying upload for: Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 08:30:12,776 - INFO - Verifying upload: /home/user/Desktop/torrents/Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 08:30:14,852 - INFO - Upload verification successful for /home/user/Desktop/torrents/Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 08:30:14,855 - INFO - Deleting torrent from qBittorrent: Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 08:30:14,855 - INFO - Deleting torrent with hash e4d464dac2119c4e231bb7a2cda5d6fbffb15da1 (delete_files=False)
+2025-04-17 08:30:14,864 - INFO - Successfully deleted torrent with hash e4d464dac2119c4e231bb7a2cda5d6fbffb15da1
+2025-04-17 08:30:14,864 - INFO - Deleting content files: Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 08:30:14,864 - INFO - Deleting content: /home/user/Desktop/torrents/Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 08:30:14,866 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 08:30:14,866 - INFO - Successfully processed torrent: Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
