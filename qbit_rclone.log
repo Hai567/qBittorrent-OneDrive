@@ -1924,3 +1924,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 16:01:08,672 - INFO - Uploading torrent: Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 16:01:08,672 - INFO - Starting upload: /home/user/Desktop/torrents/Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 16:01:08,673 - INFO - Uploading directory of size 2055.27 MB
+2025-04-17 16:05:53,070 - INFO - Successfully uploaded to onedrive:Torrents/Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:05:53,070 - INFO - Verifying upload for: Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:05:53,070 - INFO - Verifying upload: /home/user/Desktop/torrents/Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:05:55,710 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:05:55,715 - INFO - Deleting torrent from qBittorrent: Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:05:55,715 - INFO - Deleting torrent with hash 239f161ceec73c8c09669a353e07806c9f734b39 (delete_files=False)
+2025-04-17 16:05:55,723 - INFO - Successfully deleted torrent with hash 239f161ceec73c8c09669a353e07806c9f734b39
+2025-04-17 16:05:55,724 - INFO - Deleting content files: Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:05:55,724 - INFO - Deleting content: /home/user/Desktop/torrents/Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:05:55,738 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:05:55,738 - INFO - Successfully processed torrent: Dhoom Dhaam (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:05:55,738 - INFO - Uploading torrent: The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:05:55,738 - INFO - Starting upload: /home/user/Desktop/torrents/The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:05:55,738 - INFO - Uploading directory of size 1885.50 MB
