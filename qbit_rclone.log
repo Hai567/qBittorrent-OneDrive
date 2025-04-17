@@ -754,3 +754,14 @@
 2025-04-17 09:41:05,615 - INFO - Uploading torrent: A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-17 09:41:05,615 - INFO - Starting upload: /home/user/Desktop/torrents/A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-17 09:41:05,615 - INFO - Uploading directory of size 1437.69 MB
+2025-04-17 09:44:10,580 - INFO - Successfully uploaded to onedrive:Torrents/A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:44:10,581 - INFO - Verifying upload for: A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:44:10,581 - INFO - Verifying upload: /home/user/Desktop/torrents/A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:44:12,857 - INFO - Upload verification successful for /home/user/Desktop/torrents/A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:44:12,861 - INFO - Deleting torrent from qBittorrent: A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:44:12,861 - INFO - Deleting torrent with hash f59f69c768d30ea7674ae3f881c81b3102906591 (delete_files=False)
+2025-04-17 09:44:12,872 - INFO - Successfully deleted torrent with hash f59f69c768d30ea7674ae3f881c81b3102906591
+2025-04-17 09:44:12,872 - INFO - Deleting content files: A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:44:12,872 - INFO - Deleting content: /home/user/Desktop/torrents/A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:44:12,874 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:44:12,874 - INFO - Successfully processed torrent: A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
