@@ -654,3 +654,14 @@
 2025-04-17 08:54:50,745 - INFO - Uploading torrent: The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
 2025-04-17 08:54:50,745 - INFO - Starting upload: /home/user/Desktop/torrents/The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx] -> onedrive:Torrents/The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
 2025-04-17 08:54:50,745 - INFO - Uploading directory of size 17431.85 MB
+2025-04-17 09:08:37,366 - INFO - Successfully uploaded to onedrive:Torrents/The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
+2025-04-17 09:08:37,366 - INFO - Verifying upload for: The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
+2025-04-17 09:08:37,366 - INFO - Verifying upload: /home/user/Desktop/torrents/The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx] -> onedrive:Torrents/The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
+2025-04-17 09:08:39,781 - INFO - Upload verification successful for /home/user/Desktop/torrents/The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
+2025-04-17 09:08:39,785 - INFO - Deleting torrent from qBittorrent: The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
+2025-04-17 09:08:39,785 - INFO - Deleting torrent with hash 6986c5d5f87fe68371b112915a087a4c9f3287e4 (delete_files=False)
+2025-04-17 09:08:39,794 - INFO - Successfully deleted torrent with hash 6986c5d5f87fe68371b112915a087a4c9f3287e4
+2025-04-17 09:08:39,794 - INFO - Deleting content files: The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
+2025-04-17 09:08:39,794 - INFO - Deleting content: /home/user/Desktop/torrents/The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
+2025-04-17 09:08:39,802 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
+2025-04-17 09:08:39,802 - INFO - Successfully processed torrent: The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
