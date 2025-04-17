@@ -1868,3 +1868,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 15:42:27,511 - INFO - Uploading torrent: The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 15:42:27,512 - INFO - Starting upload: /home/user/Desktop/torrents/The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 15:42:27,512 - INFO - Uploading directory of size 2103.93 MB
+2025-04-17 15:47:38,179 - INFO - Successfully uploaded to onedrive:Torrents/The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 15:47:38,179 - INFO - Verifying upload for: The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 15:47:38,179 - INFO - Verifying upload: /home/user/Desktop/torrents/The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 15:47:40,760 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 15:47:40,763 - INFO - Deleting torrent from qBittorrent: The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 15:47:40,764 - INFO - Deleting torrent with hash f55300d9d8a27d707fe7d5c9eeeb6fe838402c1a (delete_files=False)
+2025-04-17 15:47:40,774 - INFO - Successfully deleted torrent with hash f55300d9d8a27d707fe7d5c9eeeb6fe838402c1a
+2025-04-17 15:47:40,774 - INFO - Deleting content files: The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 15:47:40,774 - INFO - Deleting content: /home/user/Desktop/torrents/The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 15:47:40,776 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 15:47:40,776 - INFO - Successfully processed torrent: The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 15:47:40,776 - INFO - Uploading torrent: John Wick (2014) [1080p] [YTS.AG]
+2025-04-17 15:47:40,777 - INFO - Starting upload: /home/user/Desktop/torrents/John Wick (2014) [1080p] [YTS.AG] -> onedrive:Torrents/John Wick (2014) [1080p] [YTS.AG]
+2025-04-17 15:47:40,777 - INFO - Uploading directory of size 1580.25 MB
