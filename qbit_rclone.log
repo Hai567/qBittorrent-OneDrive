@@ -1007,3 +1007,36 @@
 2025-04-17 11:18:19,658 - INFO - Deleting content: /home/user/Desktop/torrents/The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 11:18:19,662 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 11:18:19,662 - INFO - Successfully processed torrent: The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 11:23:19,745 - INFO - Checking for completed torrents...
+2025-04-17 11:23:19,761 - INFO - Found 54 completed torrents
+2025-04-17 11:23:19,761 - INFO - Uploading torrent: Skyfall (2012) [1080p]
+2025-04-17 11:23:19,761 - INFO - Starting upload: /home/user/Desktop/torrents/Skyfall (2012) [1080p] -> onedrive:Torrents/Skyfall (2012) [1080p]
+2025-04-17 11:23:19,761 - INFO - Uploading directory of size 2049.57 MB
+2025-04-17 11:27:12,187 - INFO - Successfully uploaded to onedrive:Torrents/Skyfall (2012) [1080p]
+2025-04-17 11:27:12,187 - INFO - Verifying upload for: Skyfall (2012) [1080p]
+2025-04-17 11:27:12,187 - INFO - Verifying upload: /home/user/Desktop/torrents/Skyfall (2012) [1080p] -> onedrive:Torrents/Skyfall (2012) [1080p]
+2025-04-17 11:27:14,455 - INFO - Upload verification successful for /home/user/Desktop/torrents/Skyfall (2012) [1080p]
+2025-04-17 11:27:14,462 - INFO - Deleting torrent from qBittorrent: Skyfall (2012) [1080p]
+2025-04-17 11:27:14,462 - INFO - Deleting torrent with hash 188aa63c64e1d6b64b74f5be36cb9244c08a3456 (delete_files=False)
+2025-04-17 11:27:14,471 - INFO - Successfully deleted torrent with hash 188aa63c64e1d6b64b74f5be36cb9244c08a3456
+2025-04-17 11:27:14,471 - INFO - Deleting content files: Skyfall (2012) [1080p]
+2025-04-17 11:27:14,471 - INFO - Deleting content: /home/user/Desktop/torrents/Skyfall (2012) [1080p]
+2025-04-17 11:27:14,472 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Skyfall (2012) [1080p]
+2025-04-17 11:27:14,472 - INFO - Successfully processed torrent: Skyfall (2012) [1080p]
+2025-04-17 11:27:14,472 - INFO - Uploading torrent: Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX]
+2025-04-17 11:27:14,473 - INFO - Starting upload: /home/user/Desktop/torrents/Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX]
+2025-04-17 11:27:14,473 - INFO - Uploading directory of size 266.75 MB
+2025-04-17 11:27:55,489 - INFO - Successfully uploaded to onedrive:Torrents/Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX]
+2025-04-17 11:27:55,489 - INFO - Verifying upload for: Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX]
+2025-04-17 11:27:55,489 - INFO - Verifying upload: /home/user/Desktop/torrents/Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX]
+2025-04-17 11:27:58,125 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX]
+2025-04-17 11:27:58,128 - INFO - Deleting torrent from qBittorrent: Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX]
+2025-04-17 11:27:58,128 - INFO - Deleting torrent with hash b8b9f45d29bdf656f5b4c2c36ecd64a6184fbf7a (delete_files=False)
+2025-04-17 11:27:58,137 - INFO - Successfully deleted torrent with hash b8b9f45d29bdf656f5b4c2c36ecd64a6184fbf7a
+2025-04-17 11:27:58,137 - INFO - Deleting content files: Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX]
+2025-04-17 11:27:58,137 - INFO - Deleting content: /home/user/Desktop/torrents/Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX]
+2025-04-17 11:27:58,139 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX]
+2025-04-17 11:27:58,139 - INFO - Successfully processed torrent: Cunk On Shakespeare (2016) [720p] [WEBRip] [YTS.MX]
+2025-04-17 11:27:58,139 - INFO - Uploading torrent: Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:27:58,139 - INFO - Starting upload: /home/user/Desktop/torrents/Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Paradise (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:27:58,139 - INFO - Uploading directory of size 1346.24 MB
