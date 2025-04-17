@@ -670,3 +670,17 @@
 2025-04-17 09:13:39,907 - INFO - Uploading torrent: Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-17 09:13:39,907 - INFO - Starting upload: /home/user/Desktop/torrents/Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-17 09:13:39,907 - INFO - Uploading directory of size 1437.26 MB
+2025-04-17 09:17:18,495 - INFO - Successfully uploaded to onedrive:Torrents/Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:17:18,495 - INFO - Verifying upload for: Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:17:18,495 - INFO - Verifying upload: /home/user/Desktop/torrents/Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:17:20,262 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:17:20,264 - INFO - Deleting torrent from qBittorrent: Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:17:20,264 - INFO - Deleting torrent with hash 5a453df29d361738fba814132f299e4a6b5f10fa (delete_files=False)
+2025-04-17 09:17:20,274 - INFO - Successfully deleted torrent with hash 5a453df29d361738fba814132f299e4a6b5f10fa
+2025-04-17 09:17:20,274 - INFO - Deleting content files: Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:17:20,274 - INFO - Deleting content: /home/user/Desktop/torrents/Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:17:20,275 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:17:20,276 - INFO - Successfully processed torrent: Dream.Scenario.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:17:20,276 - INFO - Uploading torrent: Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:17:20,276 - INFO - Starting upload: /home/user/Desktop/torrents/Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:17:20,276 - INFO - Uploading directory of size 2232.85 MB
