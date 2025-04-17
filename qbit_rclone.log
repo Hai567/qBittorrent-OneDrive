@@ -601,3 +601,8 @@
 2025-04-17 08:16:42,362 - INFO - Found 1 completed torrents
 2025-04-17 08:21:42,443 - INFO - Checking for completed torrents...
 2025-04-17 08:21:42,446 - INFO - Found 1 completed torrents
+2025-04-17 08:26:42,546 - INFO - Checking for completed torrents...
+2025-04-17 08:26:42,549 - INFO - Found 2 completed torrents
+2025-04-17 08:26:42,550 - INFO - Uploading torrent: Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 08:26:42,550 - INFO - Starting upload: /home/user/Desktop/torrents/Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 08:26:42,550 - INFO - Uploading directory of size 1790.64 MB
