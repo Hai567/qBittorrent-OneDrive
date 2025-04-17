@@ -1564,3 +1564,25 @@ OSError: [Errno 28] No space left on device
 2025-04-17 13:53:06,310 - INFO - Uploading torrent: Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 13:53:06,310 - INFO - Starting upload: /home/user/Desktop/torrents/Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 13:53:06,310 - INFO - Uploading directory of size 2194.64 MB
+2025-04-17 13:58:01,233 - INFO - Successfully uploaded to onedrive:Torrents/Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:58:01,234 - INFO - Verifying upload for: Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:58:01,234 - INFO - Verifying upload: /home/user/Desktop/torrents/Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:58:03,499 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:58:03,499 - ERROR - Error saving processed_torrents.json: [Errno 28] No space left on device
+2025-04-17 13:58:03,500 - ERROR - Traceback (most recent call last):
+  File "/home/user/Desktop/qBittorrent-OneDrive/a.py", line 535, in _save_json_file
+    json.dump(data, f, indent=2)
+  File "/usr/lib/python3.10/json/__init__.py", line 180, in dump
+    fp.write(chunk)
+OSError: [Errno 28] No space left on device
+
+2025-04-17 13:58:03,500 - INFO - Deleting torrent from qBittorrent: Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:58:03,500 - INFO - Deleting torrent with hash 426ec6d01964bac82c0da451b8e67842608fcc61 (delete_files=False)
+2025-04-17 13:58:03,509 - INFO - Successfully deleted torrent with hash 426ec6d01964bac82c0da451b8e67842608fcc61
+2025-04-17 13:58:03,510 - INFO - Deleting content files: Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:58:03,510 - INFO - Deleting content: /home/user/Desktop/torrents/Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:58:03,513 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:58:03,513 - INFO - Successfully processed torrent: Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:58:03,513 - INFO - Uploading torrent: Beauty And The Beast (2017) [1080p] [YTS.AG]
+2025-04-17 13:58:03,513 - INFO - Starting upload: /home/user/Desktop/torrents/Beauty And The Beast (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Beauty And The Beast (2017) [1080p] [YTS.AG]
+2025-04-17 13:58:03,513 - INFO - Uploading directory of size 2010.52 MB
