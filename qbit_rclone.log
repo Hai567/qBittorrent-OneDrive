@@ -380,3 +380,28 @@
 2025-04-17 01:50:24,053 - INFO - Uploading torrent: Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-17 01:50:24,053 - INFO - Starting upload: /home/user/Desktop/torrents/Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-17 01:50:24,053 - INFO - Uploading directory of size 1437.14 MB
+2025-04-17 01:53:17,779 - INFO - Successfully uploaded to onedrive:Torrents/Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:53:17,779 - INFO - Verifying upload for: Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:53:17,780 - INFO - Verifying upload: /home/user/Desktop/torrents/Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:53:20,123 - INFO - Upload verification successful for /home/user/Desktop/torrents/Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:53:20,126 - INFO - Deleting torrent from qBittorrent: Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:53:20,126 - INFO - Deleting torrent with hash 36c1c2c29b1c203f4c8f193ffc4ecd643082884f (delete_files=False)
+2025-04-17 01:53:20,138 - INFO - Successfully deleted torrent with hash 36c1c2c29b1c203f4c8f193ffc4ecd643082884f
+2025-04-17 01:53:20,139 - INFO - Deleting content files: Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:53:20,139 - INFO - Deleting content: /home/user/Desktop/torrents/Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:53:20,140 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:53:20,140 - INFO - Successfully processed torrent: Asteroid.City.2023.REPACK.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:53:20,140 - INFO - Uploading torrent: Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:53:20,140 - INFO - Starting upload: /home/user/Desktop/torrents/Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:53:20,140 - INFO - Uploading directory of size 1506.10 MB
+2025-04-17 01:56:27,557 - INFO - Successfully uploaded to onedrive:Torrents/Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:56:27,558 - INFO - Verifying upload for: Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:56:27,558 - INFO - Verifying upload: /home/user/Desktop/torrents/Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:56:30,203 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:56:30,206 - INFO - Deleting torrent from qBittorrent: Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:56:30,206 - INFO - Deleting torrent with hash 342d60a250e275bb490fae600d1ff9cd092bde17 (delete_files=False)
+2025-04-17 01:56:30,218 - INFO - Successfully deleted torrent with hash 342d60a250e275bb490fae600d1ff9cd092bde17
+2025-04-17 01:56:30,218 - INFO - Deleting content files: Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:56:30,218 - INFO - Deleting content: /home/user/Desktop/torrents/Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:56:30,220 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:56:30,220 - INFO - Successfully processed torrent: Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
