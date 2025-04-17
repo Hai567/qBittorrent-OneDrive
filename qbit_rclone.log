@@ -1670,3 +1670,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 14:27:22,996 - INFO - Uploading torrent: Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-17 14:27:22,996 - INFO - Starting upload: /home/user/Desktop/torrents/Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-17 14:27:22,996 - INFO - Uploading directory of size 2068.94 MB
+2025-04-17 14:32:01,329 - INFO - Successfully uploaded to onedrive:Torrents/Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 14:32:01,330 - INFO - Verifying upload for: Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 14:32:01,330 - INFO - Verifying upload: /home/user/Desktop/torrents/Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 14:32:03,239 - INFO - Upload verification successful for /home/user/Desktop/torrents/Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 14:32:03,242 - INFO - Deleting torrent from qBittorrent: Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 14:32:03,243 - INFO - Deleting torrent with hash 37e77490bc4f285dbfa837514715a20bd405a502 (delete_files=False)
+2025-04-17 14:32:03,251 - INFO - Successfully deleted torrent with hash 37e77490bc4f285dbfa837514715a20bd405a502
+2025-04-17 14:32:03,252 - INFO - Deleting content files: Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 14:32:03,252 - INFO - Deleting content: /home/user/Desktop/torrents/Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 14:32:03,253 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 14:32:03,253 - INFO - Successfully processed torrent: Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 14:32:03,254 - INFO - Uploading torrent: Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:32:03,254 - INFO - Starting upload: /home/user/Desktop/torrents/Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:32:03,255 - INFO - Uploading directory of size 1970.74 MB
