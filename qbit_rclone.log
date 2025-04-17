@@ -996,3 +996,14 @@
 2025-04-17 11:11:44,839 - INFO - Uploading torrent: The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 11:11:44,839 - INFO - Starting upload: /home/user/Desktop/torrents/The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 11:11:44,840 - INFO - Uploading directory of size 2408.02 MB
+2025-04-17 11:18:17,070 - INFO - Successfully uploaded to onedrive:Torrents/The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 11:18:17,071 - INFO - Verifying upload for: The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 11:18:17,071 - INFO - Verifying upload: /home/user/Desktop/torrents/The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 11:18:19,644 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 11:18:19,648 - INFO - Deleting torrent from qBittorrent: The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 11:18:19,648 - INFO - Deleting torrent with hash 13641b4a0267f62496cf33c00c2316f4e947a2fc (delete_files=False)
+2025-04-17 11:18:19,658 - INFO - Successfully deleted torrent with hash 13641b4a0267f62496cf33c00c2316f4e947a2fc
+2025-04-17 11:18:19,658 - INFO - Deleting content files: The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 11:18:19,658 - INFO - Deleting content: /home/user/Desktop/torrents/The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 11:18:19,662 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 11:18:19,662 - INFO - Successfully processed torrent: The Color Purple (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
