@@ -622,3 +622,14 @@
 2025-04-17 08:35:14,971 - INFO - Uploading torrent: Adventure Time S01-S10 (2010-)
 2025-04-17 08:35:14,971 - INFO - Starting upload: /home/user/Desktop/torrents/Adventure Time S01-S10 (2010-) -> onedrive:Torrents/Adventure Time S01-S10 (2010-)
 2025-04-17 08:35:14,974 - INFO - Uploading directory of size 5963.92 MB
+2025-04-17 08:40:34,891 - INFO - Successfully uploaded to onedrive:Torrents/Adventure Time S01-S10 (2010-)
+2025-04-17 08:40:34,891 - INFO - Verifying upload for: Adventure Time S01-S10 (2010-)
+2025-04-17 08:40:34,891 - INFO - Verifying upload: /home/user/Desktop/torrents/Adventure Time S01-S10 (2010-) -> onedrive:Torrents/Adventure Time S01-S10 (2010-)
+2025-04-17 08:40:38,738 - INFO - Upload verification successful for /home/user/Desktop/torrents/Adventure Time S01-S10 (2010-)
+2025-04-17 08:40:38,741 - INFO - Deleting torrent from qBittorrent: Adventure Time S01-S10 (2010-)
+2025-04-17 08:40:38,741 - INFO - Deleting torrent with hash dcce80aa10325ede128ef115a5b616dc77af8ff9 (delete_files=False)
+2025-04-17 08:40:38,752 - INFO - Successfully deleted torrent with hash dcce80aa10325ede128ef115a5b616dc77af8ff9
+2025-04-17 08:40:38,752 - INFO - Deleting content files: Adventure Time S01-S10 (2010-)
+2025-04-17 08:40:38,752 - INFO - Deleting content: /home/user/Desktop/torrents/Adventure Time S01-S10 (2010-)
+2025-04-17 08:40:38,763 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Adventure Time S01-S10 (2010-)
+2025-04-17 08:40:38,764 - INFO - Successfully processed torrent: Adventure Time S01-S10 (2010-)
