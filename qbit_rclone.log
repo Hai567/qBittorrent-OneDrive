@@ -1586,3 +1586,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 13:58:03,513 - INFO - Uploading torrent: Beauty And The Beast (2017) [1080p] [YTS.AG]
 2025-04-17 13:58:03,513 - INFO - Starting upload: /home/user/Desktop/torrents/Beauty And The Beast (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Beauty And The Beast (2017) [1080p] [YTS.AG]
 2025-04-17 13:58:03,513 - INFO - Uploading directory of size 2010.52 MB
+2025-04-17 14:02:18,634 - INFO - Successfully uploaded to onedrive:Torrents/Beauty And The Beast (2017) [1080p] [YTS.AG]
+2025-04-17 14:02:18,635 - INFO - Verifying upload for: Beauty And The Beast (2017) [1080p] [YTS.AG]
+2025-04-17 14:02:18,635 - INFO - Verifying upload: /home/user/Desktop/torrents/Beauty And The Beast (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Beauty And The Beast (2017) [1080p] [YTS.AG]
+2025-04-17 14:02:20,982 - INFO - Upload verification successful for /home/user/Desktop/torrents/Beauty And The Beast (2017) [1080p] [YTS.AG]
+2025-04-17 14:02:20,986 - INFO - Deleting torrent from qBittorrent: Beauty And The Beast (2017) [1080p] [YTS.AG]
+2025-04-17 14:02:20,986 - INFO - Deleting torrent with hash 1be839b8032095048f5f7945081a3349232126a1 (delete_files=False)
+2025-04-17 14:02:20,997 - INFO - Successfully deleted torrent with hash 1be839b8032095048f5f7945081a3349232126a1
+2025-04-17 14:02:20,997 - INFO - Deleting content files: Beauty And The Beast (2017) [1080p] [YTS.AG]
+2025-04-17 14:02:20,997 - INFO - Deleting content: /home/user/Desktop/torrents/Beauty And The Beast (2017) [1080p] [YTS.AG]
+2025-04-17 14:02:20,998 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Beauty And The Beast (2017) [1080p] [YTS.AG]
+2025-04-17 14:02:20,998 - INFO - Successfully processed torrent: Beauty And The Beast (2017) [1080p] [YTS.AG]
+2025-04-17 14:02:20,998 - INFO - Uploading torrent: Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
+2025-04-17 14:02:20,998 - INFO - Starting upload: /home/user/Desktop/torrents/Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv] -> onedrive:Torrents/Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
+2025-04-17 14:02:20,998 - INFO - Uploading directory of size 7434.79 MB
