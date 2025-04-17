@@ -480,3 +480,5 @@
 2025-04-17 05:39:38,039 - INFO - Deleting content: /home/user/Desktop/torrents/Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-17 05:39:38,040 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-17 05:39:38,040 - INFO - Successfully processed torrent: Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 05:44:38,115 - INFO - Checking for completed torrents...
+2025-04-17 05:44:38,118 - INFO - Found 1 completed torrents
