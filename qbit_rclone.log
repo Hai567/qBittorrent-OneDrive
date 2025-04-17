@@ -1712,3 +1712,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 14:40:45,615 - INFO - Uploading torrent: Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 14:40:45,616 - INFO - Starting upload: /home/user/Desktop/torrents/Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 14:40:45,616 - INFO - Uploading directory of size 1974.99 MB
+2025-04-17 14:45:16,662 - INFO - Successfully uploaded to onedrive:Torrents/Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:45:16,662 - INFO - Verifying upload for: Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:45:16,662 - INFO - Verifying upload: /home/user/Desktop/torrents/Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:45:19,295 - INFO - Upload verification successful for /home/user/Desktop/torrents/Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:45:19,299 - INFO - Deleting torrent from qBittorrent: Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:45:19,299 - INFO - Deleting torrent with hash 0c72d3dcb332f0659fc6f1561fc76673127f63aa (delete_files=False)
+2025-04-17 14:45:19,308 - INFO - Successfully deleted torrent with hash 0c72d3dcb332f0659fc6f1561fc76673127f63aa
+2025-04-17 14:45:19,308 - INFO - Deleting content files: Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:45:19,308 - INFO - Deleting content: /home/user/Desktop/torrents/Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:45:19,310 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:45:19,310 - INFO - Successfully processed torrent: Godzilla X Kong The New Empire (2024) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:45:19,311 - INFO - Uploading torrent: Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:45:19,311 - INFO - Starting upload: /home/user/Desktop/torrents/Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:45:19,311 - INFO - Uploading directory of size 1909.66 MB
