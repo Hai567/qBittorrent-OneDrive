@@ -635,3 +635,8 @@
 2025-04-17 08:40:38,764 - INFO - Successfully processed torrent: Adventure Time S01-S10 (2010-)
 2025-04-17 08:45:38,863 - INFO - Checking for completed torrents...
 2025-04-17 08:45:38,867 - INFO - Found 1 completed torrents
+2025-04-17 08:50:38,963 - INFO - Checking for completed torrents...
+2025-04-17 08:50:38,967 - INFO - Found 3 completed torrents
+2025-04-17 08:50:38,967 - INFO - Uploading torrent: M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 08:50:38,967 - INFO - Starting upload: /home/user/Desktop/torrents/M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 08:50:38,967 - INFO - Uploading directory of size 1926.13 MB
