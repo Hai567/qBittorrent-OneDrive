@@ -1310,3 +1310,53 @@ OSError: [Errno 28] No space left on device
 2025-04-17 12:37:35,622 - INFO - Uploading torrent: Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
 2025-04-17 12:37:35,622 - INFO - Starting upload: /home/user/Desktop/torrents/Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX] -> onedrive:Torrents/Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
 2025-04-17 12:37:35,622 - INFO - Uploading directory of size 1466.85 MB
+2025-04-17 12:40:31,162 - INFO - Successfully uploaded to onedrive:Torrents/Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-17 12:40:31,163 - INFO - Verifying upload for: Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-17 12:40:31,163 - INFO - Verifying upload: /home/user/Desktop/torrents/Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX] -> onedrive:Torrents/Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-17 12:40:33,504 - INFO - Upload verification successful for /home/user/Desktop/torrents/Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-17 12:40:33,507 - INFO - Deleting torrent from qBittorrent: Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-17 12:40:33,508 - INFO - Deleting torrent with hash 7ec27baacf253ffafc70f222dfd73581b3f4d7b6 (delete_files=False)
+2025-04-17 12:40:33,517 - INFO - Successfully deleted torrent with hash 7ec27baacf253ffafc70f222dfd73581b3f4d7b6
+2025-04-17 12:40:33,517 - INFO - Deleting content files: Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-17 12:40:33,517 - INFO - Deleting content: /home/user/Desktop/torrents/Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-17 12:40:33,518 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-17 12:40:33,518 - INFO - Successfully processed torrent: Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-17 12:40:33,518 - INFO - Uploading torrent: Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:40:33,518 - INFO - Starting upload: /home/user/Desktop/torrents/Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:40:33,519 - INFO - Uploading directory of size 1642.88 MB
+2025-04-17 12:44:51,487 - INFO - Successfully uploaded to onedrive:Torrents/Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:44:51,487 - INFO - Verifying upload for: Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:44:51,487 - INFO - Verifying upload: /home/user/Desktop/torrents/Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:44:53,767 - INFO - Upload verification successful for /home/user/Desktop/torrents/Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:44:53,769 - ERROR - Error saving processed_torrents.json: [Errno 28] No space left on device
+2025-04-17 12:44:53,770 - ERROR - Traceback (most recent call last):
+  File "/home/user/Desktop/qBittorrent-OneDrive/a.py", line 535, in _save_json_file
+    json.dump(data, f, indent=2)
+  File "/usr/lib/python3.10/json/__init__.py", line 180, in dump
+    fp.write(chunk)
+OSError: [Errno 28] No space left on device
+
+2025-04-17 12:44:53,770 - INFO - Deleting torrent from qBittorrent: Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:44:53,771 - INFO - Deleting torrent with hash 1c0ad4a6a8cf5e26b6e57c3129cfae9f42807037 (delete_files=False)
+2025-04-17 12:44:53,780 - INFO - Successfully deleted torrent with hash 1c0ad4a6a8cf5e26b6e57c3129cfae9f42807037
+2025-04-17 12:44:53,780 - INFO - Deleting content files: Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:44:53,780 - INFO - Deleting content: /home/user/Desktop/torrents/Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:44:53,782 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:44:53,782 - INFO - Successfully processed torrent: Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:44:53,782 - INFO - Uploading torrent: As Above, So Below (2014) [1080p]
+2025-04-17 12:44:53,782 - INFO - Starting upload: /home/user/Desktop/torrents/As Above, So Below (2014) [1080p] -> onedrive:Torrents/As Above, So Below (2014) [1080p]
+2025-04-17 12:44:53,783 - INFO - Uploading directory of size 1467.37 MB
+2025-04-17 12:47:44,602 - INFO - Successfully uploaded to onedrive:Torrents/As Above, So Below (2014) [1080p]
+2025-04-17 12:47:44,603 - INFO - Verifying upload for: As Above, So Below (2014) [1080p]
+2025-04-17 12:47:44,603 - INFO - Verifying upload: /home/user/Desktop/torrents/As Above, So Below (2014) [1080p] -> onedrive:Torrents/As Above, So Below (2014) [1080p]
+2025-04-17 12:47:46,916 - INFO - Upload verification successful for /home/user/Desktop/torrents/As Above, So Below (2014) [1080p]
+2025-04-17 12:47:46,919 - INFO - Deleting torrent from qBittorrent: As Above, So Below (2014) [1080p]
+2025-04-17 12:47:46,919 - INFO - Deleting torrent with hash 7db0c7858c894d3c79462229b599f66e58c3296d (delete_files=False)
+2025-04-17 12:47:46,928 - INFO - Successfully deleted torrent with hash 7db0c7858c894d3c79462229b599f66e58c3296d
+2025-04-17 12:47:46,929 - INFO - Deleting content files: As Above, So Below (2014) [1080p]
+2025-04-17 12:47:46,929 - INFO - Deleting content: /home/user/Desktop/torrents/As Above, So Below (2014) [1080p]
+2025-04-17 12:47:46,930 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/As Above, So Below (2014) [1080p]
+2025-04-17 12:47:46,930 - INFO - Successfully processed torrent: As Above, So Below (2014) [1080p]
+2025-04-17 12:47:46,930 - INFO - Uploading torrent: Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:47:46,930 - INFO - Starting upload: /home/user/Desktop/torrents/Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:47:46,931 - INFO - Uploading directory of size 1809.40 MB
