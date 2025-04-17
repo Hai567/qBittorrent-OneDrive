@@ -798,3 +798,31 @@
 2025-04-17 09:59:22,598 - INFO - Uploading torrent: The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 09:59:22,598 - INFO - Starting upload: /home/user/Desktop/torrents/The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 09:59:22,598 - INFO - Uploading directory of size 1763.00 MB
+2025-04-17 10:03:07,507 - INFO - Successfully uploaded to onedrive:Torrents/The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:03:07,508 - INFO - Verifying upload for: The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:03:07,508 - INFO - Verifying upload: /home/user/Desktop/torrents/The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:03:09,972 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:03:09,975 - INFO - Deleting torrent from qBittorrent: The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:03:09,975 - INFO - Deleting torrent with hash 916dc88ffaa33e23e9956720024efc90b0697cb4 (delete_files=False)
+2025-04-17 10:03:09,983 - INFO - Successfully deleted torrent with hash 916dc88ffaa33e23e9956720024efc90b0697cb4
+2025-04-17 10:03:09,983 - INFO - Deleting content files: The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:03:09,983 - INFO - Deleting content: /home/user/Desktop/torrents/The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:03:09,984 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:03:09,984 - INFO - Successfully processed torrent: The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:03:09,984 - INFO - Uploading torrent: Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 10:03:09,984 - INFO - Starting upload: /home/user/Desktop/torrents/Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 10:03:09,984 - INFO - Uploading directory of size 1435.53 MB
+2025-04-17 10:07:19,044 - INFO - Successfully uploaded to onedrive:Torrents/Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 10:07:19,044 - INFO - Verifying upload for: Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 10:07:19,044 - INFO - Verifying upload: /home/user/Desktop/torrents/Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 10:07:20,806 - INFO - Upload verification successful for /home/user/Desktop/torrents/Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 10:07:20,809 - INFO - Deleting torrent from qBittorrent: Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 10:07:20,809 - INFO - Deleting torrent with hash e2644e954d1c4d53341908db57dfb625d41c75c0 (delete_files=False)
+2025-04-17 10:07:20,817 - INFO - Successfully deleted torrent with hash e2644e954d1c4d53341908db57dfb625d41c75c0
+2025-04-17 10:07:20,817 - INFO - Deleting content files: Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 10:07:20,818 - INFO - Deleting content: /home/user/Desktop/torrents/Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 10:07:20,818 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 10:07:20,818 - INFO - Successfully processed torrent: Saw.X.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 10:07:20,818 - INFO - Uploading torrent: The Boogeyman (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:07:20,819 - INFO - Starting upload: /home/user/Desktop/torrents/The Boogeyman (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Boogeyman (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:07:20,819 - INFO - Uploading directory of size 1688.00 MB
