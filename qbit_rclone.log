@@ -1882,3 +1882,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 15:47:40,776 - INFO - Uploading torrent: John Wick (2014) [1080p] [YTS.AG]
 2025-04-17 15:47:40,777 - INFO - Starting upload: /home/user/Desktop/torrents/John Wick (2014) [1080p] [YTS.AG] -> onedrive:Torrents/John Wick (2014) [1080p] [YTS.AG]
 2025-04-17 15:47:40,777 - INFO - Uploading directory of size 1580.25 MB
+2025-04-17 15:51:20,398 - INFO - Successfully uploaded to onedrive:Torrents/John Wick (2014) [1080p] [YTS.AG]
+2025-04-17 15:51:20,398 - INFO - Verifying upload for: John Wick (2014) [1080p] [YTS.AG]
+2025-04-17 15:51:20,398 - INFO - Verifying upload: /home/user/Desktop/torrents/John Wick (2014) [1080p] [YTS.AG] -> onedrive:Torrents/John Wick (2014) [1080p] [YTS.AG]
+2025-04-17 15:51:22,836 - INFO - Upload verification successful for /home/user/Desktop/torrents/John Wick (2014) [1080p] [YTS.AG]
+2025-04-17 15:51:22,840 - INFO - Deleting torrent from qBittorrent: John Wick (2014) [1080p] [YTS.AG]
+2025-04-17 15:51:22,840 - INFO - Deleting torrent with hash 0988a8fea9d4949574a32918565e04e677bbab5d (delete_files=False)
+2025-04-17 15:51:22,849 - INFO - Successfully deleted torrent with hash 0988a8fea9d4949574a32918565e04e677bbab5d
+2025-04-17 15:51:22,849 - INFO - Deleting content files: John Wick (2014) [1080p] [YTS.AG]
+2025-04-17 15:51:22,850 - INFO - Deleting content: /home/user/Desktop/torrents/John Wick (2014) [1080p] [YTS.AG]
+2025-04-17 15:51:22,852 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/John Wick (2014) [1080p] [YTS.AG]
+2025-04-17 15:51:22,852 - INFO - Successfully processed torrent: John Wick (2014) [1080p] [YTS.AG]
+2025-04-17 15:51:22,853 - INFO - Uploading torrent: The Incredibles (2004) [1080p] [YTS.AG]
+2025-04-17 15:51:22,853 - INFO - Starting upload: /home/user/Desktop/torrents/The Incredibles (2004) [1080p] [YTS.AG] -> onedrive:Torrents/The Incredibles (2004) [1080p] [YTS.AG]
+2025-04-17 15:51:22,853 - INFO - Uploading directory of size 1793.02 MB
