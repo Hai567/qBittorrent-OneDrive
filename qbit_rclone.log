@@ -633,3 +633,5 @@
 2025-04-17 08:40:38,752 - INFO - Deleting content: /home/user/Desktop/torrents/Adventure Time S01-S10 (2010-)
 2025-04-17 08:40:38,763 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Adventure Time S01-S10 (2010-)
 2025-04-17 08:40:38,764 - INFO - Successfully processed torrent: Adventure Time S01-S10 (2010-)
+2025-04-17 08:45:38,863 - INFO - Checking for completed torrents...
+2025-04-17 08:45:38,867 - INFO - Found 1 completed torrents
