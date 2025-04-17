@@ -464,3 +464,8 @@
 2025-04-17 05:30:27,847 - INFO - Deleting content: /home/user/Desktop/torrents/Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
 2025-04-17 05:30:27,847 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
 2025-04-17 05:30:27,848 - INFO - Successfully processed torrent: Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 05:35:27,915 - INFO - Checking for completed torrents...
+2025-04-17 05:35:27,918 - INFO - Found 2 completed torrents
+2025-04-17 05:35:27,918 - INFO - Uploading torrent: Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 05:35:27,919 - INFO - Starting upload: /home/user/Desktop/torrents/Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 05:35:27,919 - INFO - Uploading directory of size 2406.06 MB
