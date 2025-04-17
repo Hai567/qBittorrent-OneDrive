@@ -512,3 +512,8 @@
 2025-04-17 05:57:14,137 - INFO - Deleting content: /home/user/Desktop/torrents/Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 05:57:14,138 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 05:57:14,139 - INFO - Successfully processed torrent: Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:02:14,183 - INFO - Checking for completed torrents...
+2025-04-17 06:02:14,188 - INFO - Found 4 completed torrents
+2025-04-17 06:02:14,188 - INFO - Uploading torrent: Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:02:14,188 - INFO - Starting upload: /home/user/Desktop/torrents/Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:02:14,188 - INFO - Uploading directory of size 1573.96 MB
