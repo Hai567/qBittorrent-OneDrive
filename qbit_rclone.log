@@ -1430,3 +1430,25 @@ OSError: [Errno 28] No space left on device
 2025-04-17 13:10:47,905 - INFO - Uploading torrent: Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 13:10:47,906 - INFO - Starting upload: /home/user/Desktop/torrents/Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 13:10:47,906 - INFO - Uploading directory of size 2180.58 MB
+2025-04-17 13:15:06,193 - INFO - Successfully uploaded to onedrive:Torrents/Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:15:06,194 - INFO - Verifying upload for: Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:15:06,194 - INFO - Verifying upload: /home/user/Desktop/torrents/Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:15:08,468 - INFO - Upload verification successful for /home/user/Desktop/torrents/Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:15:08,468 - ERROR - Error saving processed_torrents.json: [Errno 28] No space left on device
+2025-04-17 13:15:08,469 - ERROR - Traceback (most recent call last):
+  File "/home/user/Desktop/qBittorrent-OneDrive/a.py", line 535, in _save_json_file
+    json.dump(data, f, indent=2)
+  File "/usr/lib/python3.10/json/__init__.py", line 180, in dump
+    fp.write(chunk)
+OSError: [Errno 28] No space left on device
+
+2025-04-17 13:15:08,469 - INFO - Deleting torrent from qBittorrent: Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:15:08,469 - INFO - Deleting torrent with hash c9bda0a39398777b146d92c8421c48ba2ed9aef5 (delete_files=False)
+2025-04-17 13:15:08,478 - INFO - Successfully deleted torrent with hash c9bda0a39398777b146d92c8421c48ba2ed9aef5
+2025-04-17 13:15:08,478 - INFO - Deleting content files: Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:15:08,478 - INFO - Deleting content: /home/user/Desktop/torrents/Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:15:08,480 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:15:08,480 - INFO - Successfully processed torrent: Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:15:08,480 - INFO - Uploading torrent: Transformers 2 - Revenge of The Fallen (2009)[1080p]
+2025-04-17 13:15:08,480 - INFO - Starting upload: /home/user/Desktop/torrents/Transformers 2 - Revenge of The Fallen (2009)[1080p] -> onedrive:Torrents/Transformers 2 - Revenge of The Fallen (2009)[1080p]
+2025-04-17 13:15:08,481 - INFO - Uploading directory of size 1796.82 MB
