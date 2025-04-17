@@ -1522,3 +1522,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 13:37:08,332 - INFO - Uploading torrent: Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 13:37:08,332 - INFO - Starting upload: /home/user/Desktop/torrents/Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 13:37:08,332 - INFO - Uploading directory of size 1947.73 MB
+2025-04-17 13:41:14,229 - INFO - Successfully uploaded to onedrive:Torrents/Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:41:14,229 - INFO - Verifying upload for: Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:41:14,229 - INFO - Verifying upload: /home/user/Desktop/torrents/Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:41:16,561 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:41:16,565 - INFO - Deleting torrent from qBittorrent: Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:41:16,565 - INFO - Deleting torrent with hash 1e7e5b5a6e5fc4bdbc72be7d73a5f507fd4403d5 (delete_files=False)
+2025-04-17 13:41:16,574 - INFO - Successfully deleted torrent with hash 1e7e5b5a6e5fc4bdbc72be7d73a5f507fd4403d5
+2025-04-17 13:41:16,575 - INFO - Deleting content files: Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:41:16,575 - INFO - Deleting content: /home/user/Desktop/torrents/Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:41:16,577 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:41:16,577 - INFO - Successfully processed torrent: Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:41:16,577 - INFO - Uploading torrent: The Fate Of The Furious (2017) [1080p] [YTS.AG]
+2025-04-17 13:41:16,577 - INFO - Starting upload: /home/user/Desktop/torrents/The Fate Of The Furious (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Fate Of The Furious (2017) [1080p] [YTS.AG]
+2025-04-17 13:41:16,577 - INFO - Uploading directory of size 2125.17 MB
