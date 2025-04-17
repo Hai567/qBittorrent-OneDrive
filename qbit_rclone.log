@@ -684,3 +684,31 @@
 2025-04-17 09:17:20,276 - INFO - Uploading torrent: Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 09:17:20,276 - INFO - Starting upload: /home/user/Desktop/torrents/Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 09:17:20,276 - INFO - Uploading directory of size 2232.85 MB
+2025-04-17 09:22:46,896 - INFO - Successfully uploaded to onedrive:Torrents/Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:22:46,897 - INFO - Verifying upload for: Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:22:46,897 - INFO - Verifying upload: /home/user/Desktop/torrents/Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:22:48,943 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:22:48,947 - INFO - Deleting torrent from qBittorrent: Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:22:48,947 - INFO - Deleting torrent with hash d7bc04977e5ae990a66b2311cb80cd2ee04472f2 (delete_files=False)
+2025-04-17 09:22:48,956 - INFO - Successfully deleted torrent with hash d7bc04977e5ae990a66b2311cb80cd2ee04472f2
+2025-04-17 09:22:48,956 - INFO - Deleting content files: Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:22:48,956 - INFO - Deleting content: /home/user/Desktop/torrents/Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:22:48,958 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:22:48,958 - INFO - Successfully processed torrent: Ferrari (2023) [REPACK] [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:22:48,958 - INFO - Uploading torrent: Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 09:22:48,958 - INFO - Starting upload: /home/user/Desktop/torrents/Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 09:22:48,958 - INFO - Uploading directory of size 1876.56 MB
+2025-04-17 09:26:37,348 - INFO - Successfully uploaded to onedrive:Torrents/Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 09:26:37,348 - INFO - Verifying upload for: Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 09:26:37,349 - INFO - Verifying upload: /home/user/Desktop/torrents/Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 09:26:39,661 - INFO - Upload verification successful for /home/user/Desktop/torrents/Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 09:26:39,664 - INFO - Deleting torrent from qBittorrent: Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 09:26:39,664 - INFO - Deleting torrent with hash b9cc261e561e60bca850df8ce2507db95d4ab798 (delete_files=False)
+2025-04-17 09:26:39,674 - INFO - Successfully deleted torrent with hash b9cc261e561e60bca850df8ce2507db95d4ab798
+2025-04-17 09:26:39,674 - INFO - Deleting content files: Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 09:26:39,674 - INFO - Deleting content: /home/user/Desktop/torrents/Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 09:26:39,675 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 09:26:39,675 - INFO - Successfully processed torrent: Shaun Of The Dead (2004) [REMASTERED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 09:26:39,675 - INFO - Uploading torrent: Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 09:26:39,675 - INFO - Starting upload: /home/user/Desktop/torrents/Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 09:26:39,676 - INFO - Uploading directory of size 2351.60 MB
