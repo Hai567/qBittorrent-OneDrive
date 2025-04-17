@@ -1550,3 +1550,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 13:45:46,589 - INFO - Uploading torrent: Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-17 13:45:46,589 - INFO - Starting upload: /home/user/Desktop/torrents/Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-17 13:45:46,589 - INFO - Uploading directory of size 3070.11 MB
+2025-04-17 13:53:03,961 - INFO - Successfully uploaded to onedrive:Torrents/Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 13:53:03,962 - INFO - Verifying upload for: Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 13:53:03,962 - INFO - Verifying upload: /home/user/Desktop/torrents/Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 13:53:06,293 - INFO - Upload verification successful for /home/user/Desktop/torrents/Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 13:53:06,297 - INFO - Deleting torrent from qBittorrent: Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 13:53:06,297 - INFO - Deleting torrent with hash 414a6f933c48fc7543a9cdb42c854b5457c5bcc7 (delete_files=False)
+2025-04-17 13:53:06,307 - INFO - Successfully deleted torrent with hash 414a6f933c48fc7543a9cdb42c854b5457c5bcc7
+2025-04-17 13:53:06,307 - INFO - Deleting content files: Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 13:53:06,307 - INFO - Deleting content: /home/user/Desktop/torrents/Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 13:53:06,309 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 13:53:06,309 - INFO - Successfully processed torrent: Avengers Endgame (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 13:53:06,310 - INFO - Uploading torrent: Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:53:06,310 - INFO - Starting upload: /home/user/Desktop/torrents/Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Fantastic Beasts The Crimes Of Grindelwald (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:53:06,310 - INFO - Uploading directory of size 2194.64 MB
