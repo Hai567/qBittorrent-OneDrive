@@ -469,3 +469,14 @@
 2025-04-17 05:35:27,918 - INFO - Uploading torrent: Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-17 05:35:27,919 - INFO - Starting upload: /home/user/Desktop/torrents/Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-17 05:35:27,919 - INFO - Uploading directory of size 2406.06 MB
+2025-04-17 05:39:35,771 - INFO - Successfully uploaded to onedrive:Torrents/Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 05:39:35,772 - INFO - Verifying upload for: Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 05:39:35,772 - INFO - Verifying upload: /home/user/Desktop/torrents/Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 05:39:38,028 - INFO - Upload verification successful for /home/user/Desktop/torrents/Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 05:39:38,031 - INFO - Deleting torrent from qBittorrent: Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 05:39:38,031 - INFO - Deleting torrent with hash 120e630337ed040d66c17170c0bf93b7f90934c2 (delete_files=False)
+2025-04-17 05:39:38,039 - INFO - Successfully deleted torrent with hash 120e630337ed040d66c17170c0bf93b7f90934c2
+2025-04-17 05:39:38,039 - INFO - Deleting content files: Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 05:39:38,039 - INFO - Deleting content: /home/user/Desktop/torrents/Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 05:39:38,040 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 05:39:38,040 - INFO - Successfully processed torrent: Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
