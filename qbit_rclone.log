@@ -1754,3 +1754,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 14:56:27,452 - INFO - Uploading torrent: Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
 2025-04-17 14:56:27,453 - INFO - Starting upload: /home/user/Desktop/torrents/Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
 2025-04-17 14:56:27,453 - INFO - Uploading directory of size 1450.49 MB
+2025-04-17 14:59:59,169 - INFO - Successfully uploaded to onedrive:Torrents/Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-17 14:59:59,169 - INFO - Verifying upload for: Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-17 14:59:59,169 - INFO - Verifying upload: /home/user/Desktop/torrents/Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-17 15:00:01,439 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-17 15:00:01,444 - INFO - Deleting torrent from qBittorrent: Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-17 15:00:01,444 - INFO - Deleting torrent with hash be24775bc32fc04fa8a51dd7f40d448fe726a301 (delete_files=False)
+2025-04-17 15:00:01,453 - INFO - Successfully deleted torrent with hash be24775bc32fc04fa8a51dd7f40d448fe726a301
+2025-04-17 15:00:01,454 - INFO - Deleting content files: Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-17 15:00:01,454 - INFO - Deleting content: /home/user/Desktop/torrents/Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-17 15:00:01,456 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-17 15:00:01,456 - INFO - Successfully processed torrent: Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-17 15:00:01,456 - INFO - Uploading torrent: Aladdin (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-17 15:00:01,457 - INFO - Starting upload: /home/user/Desktop/torrents/Aladdin (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Aladdin (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-17 15:00:01,457 - INFO - Uploading directory of size 2063.52 MB
