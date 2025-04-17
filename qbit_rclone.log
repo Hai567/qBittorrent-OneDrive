@@ -1402,3 +1402,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 13:00:04,982 - INFO - Uploading torrent: Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
 2025-04-17 13:00:04,982 - INFO - Starting upload: /home/user/Desktop/torrents/Pirates of the Caribbean - Dead Man's Chest (2006) [1080p] -> onedrive:Torrents/Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
 2025-04-17 13:00:04,982 - INFO - Uploading directory of size 2145.48 MB
+2025-04-17 13:04:18,475 - INFO - Successfully uploaded to onedrive:Torrents/Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
+2025-04-17 13:04:18,475 - INFO - Verifying upload for: Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
+2025-04-17 13:04:18,475 - INFO - Verifying upload: /home/user/Desktop/torrents/Pirates of the Caribbean - Dead Man's Chest (2006) [1080p] -> onedrive:Torrents/Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
+2025-04-17 13:04:20,778 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
+2025-04-17 13:04:20,781 - INFO - Deleting torrent from qBittorrent: Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
+2025-04-17 13:04:20,781 - INFO - Deleting torrent with hash 3730a23736101b17914ed10c92a1e1b4ddb016f8 (delete_files=False)
+2025-04-17 13:04:20,790 - INFO - Successfully deleted torrent with hash 3730a23736101b17914ed10c92a1e1b4ddb016f8
+2025-04-17 13:04:20,790 - INFO - Deleting content files: Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
+2025-04-17 13:04:20,790 - INFO - Deleting content: /home/user/Desktop/torrents/Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
+2025-04-17 13:04:20,791 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
+2025-04-17 13:04:20,791 - INFO - Successfully processed torrent: Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
+2025-04-17 13:04:20,791 - INFO - Uploading torrent: The Revenant (2015) [1080p] [YTS.AG]
+2025-04-17 13:04:20,791 - INFO - Starting upload: /home/user/Desktop/torrents/The Revenant (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Revenant (2015) [1080p] [YTS.AG]
+2025-04-17 13:04:20,792 - INFO - Uploading directory of size 2445.29 MB
