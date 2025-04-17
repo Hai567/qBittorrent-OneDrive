@@ -2197,3 +2197,31 @@ OSError: [Errno 28] No space left on device
 2025-04-17 23:48:44,704 - INFO - Uploading torrent: Fifty Shades Darker (2017) [1080p] [YTS.AG]
 2025-04-17 23:48:44,704 - INFO - Starting upload: /home/user/Desktop/torrents/Fifty Shades Darker (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Fifty Shades Darker (2017) [1080p] [YTS.AG]
 2025-04-17 23:48:44,704 - INFO - Uploading directory of size 2042.64 MB
+2025-04-17 23:52:13,760 - INFO - Successfully uploaded to onedrive:Torrents/Fifty Shades Darker (2017) [1080p] [YTS.AG]
+2025-04-17 23:52:13,761 - INFO - Verifying upload for: Fifty Shades Darker (2017) [1080p] [YTS.AG]
+2025-04-17 23:52:13,761 - INFO - Verifying upload: /home/user/Desktop/torrents/Fifty Shades Darker (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Fifty Shades Darker (2017) [1080p] [YTS.AG]
+2025-04-17 23:52:16,088 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fifty Shades Darker (2017) [1080p] [YTS.AG]
+2025-04-17 23:52:16,094 - INFO - Deleting torrent from qBittorrent: Fifty Shades Darker (2017) [1080p] [YTS.AG]
+2025-04-17 23:52:16,094 - INFO - Deleting torrent with hash c6de831da45ff4bf4b2067d551badeca8bfd6b64 (delete_files=False)
+2025-04-17 23:52:16,104 - INFO - Successfully deleted torrent with hash c6de831da45ff4bf4b2067d551badeca8bfd6b64
+2025-04-17 23:52:16,104 - INFO - Deleting content files: Fifty Shades Darker (2017) [1080p] [YTS.AG]
+2025-04-17 23:52:16,105 - INFO - Deleting content: /home/user/Desktop/torrents/Fifty Shades Darker (2017) [1080p] [YTS.AG]
+2025-04-17 23:52:16,106 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fifty Shades Darker (2017) [1080p] [YTS.AG]
+2025-04-17 23:52:16,106 - INFO - Successfully processed torrent: Fifty Shades Darker (2017) [1080p] [YTS.AG]
+2025-04-17 23:52:16,106 - INFO - Uploading torrent: How To Train Your Dragon (2010) [1080p]
+2025-04-17 23:52:16,106 - INFO - Starting upload: /home/user/Desktop/torrents/How To Train Your Dragon (2010) [1080p] -> onedrive:Torrents/How To Train Your Dragon (2010) [1080p]
+2025-04-17 23:52:16,107 - INFO - Uploading directory of size 1431.62 MB
+2025-04-17 23:55:05,567 - INFO - Successfully uploaded to onedrive:Torrents/How To Train Your Dragon (2010) [1080p]
+2025-04-17 23:55:05,567 - INFO - Verifying upload for: How To Train Your Dragon (2010) [1080p]
+2025-04-17 23:55:05,567 - INFO - Verifying upload: /home/user/Desktop/torrents/How To Train Your Dragon (2010) [1080p] -> onedrive:Torrents/How To Train Your Dragon (2010) [1080p]
+2025-04-17 23:55:08,413 - INFO - Upload verification successful for /home/user/Desktop/torrents/How To Train Your Dragon (2010) [1080p]
+2025-04-17 23:55:08,417 - INFO - Deleting torrent from qBittorrent: How To Train Your Dragon (2010) [1080p]
+2025-04-17 23:55:08,417 - INFO - Deleting torrent with hash 864af2c28c24e1d0a598a03d83f15c6a7e6191d7 (delete_files=False)
+2025-04-17 23:55:08,428 - INFO - Successfully deleted torrent with hash 864af2c28c24e1d0a598a03d83f15c6a7e6191d7
+2025-04-17 23:55:08,428 - INFO - Deleting content files: How To Train Your Dragon (2010) [1080p]
+2025-04-17 23:55:08,428 - INFO - Deleting content: /home/user/Desktop/torrents/How To Train Your Dragon (2010) [1080p]
+2025-04-17 23:55:08,430 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/How To Train Your Dragon (2010) [1080p]
+2025-04-17 23:55:08,431 - INFO - Successfully processed torrent: How To Train Your Dragon (2010) [1080p]
+2025-04-17 23:55:08,431 - INFO - Uploading torrent: Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 23:55:08,431 - INFO - Starting upload: /home/user/Desktop/torrents/Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 23:55:08,431 - INFO - Uploading directory of size 1441.78 MB
