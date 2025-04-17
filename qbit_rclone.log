@@ -1966,3 +1966,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 16:17:44,113 - INFO - Uploading torrent: Black Panther (2018) [BluRay] [1080p] [YTS.AM]
 2025-04-17 16:17:44,113 - INFO - Starting upload: /home/user/Desktop/torrents/Black Panther (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Black Panther (2018) [BluRay] [1080p] [YTS.AM]
 2025-04-17 16:17:44,113 - INFO - Uploading directory of size 2217.61 MB
+2025-04-17 16:23:16,986 - INFO - Successfully uploaded to onedrive:Torrents/Black Panther (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 16:23:16,987 - INFO - Verifying upload for: Black Panther (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 16:23:16,987 - INFO - Verifying upload: /home/user/Desktop/torrents/Black Panther (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Black Panther (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 16:23:18,840 - INFO - Upload verification successful for /home/user/Desktop/torrents/Black Panther (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 16:23:18,844 - INFO - Deleting torrent from qBittorrent: Black Panther (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 16:23:18,844 - INFO - Deleting torrent with hash e156ce70fee6464549fef653c8468aecb3e7e9f1 (delete_files=False)
+2025-04-17 16:23:18,855 - INFO - Successfully deleted torrent with hash e156ce70fee6464549fef653c8468aecb3e7e9f1
+2025-04-17 16:23:18,855 - INFO - Deleting content files: Black Panther (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 16:23:18,855 - INFO - Deleting content: /home/user/Desktop/torrents/Black Panther (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 16:23:18,859 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Black Panther (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 16:23:18,860 - INFO - Successfully processed torrent: Black Panther (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 16:23:18,860 - INFO - Uploading torrent: The Amazing World of Gumball S01-S06 (2011-)
+2025-04-17 16:23:18,860 - INFO - Starting upload: /home/user/Desktop/torrents/The Amazing World of Gumball S01-S06 (2011-) -> onedrive:Torrents/The Amazing World of Gumball S01-S06 (2011-)
+2025-04-17 16:23:18,863 - INFO - Uploading directory of size 5734.85 MB
