@@ -1952,3 +1952,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 16:10:06,124 - INFO - Uploading torrent: The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-17 16:10:06,124 - INFO - Starting upload: /home/user/Desktop/torrents/The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-17 16:10:06,124 - INFO - Uploading directory of size 3326.38 MB
+2025-04-17 16:17:41,788 - INFO - Successfully uploaded to onedrive:Torrents/The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 16:17:41,788 - INFO - Verifying upload for: The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 16:17:41,788 - INFO - Verifying upload: /home/user/Desktop/torrents/The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 16:17:44,087 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 16:17:44,091 - INFO - Deleting torrent from qBittorrent: The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 16:17:44,091 - INFO - Deleting torrent with hash 08ba373eddd794ae7b47f556d4ee9332d92a6c8f (delete_files=False)
+2025-04-17 16:17:44,103 - INFO - Successfully deleted torrent with hash 08ba373eddd794ae7b47f556d4ee9332d92a6c8f
+2025-04-17 16:17:44,103 - INFO - Deleting content files: The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 16:17:44,103 - INFO - Deleting content: /home/user/Desktop/torrents/The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 16:17:44,113 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 16:17:44,113 - INFO - Successfully processed torrent: The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 16:17:44,113 - INFO - Uploading torrent: Black Panther (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 16:17:44,113 - INFO - Starting upload: /home/user/Desktop/torrents/Black Panther (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Black Panther (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 16:17:44,113 - INFO - Uploading directory of size 2217.61 MB
