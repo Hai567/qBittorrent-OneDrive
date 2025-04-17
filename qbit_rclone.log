@@ -1182,3 +1182,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 12:02:55,550 - INFO - Uploading torrent: Pirates of the Caribbean - At Worlds End (2007) [1080p]
 2025-04-17 12:02:55,550 - INFO - Starting upload: /home/user/Desktop/torrents/Pirates of the Caribbean - At Worlds End (2007) [1080p] -> onedrive:Torrents/Pirates of the Caribbean - At Worlds End (2007) [1080p]
 2025-04-17 12:02:55,551 - INFO - Uploading directory of size 2555.27 MB
+2025-04-17 12:07:45,567 - INFO - Successfully uploaded to onedrive:Torrents/Pirates of the Caribbean - At Worlds End (2007) [1080p]
+2025-04-17 12:07:45,567 - INFO - Verifying upload for: Pirates of the Caribbean - At Worlds End (2007) [1080p]
+2025-04-17 12:07:45,567 - INFO - Verifying upload: /home/user/Desktop/torrents/Pirates of the Caribbean - At Worlds End (2007) [1080p] -> onedrive:Torrents/Pirates of the Caribbean - At Worlds End (2007) [1080p]
+2025-04-17 12:07:47,865 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pirates of the Caribbean - At Worlds End (2007) [1080p]
+2025-04-17 12:07:47,868 - INFO - Deleting torrent from qBittorrent: Pirates of the Caribbean - At Worlds End (2007) [1080p]
+2025-04-17 12:07:47,868 - INFO - Deleting torrent with hash 976ce4da9ac1cdc032b854449541d3ea367c076d (delete_files=False)
+2025-04-17 12:07:47,878 - INFO - Successfully deleted torrent with hash 976ce4da9ac1cdc032b854449541d3ea367c076d
+2025-04-17 12:07:47,878 - INFO - Deleting content files: Pirates of the Caribbean - At Worlds End (2007) [1080p]
+2025-04-17 12:07:47,878 - INFO - Deleting content: /home/user/Desktop/torrents/Pirates of the Caribbean - At Worlds End (2007) [1080p]
+2025-04-17 12:07:47,884 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pirates of the Caribbean - At Worlds End (2007) [1080p]
+2025-04-17 12:07:47,884 - INFO - Successfully processed torrent: Pirates of the Caribbean - At Worlds End (2007) [1080p]
+2025-04-17 12:07:47,885 - INFO - Uploading torrent: Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:07:47,885 - INFO - Starting upload: /home/user/Desktop/torrents/Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:07:47,885 - INFO - Uploading directory of size 1436.09 MB
