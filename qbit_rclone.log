@@ -2036,3 +2036,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 16:46:05,983 - INFO - Uploading torrent: Joker (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-17 16:46:05,983 - INFO - Starting upload: /home/user/Desktop/torrents/Joker (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Joker (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-17 16:46:05,983 - INFO - Uploading directory of size 1959.05 MB
+2025-04-17 16:50:32,098 - INFO - Successfully uploaded to onedrive:Torrents/Joker (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 16:50:32,098 - INFO - Verifying upload for: Joker (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 16:50:32,098 - INFO - Verifying upload: /home/user/Desktop/torrents/Joker (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Joker (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 16:50:34,427 - INFO - Upload verification successful for /home/user/Desktop/torrents/Joker (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 16:50:34,430 - INFO - Deleting torrent from qBittorrent: Joker (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 16:50:34,430 - INFO - Deleting torrent with hash 2b415a885a3e2210a6ef1d6c57eba325f20d8bc6 (delete_files=False)
+2025-04-17 16:50:34,439 - INFO - Successfully deleted torrent with hash 2b415a885a3e2210a6ef1d6c57eba325f20d8bc6
+2025-04-17 16:50:34,439 - INFO - Deleting content files: Joker (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 16:50:34,439 - INFO - Deleting content: /home/user/Desktop/torrents/Joker (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 16:50:34,443 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Joker (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 16:50:34,444 - INFO - Successfully processed torrent: Joker (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 16:50:34,444 - INFO - Uploading torrent: War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
+2025-04-17 16:50:34,444 - INFO - Starting upload: /home/user/Desktop/torrents/War For The Planet Of The Apes (2017) [1080p] [YTS.AG] -> onedrive:Torrents/War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
+2025-04-17 16:50:34,444 - INFO - Uploading directory of size 2200.51 MB
