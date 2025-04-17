@@ -1854,3 +1854,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 15:33:33,685 - INFO - Uploading torrent: Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
 2025-04-17 15:33:33,685 - INFO - Starting upload: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
 2025-04-17 15:33:33,686 - INFO - Uploading directory of size 8003.36 MB
+2025-04-17 15:42:24,970 - INFO - Successfully uploaded to onedrive:Torrents/Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-17 15:42:24,970 - INFO - Verifying upload for: Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-17 15:42:24,970 - INFO - Verifying upload: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-17 15:42:27,476 - INFO - Upload verification successful for /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-17 15:42:27,484 - INFO - Deleting torrent from qBittorrent: Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-17 15:42:27,484 - INFO - Deleting torrent with hash bf103aeea889b81f091443864f994fe08d786589 (delete_files=False)
+2025-04-17 15:42:27,494 - INFO - Successfully deleted torrent with hash bf103aeea889b81f091443864f994fe08d786589
+2025-04-17 15:42:27,494 - INFO - Deleting content files: Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-17 15:42:27,495 - INFO - Deleting content: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-17 15:42:27,511 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-17 15:42:27,511 - INFO - Successfully processed torrent: Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-17 15:42:27,511 - INFO - Uploading torrent: The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 15:42:27,512 - INFO - Starting upload: /home/user/Desktop/torrents/The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Alto Knights (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 15:42:27,512 - INFO - Uploading directory of size 2103.93 MB
