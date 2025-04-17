@@ -345,3 +345,22 @@
 2025-04-17 01:33:24,341 - INFO - Deleting content: /home/user/Desktop/torrents/Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 01:33:24,343 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 01:33:24,344 - INFO - Successfully processed torrent: Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:38:24,416 - INFO - Checking for completed torrents...
+2025-04-17 01:38:24,422 - INFO - Found 3 completed torrents
+2025-04-17 01:38:24,422 - INFO - Uploading torrent: The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:38:24,422 - INFO - Starting upload: /home/user/Desktop/torrents/The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:38:24,422 - INFO - Uploading directory of size 1437.09 MB
+2025-04-17 01:41:08,199 - INFO - Successfully uploaded to onedrive:Torrents/The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:41:08,200 - INFO - Verifying upload for: The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:41:08,200 - INFO - Verifying upload: /home/user/Desktop/torrents/The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:41:09,566 - INFO - Upload verification successful for /home/user/Desktop/torrents/The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:41:09,569 - INFO - Deleting torrent from qBittorrent: The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:41:09,569 - INFO - Deleting torrent with hash 77e8e48501cba4ac88bccfa1a53b5c455d18f76d (delete_files=False)
+2025-04-17 01:41:09,581 - INFO - Successfully deleted torrent with hash 77e8e48501cba4ac88bccfa1a53b5c455d18f76d
+2025-04-17 01:41:09,581 - INFO - Deleting content files: The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:41:09,581 - INFO - Deleting content: /home/user/Desktop/torrents/The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:41:09,582 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:41:09,582 - INFO - Successfully processed torrent: The.Marvels.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 01:41:09,583 - INFO - Uploading torrent: Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:41:09,583 - INFO - Starting upload: /home/user/Desktop/torrents/Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:41:09,583 - INFO - Uploading directory of size 1991.76 MB
