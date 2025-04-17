@@ -2050,3 +2050,31 @@ OSError: [Errno 28] No space left on device
 2025-04-17 16:50:34,444 - INFO - Uploading torrent: War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
 2025-04-17 16:50:34,444 - INFO - Starting upload: /home/user/Desktop/torrents/War For The Planet Of The Apes (2017) [1080p] [YTS.AG] -> onedrive:Torrents/War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
 2025-04-17 16:50:34,444 - INFO - Uploading directory of size 2200.51 MB
+2025-04-17 16:55:17,007 - INFO - Successfully uploaded to onedrive:Torrents/War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
+2025-04-17 16:55:17,007 - INFO - Verifying upload for: War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
+2025-04-17 16:55:17,007 - INFO - Verifying upload: /home/user/Desktop/torrents/War For The Planet Of The Apes (2017) [1080p] [YTS.AG] -> onedrive:Torrents/War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
+2025-04-17 16:55:19,312 - INFO - Upload verification successful for /home/user/Desktop/torrents/War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
+2025-04-17 16:55:19,317 - INFO - Deleting torrent from qBittorrent: War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
+2025-04-17 16:55:19,317 - INFO - Deleting torrent with hash aae6a38853798da45dbce6045d457d8a75e489f0 (delete_files=False)
+2025-04-17 16:55:19,328 - INFO - Successfully deleted torrent with hash aae6a38853798da45dbce6045d457d8a75e489f0
+2025-04-17 16:55:19,328 - INFO - Deleting content files: War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
+2025-04-17 16:55:19,328 - INFO - Deleting content: /home/user/Desktop/torrents/War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
+2025-04-17 16:55:19,330 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
+2025-04-17 16:55:19,331 - INFO - Successfully processed torrent: War For The Planet Of The Apes (2017) [1080p] [YTS.AG]
+2025-04-17 16:55:19,331 - INFO - Uploading torrent: Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c]
+2025-04-17 16:55:19,331 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c]
+2025-04-17 16:55:19,332 - INFO - Uploading directory of size 3443.56 MB
+2025-04-17 16:58:06,767 - INFO - Successfully uploaded to onedrive:Torrents/Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c]
+2025-04-17 16:58:06,767 - INFO - Verifying upload for: Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c]
+2025-04-17 16:58:06,767 - INFO - Verifying upload: /home/user/Desktop/torrents/Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c]
+2025-04-17 16:58:09,611 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c]
+2025-04-17 16:58:09,616 - INFO - Deleting torrent from qBittorrent: Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c]
+2025-04-17 16:58:09,616 - INFO - Deleting torrent with hash cd918ae7a6a0103eb7637ea72d8166a8185ac763 (delete_files=False)
+2025-04-17 16:58:09,626 - INFO - Successfully deleted torrent with hash cd918ae7a6a0103eb7637ea72d8166a8185ac763
+2025-04-17 16:58:09,626 - INFO - Deleting content files: Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c]
+2025-04-17 16:58:09,626 - INFO - Deleting content: /home/user/Desktop/torrents/Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c]
+2025-04-17 16:58:09,636 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c]
+2025-04-17 16:58:09,637 - INFO - Successfully processed torrent: Ben 10 2005 Season 4 Complete + EXTRA 720p WEB-DL x264 [i_c]
+2025-04-17 16:58:09,637 - INFO - Uploading torrent: Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+2025-04-17 16:58:09,637 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c] -> onedrive:Torrents/Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+2025-04-17 16:58:09,637 - INFO - Uploading directory of size 3166.33 MB
