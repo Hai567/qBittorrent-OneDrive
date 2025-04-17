@@ -453,3 +453,14 @@
 2025-04-17 05:27:39,339 - INFO - Uploading torrent: Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
 2025-04-17 05:27:39,339 - INFO - Starting upload: /home/user/Desktop/torrents/Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
 2025-04-17 05:27:39,339 - INFO - Uploading directory of size 1592.67 MB
+2025-04-17 05:30:25,950 - INFO - Successfully uploaded to onedrive:Torrents/Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 05:30:25,951 - INFO - Verifying upload for: Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 05:30:25,951 - INFO - Verifying upload: /home/user/Desktop/torrents/Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 05:30:27,836 - INFO - Upload verification successful for /home/user/Desktop/torrents/Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 05:30:27,839 - INFO - Deleting torrent from qBittorrent: Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 05:30:27,839 - INFO - Deleting torrent with hash 5d04ad3ef780c14121e61efa8865efa200953334 (delete_files=False)
+2025-04-17 05:30:27,846 - INFO - Successfully deleted torrent with hash 5d04ad3ef780c14121e61efa8865efa200953334
+2025-04-17 05:30:27,847 - INFO - Deleting content files: Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 05:30:27,847 - INFO - Deleting content: /home/user/Desktop/torrents/Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 05:30:27,847 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 05:30:27,848 - INFO - Successfully processed torrent: Sound Of Freedom (2023) [1080p] [WEBRip] [YTS.MX]
