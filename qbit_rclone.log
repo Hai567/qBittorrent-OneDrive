@@ -405,3 +405,5 @@
 2025-04-17 01:56:30,218 - INFO - Deleting content: /home/user/Desktop/torrents/Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 01:56:30,220 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 01:56:30,220 - INFO - Successfully processed torrent: Cobweb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 02:01:30,230 - INFO - Checking for completed torrents...
+2025-04-17 02:01:30,235 - INFO - Found 1 completed torrents
