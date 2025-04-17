@@ -712,3 +712,31 @@
 2025-04-17 09:26:39,675 - INFO - Uploading torrent: Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 09:26:39,675 - INFO - Starting upload: /home/user/Desktop/torrents/Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 09:26:39,676 - INFO - Uploading directory of size 2351.60 MB
+2025-04-17 09:33:27,344 - INFO - Successfully uploaded to onedrive:Torrents/Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 09:33:27,344 - INFO - Verifying upload for: Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 09:33:27,344 - INFO - Verifying upload: /home/user/Desktop/torrents/Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 09:33:29,883 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 09:33:29,886 - INFO - Deleting torrent from qBittorrent: Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 09:33:29,886 - INFO - Deleting torrent with hash 950df19bc4e534b9ecbefef6650427c7e5c77f7b (delete_files=False)
+2025-04-17 09:33:29,899 - INFO - Successfully deleted torrent with hash 950df19bc4e534b9ecbefef6650427c7e5c77f7b
+2025-04-17 09:33:29,899 - INFO - Deleting content files: Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 09:33:29,899 - INFO - Deleting content: /home/user/Desktop/torrents/Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 09:33:29,901 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 09:33:29,901 - INFO - Successfully processed torrent: Ant-Man And The Wasp Quantumania (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 09:33:29,901 - INFO - Uploading torrent: Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:33:29,901 - INFO - Starting upload: /home/user/Desktop/torrents/Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:33:29,901 - INFO - Uploading directory of size 1558.97 MB
+2025-04-17 09:37:07,653 - INFO - Successfully uploaded to onedrive:Torrents/Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:37:07,654 - INFO - Verifying upload for: Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:37:07,654 - INFO - Verifying upload: /home/user/Desktop/torrents/Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:37:09,911 - INFO - Upload verification successful for /home/user/Desktop/torrents/Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:37:09,978 - INFO - Deleting torrent from qBittorrent: Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:37:09,979 - INFO - Deleting torrent with hash 4b0def9e55d295294238886e5e780ebf0097b5a9 (delete_files=False)
+2025-04-17 09:37:09,988 - INFO - Successfully deleted torrent with hash 4b0def9e55d295294238886e5e780ebf0097b5a9
+2025-04-17 09:37:09,988 - INFO - Deleting content files: Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:37:09,988 - INFO - Deleting content: /home/user/Desktop/torrents/Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:37:09,989 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:37:09,989 - INFO - Successfully processed torrent: Bottoms (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:37:09,989 - INFO - Uploading torrent: Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:37:09,989 - INFO - Starting upload: /home/user/Desktop/torrents/Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:37:09,990 - INFO - Uploading directory of size 1433.45 MB
