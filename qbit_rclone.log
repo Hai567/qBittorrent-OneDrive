@@ -1600,3 +1600,31 @@ OSError: [Errno 28] No space left on device
 2025-04-17 14:02:20,998 - INFO - Uploading torrent: Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
 2025-04-17 14:02:20,998 - INFO - Starting upload: /home/user/Desktop/torrents/Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv] -> onedrive:Torrents/Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
 2025-04-17 14:02:20,998 - INFO - Uploading directory of size 7434.79 MB
+2025-04-17 14:09:34,991 - INFO - Successfully uploaded to onedrive:Torrents/Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
+2025-04-17 14:09:34,991 - INFO - Verifying upload for: Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
+2025-04-17 14:09:34,992 - INFO - Verifying upload: /home/user/Desktop/torrents/Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv] -> onedrive:Torrents/Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
+2025-04-17 14:09:37,455 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
+2025-04-17 14:09:37,459 - INFO - Deleting torrent from qBittorrent: Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
+2025-04-17 14:09:37,459 - INFO - Deleting torrent with hash 7db078b5f2315a3f28377a809c6a9f77ea8e60bc (delete_files=False)
+2025-04-17 14:09:37,468 - INFO - Successfully deleted torrent with hash 7db078b5f2315a3f28377a809c6a9f77ea8e60bc
+2025-04-17 14:09:37,469 - INFO - Deleting content files: Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
+2025-04-17 14:09:37,469 - INFO - Deleting content: /home/user/Desktop/torrents/Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
+2025-04-17 14:09:37,474 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
+2025-04-17 14:09:37,474 - INFO - Successfully processed torrent: Cunk.on.Britain.S01.1080p.iP.WEBRip.AAC2.0.x264-tonny[rartv]
+2025-04-17 14:09:37,475 - INFO - Uploading torrent: Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 14:09:37,475 - INFO - Starting upload: /home/user/Desktop/torrents/Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 14:09:37,475 - INFO - Uploading directory of size 1918.85 MB
+2025-04-17 14:13:18,406 - INFO - Successfully uploaded to onedrive:Torrents/Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 14:13:18,407 - INFO - Verifying upload for: Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 14:13:18,407 - INFO - Verifying upload: /home/user/Desktop/torrents/Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 14:13:20,699 - INFO - Upload verification successful for /home/user/Desktop/torrents/Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 14:13:20,703 - INFO - Deleting torrent from qBittorrent: Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 14:13:20,703 - INFO - Deleting torrent with hash 6b7469c830b624321f843a95d0bd162aaf2abff4 (delete_files=False)
+2025-04-17 14:13:20,713 - INFO - Successfully deleted torrent with hash 6b7469c830b624321f843a95d0bd162aaf2abff4
+2025-04-17 14:13:20,714 - INFO - Deleting content files: Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 14:13:20,714 - INFO - Deleting content: /home/user/Desktop/torrents/Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 14:13:20,715 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 14:13:20,715 - INFO - Successfully processed torrent: Incredibles 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 14:13:20,715 - INFO - Uploading torrent: Spectre (2015) [1080p] [YTS.AG]
+2025-04-17 14:13:20,715 - INFO - Starting upload: /home/user/Desktop/torrents/Spectre (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Spectre (2015) [1080p] [YTS.AG]
+2025-04-17 14:13:20,715 - INFO - Uploading directory of size 2313.53 MB
