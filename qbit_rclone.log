@@ -482,3 +482,8 @@
 2025-04-17 05:39:38,040 - INFO - Successfully processed torrent: Blue Beetle (2023) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-17 05:44:38,115 - INFO - Checking for completed torrents...
 2025-04-17 05:44:38,118 - INFO - Found 1 completed torrents
+2025-04-17 05:49:38,218 - INFO - Checking for completed torrents...
+2025-04-17 05:49:38,224 - INFO - Found 3 completed torrents
+2025-04-17 05:49:38,224 - INFO - Uploading torrent: Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:49:38,224 - INFO - Starting upload: /home/user/Desktop/torrents/Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:49:38,224 - INFO - Uploading directory of size 1910.90 MB
