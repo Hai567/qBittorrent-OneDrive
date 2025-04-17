@@ -1656,3 +1656,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 14:23:17,010 - INFO - Uploading torrent: Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 14:23:17,010 - INFO - Starting upload: /home/user/Desktop/torrents/Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 14:23:17,010 - INFO - Uploading directory of size 1781.80 MB
+2025-04-17 14:27:20,324 - INFO - Successfully uploaded to onedrive:Torrents/Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:27:20,325 - INFO - Verifying upload for: Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:27:20,325 - INFO - Verifying upload: /home/user/Desktop/torrents/Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:27:22,980 - INFO - Upload verification successful for /home/user/Desktop/torrents/Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:27:22,984 - INFO - Deleting torrent from qBittorrent: Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:27:22,984 - INFO - Deleting torrent with hash 42dd77ad85ee24c459e6cbbec6bb8333ae7705b0 (delete_files=False)
+2025-04-17 14:27:22,993 - INFO - Successfully deleted torrent with hash 42dd77ad85ee24c459e6cbbec6bb8333ae7705b0
+2025-04-17 14:27:22,993 - INFO - Deleting content files: Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:27:22,993 - INFO - Deleting content: /home/user/Desktop/torrents/Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:27:22,996 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:27:22,996 - INFO - Successfully processed torrent: Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:27:22,996 - INFO - Uploading torrent: Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 14:27:22,996 - INFO - Starting upload: /home/user/Desktop/torrents/Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Spider-Man Far From Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 14:27:22,996 - INFO - Uploading directory of size 2068.94 MB
