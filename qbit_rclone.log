@@ -1508,3 +1508,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 13:27:07,493 - INFO - Uploading torrent: Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 13:27:07,493 - INFO - Starting upload: /home/user/Desktop/torrents/Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 13:27:07,493 - INFO - Uploading directory of size 4573.23 MB
+2025-04-17 13:37:05,950 - INFO - Successfully uploaded to onedrive:Torrents/Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:37:05,950 - INFO - Verifying upload for: Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:37:05,951 - INFO - Verifying upload: /home/user/Desktop/torrents/Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:37:08,314 - INFO - Upload verification successful for /home/user/Desktop/torrents/Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:37:08,318 - INFO - Deleting torrent from qBittorrent: Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:37:08,318 - INFO - Deleting torrent with hash 311bcee679211ff69db471e2efd6099a3f06c3d3 (delete_files=False)
+2025-04-17 13:37:08,327 - INFO - Successfully deleted torrent with hash 311bcee679211ff69db471e2efd6099a3f06c3d3
+2025-04-17 13:37:08,328 - INFO - Deleting content files: Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:37:08,328 - INFO - Deleting content: /home/user/Desktop/torrents/Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:37:08,331 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:37:08,331 - INFO - Successfully processed torrent: Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:37:08,332 - INFO - Uploading torrent: Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:37:08,332 - INFO - Starting upload: /home/user/Desktop/torrents/Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Jumanji Welcome To The Jungle (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:37:08,332 - INFO - Uploading directory of size 1947.73 MB
