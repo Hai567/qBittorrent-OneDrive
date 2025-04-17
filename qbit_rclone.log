@@ -2137,3 +2137,14 @@ OSError: [Errno 28] No space left on device
 2025-04-17 17:14:50,446 - INFO - Successfully uploaded to onedrive:Torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
 2025-04-17 17:14:50,447 - INFO - Verifying upload for: Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
 2025-04-17 17:14:50,447 - INFO - Verifying upload: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-17 17:14:52,912 - INFO - Upload verification successful for /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-17 17:14:52,916 - INFO - Deleting torrent from qBittorrent: Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-17 17:14:52,916 - INFO - Deleting torrent with hash 4256c5b7b47d47dff0ef5e28756776ecc17410a1 (delete_files=False)
+2025-04-17 17:14:52,926 - INFO - Successfully deleted torrent with hash 4256c5b7b47d47dff0ef5e28756776ecc17410a1
+2025-04-17 17:14:52,926 - INFO - Deleting content files: Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-17 17:14:52,926 - INFO - Deleting content: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-17 17:14:52,941 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-17 17:14:52,941 - INFO - Successfully processed torrent: Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-17 17:14:52,942 - INFO - Uploading torrent: Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 17:14:52,942 - INFO - Starting upload: /home/user/Desktop/torrents/Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Fantastic Beasts The Secrets Of Dumbledore (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 17:14:52,942 - INFO - Uploading directory of size 2693.53 MB
