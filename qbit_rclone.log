@@ -517,3 +517,17 @@
 2025-04-17 06:02:14,188 - INFO - Uploading torrent: Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 06:02:14,188 - INFO - Starting upload: /home/user/Desktop/torrents/Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 06:02:14,188 - INFO - Uploading directory of size 1573.96 MB
+2025-04-17 06:04:58,520 - INFO - Successfully uploaded to onedrive:Torrents/Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:04:58,520 - INFO - Verifying upload for: Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:04:58,520 - INFO - Verifying upload: /home/user/Desktop/torrents/Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:05:01,677 - INFO - Upload verification successful for /home/user/Desktop/torrents/Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:05:01,680 - INFO - Deleting torrent from qBittorrent: Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:05:01,680 - INFO - Deleting torrent with hash 9681afbceaeb0c7247b1e965ace518643d40d57b (delete_files=False)
+2025-04-17 06:05:01,688 - INFO - Successfully deleted torrent with hash 9681afbceaeb0c7247b1e965ace518643d40d57b
+2025-04-17 06:05:01,688 - INFO - Deleting content files: Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:05:01,688 - INFO - Deleting content: /home/user/Desktop/torrents/Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:05:01,689 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:05:01,689 - INFO - Successfully processed torrent: Rally Road Racers (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:05:01,690 - INFO - Uploading torrent: Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:05:01,690 - INFO - Starting upload: /home/user/Desktop/torrents/Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Hypnotic (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:05:01,690 - INFO - Uploading directory of size 1595.63 MB
