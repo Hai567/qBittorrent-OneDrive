@@ -1494,3 +1494,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 13:23:22,417 - INFO - Uploading torrent: Justice League (2017) [1080p] [YTS.AM]
 2025-04-17 13:23:22,417 - INFO - Starting upload: /home/user/Desktop/torrents/Justice League (2017) [1080p] [YTS.AM] -> onedrive:Torrents/Justice League (2017) [1080p] [YTS.AM]
 2025-04-17 13:23:22,418 - INFO - Uploading directory of size 1866.58 MB
+2025-04-17 13:27:05,178 - INFO - Successfully uploaded to onedrive:Torrents/Justice League (2017) [1080p] [YTS.AM]
+2025-04-17 13:27:05,178 - INFO - Verifying upload for: Justice League (2017) [1080p] [YTS.AM]
+2025-04-17 13:27:05,178 - INFO - Verifying upload: /home/user/Desktop/torrents/Justice League (2017) [1080p] [YTS.AM] -> onedrive:Torrents/Justice League (2017) [1080p] [YTS.AM]
+2025-04-17 13:27:07,472 - INFO - Upload verification successful for /home/user/Desktop/torrents/Justice League (2017) [1080p] [YTS.AM]
+2025-04-17 13:27:07,476 - INFO - Deleting torrent from qBittorrent: Justice League (2017) [1080p] [YTS.AM]
+2025-04-17 13:27:07,477 - INFO - Deleting torrent with hash 5abd007b2888f3f388f3eb37b6a0fb9f00e9f5bc (delete_files=False)
+2025-04-17 13:27:07,489 - INFO - Successfully deleted torrent with hash 5abd007b2888f3f388f3eb37b6a0fb9f00e9f5bc
+2025-04-17 13:27:07,490 - INFO - Deleting content files: Justice League (2017) [1080p] [YTS.AM]
+2025-04-17 13:27:07,490 - INFO - Deleting content: /home/user/Desktop/torrents/Justice League (2017) [1080p] [YTS.AM]
+2025-04-17 13:27:07,493 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Justice League (2017) [1080p] [YTS.AM]
+2025-04-17 13:27:07,493 - INFO - Successfully processed torrent: Justice League (2017) [1080p] [YTS.AM]
+2025-04-17 13:27:07,493 - INFO - Uploading torrent: Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:27:07,493 - INFO - Starting upload: /home/user/Desktop/torrents/Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Zack Snyders Justice League (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:27:07,493 - INFO - Uploading directory of size 4573.23 MB
