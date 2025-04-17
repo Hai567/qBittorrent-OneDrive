@@ -1793,3 +1793,22 @@ OSError: [Errno 28] No space left on device
 2025-04-17 15:09:55,587 - INFO - Deleting content: /home/user/Desktop/torrents/Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
 2025-04-17 15:09:55,589 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
 2025-04-17 15:09:55,589 - INFO - Successfully processed torrent: Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
+2025-04-17 15:14:55,689 - INFO - Checking for completed torrents...
+2025-04-17 15:14:55,701 - INFO - Found 29 completed torrents
+2025-04-17 15:14:55,701 - INFO - Uploading torrent: Mission Impossible (1996) [1080p] [YTS.AG]
+2025-04-17 15:14:55,702 - INFO - Starting upload: /home/user/Desktop/torrents/Mission Impossible (1996) [1080p] [YTS.AG] -> onedrive:Torrents/Mission Impossible (1996) [1080p] [YTS.AG]
+2025-04-17 15:14:55,702 - INFO - Uploading directory of size 1721.10 MB
+2025-04-17 15:19:08,834 - INFO - Successfully uploaded to onedrive:Torrents/Mission Impossible (1996) [1080p] [YTS.AG]
+2025-04-17 15:19:08,834 - INFO - Verifying upload for: Mission Impossible (1996) [1080p] [YTS.AG]
+2025-04-17 15:19:08,834 - INFO - Verifying upload: /home/user/Desktop/torrents/Mission Impossible (1996) [1080p] [YTS.AG] -> onedrive:Torrents/Mission Impossible (1996) [1080p] [YTS.AG]
+2025-04-17 15:19:10,644 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mission Impossible (1996) [1080p] [YTS.AG]
+2025-04-17 15:19:10,647 - INFO - Deleting torrent from qBittorrent: Mission Impossible (1996) [1080p] [YTS.AG]
+2025-04-17 15:19:10,647 - INFO - Deleting torrent with hash 31e67a2201bc9644ad1299209a0d12bc6277e4b7 (delete_files=False)
+2025-04-17 15:19:10,657 - INFO - Successfully deleted torrent with hash 31e67a2201bc9644ad1299209a0d12bc6277e4b7
+2025-04-17 15:19:10,657 - INFO - Deleting content files: Mission Impossible (1996) [1080p] [YTS.AG]
+2025-04-17 15:19:10,657 - INFO - Deleting content: /home/user/Desktop/torrents/Mission Impossible (1996) [1080p] [YTS.AG]
+2025-04-17 15:19:10,665 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mission Impossible (1996) [1080p] [YTS.AG]
+2025-04-17 15:19:10,665 - INFO - Successfully processed torrent: Mission Impossible (1996) [1080p] [YTS.AG]
+2025-04-17 15:19:10,665 - INFO - Uploading torrent: Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:19:10,665 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 Omniverse Seasons 1 to 4 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:19:10,666 - INFO - Uploading directory of size 9169.99 MB
