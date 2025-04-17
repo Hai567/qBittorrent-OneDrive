@@ -1628,3 +1628,31 @@ OSError: [Errno 28] No space left on device
 2025-04-17 14:13:20,715 - INFO - Uploading torrent: Spectre (2015) [1080p] [YTS.AG]
 2025-04-17 14:13:20,715 - INFO - Starting upload: /home/user/Desktop/torrents/Spectre (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Spectre (2015) [1080p] [YTS.AG]
 2025-04-17 14:13:20,715 - INFO - Uploading directory of size 2313.53 MB
+2025-04-17 14:19:07,400 - INFO - Successfully uploaded to onedrive:Torrents/Spectre (2015) [1080p] [YTS.AG]
+2025-04-17 14:19:07,401 - INFO - Verifying upload for: Spectre (2015) [1080p] [YTS.AG]
+2025-04-17 14:19:07,402 - INFO - Verifying upload: /home/user/Desktop/torrents/Spectre (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Spectre (2015) [1080p] [YTS.AG]
+2025-04-17 14:19:09,858 - INFO - Upload verification successful for /home/user/Desktop/torrents/Spectre (2015) [1080p] [YTS.AG]
+2025-04-17 14:19:09,867 - INFO - Deleting torrent from qBittorrent: Spectre (2015) [1080p] [YTS.AG]
+2025-04-17 14:19:09,867 - INFO - Deleting torrent with hash 65a2eb308b6f99522fa672fca08c999f0611c591 (delete_files=False)
+2025-04-17 14:19:09,890 - INFO - Successfully deleted torrent with hash 65a2eb308b6f99522fa672fca08c999f0611c591
+2025-04-17 14:19:09,890 - INFO - Deleting content files: Spectre (2015) [1080p] [YTS.AG]
+2025-04-17 14:19:09,890 - INFO - Deleting content: /home/user/Desktop/torrents/Spectre (2015) [1080p] [YTS.AG]
+2025-04-17 14:19:09,894 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Spectre (2015) [1080p] [YTS.AG]
+2025-04-17 14:19:09,894 - INFO - Successfully processed torrent: Spectre (2015) [1080p] [YTS.AG]
+2025-04-17 14:19:09,894 - INFO - Uploading torrent: John Wick Chapter 2 (2017) [1080p] [YTS.AG]
+2025-04-17 14:19:09,895 - INFO - Starting upload: /home/user/Desktop/torrents/John Wick Chapter 2 (2017) [1080p] [YTS.AG] -> onedrive:Torrents/John Wick Chapter 2 (2017) [1080p] [YTS.AG]
+2025-04-17 14:19:09,895 - INFO - Uploading directory of size 1914.79 MB
+2025-04-17 14:23:14,663 - INFO - Successfully uploaded to onedrive:Torrents/John Wick Chapter 2 (2017) [1080p] [YTS.AG]
+2025-04-17 14:23:14,663 - INFO - Verifying upload for: John Wick Chapter 2 (2017) [1080p] [YTS.AG]
+2025-04-17 14:23:14,663 - INFO - Verifying upload: /home/user/Desktop/torrents/John Wick Chapter 2 (2017) [1080p] [YTS.AG] -> onedrive:Torrents/John Wick Chapter 2 (2017) [1080p] [YTS.AG]
+2025-04-17 14:23:16,994 - INFO - Upload verification successful for /home/user/Desktop/torrents/John Wick Chapter 2 (2017) [1080p] [YTS.AG]
+2025-04-17 14:23:16,998 - INFO - Deleting torrent from qBittorrent: John Wick Chapter 2 (2017) [1080p] [YTS.AG]
+2025-04-17 14:23:16,999 - INFO - Deleting torrent with hash 8560165d89cd5645916145b337c2993ae0e00266 (delete_files=False)
+2025-04-17 14:23:17,008 - INFO - Successfully deleted torrent with hash 8560165d89cd5645916145b337c2993ae0e00266
+2025-04-17 14:23:17,008 - INFO - Deleting content files: John Wick Chapter 2 (2017) [1080p] [YTS.AG]
+2025-04-17 14:23:17,008 - INFO - Deleting content: /home/user/Desktop/torrents/John Wick Chapter 2 (2017) [1080p] [YTS.AG]
+2025-04-17 14:23:17,009 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/John Wick Chapter 2 (2017) [1080p] [YTS.AG]
+2025-04-17 14:23:17,010 - INFO - Successfully processed torrent: John Wick Chapter 2 (2017) [1080p] [YTS.AG]
+2025-04-17 14:23:17,010 - INFO - Uploading torrent: Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:23:17,010 - INFO - Starting upload: /home/user/Desktop/torrents/Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Reunion (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:23:17,010 - INFO - Uploading directory of size 1781.80 MB
