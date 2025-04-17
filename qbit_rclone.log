@@ -1388,3 +1388,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 12:56:09,635 - INFO - Uploading torrent: Inferno (2016) [1080p] [YTS.AG]
 2025-04-17 12:56:09,635 - INFO - Starting upload: /home/user/Desktop/torrents/Inferno (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Inferno (2016) [1080p] [YTS.AG]
 2025-04-17 12:56:09,635 - INFO - Uploading directory of size 1911.72 MB
+2025-04-17 13:00:02,682 - INFO - Successfully uploaded to onedrive:Torrents/Inferno (2016) [1080p] [YTS.AG]
+2025-04-17 13:00:02,682 - INFO - Verifying upload for: Inferno (2016) [1080p] [YTS.AG]
+2025-04-17 13:00:02,682 - INFO - Verifying upload: /home/user/Desktop/torrents/Inferno (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Inferno (2016) [1080p] [YTS.AG]
+2025-04-17 13:00:04,969 - INFO - Upload verification successful for /home/user/Desktop/torrents/Inferno (2016) [1080p] [YTS.AG]
+2025-04-17 13:00:04,972 - INFO - Deleting torrent from qBittorrent: Inferno (2016) [1080p] [YTS.AG]
+2025-04-17 13:00:04,972 - INFO - Deleting torrent with hash 55d6fbb9e49561fb0e793e6e40f9528f5d941baf (delete_files=False)
+2025-04-17 13:00:04,980 - INFO - Successfully deleted torrent with hash 55d6fbb9e49561fb0e793e6e40f9528f5d941baf
+2025-04-17 13:00:04,980 - INFO - Deleting content files: Inferno (2016) [1080p] [YTS.AG]
+2025-04-17 13:00:04,981 - INFO - Deleting content: /home/user/Desktop/torrents/Inferno (2016) [1080p] [YTS.AG]
+2025-04-17 13:00:04,982 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Inferno (2016) [1080p] [YTS.AG]
+2025-04-17 13:00:04,982 - INFO - Successfully processed torrent: Inferno (2016) [1080p] [YTS.AG]
+2025-04-17 13:00:04,982 - INFO - Uploading torrent: Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
+2025-04-17 13:00:04,982 - INFO - Starting upload: /home/user/Desktop/torrents/Pirates of the Caribbean - Dead Man's Chest (2006) [1080p] -> onedrive:Torrents/Pirates of the Caribbean - Dead Man's Chest (2006) [1080p]
+2025-04-17 13:00:04,982 - INFO - Uploading directory of size 2145.48 MB
