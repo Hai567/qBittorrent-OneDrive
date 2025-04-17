@@ -1452,3 +1452,45 @@ OSError: [Errno 28] No space left on device
 2025-04-17 13:15:08,480 - INFO - Uploading torrent: Transformers 2 - Revenge of The Fallen (2009)[1080p]
 2025-04-17 13:15:08,480 - INFO - Starting upload: /home/user/Desktop/torrents/Transformers 2 - Revenge of The Fallen (2009)[1080p] -> onedrive:Torrents/Transformers 2 - Revenge of The Fallen (2009)[1080p]
 2025-04-17 13:15:08,481 - INFO - Uploading directory of size 1796.82 MB
+2025-04-17 13:18:51,200 - INFO - Successfully uploaded to onedrive:Torrents/Transformers 2 - Revenge of The Fallen (2009)[1080p]
+2025-04-17 13:18:51,200 - INFO - Verifying upload for: Transformers 2 - Revenge of The Fallen (2009)[1080p]
+2025-04-17 13:18:51,200 - INFO - Verifying upload: /home/user/Desktop/torrents/Transformers 2 - Revenge of The Fallen (2009)[1080p] -> onedrive:Torrents/Transformers 2 - Revenge of The Fallen (2009)[1080p]
+2025-04-17 13:18:53,352 - INFO - Upload verification successful for /home/user/Desktop/torrents/Transformers 2 - Revenge of The Fallen (2009)[1080p]
+2025-04-17 13:18:53,355 - INFO - Deleting torrent from qBittorrent: Transformers 2 - Revenge of The Fallen (2009)[1080p]
+2025-04-17 13:18:53,355 - INFO - Deleting torrent with hash 6160f5144695f937e7e8b751374bb76f41b8a039 (delete_files=False)
+2025-04-17 13:18:53,364 - INFO - Successfully deleted torrent with hash 6160f5144695f937e7e8b751374bb76f41b8a039
+2025-04-17 13:18:53,364 - INFO - Deleting content files: Transformers 2 - Revenge of The Fallen (2009)[1080p]
+2025-04-17 13:18:53,364 - INFO - Deleting content: /home/user/Desktop/torrents/Transformers 2 - Revenge of The Fallen (2009)[1080p]
+2025-04-17 13:18:53,366 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Transformers 2 - Revenge of The Fallen (2009)[1080p]
+2025-04-17 13:18:53,366 - INFO - Successfully processed torrent: Transformers 2 - Revenge of The Fallen (2009)[1080p]
+2025-04-17 13:18:53,366 - INFO - Uploading torrent: Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 13:18:53,366 - INFO - Starting upload: /home/user/Desktop/torrents/Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 13:18:53,366 - INFO - Uploading directory of size 1646.21 MB
+2025-04-17 13:22:17,628 - INFO - Successfully uploaded to onedrive:Torrents/Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 13:22:17,629 - INFO - Verifying upload for: Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 13:22:17,629 - INFO - Verifying upload: /home/user/Desktop/torrents/Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 13:22:20,027 - INFO - Upload verification successful for /home/user/Desktop/torrents/Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 13:22:20,039 - INFO - Deleting torrent from qBittorrent: Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 13:22:20,039 - INFO - Deleting torrent with hash 5aec152c9f9253ca24c6083cec292c5d9089d089 (delete_files=False)
+2025-04-17 13:22:20,062 - INFO - Successfully deleted torrent with hash 5aec152c9f9253ca24c6083cec292c5d9089d089
+2025-04-17 13:22:20,062 - INFO - Deleting content files: Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 13:22:20,062 - INFO - Deleting content: /home/user/Desktop/torrents/Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 13:22:20,065 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 13:22:20,065 - INFO - Successfully processed torrent: Saltburn.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 13:22:20,066 - INFO - Uploading torrent: How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:22:20,066 - INFO - Starting upload: /home/user/Desktop/torrents/How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:22:20,067 - INFO - Uploading directory of size 408.16 MB
+2025-04-17 13:23:20,072 - INFO - Successfully uploaded to onedrive:Torrents/How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:23:20,073 - INFO - Verifying upload for: How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:23:20,073 - INFO - Verifying upload: /home/user/Desktop/torrents/How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:23:22,402 - INFO - Upload verification successful for /home/user/Desktop/torrents/How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:23:22,406 - INFO - Deleting torrent from qBittorrent: How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:23:22,406 - INFO - Deleting torrent with hash f5e96ea5622f48f30c513f51ca4df6787c538c39 (delete_files=False)
+2025-04-17 13:23:22,415 - INFO - Successfully deleted torrent with hash f5e96ea5622f48f30c513f51ca4df6787c538c39
+2025-04-17 13:23:22,416 - INFO - Deleting content files: How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:23:22,416 - INFO - Deleting content: /home/user/Desktop/torrents/How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:23:22,417 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:23:22,417 - INFO - Successfully processed torrent: How To Train Your Dragon Homecoming (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 13:23:22,417 - INFO - Uploading torrent: Justice League (2017) [1080p] [YTS.AM]
+2025-04-17 13:23:22,417 - INFO - Starting upload: /home/user/Desktop/torrents/Justice League (2017) [1080p] [YTS.AM] -> onedrive:Torrents/Justice League (2017) [1080p] [YTS.AM]
+2025-04-17 13:23:22,418 - INFO - Uploading directory of size 1866.58 MB
