@@ -1980,3 +1980,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 16:23:18,860 - INFO - Uploading torrent: The Amazing World of Gumball S01-S06 (2011-)
 2025-04-17 16:23:18,860 - INFO - Starting upload: /home/user/Desktop/torrents/The Amazing World of Gumball S01-S06 (2011-) -> onedrive:Torrents/The Amazing World of Gumball S01-S06 (2011-)
 2025-04-17 16:23:18,863 - INFO - Uploading directory of size 5734.85 MB
+2025-04-17 16:28:29,608 - INFO - Successfully uploaded to onedrive:Torrents/The Amazing World of Gumball S01-S06 (2011-)
+2025-04-17 16:28:29,608 - INFO - Verifying upload for: The Amazing World of Gumball S01-S06 (2011-)
+2025-04-17 16:28:29,608 - INFO - Verifying upload: /home/user/Desktop/torrents/The Amazing World of Gumball S01-S06 (2011-) -> onedrive:Torrents/The Amazing World of Gumball S01-S06 (2011-)
+2025-04-17 16:28:33,194 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Amazing World of Gumball S01-S06 (2011-)
+2025-04-17 16:28:33,198 - INFO - Deleting torrent from qBittorrent: The Amazing World of Gumball S01-S06 (2011-)
+2025-04-17 16:28:33,198 - INFO - Deleting torrent with hash 8067c9a0019835d20d63dde8750b09cfd3978b2b (delete_files=False)
+2025-04-17 16:28:33,206 - INFO - Successfully deleted torrent with hash 8067c9a0019835d20d63dde8750b09cfd3978b2b
+2025-04-17 16:28:33,207 - INFO - Deleting content files: The Amazing World of Gumball S01-S06 (2011-)
+2025-04-17 16:28:33,207 - INFO - Deleting content: /home/user/Desktop/torrents/The Amazing World of Gumball S01-S06 (2011-)
+2025-04-17 16:28:33,224 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Amazing World of Gumball S01-S06 (2011-)
+2025-04-17 16:28:33,224 - INFO - Successfully processed torrent: The Amazing World of Gumball S01-S06 (2011-)
+2025-04-17 16:28:33,224 - INFO - Uploading torrent: Titanic (1997) [1080p] [YTS.AG]
+2025-04-17 16:28:33,224 - INFO - Starting upload: /home/user/Desktop/torrents/Titanic (1997) [1080p] [YTS.AG] -> onedrive:Torrents/Titanic (1997) [1080p] [YTS.AG]
+2025-04-17 16:28:33,224 - INFO - Uploading directory of size 3037.69 MB
