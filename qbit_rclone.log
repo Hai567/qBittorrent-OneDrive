@@ -854,3 +854,17 @@
 2025-04-17 10:19:36,523 - INFO - Uploading torrent: The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 10:19:36,523 - INFO - Starting upload: /home/user/Desktop/torrents/The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 10:19:36,523 - INFO - Uploading directory of size 1882.47 MB
+2025-04-17 10:23:56,326 - INFO - Successfully uploaded to onedrive:Torrents/The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:23:56,326 - INFO - Verifying upload for: The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:23:56,326 - INFO - Verifying upload: /home/user/Desktop/torrents/The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:23:58,583 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:23:58,586 - INFO - Deleting torrent from qBittorrent: The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:23:58,587 - INFO - Deleting torrent with hash 36c259271747f876c59df86d011e145eccebacac (delete_files=False)
+2025-04-17 10:23:58,594 - INFO - Successfully deleted torrent with hash 36c259271747f876c59df86d011e145eccebacac
+2025-04-17 10:23:58,594 - INFO - Deleting content files: The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:23:58,594 - INFO - Deleting content: /home/user/Desktop/torrents/The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:23:58,595 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:23:58,596 - INFO - Successfully processed torrent: The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:23:58,596 - INFO - Uploading torrent: The Black Demon (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 10:23:58,596 - INFO - Starting upload: /home/user/Desktop/torrents/The Black Demon (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Black Demon (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 10:23:58,596 - INFO - Uploading directory of size 1899.28 MB
