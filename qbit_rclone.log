@@ -556,3 +556,5 @@
 2025-04-17 06:12:55,765 - INFO - Deleting content: /home/user/Desktop/torrents/Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 06:12:55,766 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 06:12:55,766 - INFO - Successfully processed torrent: Meg 2 The Trench (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 06:17:55,776 - INFO - Checking for completed torrents...
+2025-04-17 06:17:55,779 - INFO - Found 1 completed torrents
