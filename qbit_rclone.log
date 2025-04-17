@@ -617,3 +617,8 @@
 2025-04-17 08:30:14,864 - INFO - Deleting content: /home/user/Desktop/torrents/Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 08:30:14,866 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 08:30:14,866 - INFO - Successfully processed torrent: Problemista (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 08:35:14,966 - INFO - Checking for completed torrents...
+2025-04-17 08:35:14,971 - INFO - Found 2 completed torrents
+2025-04-17 08:35:14,971 - INFO - Uploading torrent: Adventure Time S01-S10 (2010-)
+2025-04-17 08:35:14,971 - INFO - Starting upload: /home/user/Desktop/torrents/Adventure Time S01-S10 (2010-) -> onedrive:Torrents/Adventure Time S01-S10 (2010-)
+2025-04-17 08:35:14,974 - INFO - Uploading directory of size 5963.92 MB
