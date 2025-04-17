@@ -1090,3 +1090,31 @@ OSError: [Errno 28] No space left on device
 2025-04-17 11:41:11,836 - INFO - Uploading torrent: James Bond Quantum of Solace (2008) [1080p]
 2025-04-17 11:41:11,836 - INFO - Starting upload: /home/user/Desktop/torrents/James Bond Quantum of Solace (2008) [1080p] -> onedrive:Torrents/James Bond Quantum of Solace (2008) [1080p]
 2025-04-17 11:41:11,836 - INFO - Uploading directory of size 1634.68 MB
+2025-04-17 11:44:26,730 - INFO - Successfully uploaded to onedrive:Torrents/James Bond Quantum of Solace (2008) [1080p]
+2025-04-17 11:44:26,730 - INFO - Verifying upload for: James Bond Quantum of Solace (2008) [1080p]
+2025-04-17 11:44:26,730 - INFO - Verifying upload: /home/user/Desktop/torrents/James Bond Quantum of Solace (2008) [1080p] -> onedrive:Torrents/James Bond Quantum of Solace (2008) [1080p]
+2025-04-17 11:44:29,056 - INFO - Upload verification successful for /home/user/Desktop/torrents/James Bond Quantum of Solace (2008) [1080p]
+2025-04-17 11:44:29,058 - INFO - Deleting torrent from qBittorrent: James Bond Quantum of Solace (2008) [1080p]
+2025-04-17 11:44:29,059 - INFO - Deleting torrent with hash fc5f8183fa703b727cedc121ef8e259ad48d3f24 (delete_files=False)
+2025-04-17 11:44:29,066 - INFO - Successfully deleted torrent with hash fc5f8183fa703b727cedc121ef8e259ad48d3f24
+2025-04-17 11:44:29,067 - INFO - Deleting content files: James Bond Quantum of Solace (2008) [1080p]
+2025-04-17 11:44:29,067 - INFO - Deleting content: /home/user/Desktop/torrents/James Bond Quantum of Solace (2008) [1080p]
+2025-04-17 11:44:29,068 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/James Bond Quantum of Solace (2008) [1080p]
+2025-04-17 11:44:29,068 - INFO - Successfully processed torrent: James Bond Quantum of Solace (2008) [1080p]
+2025-04-17 11:44:29,068 - INFO - Uploading torrent: Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:44:29,068 - INFO - Starting upload: /home/user/Desktop/torrents/Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:44:29,069 - INFO - Uploading directory of size 1305.66 MB
+2025-04-17 11:47:04,777 - INFO - Successfully uploaded to onedrive:Torrents/Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:47:04,777 - INFO - Verifying upload for: Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:47:04,777 - INFO - Verifying upload: /home/user/Desktop/torrents/Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:47:07,404 - INFO - Upload verification successful for /home/user/Desktop/torrents/Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:47:07,407 - INFO - Deleting torrent from qBittorrent: Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:47:07,407 - INFO - Deleting torrent with hash bf727ed6e2cc255d4ad30b64a054bf9ae2142db0 (delete_files=False)
+2025-04-17 11:47:07,416 - INFO - Successfully deleted torrent with hash bf727ed6e2cc255d4ad30b64a054bf9ae2142db0
+2025-04-17 11:47:07,417 - INFO - Deleting content files: Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:47:07,417 - INFO - Deleting content: /home/user/Desktop/torrents/Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:47:07,418 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:47:07,418 - INFO - Successfully processed torrent: Titanic The Digital Resurrection (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:47:07,419 - INFO - Uploading torrent: Catch Me If You Can (2002) [1080p]
+2025-04-17 11:47:07,419 - INFO - Starting upload: /home/user/Desktop/torrents/Catch Me If You Can (2002) [1080p] -> onedrive:Torrents/Catch Me If You Can (2002) [1080p]
+2025-04-17 11:47:07,419 - INFO - Uploading directory of size 2098.22 MB
