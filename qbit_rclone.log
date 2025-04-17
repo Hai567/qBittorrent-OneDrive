@@ -1132,3 +1132,53 @@ OSError: [Errno 28] No space left on device
 2025-04-17 11:50:59,382 - INFO - Uploading torrent: Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 11:50:59,382 - INFO - Starting upload: /home/user/Desktop/torrents/Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 11:50:59,382 - INFO - Uploading directory of size 1939.26 MB
+2025-04-17 11:54:49,923 - INFO - Successfully uploaded to onedrive:Torrents/Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 11:54:49,923 - INFO - Verifying upload for: Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 11:54:49,923 - INFO - Verifying upload: /home/user/Desktop/torrents/Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 11:54:52,284 - INFO - Upload verification successful for /home/user/Desktop/torrents/Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 11:54:52,287 - INFO - Deleting torrent from qBittorrent: Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 11:54:52,288 - INFO - Deleting torrent with hash 6bc76006c9552d9875926a4aaad5670cd09129e5 (delete_files=False)
+2025-04-17 11:54:52,297 - INFO - Successfully deleted torrent with hash 6bc76006c9552d9875926a4aaad5670cd09129e5
+2025-04-17 11:54:52,297 - INFO - Deleting content files: Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 11:54:52,297 - INFO - Deleting content: /home/user/Desktop/torrents/Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 11:54:52,299 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 11:54:52,299 - INFO - Successfully processed torrent: Tomb Raider (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 11:54:52,300 - INFO - Uploading torrent: The Da Vinci Code (2006) [1080p] [YTS.AG]
+2025-04-17 11:54:52,300 - INFO - Starting upload: /home/user/Desktop/torrents/The Da Vinci Code (2006) [1080p] [YTS.AG] -> onedrive:Torrents/The Da Vinci Code (2006) [1080p] [YTS.AG]
+2025-04-17 11:54:52,300 - INFO - Uploading directory of size 2321.81 MB
+2025-04-17 11:59:09,901 - INFO - Successfully uploaded to onedrive:Torrents/The Da Vinci Code (2006) [1080p] [YTS.AG]
+2025-04-17 11:59:09,901 - INFO - Verifying upload for: The Da Vinci Code (2006) [1080p] [YTS.AG]
+2025-04-17 11:59:09,901 - INFO - Verifying upload: /home/user/Desktop/torrents/The Da Vinci Code (2006) [1080p] [YTS.AG] -> onedrive:Torrents/The Da Vinci Code (2006) [1080p] [YTS.AG]
+2025-04-17 11:59:11,761 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Da Vinci Code (2006) [1080p] [YTS.AG]
+2025-04-17 11:59:11,761 - ERROR - Error saving processed_torrents.json: [Errno 28] No space left on device
+2025-04-17 11:59:11,762 - ERROR - Traceback (most recent call last):
+  File "/home/user/Desktop/qBittorrent-OneDrive/a.py", line 535, in _save_json_file
+    json.dump(data, f, indent=2)
+  File "/usr/lib/python3.10/json/__init__.py", line 180, in dump
+    fp.write(chunk)
+OSError: [Errno 28] No space left on device
+
+2025-04-17 11:59:11,762 - INFO - Deleting torrent from qBittorrent: The Da Vinci Code (2006) [1080p] [YTS.AG]
+2025-04-17 11:59:11,762 - INFO - Deleting torrent with hash 516263883747868475a0c0dd187c50f7f82ece00 (delete_files=False)
+2025-04-17 11:59:11,771 - INFO - Successfully deleted torrent with hash 516263883747868475a0c0dd187c50f7f82ece00
+2025-04-17 11:59:11,771 - INFO - Deleting content files: The Da Vinci Code (2006) [1080p] [YTS.AG]
+2025-04-17 11:59:11,771 - INFO - Deleting content: /home/user/Desktop/torrents/The Da Vinci Code (2006) [1080p] [YTS.AG]
+2025-04-17 11:59:11,772 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Da Vinci Code (2006) [1080p] [YTS.AG]
+2025-04-17 11:59:11,772 - INFO - Successfully processed torrent: The Da Vinci Code (2006) [1080p] [YTS.AG]
+2025-04-17 11:59:11,773 - INFO - Uploading torrent: John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 11:59:11,773 - INFO - Starting upload: /home/user/Desktop/torrents/John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 11:59:11,773 - INFO - Uploading directory of size 2099.26 MB
+2025-04-17 12:02:53,162 - INFO - Successfully uploaded to onedrive:Torrents/John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 12:02:53,163 - INFO - Verifying upload for: John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 12:02:53,163 - INFO - Verifying upload: /home/user/Desktop/torrents/John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 12:02:55,536 - INFO - Upload verification successful for /home/user/Desktop/torrents/John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 12:02:55,539 - INFO - Deleting torrent from qBittorrent: John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 12:02:55,540 - INFO - Deleting torrent with hash 43d8135eb4ea2036ff1d22d4dceded5587a953e0 (delete_files=False)
+2025-04-17 12:02:55,548 - INFO - Successfully deleted torrent with hash 43d8135eb4ea2036ff1d22d4dceded5587a953e0
+2025-04-17 12:02:55,548 - INFO - Deleting content files: John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 12:02:55,549 - INFO - Deleting content: /home/user/Desktop/torrents/John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 12:02:55,550 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 12:02:55,550 - INFO - Successfully processed torrent: John Wick Chapter 3 - Parabellum (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-17 12:02:55,550 - INFO - Uploading torrent: Pirates of the Caribbean - At Worlds End (2007) [1080p]
+2025-04-17 12:02:55,550 - INFO - Starting upload: /home/user/Desktop/torrents/Pirates of the Caribbean - At Worlds End (2007) [1080p] -> onedrive:Torrents/Pirates of the Caribbean - At Worlds End (2007) [1080p]
+2025-04-17 12:02:55,551 - INFO - Uploading directory of size 2555.27 MB
