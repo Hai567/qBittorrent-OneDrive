@@ -1782,3 +1782,14 @@ OSError: [Errno 28] No space left on device
 2025-04-17 15:04:37,710 - INFO - Uploading torrent: Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
 2025-04-17 15:04:37,710 - INFO - Starting upload: /home/user/Desktop/torrents/Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
 2025-04-17 15:04:37,710 - INFO - Uploading directory of size 2023.02 MB
+2025-04-17 15:09:53,061 - INFO - Successfully uploaded to onedrive:Torrents/Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
+2025-04-17 15:09:53,062 - INFO - Verifying upload for: Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
+2025-04-17 15:09:53,062 - INFO - Verifying upload: /home/user/Desktop/torrents/Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
+2025-04-17 15:09:55,574 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
+2025-04-17 15:09:55,578 - INFO - Deleting torrent from qBittorrent: Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
+2025-04-17 15:09:55,578 - INFO - Deleting torrent with hash 9549456ab002511eff145d2de73a1f1b6ae6115b (delete_files=False)
+2025-04-17 15:09:55,587 - INFO - Successfully deleted torrent with hash 9549456ab002511eff145d2de73a1f1b6ae6115b
+2025-04-17 15:09:55,587 - INFO - Deleting content files: Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
+2025-04-17 15:09:55,587 - INFO - Deleting content: /home/user/Desktop/torrents/Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
+2025-04-17 15:09:55,589 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
+2025-04-17 15:09:55,589 - INFO - Successfully processed torrent: Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
