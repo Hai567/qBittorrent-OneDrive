@@ -1360,3 +1360,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 12:47:46,930 - INFO - Uploading torrent: Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 12:47:46,930 - INFO - Starting upload: /home/user/Desktop/torrents/Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 12:47:46,931 - INFO - Uploading directory of size 1809.40 MB
+2025-04-17 12:51:36,043 - INFO - Successfully uploaded to onedrive:Torrents/Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:51:36,044 - INFO - Verifying upload for: Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:51:36,044 - INFO - Verifying upload: /home/user/Desktop/torrents/Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:51:38,433 - INFO - Upload verification successful for /home/user/Desktop/torrents/Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:51:38,437 - INFO - Deleting torrent from qBittorrent: Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:51:38,437 - INFO - Deleting torrent with hash 1a0806004e2b4bca548f88d1ea198388e8669a04 (delete_files=False)
+2025-04-17 12:51:38,447 - INFO - Successfully deleted torrent with hash 1a0806004e2b4bca548f88d1ea198388e8669a04
+2025-04-17 12:51:38,447 - INFO - Deleting content files: Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:51:38,448 - INFO - Deleting content: /home/user/Desktop/torrents/Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:51:38,450 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:51:38,450 - INFO - Successfully processed torrent: Infested (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:51:38,450 - INFO - Uploading torrent: Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 12:51:38,450 - INFO - Starting upload: /home/user/Desktop/torrents/Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Dark Nuns (2025) [1080p] [WEBRip] [YTS.MX]
+2025-04-17 12:51:38,451 - INFO - Uploading directory of size 1952.55 MB
