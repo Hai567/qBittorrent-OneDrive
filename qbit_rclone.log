@@ -640,3 +640,17 @@
 2025-04-17 08:50:38,967 - INFO - Uploading torrent: M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 08:50:38,967 - INFO - Starting upload: /home/user/Desktop/torrents/M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 08:50:38,967 - INFO - Uploading directory of size 1926.13 MB
+2025-04-17 08:54:48,502 - INFO - Successfully uploaded to onedrive:Torrents/M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 08:54:48,502 - INFO - Verifying upload for: M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 08:54:48,502 - INFO - Verifying upload: /home/user/Desktop/torrents/M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 08:54:50,732 - INFO - Upload verification successful for /home/user/Desktop/torrents/M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 08:54:50,734 - INFO - Deleting torrent from qBittorrent: M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 08:54:50,735 - INFO - Deleting torrent with hash a80a379e710705def7553f3aabfc995ef6cd959c (delete_files=False)
+2025-04-17 08:54:50,744 - INFO - Successfully deleted torrent with hash a80a379e710705def7553f3aabfc995ef6cd959c
+2025-04-17 08:54:50,744 - INFO - Deleting content files: M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 08:54:50,744 - INFO - Deleting content: /home/user/Desktop/torrents/M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 08:54:50,745 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 08:54:50,745 - INFO - Successfully processed torrent: M3GAN (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 08:54:50,745 - INFO - Uploading torrent: The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
+2025-04-17 08:54:50,745 - INFO - Starting upload: /home/user/Desktop/torrents/The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx] -> onedrive:Torrents/The.Crown.S04.COMPLETE.1080p.WEB.H264-MIXED[TGx]
+2025-04-17 08:54:50,745 - INFO - Uploading directory of size 17431.85 MB
