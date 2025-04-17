@@ -1726,3 +1726,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 14:45:19,311 - INFO - Uploading torrent: Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 14:45:19,311 - INFO - Starting upload: /home/user/Desktop/torrents/Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 14:45:19,311 - INFO - Uploading directory of size 1909.66 MB
+2025-04-17 14:50:13,186 - INFO - Successfully uploaded to onedrive:Torrents/Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:50:13,186 - INFO - Verifying upload for: Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:50:13,186 - INFO - Verifying upload: /home/user/Desktop/torrents/Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:50:15,855 - INFO - Upload verification successful for /home/user/Desktop/torrents/Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:50:15,858 - INFO - Deleting torrent from qBittorrent: Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:50:15,859 - INFO - Deleting torrent with hash 6546a1b91ac070553077d256918305f82cfd232e (delete_files=False)
+2025-04-17 14:50:15,869 - INFO - Successfully deleted torrent with hash 6546a1b91ac070553077d256918305f82cfd232e
+2025-04-17 14:50:15,869 - INFO - Deleting content files: Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:50:15,869 - INFO - Deleting content: /home/user/Desktop/torrents/Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:50:15,872 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:50:15,872 - INFO - Successfully processed torrent: Good Grief (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:50:15,872 - INFO - Uploading torrent: Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:50:15,872 - INFO - Starting upload: /home/user/Desktop/torrents/Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:50:15,872 - INFO - Uploading directory of size 2477.40 MB
