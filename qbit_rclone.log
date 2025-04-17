@@ -926,3 +926,17 @@
 2025-04-17 10:42:02,795 - INFO - Uploading torrent: The Crown Season 1 Complete 720p HDTV x264 [i_c]
 2025-04-17 10:42:02,796 - INFO - Starting upload: /home/user/Desktop/torrents/The Crown Season 1 Complete 720p HDTV x264 [i_c] -> onedrive:Torrents/The Crown Season 1 Complete 720p HDTV x264 [i_c]
 2025-04-17 10:42:02,796 - INFO - Uploading directory of size 4857.60 MB
+2025-04-17 10:46:12,076 - INFO - Successfully uploaded to onedrive:Torrents/The Crown Season 1 Complete 720p HDTV x264 [i_c]
+2025-04-17 10:46:12,077 - INFO - Verifying upload for: The Crown Season 1 Complete 720p HDTV x264 [i_c]
+2025-04-17 10:46:12,077 - INFO - Verifying upload: /home/user/Desktop/torrents/The Crown Season 1 Complete 720p HDTV x264 [i_c] -> onedrive:Torrents/The Crown Season 1 Complete 720p HDTV x264 [i_c]
+2025-04-17 10:46:14,475 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Crown Season 1 Complete 720p HDTV x264 [i_c]
+2025-04-17 10:46:14,564 - INFO - Deleting torrent from qBittorrent: The Crown Season 1 Complete 720p HDTV x264 [i_c]
+2025-04-17 10:46:14,564 - INFO - Deleting torrent with hash 324e15e94428b1d2ed182a5b4c5a7b27b53d3dfe (delete_files=False)
+2025-04-17 10:46:14,575 - INFO - Successfully deleted torrent with hash 324e15e94428b1d2ed182a5b4c5a7b27b53d3dfe
+2025-04-17 10:46:14,575 - INFO - Deleting content files: The Crown Season 1 Complete 720p HDTV x264 [i_c]
+2025-04-17 10:46:14,575 - INFO - Deleting content: /home/user/Desktop/torrents/The Crown Season 1 Complete 720p HDTV x264 [i_c]
+2025-04-17 10:46:14,580 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Crown Season 1 Complete 720p HDTV x264 [i_c]
+2025-04-17 10:46:14,580 - INFO - Successfully processed torrent: The Crown Season 1 Complete 720p HDTV x264 [i_c]
+2025-04-17 10:46:14,580 - INFO - Uploading torrent: Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:46:14,580 - INFO - Starting upload: /home/user/Desktop/torrents/Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:46:14,580 - INFO - Uploading directory of size 2429.80 MB
