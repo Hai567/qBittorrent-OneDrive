@@ -1684,3 +1684,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 14:32:03,254 - INFO - Uploading torrent: Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 14:32:03,254 - INFO - Starting upload: /home/user/Desktop/torrents/Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 14:32:03,255 - INFO - Uploading directory of size 1970.74 MB
+2025-04-17 14:36:06,147 - INFO - Successfully uploaded to onedrive:Torrents/Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:36:06,147 - INFO - Verifying upload for: Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:36:06,147 - INFO - Verifying upload: /home/user/Desktop/torrents/Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:36:09,010 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:36:09,013 - INFO - Deleting torrent from qBittorrent: Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:36:09,013 - INFO - Deleting torrent with hash 6ba14f1867d85a9cd5c2952f6d83b8021667dc04 (delete_files=False)
+2025-04-17 14:36:09,023 - INFO - Successfully deleted torrent with hash 6ba14f1867d85a9cd5c2952f6d83b8021667dc04
+2025-04-17 14:36:09,023 - INFO - Deleting content files: Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:36:09,023 - INFO - Deleting content: /home/user/Desktop/torrents/Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:36:09,028 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:36:09,028 - INFO - Successfully processed torrent: Fair Play (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 14:36:09,028 - INFO - Uploading torrent: Angels & Demons (2009) [1080p]
+2025-04-17 14:36:09,028 - INFO - Starting upload: /home/user/Desktop/torrents/Angels & Demons (2009) [1080p] -> onedrive:Torrents/Angels & Demons (2009) [1080p]
+2025-04-17 14:36:09,028 - INFO - Uploading directory of size 1845.75 MB
