@@ -840,3 +840,17 @@
 2025-04-17 10:10:36,024 - INFO - Uploading torrent: The.Crown.S06.1080p.WEBRip.x265-KONTRAST
 2025-04-17 10:10:36,024 - INFO - Starting upload: /home/user/Desktop/torrents/The.Crown.S06.1080p.WEBRip.x265-KONTRAST -> onedrive:Torrents/The.Crown.S06.1080p.WEBRip.x265-KONTRAST
 2025-04-17 10:10:36,028 - INFO - Uploading directory of size 9934.12 MB
+2025-04-17 10:19:32,805 - INFO - Successfully uploaded to onedrive:Torrents/The.Crown.S06.1080p.WEBRip.x265-KONTRAST
+2025-04-17 10:19:32,805 - INFO - Verifying upload for: The.Crown.S06.1080p.WEBRip.x265-KONTRAST
+2025-04-17 10:19:32,805 - INFO - Verifying upload: /home/user/Desktop/torrents/The.Crown.S06.1080p.WEBRip.x265-KONTRAST -> onedrive:Torrents/The.Crown.S06.1080p.WEBRip.x265-KONTRAST
+2025-04-17 10:19:36,497 - INFO - Upload verification successful for /home/user/Desktop/torrents/The.Crown.S06.1080p.WEBRip.x265-KONTRAST
+2025-04-17 10:19:36,500 - INFO - Deleting torrent from qBittorrent: The.Crown.S06.1080p.WEBRip.x265-KONTRAST
+2025-04-17 10:19:36,500 - INFO - Deleting torrent with hash ceaef87b0f857d34adb16dfc29c6d13d3f4801dc (delete_files=False)
+2025-04-17 10:19:36,509 - INFO - Successfully deleted torrent with hash ceaef87b0f857d34adb16dfc29c6d13d3f4801dc
+2025-04-17 10:19:36,509 - INFO - Deleting content files: The.Crown.S06.1080p.WEBRip.x265-KONTRAST
+2025-04-17 10:19:36,509 - INFO - Deleting content: /home/user/Desktop/torrents/The.Crown.S06.1080p.WEBRip.x265-KONTRAST
+2025-04-17 10:19:36,523 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The.Crown.S06.1080p.WEBRip.x265-KONTRAST
+2025-04-17 10:19:36,523 - INFO - Successfully processed torrent: The.Crown.S06.1080p.WEBRip.x265-KONTRAST
+2025-04-17 10:19:36,523 - INFO - Uploading torrent: The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:19:36,523 - INFO - Starting upload: /home/user/Desktop/torrents/The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Beanie Bubble (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 10:19:36,523 - INFO - Uploading directory of size 1882.47 MB
