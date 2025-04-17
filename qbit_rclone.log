@@ -954,3 +954,17 @@
 2025-04-17 10:51:02,947 - INFO - Uploading torrent: Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 10:51:02,947 - INFO - Starting upload: /home/user/Desktop/torrents/Ready Player One (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 10:51:02,947 - INFO - Uploading directory of size 2292.33 MB
+2025-04-17 10:55:29,847 - INFO - Successfully uploaded to onedrive:Torrents/Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:55:29,848 - INFO - Verifying upload for: Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:55:29,848 - INFO - Verifying upload: /home/user/Desktop/torrents/Ready Player One (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:55:32,243 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:55:32,246 - INFO - Deleting torrent from qBittorrent: Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:55:32,246 - INFO - Deleting torrent with hash adbd2218563493209cf7952468102ab34d19b5b4 (delete_files=False)
+2025-04-17 10:55:32,254 - INFO - Successfully deleted torrent with hash adbd2218563493209cf7952468102ab34d19b5b4
+2025-04-17 10:55:32,254 - INFO - Deleting content files: Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:55:32,254 - INFO - Deleting content: /home/user/Desktop/torrents/Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:55:32,255 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:55:32,256 - INFO - Successfully processed torrent: Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:55:32,256 - INFO - Uploading torrent: The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
+2025-04-17 10:55:32,256 - INFO - Starting upload: /home/user/Desktop/torrents/The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx] -> onedrive:Torrents/The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
+2025-04-17 10:55:32,256 - INFO - Uploading directory of size 15410.81 MB
