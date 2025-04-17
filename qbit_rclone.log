@@ -487,3 +487,28 @@
 2025-04-17 05:49:38,224 - INFO - Uploading torrent: Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 05:49:38,224 - INFO - Starting upload: /home/user/Desktop/torrents/Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 05:49:38,224 - INFO - Uploading directory of size 1910.90 MB
+2025-04-17 05:53:48,875 - INFO - Successfully uploaded to onedrive:Torrents/Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:53:48,875 - INFO - Verifying upload for: Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:53:48,875 - INFO - Verifying upload: /home/user/Desktop/torrents/Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:53:51,518 - INFO - Upload verification successful for /home/user/Desktop/torrents/Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:53:51,521 - INFO - Deleting torrent from qBittorrent: Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:53:51,521 - INFO - Deleting torrent with hash 1f036b4cf47b8df03cb4de3e44951078fd9ad2c0 (delete_files=False)
+2025-04-17 05:53:51,529 - INFO - Successfully deleted torrent with hash 1f036b4cf47b8df03cb4de3e44951078fd9ad2c0
+2025-04-17 05:53:51,529 - INFO - Deleting content files: Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:53:51,529 - INFO - Deleting content: /home/user/Desktop/torrents/Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:53:51,531 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:53:51,531 - INFO - Successfully processed torrent: Bird Box Barcelona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:53:51,531 - INFO - Uploading torrent: Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:53:51,531 - INFO - Starting upload: /home/user/Desktop/torrents/Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:53:51,532 - INFO - Uploading directory of size 1900.17 MB
+2025-04-17 05:57:11,604 - INFO - Successfully uploaded to onedrive:Torrents/Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:57:11,605 - INFO - Verifying upload for: Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:57:11,605 - INFO - Verifying upload: /home/user/Desktop/torrents/Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:57:14,127 - INFO - Upload verification successful for /home/user/Desktop/torrents/Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:57:14,130 - INFO - Deleting torrent from qBittorrent: Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:57:14,130 - INFO - Deleting torrent with hash 9bbba7887a40f61beec87c7c2526393bdf4c8038 (delete_files=False)
+2025-04-17 05:57:14,137 - INFO - Successfully deleted torrent with hash 9bbba7887a40f61beec87c7c2526393bdf4c8038
+2025-04-17 05:57:14,137 - INFO - Deleting content files: Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:57:14,137 - INFO - Deleting content: /home/user/Desktop/torrents/Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:57:14,138 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 05:57:14,139 - INFO - Successfully processed torrent: Til Death Do Us Part (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
