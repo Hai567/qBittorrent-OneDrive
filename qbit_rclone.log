@@ -896,3 +896,14 @@
 2025-04-17 10:32:14,704 - INFO - Uploading torrent: Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 10:32:14,704 - INFO - Starting upload: /home/user/Desktop/torrents/Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 10:32:14,704 - INFO - Uploading directory of size 1855.76 MB
+2025-04-17 10:36:02,018 - INFO - Successfully uploaded to onedrive:Torrents/Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 10:36:02,018 - INFO - Verifying upload for: Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 10:36:02,018 - INFO - Verifying upload: /home/user/Desktop/torrents/Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 10:36:04,585 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 10:36:04,588 - INFO - Deleting torrent from qBittorrent: Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 10:36:04,588 - INFO - Deleting torrent with hash 42180d9e6602730c83cdfad768b4f34f9a27a20e (delete_files=False)
+2025-04-17 10:36:04,596 - INFO - Successfully deleted torrent with hash 42180d9e6602730c83cdfad768b4f34f9a27a20e
+2025-04-17 10:36:04,596 - INFO - Deleting content files: Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 10:36:04,596 - INFO - Deleting content: /home/user/Desktop/torrents/Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 10:36:04,598 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 10:36:04,598 - INFO - Successfully processed torrent: Fools Paradise (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
