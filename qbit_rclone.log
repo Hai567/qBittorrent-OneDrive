@@ -1054,3 +1054,17 @@
 2025-04-17 11:30:35,691 - INFO - Uploading torrent: Big Hero 6 (2014) [1080p]
 2025-04-17 11:30:35,692 - INFO - Starting upload: /home/user/Desktop/torrents/Big Hero 6 (2014) [1080p] -> onedrive:Torrents/Big Hero 6 (2014) [1080p]
 2025-04-17 11:30:35,692 - INFO - Uploading directory of size 1685.20 MB
+2025-04-17 11:34:19,445 - INFO - Successfully uploaded to onedrive:Torrents/Big Hero 6 (2014) [1080p]
+2025-04-17 11:34:19,445 - INFO - Verifying upload for: Big Hero 6 (2014) [1080p]
+2025-04-17 11:34:19,445 - INFO - Verifying upload: /home/user/Desktop/torrents/Big Hero 6 (2014) [1080p] -> onedrive:Torrents/Big Hero 6 (2014) [1080p]
+2025-04-17 11:34:21,727 - INFO - Upload verification successful for /home/user/Desktop/torrents/Big Hero 6 (2014) [1080p]
+2025-04-17 11:34:21,730 - INFO - Deleting torrent from qBittorrent: Big Hero 6 (2014) [1080p]
+2025-04-17 11:34:21,730 - INFO - Deleting torrent with hash 966d30a8bbc61a1fb50842cab6983b17eca2cf9a (delete_files=False)
+2025-04-17 11:34:21,739 - INFO - Successfully deleted torrent with hash 966d30a8bbc61a1fb50842cab6983b17eca2cf9a
+2025-04-17 11:34:21,740 - INFO - Deleting content files: Big Hero 6 (2014) [1080p]
+2025-04-17 11:34:21,740 - INFO - Deleting content: /home/user/Desktop/torrents/Big Hero 6 (2014) [1080p]
+2025-04-17 11:34:21,741 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Big Hero 6 (2014) [1080p]
+2025-04-17 11:34:21,741 - INFO - Successfully processed torrent: Big Hero 6 (2014) [1080p]
+2025-04-17 11:34:21,741 - INFO - Uploading torrent: National Theatre Live Othello (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:34:21,741 - INFO - Starting upload: /home/user/Desktop/torrents/National Theatre Live Othello (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/National Theatre Live Othello (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 11:34:21,741 - INFO - Uploading directory of size 2903.00 MB
