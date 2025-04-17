@@ -1938,3 +1938,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 16:05:55,738 - INFO - Uploading torrent: The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 16:05:55,738 - INFO - Starting upload: /home/user/Desktop/torrents/The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 16:05:55,738 - INFO - Uploading directory of size 1885.50 MB
+2025-04-17 16:10:03,488 - INFO - Successfully uploaded to onedrive:Torrents/The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:10:03,488 - INFO - Verifying upload for: The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:10:03,488 - INFO - Verifying upload: /home/user/Desktop/torrents/The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:10:06,107 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:10:06,111 - INFO - Deleting torrent from qBittorrent: The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:10:06,111 - INFO - Deleting torrent with hash dce7e1869dc21c09f9eb46122dbad819411eb456 (delete_files=False)
+2025-04-17 16:10:06,120 - INFO - Successfully deleted torrent with hash dce7e1869dc21c09f9eb46122dbad819411eb456
+2025-04-17 16:10:06,120 - INFO - Deleting content files: The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:10:06,120 - INFO - Deleting content: /home/user/Desktop/torrents/The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:10:06,123 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:10:06,124 - INFO - Successfully processed torrent: The Curse Of The Necklace (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 16:10:06,124 - INFO - Uploading torrent: The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 16:10:06,124 - INFO - Starting upload: /home/user/Desktop/torrents/The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Batman (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-17 16:10:06,124 - INFO - Uploading directory of size 3326.38 MB
