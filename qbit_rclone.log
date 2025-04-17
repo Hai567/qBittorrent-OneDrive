@@ -784,3 +784,17 @@
 2025-04-17 09:54:46,480 - INFO - Uploading torrent: Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 09:54:46,480 - INFO - Starting upload: /home/user/Desktop/torrents/Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 09:54:46,480 - INFO - Uploading directory of size 1762.37 MB
+2025-04-17 09:59:19,939 - INFO - Successfully uploaded to onedrive:Torrents/Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:59:19,939 - INFO - Verifying upload for: Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:59:19,940 - INFO - Verifying upload: /home/user/Desktop/torrents/Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:59:22,584 - INFO - Upload verification successful for /home/user/Desktop/torrents/Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:59:22,587 - INFO - Deleting torrent from qBittorrent: Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:59:22,587 - INFO - Deleting torrent with hash fe92f8de8f9eae7fd6c2a700795bdfe369acdf96 (delete_files=False)
+2025-04-17 09:59:22,596 - INFO - Successfully deleted torrent with hash fe92f8de8f9eae7fd6c2a700795bdfe369acdf96
+2025-04-17 09:59:22,596 - INFO - Deleting content files: Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:59:22,596 - INFO - Deleting content: /home/user/Desktop/torrents/Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:59:22,598 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:59:22,598 - INFO - Successfully processed torrent: Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:59:22,598 - INFO - Uploading torrent: The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:59:22,598 - INFO - Starting upload: /home/user/Desktop/torrents/The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Lesson (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:59:22,598 - INFO - Uploading directory of size 1763.00 MB
