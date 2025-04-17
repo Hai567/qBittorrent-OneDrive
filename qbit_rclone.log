@@ -740,3 +740,17 @@
 2025-04-17 09:37:09,989 - INFO - Uploading torrent: Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-17 09:37:09,989 - INFO - Starting upload: /home/user/Desktop/torrents/Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-17 09:37:09,990 - INFO - Uploading directory of size 1433.45 MB
+2025-04-17 09:41:03,284 - INFO - Successfully uploaded to onedrive:Torrents/Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:41:03,284 - INFO - Verifying upload for: Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:41:03,284 - INFO - Verifying upload: /home/user/Desktop/torrents/Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:41:05,599 - INFO - Upload verification successful for /home/user/Desktop/torrents/Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:41:05,602 - INFO - Deleting torrent from qBittorrent: Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:41:05,602 - INFO - Deleting torrent with hash 91d98fec82d823d072b8e7117a2fc8680c7aae8a (delete_files=False)
+2025-04-17 09:41:05,612 - INFO - Successfully deleted torrent with hash 91d98fec82d823d072b8e7117a2fc8680c7aae8a
+2025-04-17 09:41:05,612 - INFO - Deleting content files: Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:41:05,612 - INFO - Deleting content: /home/user/Desktop/torrents/Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:41:05,615 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:41:05,615 - INFO - Successfully processed torrent: Theater.Camp.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:41:05,615 - INFO - Uploading torrent: A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:41:05,615 - INFO - Starting upload: /home/user/Desktop/torrents/A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/A.Haunting.in.Venice.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 09:41:05,615 - INFO - Uploading directory of size 1437.69 MB
