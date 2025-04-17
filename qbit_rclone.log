@@ -1768,3 +1768,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 15:00:01,456 - INFO - Uploading torrent: Aladdin (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-17 15:00:01,457 - INFO - Starting upload: /home/user/Desktop/torrents/Aladdin (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Aladdin (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-17 15:00:01,457 - INFO - Uploading directory of size 2063.52 MB
+2025-04-17 15:04:35,333 - INFO - Successfully uploaded to onedrive:Torrents/Aladdin (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-17 15:04:35,333 - INFO - Verifying upload for: Aladdin (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-17 15:04:35,333 - INFO - Verifying upload: /home/user/Desktop/torrents/Aladdin (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Aladdin (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-17 15:04:37,693 - INFO - Upload verification successful for /home/user/Desktop/torrents/Aladdin (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-17 15:04:37,697 - INFO - Deleting torrent from qBittorrent: Aladdin (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-17 15:04:37,697 - INFO - Deleting torrent with hash e1af5f59f021775254627ec1d9a861695dc20b0e (delete_files=False)
+2025-04-17 15:04:37,707 - INFO - Successfully deleted torrent with hash e1af5f59f021775254627ec1d9a861695dc20b0e
+2025-04-17 15:04:37,707 - INFO - Deleting content files: Aladdin (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-17 15:04:37,707 - INFO - Deleting content: /home/user/Desktop/torrents/Aladdin (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-17 15:04:37,709 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Aladdin (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-17 15:04:37,709 - INFO - Successfully processed torrent: Aladdin (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-17 15:04:37,710 - INFO - Uploading torrent: Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
+2025-04-17 15:04:37,710 - INFO - Starting upload: /home/user/Desktop/torrents/Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Pirates Of The Caribbean Dead Men Tell No Tales (2017) [1080p] [YTS.AG]
+2025-04-17 15:04:37,710 - INFO - Uploading directory of size 2023.02 MB
