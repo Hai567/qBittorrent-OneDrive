@@ -1740,3 +1740,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 14:50:15,872 - INFO - Uploading torrent: Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 14:50:15,872 - INFO - Starting upload: /home/user/Desktop/torrents/Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 14:50:15,872 - INFO - Uploading directory of size 2477.40 MB
+2025-04-17 14:56:24,746 - INFO - Successfully uploaded to onedrive:Torrents/Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:56:24,746 - INFO - Verifying upload for: Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:56:24,746 - INFO - Verifying upload: /home/user/Desktop/torrents/Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:56:27,437 - INFO - Upload verification successful for /home/user/Desktop/torrents/Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:56:27,440 - INFO - Deleting torrent from qBittorrent: Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:56:27,440 - INFO - Deleting torrent with hash 16d47b44e1a9589fbc61ed2b3ae70585042f9e1e (delete_files=False)
+2025-04-17 14:56:27,450 - INFO - Successfully deleted torrent with hash 16d47b44e1a9589fbc61ed2b3ae70585042f9e1e
+2025-04-17 14:56:27,450 - INFO - Deleting content files: Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:56:27,450 - INFO - Deleting content: /home/user/Desktop/torrents/Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:56:27,452 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:56:27,452 - INFO - Successfully processed torrent: Maestro (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 14:56:27,452 - INFO - Uploading torrent: Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-17 14:56:27,453 - INFO - Starting upload: /home/user/Desktop/torrents/Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Dante's Inferno An Animated Epic (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-17 14:56:27,453 - INFO - Uploading directory of size 1450.49 MB
