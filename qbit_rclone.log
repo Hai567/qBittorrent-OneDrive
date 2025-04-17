@@ -2173,3 +2173,27 @@ OSError: [Errno 28] No space left on device
 2025-04-17 17:23:59,859 - INFO - Deleting content: /home/user/Desktop/torrents/Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
 2025-04-17 17:23:59,860 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
 2025-04-17 17:23:59,860 - INFO - Successfully processed torrent: Santa.Hunters.2024.1080p.AMZN.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-17 23:45:18,654 - INFO - Loaded configuration from config.json
+2025-04-17 23:45:18,655 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-17 23:45:18,745 - INFO - Found onedrive remote in rclone configuration
+2025-04-17 23:45:18,751 - INFO - Successfully logged in to qBittorrent
+2025-04-17 23:45:18,751 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-17 23:45:18,751 - INFO - Checking for completed torrents...
+2025-04-17 23:45:18,763 - INFO - Found 45 completed torrents
+2025-04-17 23:45:18,763 - INFO - Uploading torrent: Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 23:45:18,763 - INFO - Starting upload: /home/user/Desktop/torrents/Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 23:45:18,763 - INFO - Uploading directory of size 1914.31 MB
+2025-04-17 23:48:42,259 - INFO - Successfully uploaded to onedrive:Torrents/Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 23:48:42,259 - INFO - Verifying upload for: Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 23:48:42,259 - INFO - Verifying upload: /home/user/Desktop/torrents/Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 23:48:44,684 - INFO - Upload verification successful for /home/user/Desktop/torrents/Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 23:48:44,688 - INFO - Deleting torrent from qBittorrent: Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 23:48:44,689 - INFO - Deleting torrent with hash a753ea13f243ef9c4006d103dcbdbc7cabad8a01 (delete_files=False)
+2025-04-17 23:48:44,701 - INFO - Successfully deleted torrent with hash a753ea13f243ef9c4006d103dcbdbc7cabad8a01
+2025-04-17 23:48:44,702 - INFO - Deleting content files: Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 23:48:44,702 - INFO - Deleting content: /home/user/Desktop/torrents/Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 23:48:44,704 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 23:48:44,704 - INFO - Successfully processed torrent: Spider-Man Into The Spider-Verse (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 23:48:44,704 - INFO - Uploading torrent: Fifty Shades Darker (2017) [1080p] [YTS.AG]
+2025-04-17 23:48:44,704 - INFO - Starting upload: /home/user/Desktop/torrents/Fifty Shades Darker (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Fifty Shades Darker (2017) [1080p] [YTS.AG]
+2025-04-17 23:48:44,704 - INFO - Uploading directory of size 2042.64 MB
