@@ -1232,3 +1232,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 12:15:08,516 - INFO - Uploading torrent: Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
 2025-04-17 12:15:08,516 - INFO - Starting upload: /home/user/Desktop/torrents/Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
 2025-04-17 12:15:08,516 - INFO - Uploading directory of size 2206.14 MB
+2025-04-17 12:20:26,337 - INFO - Successfully uploaded to onedrive:Torrents/Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 12:20:26,338 - INFO - Verifying upload for: Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 12:20:26,338 - INFO - Verifying upload: /home/user/Desktop/torrents/Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 12:20:28,621 - INFO - Upload verification successful for /home/user/Desktop/torrents/Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 12:20:28,625 - INFO - Deleting torrent from qBittorrent: Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 12:20:28,625 - INFO - Deleting torrent with hash 23097fea0b3e79f4ae89884623b267fcefb7cb1d (delete_files=False)
+2025-04-17 12:20:28,634 - INFO - Successfully deleted torrent with hash 23097fea0b3e79f4ae89884623b267fcefb7cb1d
+2025-04-17 12:20:28,635 - INFO - Deleting content files: Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 12:20:28,635 - INFO - Deleting content: /home/user/Desktop/torrents/Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 12:20:28,637 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 12:20:28,637 - INFO - Successfully processed torrent: Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 12:20:28,637 - INFO - Uploading torrent: Mission Impossible III (2006) [1080p] [YTS.AG]
+2025-04-17 12:20:28,638 - INFO - Starting upload: /home/user/Desktop/torrents/Mission Impossible III (2006) [1080p] [YTS.AG] -> onedrive:Torrents/Mission Impossible III (2006) [1080p] [YTS.AG]
+2025-04-17 12:20:28,638 - INFO - Uploading directory of size 1952.74 MB
