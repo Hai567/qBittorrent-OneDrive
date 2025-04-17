@@ -1896,3 +1896,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 15:51:22,853 - INFO - Uploading torrent: The Incredibles (2004) [1080p] [YTS.AG]
 2025-04-17 15:51:22,853 - INFO - Starting upload: /home/user/Desktop/torrents/The Incredibles (2004) [1080p] [YTS.AG] -> onedrive:Torrents/The Incredibles (2004) [1080p] [YTS.AG]
 2025-04-17 15:51:22,853 - INFO - Uploading directory of size 1793.02 MB
+2025-04-17 15:55:46,919 - INFO - Successfully uploaded to onedrive:Torrents/The Incredibles (2004) [1080p] [YTS.AG]
+2025-04-17 15:55:46,920 - INFO - Verifying upload for: The Incredibles (2004) [1080p] [YTS.AG]
+2025-04-17 15:55:46,920 - INFO - Verifying upload: /home/user/Desktop/torrents/The Incredibles (2004) [1080p] [YTS.AG] -> onedrive:Torrents/The Incredibles (2004) [1080p] [YTS.AG]
+2025-04-17 15:55:49,262 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Incredibles (2004) [1080p] [YTS.AG]
+2025-04-17 15:55:49,265 - INFO - Deleting torrent from qBittorrent: The Incredibles (2004) [1080p] [YTS.AG]
+2025-04-17 15:55:49,265 - INFO - Deleting torrent with hash 9988b0f171fc23aae15399acf7518d956b759d07 (delete_files=False)
+2025-04-17 15:55:49,275 - INFO - Successfully deleted torrent with hash 9988b0f171fc23aae15399acf7518d956b759d07
+2025-04-17 15:55:49,275 - INFO - Deleting content files: The Incredibles (2004) [1080p] [YTS.AG]
+2025-04-17 15:55:49,275 - INFO - Deleting content: /home/user/Desktop/torrents/The Incredibles (2004) [1080p] [YTS.AG]
+2025-04-17 15:55:49,284 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Incredibles (2004) [1080p] [YTS.AG]
+2025-04-17 15:55:49,284 - INFO - Successfully processed torrent: The Incredibles (2004) [1080p] [YTS.AG]
+2025-04-17 15:55:49,284 - INFO - Uploading torrent: Ben 10 Ultimate Alien 2010 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:55:49,284 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 Ultimate Alien 2010 Season 2 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 Ultimate Alien 2010 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 15:55:49,285 - INFO - Uploading directory of size 7622.67 MB
