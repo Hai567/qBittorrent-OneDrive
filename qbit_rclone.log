@@ -2134,3 +2134,6 @@ OSError: [Errno 28] No space left on device
 2025-04-17 17:09:25,297 - INFO - Uploading torrent: Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
 2025-04-17 17:09:25,297 - INFO - Starting upload: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
 2025-04-17 17:09:25,298 - INFO - Uploading directory of size 7013.44 MB
+2025-04-17 17:14:50,446 - INFO - Successfully uploaded to onedrive:Torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-17 17:14:50,447 - INFO - Verifying upload for: Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-17 17:14:50,447 - INFO - Verifying upload: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
