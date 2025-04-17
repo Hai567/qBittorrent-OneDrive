@@ -1196,3 +1196,39 @@ OSError: [Errno 28] No space left on device
 2025-04-17 12:07:47,885 - INFO - Uploading torrent: Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-17 12:07:47,885 - INFO - Starting upload: /home/user/Desktop/torrents/Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-17 12:07:47,885 - INFO - Uploading directory of size 1436.09 MB
+2025-04-17 12:10:42,235 - INFO - Successfully uploaded to onedrive:Torrents/Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:10:42,236 - INFO - Verifying upload for: Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:10:42,236 - INFO - Verifying upload: /home/user/Desktop/torrents/Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:10:44,506 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:10:44,510 - INFO - Deleting torrent from qBittorrent: Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:10:44,510 - INFO - Deleting torrent with hash 3afb3c7eb1d06bc5c9e0c2e6ca7a29e52a413207 (delete_files=False)
+2025-04-17 12:10:44,521 - INFO - Successfully deleted torrent with hash 3afb3c7eb1d06bc5c9e0c2e6ca7a29e52a413207
+2025-04-17 12:10:44,521 - INFO - Deleting content files: Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:10:44,521 - INFO - Deleting content: /home/user/Desktop/torrents/Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:10:44,523 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:10:44,523 - INFO - Successfully processed torrent: Ghosts.of.Red.Ridge.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 12:10:44,523 - INFO - Uploading torrent: Transformers Age of Extinction (2014) [1080p]
+2025-04-17 12:10:44,523 - INFO - Starting upload: /home/user/Desktop/torrents/Transformers Age of Extinction (2014) [1080p] -> onedrive:Torrents/Transformers Age of Extinction (2014) [1080p]
+2025-04-17 12:10:44,523 - INFO - Uploading directory of size 2316.36 MB
+2025-04-17 12:15:06,292 - INFO - Successfully uploaded to onedrive:Torrents/Transformers Age of Extinction (2014) [1080p]
+2025-04-17 12:15:06,292 - INFO - Verifying upload for: Transformers Age of Extinction (2014) [1080p]
+2025-04-17 12:15:06,292 - INFO - Verifying upload: /home/user/Desktop/torrents/Transformers Age of Extinction (2014) [1080p] -> onedrive:Torrents/Transformers Age of Extinction (2014) [1080p]
+2025-04-17 12:15:08,502 - INFO - Upload verification successful for /home/user/Desktop/torrents/Transformers Age of Extinction (2014) [1080p]
+2025-04-17 12:15:08,502 - ERROR - Error saving processed_torrents.json: [Errno 28] No space left on device
+2025-04-17 12:15:08,503 - ERROR - Traceback (most recent call last):
+  File "/home/user/Desktop/qBittorrent-OneDrive/a.py", line 535, in _save_json_file
+    json.dump(data, f, indent=2)
+  File "/usr/lib/python3.10/json/__init__.py", line 180, in dump
+    fp.write(chunk)
+OSError: [Errno 28] No space left on device
+
+2025-04-17 12:15:08,503 - INFO - Deleting torrent from qBittorrent: Transformers Age of Extinction (2014) [1080p]
+2025-04-17 12:15:08,503 - INFO - Deleting torrent with hash 774da94a7602e1b053c61205df20c810a5621828 (delete_files=False)
+2025-04-17 12:15:08,512 - INFO - Successfully deleted torrent with hash 774da94a7602e1b053c61205df20c810a5621828
+2025-04-17 12:15:08,512 - INFO - Deleting content files: Transformers Age of Extinction (2014) [1080p]
+2025-04-17 12:15:08,512 - INFO - Deleting content: /home/user/Desktop/torrents/Transformers Age of Extinction (2014) [1080p]
+2025-04-17 12:15:08,515 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Transformers Age of Extinction (2014) [1080p]
+2025-04-17 12:15:08,515 - INFO - Successfully processed torrent: Transformers Age of Extinction (2014) [1080p]
+2025-04-17 12:15:08,516 - INFO - Uploading torrent: Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 12:15:08,516 - INFO - Starting upload: /home/user/Desktop/torrents/Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Bohemian Rhapsody (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-17 12:15:08,516 - INFO - Uploading directory of size 2206.14 MB
