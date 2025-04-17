@@ -1282,3 +1282,31 @@ OSError: [Errno 28] No space left on device
 2025-04-17 12:30:20,830 - INFO - Uploading torrent: Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 12:30:20,830 - INFO - Starting upload: /home/user/Desktop/torrents/Bumblebee (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 12:30:20,831 - INFO - Uploading directory of size 1867.24 MB
+2025-04-17 12:34:11,353 - INFO - Successfully uploaded to onedrive:Torrents/Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 12:34:11,353 - INFO - Verifying upload for: Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 12:34:11,353 - INFO - Verifying upload: /home/user/Desktop/torrents/Bumblebee (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 12:34:13,675 - INFO - Upload verification successful for /home/user/Desktop/torrents/Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 12:34:13,678 - INFO - Deleting torrent from qBittorrent: Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 12:34:13,678 - INFO - Deleting torrent with hash 45c34a51dde7c45429599339bacaf60c15e86b1c (delete_files=False)
+2025-04-17 12:34:13,699 - INFO - Successfully deleted torrent with hash 45c34a51dde7c45429599339bacaf60c15e86b1c
+2025-04-17 12:34:13,700 - INFO - Deleting content files: Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 12:34:13,700 - INFO - Deleting content: /home/user/Desktop/torrents/Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 12:34:13,701 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 12:34:13,701 - INFO - Successfully processed torrent: Bumblebee (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 12:34:13,702 - INFO - Uploading torrent: My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:34:13,702 - INFO - Starting upload: /home/user/Desktop/torrents/My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:34:13,702 - INFO - Uploading directory of size 1667.06 MB
+2025-04-17 12:37:33,972 - INFO - Successfully uploaded to onedrive:Torrents/My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:37:33,972 - INFO - Verifying upload for: My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:37:33,972 - INFO - Verifying upload: /home/user/Desktop/torrents/My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:37:35,607 - INFO - Upload verification successful for /home/user/Desktop/torrents/My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:37:35,611 - INFO - Deleting torrent from qBittorrent: My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:37:35,611 - INFO - Deleting torrent with hash 1fecbbe9c6268cd9195e0101067fde9b01676fbe (delete_files=False)
+2025-04-17 12:37:35,619 - INFO - Successfully deleted torrent with hash 1fecbbe9c6268cd9195e0101067fde9b01676fbe
+2025-04-17 12:37:35,619 - INFO - Deleting content files: My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:37:35,619 - INFO - Deleting content: /home/user/Desktop/torrents/My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:37:35,621 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:37:35,621 - INFO - Successfully processed torrent: My Penguin Friend (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 12:37:35,622 - INFO - Uploading torrent: Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-17 12:37:35,622 - INFO - Starting upload: /home/user/Desktop/torrents/Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX] -> onedrive:Torrents/Green And Gold (2025) [1080p] [WEBRip] [x265] [10bit] [YTS.MX]
+2025-04-17 12:37:35,622 - INFO - Uploading directory of size 1466.85 MB
