@@ -770,3 +770,17 @@
 2025-04-17 09:49:12,980 - INFO - Uploading torrent: The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 09:49:12,980 - INFO - Starting upload: /home/user/Desktop/torrents/The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 09:49:12,981 - INFO - Uploading directory of size 2322.06 MB
+2025-04-17 09:54:43,921 - INFO - Successfully uploaded to onedrive:Torrents/The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:54:43,922 - INFO - Verifying upload for: The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:54:43,922 - INFO - Verifying upload: /home/user/Desktop/torrents/The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:54:46,467 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:54:46,470 - INFO - Deleting torrent from qBittorrent: The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:54:46,470 - INFO - Deleting torrent with hash 15d16c3018040ad862277e65882d5ce9be09d5d2 (delete_files=False)
+2025-04-17 09:54:46,478 - INFO - Successfully deleted torrent with hash 15d16c3018040ad862277e65882d5ce9be09d5d2
+2025-04-17 09:54:46,479 - INFO - Deleting content files: The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:54:46,479 - INFO - Deleting content: /home/user/Desktop/torrents/The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:54:46,480 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:54:46,480 - INFO - Successfully processed torrent: The Creator (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:54:46,480 - INFO - Uploading torrent: Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:54:46,480 - INFO - Starting upload: /home/user/Desktop/torrents/Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Nimona (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 09:54:46,480 - INFO - Uploading directory of size 1762.37 MB
