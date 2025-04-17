@@ -1994,3 +1994,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 16:28:33,224 - INFO - Uploading torrent: Titanic (1997) [1080p] [YTS.AG]
 2025-04-17 16:28:33,224 - INFO - Starting upload: /home/user/Desktop/torrents/Titanic (1997) [1080p] [YTS.AG] -> onedrive:Torrents/Titanic (1997) [1080p] [YTS.AG]
 2025-04-17 16:28:33,224 - INFO - Uploading directory of size 3037.69 MB
+2025-04-17 16:35:31,676 - INFO - Successfully uploaded to onedrive:Torrents/Titanic (1997) [1080p] [YTS.AG]
+2025-04-17 16:35:31,676 - INFO - Verifying upload for: Titanic (1997) [1080p] [YTS.AG]
+2025-04-17 16:35:31,676 - INFO - Verifying upload: /home/user/Desktop/torrents/Titanic (1997) [1080p] [YTS.AG] -> onedrive:Torrents/Titanic (1997) [1080p] [YTS.AG]
+2025-04-17 16:35:33,516 - INFO - Upload verification successful for /home/user/Desktop/torrents/Titanic (1997) [1080p] [YTS.AG]
+2025-04-17 16:35:33,521 - INFO - Deleting torrent from qBittorrent: Titanic (1997) [1080p] [YTS.AG]
+2025-04-17 16:35:33,521 - INFO - Deleting torrent with hash 98cd5d90252265f1c59ab47330ff4c39f48ccc78 (delete_files=False)
+2025-04-17 16:35:33,530 - INFO - Successfully deleted torrent with hash 98cd5d90252265f1c59ab47330ff4c39f48ccc78
+2025-04-17 16:35:33,530 - INFO - Deleting content files: Titanic (1997) [1080p] [YTS.AG]
+2025-04-17 16:35:33,531 - INFO - Deleting content: /home/user/Desktop/torrents/Titanic (1997) [1080p] [YTS.AG]
+2025-04-17 16:35:33,533 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Titanic (1997) [1080p] [YTS.AG]
+2025-04-17 16:35:33,533 - INFO - Successfully processed torrent: Titanic (1997) [1080p] [YTS.AG]
+2025-04-17 16:35:33,533 - INFO - Uploading torrent: Ben 10 Omniverse Seasons 5 to 8 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 16:35:33,533 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 Omniverse Seasons 5 to 8 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 Omniverse Seasons 5 to 8 Complete 720p WEB-DL x264 [i_c]
+2025-04-17 16:35:33,534 - INFO - Uploading directory of size 8916.80 MB
