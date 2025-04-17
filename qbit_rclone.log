@@ -1416,3 +1416,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 13:04:20,791 - INFO - Uploading torrent: The Revenant (2015) [1080p] [YTS.AG]
 2025-04-17 13:04:20,791 - INFO - Starting upload: /home/user/Desktop/torrents/The Revenant (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Revenant (2015) [1080p] [YTS.AG]
 2025-04-17 13:04:20,792 - INFO - Uploading directory of size 2445.29 MB
+2025-04-17 13:10:45,661 - INFO - Successfully uploaded to onedrive:Torrents/The Revenant (2015) [1080p] [YTS.AG]
+2025-04-17 13:10:45,662 - INFO - Verifying upload for: The Revenant (2015) [1080p] [YTS.AG]
+2025-04-17 13:10:45,662 - INFO - Verifying upload: /home/user/Desktop/torrents/The Revenant (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Revenant (2015) [1080p] [YTS.AG]
+2025-04-17 13:10:47,890 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Revenant (2015) [1080p] [YTS.AG]
+2025-04-17 13:10:47,893 - INFO - Deleting torrent from qBittorrent: The Revenant (2015) [1080p] [YTS.AG]
+2025-04-17 13:10:47,894 - INFO - Deleting torrent with hash 931a5bc5ce3767168d00f92a2e4cffe472b9ce54 (delete_files=False)
+2025-04-17 13:10:47,904 - INFO - Successfully deleted torrent with hash 931a5bc5ce3767168d00f92a2e4cffe472b9ce54
+2025-04-17 13:10:47,904 - INFO - Deleting content files: The Revenant (2015) [1080p] [YTS.AG]
+2025-04-17 13:10:47,904 - INFO - Deleting content: /home/user/Desktop/torrents/The Revenant (2015) [1080p] [YTS.AG]
+2025-04-17 13:10:47,905 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Revenant (2015) [1080p] [YTS.AG]
+2025-04-17 13:10:47,905 - INFO - Successfully processed torrent: The Revenant (2015) [1080p] [YTS.AG]
+2025-04-17 13:10:47,905 - INFO - Uploading torrent: Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:10:47,906 - INFO - Starting upload: /home/user/Desktop/torrents/Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Deadpool 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 13:10:47,906 - INFO - Uploading directory of size 2180.58 MB
