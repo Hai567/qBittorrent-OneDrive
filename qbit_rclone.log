@@ -940,3 +940,17 @@
 2025-04-17 10:46:14,580 - INFO - Uploading torrent: Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 10:46:14,580 - INFO - Starting upload: /home/user/Desktop/torrents/Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-17 10:46:14,580 - INFO - Uploading directory of size 2429.80 MB
+2025-04-17 10:51:00,562 - INFO - Successfully uploaded to onedrive:Torrents/Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:51:00,562 - INFO - Verifying upload for: Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:51:00,562 - INFO - Verifying upload: /home/user/Desktop/torrents/Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:51:02,932 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:51:02,935 - INFO - Deleting torrent from qBittorrent: Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:51:02,936 - INFO - Deleting torrent with hash 06e20b2a7c632df9835ccd933138ba0a9ccdb324 (delete_files=False)
+2025-04-17 10:51:02,945 - INFO - Successfully deleted torrent with hash 06e20b2a7c632df9835ccd933138ba0a9ccdb324
+2025-04-17 10:51:02,946 - INFO - Deleting content files: Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:51:02,946 - INFO - Deleting content: /home/user/Desktop/torrents/Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:51:02,947 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:51:02,947 - INFO - Successfully processed torrent: Mission Impossible - Fallout (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:51:02,947 - INFO - Uploading torrent: Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:51:02,947 - INFO - Starting upload: /home/user/Desktop/torrents/Ready Player One (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Ready Player One (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 10:51:02,947 - INFO - Uploading directory of size 2292.33 MB
