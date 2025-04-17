@@ -364,3 +364,14 @@
 2025-04-17 01:41:09,583 - INFO - Uploading torrent: Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 01:41:09,583 - INFO - Starting upload: /home/user/Desktop/torrents/Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 01:41:09,583 - INFO - Uploading directory of size 1991.76 MB
+2025-04-17 01:45:21,188 - INFO - Successfully uploaded to onedrive:Torrents/Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:45:21,189 - INFO - Verifying upload for: Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:45:21,189 - INFO - Verifying upload: /home/user/Desktop/torrents/Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:45:23,967 - INFO - Upload verification successful for /home/user/Desktop/torrents/Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:45:23,970 - INFO - Deleting torrent from qBittorrent: Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:45:23,970 - INFO - Deleting torrent with hash 775da244f569d6614c44094899d223e3934ce1c2 (delete_files=False)
+2025-04-17 01:45:23,982 - INFO - Successfully deleted torrent with hash 775da244f569d6614c44094899d223e3934ce1c2
+2025-04-17 01:45:23,982 - INFO - Deleting content files: Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:45:23,982 - INFO - Deleting content: /home/user/Desktop/torrents/Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:45:23,985 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:45:23,985 - INFO - Successfully processed torrent: Wonka (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
