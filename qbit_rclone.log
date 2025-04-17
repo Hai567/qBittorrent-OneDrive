@@ -1826,3 +1826,31 @@ OSError: [Errno 28] No space left on device
 2025-04-17 15:27:12,425 - INFO - Uploading torrent: Mission Impossible Ghost Protocol (2011) [1080p]
 2025-04-17 15:27:12,425 - INFO - Starting upload: /home/user/Desktop/torrents/Mission Impossible Ghost Protocol (2011) [1080p] -> onedrive:Torrents/Mission Impossible Ghost Protocol (2011) [1080p]
 2025-04-17 15:27:12,425 - INFO - Uploading directory of size 1436.53 MB
+2025-04-17 15:30:40,205 - INFO - Successfully uploaded to onedrive:Torrents/Mission Impossible Ghost Protocol (2011) [1080p]
+2025-04-17 15:30:40,205 - INFO - Verifying upload for: Mission Impossible Ghost Protocol (2011) [1080p]
+2025-04-17 15:30:40,205 - INFO - Verifying upload: /home/user/Desktop/torrents/Mission Impossible Ghost Protocol (2011) [1080p] -> onedrive:Torrents/Mission Impossible Ghost Protocol (2011) [1080p]
+2025-04-17 15:30:42,324 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mission Impossible Ghost Protocol (2011) [1080p]
+2025-04-17 15:30:42,328 - INFO - Deleting torrent from qBittorrent: Mission Impossible Ghost Protocol (2011) [1080p]
+2025-04-17 15:30:42,328 - INFO - Deleting torrent with hash ee02fb104c549a1ec0e3aeeef2025e3b1a71f7ee (delete_files=False)
+2025-04-17 15:30:42,339 - INFO - Successfully deleted torrent with hash ee02fb104c549a1ec0e3aeeef2025e3b1a71f7ee
+2025-04-17 15:30:42,339 - INFO - Deleting content files: Mission Impossible Ghost Protocol (2011) [1080p]
+2025-04-17 15:30:42,339 - INFO - Deleting content: /home/user/Desktop/torrents/Mission Impossible Ghost Protocol (2011) [1080p]
+2025-04-17 15:30:42,344 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mission Impossible Ghost Protocol (2011) [1080p]
+2025-04-17 15:30:42,345 - INFO - Successfully processed torrent: Mission Impossible Ghost Protocol (2011) [1080p]
+2025-04-17 15:30:42,345 - INFO - Uploading torrent: The Impossible (2012) [1080p]
+2025-04-17 15:30:42,345 - INFO - Starting upload: /home/user/Desktop/torrents/The Impossible (2012) [1080p] -> onedrive:Torrents/The Impossible (2012) [1080p]
+2025-04-17 15:30:42,345 - INFO - Uploading directory of size 1430.05 MB
+2025-04-17 15:33:31,410 - INFO - Successfully uploaded to onedrive:Torrents/The Impossible (2012) [1080p]
+2025-04-17 15:33:31,410 - INFO - Verifying upload for: The Impossible (2012) [1080p]
+2025-04-17 15:33:31,410 - INFO - Verifying upload: /home/user/Desktop/torrents/The Impossible (2012) [1080p] -> onedrive:Torrents/The Impossible (2012) [1080p]
+2025-04-17 15:33:33,662 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Impossible (2012) [1080p]
+2025-04-17 15:33:33,667 - INFO - Deleting torrent from qBittorrent: The Impossible (2012) [1080p]
+2025-04-17 15:33:33,667 - INFO - Deleting torrent with hash d6688d61661314fa665d6b34c8583dd1b3ae278d (delete_files=False)
+2025-04-17 15:33:33,680 - INFO - Successfully deleted torrent with hash d6688d61661314fa665d6b34c8583dd1b3ae278d
+2025-04-17 15:33:33,681 - INFO - Deleting content files: The Impossible (2012) [1080p]
+2025-04-17 15:33:33,681 - INFO - Deleting content: /home/user/Desktop/torrents/The Impossible (2012) [1080p]
+2025-04-17 15:33:33,684 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Impossible (2012) [1080p]
+2025-04-17 15:33:33,685 - INFO - Successfully processed torrent: The Impossible (2012) [1080p]
+2025-04-17 15:33:33,685 - INFO - Uploading torrent: Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-17 15:33:33,685 - INFO - Starting upload: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Da Vincis Demons 2013 Season 2 Complete 720p BluRay x264 [i_c]
+2025-04-17 15:33:33,686 - INFO - Uploading directory of size 8003.36 MB
