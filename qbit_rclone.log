@@ -334,3 +334,14 @@
 2025-04-17 01:29:44,547 - INFO - Uploading torrent: Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 01:29:44,547 - INFO - Starting upload: /home/user/Desktop/torrents/Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-17 01:29:44,547 - INFO - Uploading directory of size 1776.87 MB
+2025-04-17 01:33:21,414 - INFO - Successfully uploaded to onedrive:Torrents/Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:33:21,414 - INFO - Verifying upload for: Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:33:21,414 - INFO - Verifying upload: /home/user/Desktop/torrents/Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:33:24,325 - INFO - Upload verification successful for /home/user/Desktop/torrents/Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:33:24,328 - INFO - Deleting torrent from qBittorrent: Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:33:24,328 - INFO - Deleting torrent with hash 12469d4bfaf3711ae7292473b15690324ef2c0a9 (delete_files=False)
+2025-04-17 01:33:24,340 - INFO - Successfully deleted torrent with hash 12469d4bfaf3711ae7292473b15690324ef2c0a9
+2025-04-17 01:33:24,340 - INFO - Deleting content files: Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:33:24,341 - INFO - Deleting content: /home/user/Desktop/torrents/Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:33:24,343 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:33:24,344 - INFO - Successfully processed torrent: Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
