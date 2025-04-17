@@ -2106,3 +2106,31 @@ OSError: [Errno 28] No space left on device
 2025-04-17 17:02:47,872 - INFO - Uploading torrent: Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-17 17:02:47,872 - INFO - Starting upload: /home/user/Desktop/torrents/Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-17 17:02:47,872 - INFO - Uploading directory of size 1436.94 MB
+2025-04-17 17:05:32,730 - INFO - Successfully uploaded to onedrive:Torrents/Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 17:05:32,730 - INFO - Verifying upload for: Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 17:05:32,730 - INFO - Verifying upload: /home/user/Desktop/torrents/Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 17:05:34,967 - INFO - Upload verification successful for /home/user/Desktop/torrents/Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 17:05:34,970 - INFO - Deleting torrent from qBittorrent: Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 17:05:34,970 - INFO - Deleting torrent with hash 545faa50ed66f9e47eff4186039e883481e576f0 (delete_files=False)
+2025-04-17 17:05:34,978 - INFO - Successfully deleted torrent with hash 545faa50ed66f9e47eff4186039e883481e576f0
+2025-04-17 17:05:34,978 - INFO - Deleting content files: Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 17:05:34,978 - INFO - Deleting content: /home/user/Desktop/torrents/Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 17:05:34,983 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 17:05:34,983 - INFO - Successfully processed torrent: Rita.2024.SPANISH.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-17 17:05:34,983 - INFO - Uploading torrent: Rampage (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 17:05:34,983 - INFO - Starting upload: /home/user/Desktop/torrents/Rampage (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Rampage (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 17:05:34,983 - INFO - Uploading directory of size 1767.54 MB
+2025-04-17 17:09:22,842 - INFO - Successfully uploaded to onedrive:Torrents/Rampage (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 17:09:22,843 - INFO - Verifying upload for: Rampage (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 17:09:22,843 - INFO - Verifying upload: /home/user/Desktop/torrents/Rampage (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Rampage (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 17:09:25,259 - INFO - Upload verification successful for /home/user/Desktop/torrents/Rampage (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 17:09:25,267 - INFO - Deleting torrent from qBittorrent: Rampage (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 17:09:25,267 - INFO - Deleting torrent with hash 5b0437a77f3f48f8e946ee70e0fa8361d3759bd5 (delete_files=False)
+2025-04-17 17:09:25,284 - INFO - Successfully deleted torrent with hash 5b0437a77f3f48f8e946ee70e0fa8361d3759bd5
+2025-04-17 17:09:25,285 - INFO - Deleting content files: Rampage (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 17:09:25,285 - INFO - Deleting content: /home/user/Desktop/torrents/Rampage (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 17:09:25,296 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Rampage (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 17:09:25,297 - INFO - Successfully processed torrent: Rampage (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-17 17:09:25,297 - INFO - Uploading torrent: Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-17 17:09:25,297 - INFO - Starting upload: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Da Vincis Demons 2013 Season 1 Complete 720p BluRay x264 [i_c]
+2025-04-17 17:09:25,298 - INFO - Uploading directory of size 7013.44 MB
