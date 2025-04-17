@@ -329,3 +329,8 @@
 2025-04-17 01:19:44,336 - INFO - Found 1 completed torrents
 2025-04-17 01:24:44,437 - INFO - Checking for completed torrents...
 2025-04-17 01:24:44,441 - INFO - Found 1 completed torrents
+2025-04-17 01:29:44,542 - INFO - Checking for completed torrents...
+2025-04-17 01:29:44,547 - INFO - Found 2 completed torrents
+2025-04-17 01:29:44,547 - INFO - Uploading torrent: Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:29:44,547 - INFO - Starting upload: /home/user/Desktop/torrents/Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Next Goal Wins (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-17 01:29:44,547 - INFO - Uploading directory of size 1776.87 MB
