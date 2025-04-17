@@ -968,3 +968,17 @@
 2025-04-17 10:55:32,256 - INFO - Uploading torrent: The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
 2025-04-17 10:55:32,256 - INFO - Starting upload: /home/user/Desktop/torrents/The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx] -> onedrive:Torrents/The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
 2025-04-17 10:55:32,256 - INFO - Uploading directory of size 15410.81 MB
+2025-04-17 11:07:48,392 - INFO - Successfully uploaded to onedrive:Torrents/The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
+2025-04-17 11:07:48,392 - INFO - Verifying upload for: The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
+2025-04-17 11:07:48,393 - INFO - Verifying upload: /home/user/Desktop/torrents/The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx] -> onedrive:Torrents/The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
+2025-04-17 11:07:50,744 - INFO - Upload verification successful for /home/user/Desktop/torrents/The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
+2025-04-17 11:07:50,748 - INFO - Deleting torrent from qBittorrent: The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
+2025-04-17 11:07:50,748 - INFO - Deleting torrent with hash bf3f880e541ca2181c6ba5e4eedb930da6425841 (delete_files=False)
+2025-04-17 11:07:50,756 - INFO - Successfully deleted torrent with hash bf3f880e541ca2181c6ba5e4eedb930da6425841
+2025-04-17 11:07:50,757 - INFO - Deleting content files: The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
+2025-04-17 11:07:50,757 - INFO - Deleting content: /home/user/Desktop/torrents/The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
+2025-04-17 11:07:50,829 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
+2025-04-17 11:07:50,829 - INFO - Successfully processed torrent: The.Crown.S03.COMPLETE.1080p.WEB.x264-AMRAP[TGx]
+2025-04-17 11:07:50,829 - INFO - Uploading torrent: Transformers 3 - Dark of the Moon (2011) [1080p]
+2025-04-17 11:07:50,829 - INFO - Starting upload: /home/user/Desktop/torrents/Transformers 3 - Dark of the Moon (2011) [1080p] -> onedrive:Torrents/Transformers 3 - Dark of the Moon (2011) [1080p]
+2025-04-17 11:07:50,829 - INFO - Uploading directory of size 1747.30 MB
