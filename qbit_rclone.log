@@ -2993,3 +2993,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 05:50:00,831 - INFO - Uploading torrent: Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 05:50:00,831 - INFO - Starting upload: /home/user/Desktop/torrents/Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 05:50:00,831 - INFO - Uploading directory of size 2200.23 MB
+2025-04-18 05:55:50,654 - INFO - Successfully uploaded to onedrive:Torrents/Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:55:50,655 - INFO - Verifying upload for: Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:55:50,655 - INFO - Verifying upload: /home/user/Desktop/torrents/Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:55:53,055 - INFO - Upload verification successful for /home/user/Desktop/torrents/Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:55:53,059 - INFO - Deleting torrent from qBittorrent: Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:55:53,059 - INFO - Deleting torrent with hash 691229406dcaeadc6ec575720b7ed115a1683948 (delete_files=False)
+2025-04-18 05:55:53,072 - INFO - Successfully deleted torrent with hash 691229406dcaeadc6ec575720b7ed115a1683948
+2025-04-18 05:55:53,072 - INFO - Deleting content files: Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:55:53,072 - INFO - Deleting content: /home/user/Desktop/torrents/Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:55:53,075 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:55:53,075 - INFO - Successfully processed torrent: Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:55:53,075 - INFO - Uploading torrent: X-Men The Last Stand (2006) [1080p]
+2025-04-18 05:55:53,075 - INFO - Starting upload: /home/user/Desktop/torrents/X-Men The Last Stand (2006) [1080p] -> onedrive:Torrents/X-Men The Last Stand (2006) [1080p]
+2025-04-18 05:55:53,075 - INFO - Uploading directory of size 1340.06 MB
+2025-04-18 05:59:24,946 - INFO - Successfully uploaded to onedrive:Torrents/X-Men The Last Stand (2006) [1080p]
+2025-04-18 05:59:24,946 - INFO - Verifying upload for: X-Men The Last Stand (2006) [1080p]
+2025-04-18 05:59:24,946 - INFO - Verifying upload: /home/user/Desktop/torrents/X-Men The Last Stand (2006) [1080p] -> onedrive:Torrents/X-Men The Last Stand (2006) [1080p]
+2025-04-18 05:59:27,593 - INFO - Upload verification successful for /home/user/Desktop/torrents/X-Men The Last Stand (2006) [1080p]
+2025-04-18 05:59:27,597 - INFO - Deleting torrent from qBittorrent: X-Men The Last Stand (2006) [1080p]
+2025-04-18 05:59:27,597 - INFO - Deleting torrent with hash b1fa262ed4a1df9875d7438980f14a20f4dffa13 (delete_files=False)
+2025-04-18 05:59:27,610 - INFO - Successfully deleted torrent with hash b1fa262ed4a1df9875d7438980f14a20f4dffa13
+2025-04-18 05:59:27,610 - INFO - Deleting content files: X-Men The Last Stand (2006) [1080p]
+2025-04-18 05:59:27,611 - INFO - Deleting content: /home/user/Desktop/torrents/X-Men The Last Stand (2006) [1080p]
+2025-04-18 05:59:27,612 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/X-Men The Last Stand (2006) [1080p]
+2025-04-18 05:59:27,612 - INFO - Successfully processed torrent: X-Men The Last Stand (2006) [1080p]
+2025-04-18 05:59:27,612 - INFO - Uploading torrent: Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:59:27,614 - INFO - Starting upload: /home/user/Desktop/torrents/Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Birds.Of.Prey.And.The.Fantabulous.Emancipation.Of.One.Harley.Quinn.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4 -> onedrive:Torrents/Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:59:27,614 - INFO - Uploading file of size 2055.29 MB
