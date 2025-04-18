@@ -2881,3 +2881,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 05:08:12,826 - INFO - Uploading torrent: Toy Story 2 (1999) [1080p]
 2025-04-18 05:08:12,826 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story 2 (1999) [1080p] -> onedrive:Torrents/Toy Story 2 (1999) [1080p]
 2025-04-18 05:08:12,826 - INFO - Uploading directory of size 1329.40 MB
+2025-04-18 05:12:16,552 - INFO - Successfully uploaded to onedrive:Torrents/Toy Story 2 (1999) [1080p]
+2025-04-18 05:12:16,553 - INFO - Verifying upload for: Toy Story 2 (1999) [1080p]
+2025-04-18 05:12:16,553 - INFO - Verifying upload: /home/user/Desktop/torrents/Toy Story 2 (1999) [1080p] -> onedrive:Torrents/Toy Story 2 (1999) [1080p]
+2025-04-18 05:12:18,923 - INFO - Upload verification successful for /home/user/Desktop/torrents/Toy Story 2 (1999) [1080p]
+2025-04-18 05:12:18,927 - INFO - Deleting torrent from qBittorrent: Toy Story 2 (1999) [1080p]
+2025-04-18 05:12:18,927 - INFO - Deleting torrent with hash 43054fc0fa7f530d0b6575e6ff8c2239adedb09a (delete_files=False)
+2025-04-18 05:12:18,937 - INFO - Successfully deleted torrent with hash 43054fc0fa7f530d0b6575e6ff8c2239adedb09a
+2025-04-18 05:12:18,937 - INFO - Deleting content files: Toy Story 2 (1999) [1080p]
+2025-04-18 05:12:18,938 - INFO - Deleting content: /home/user/Desktop/torrents/Toy Story 2 (1999) [1080p]
+2025-04-18 05:12:18,939 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Toy Story 2 (1999) [1080p]
+2025-04-18 05:12:18,939 - INFO - Successfully processed torrent: Toy Story 2 (1999) [1080p]
+2025-04-18 05:12:18,939 - INFO - Uploading torrent: Ghostbusters (2016) [1080p] [YTS.AG]
+2025-04-18 05:12:18,939 - INFO - Starting upload: /home/user/Desktop/torrents/Ghostbusters (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Ghostbusters (2016) [1080p] [YTS.AG]
+2025-04-18 05:12:18,939 - INFO - Uploading directory of size 2083.97 MB
