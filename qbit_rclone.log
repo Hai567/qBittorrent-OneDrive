@@ -2782,3 +2782,8 @@ OSError: [Errno 28] No space left on device
 2025-04-18 02:10:42,086 - INFO - Deleting content: /home/user/Desktop/torrents/Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
 2025-04-18 02:10:42,087 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
 2025-04-18 02:10:42,087 - INFO - Successfully processed torrent: Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:15:42,188 - INFO - Checking for completed torrents...
+2025-04-18 02:15:42,197 - INFO - Found 23 completed torrents
+2025-04-18 02:15:42,197 - INFO - Uploading torrent: Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:15:42,197 - INFO - Starting upload: /home/user/Desktop/torrents/Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:15:42,197 - INFO - Uploading directory of size 2022.22 MB
