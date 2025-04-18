@@ -3380,3 +3380,8 @@ OSError: [Errno 28] No space left on device
 2025-04-18 14:08:11,372 - INFO - Deleting content: /home/user/Desktop/torrents/Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-18 14:08:11,374 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-18 14:08:11,374 - INFO - Successfully processed torrent: Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 14:13:11,384 - INFO - Checking for completed torrents...
+2025-04-18 14:13:11,390 - INFO - Found 7 completed torrents
+2025-04-18 14:13:11,390 - INFO - Uploading torrent: Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 14:13:11,390 - INFO - Starting upload: /home/user/Desktop/torrents/Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 14:13:11,390 - INFO - Uploading directory of size 2339.41 MB
