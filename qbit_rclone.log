@@ -3645,3 +3645,14 @@ OSError: [Errno 28] No space left on device
 2025-04-18 15:59:28,554 - INFO - Uploading torrent: Blade Runner 2049 (2017) [1080p] [YTS.AG]
 2025-04-18 15:59:28,554 - INFO - Starting upload: /home/user/Desktop/torrents/Blade Runner 2049 (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Blade Runner 2049 (2017) [1080p] [YTS.AG]
 2025-04-18 15:59:28,554 - INFO - Uploading directory of size 2568.95 MB
+2025-04-18 16:13:59,298 - INFO - Successfully uploaded to onedrive:Torrents/Blade Runner 2049 (2017) [1080p] [YTS.AG]
+2025-04-18 16:13:59,299 - INFO - Verifying upload for: Blade Runner 2049 (2017) [1080p] [YTS.AG]
+2025-04-18 16:13:59,299 - INFO - Verifying upload: /home/user/Desktop/torrents/Blade Runner 2049 (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Blade Runner 2049 (2017) [1080p] [YTS.AG]
+2025-04-18 16:14:00,630 - INFO - Upload verification successful for /home/user/Desktop/torrents/Blade Runner 2049 (2017) [1080p] [YTS.AG]
+2025-04-18 16:14:00,639 - INFO - Deleting torrent from qBittorrent: Blade Runner 2049 (2017) [1080p] [YTS.AG]
+2025-04-18 16:14:00,639 - INFO - Deleting torrent with hash 8f4f1c37649d5a6276a3a789b4ae62feeff23d27 (delete_files=False)
+2025-04-18 16:14:00,651 - INFO - Successfully deleted torrent with hash 8f4f1c37649d5a6276a3a789b4ae62feeff23d27
+2025-04-18 16:14:00,651 - INFO - Deleting content files: Blade Runner 2049 (2017) [1080p] [YTS.AG]
+2025-04-18 16:14:00,651 - INFO - Deleting content: /home/user/Desktop/torrents/Blade Runner 2049 (2017) [1080p] [YTS.AG]
+2025-04-18 16:14:00,652 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Blade Runner 2049 (2017) [1080p] [YTS.AG]
+2025-04-18 16:14:00,653 - INFO - Successfully processed torrent: Blade Runner 2049 (2017) [1080p] [YTS.AG]
