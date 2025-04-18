@@ -3556,3 +3556,22 @@ OSError: [Errno 28] No space left on device
 2025-04-18 15:25:07,083 - INFO - Deleting content: /home/user/Desktop/torrents/Mortal Kombat (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 15:25:07,085 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mortal Kombat (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 15:25:07,085 - INFO - Successfully processed torrent: Mortal Kombat (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 15:30:07,100 - INFO - Checking for completed torrents...
+2025-04-18 15:30:07,106 - INFO - Found 10 completed torrents
+2025-04-18 15:30:07,106 - INFO - Uploading torrent: The Boss Baby (2017) [1080p] [YTS.AG]
+2025-04-18 15:30:07,106 - INFO - Starting upload: /home/user/Desktop/torrents/The Boss Baby (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Boss Baby (2017) [1080p] [YTS.AG]
+2025-04-18 15:30:07,106 - INFO - Uploading directory of size 1513.04 MB
+2025-04-18 15:33:16,956 - INFO - Successfully uploaded to onedrive:Torrents/The Boss Baby (2017) [1080p] [YTS.AG]
+2025-04-18 15:33:16,957 - INFO - Verifying upload for: The Boss Baby (2017) [1080p] [YTS.AG]
+2025-04-18 15:33:16,957 - INFO - Verifying upload: /home/user/Desktop/torrents/The Boss Baby (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Boss Baby (2017) [1080p] [YTS.AG]
+2025-04-18 15:33:19,243 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Boss Baby (2017) [1080p] [YTS.AG]
+2025-04-18 15:33:19,248 - INFO - Deleting torrent from qBittorrent: The Boss Baby (2017) [1080p] [YTS.AG]
+2025-04-18 15:33:19,248 - INFO - Deleting torrent with hash 3997ac6db4c767b9cc3de84d25e3e912cf24612e (delete_files=False)
+2025-04-18 15:33:19,257 - INFO - Successfully deleted torrent with hash 3997ac6db4c767b9cc3de84d25e3e912cf24612e
+2025-04-18 15:33:19,257 - INFO - Deleting content files: The Boss Baby (2017) [1080p] [YTS.AG]
+2025-04-18 15:33:19,257 - INFO - Deleting content: /home/user/Desktop/torrents/The Boss Baby (2017) [1080p] [YTS.AG]
+2025-04-18 15:33:19,258 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Boss Baby (2017) [1080p] [YTS.AG]
+2025-04-18 15:33:19,258 - INFO - Successfully processed torrent: The Boss Baby (2017) [1080p] [YTS.AG]
+2025-04-18 15:33:19,258 - INFO - Uploading torrent: Batman The Dark Knight (2008) [1080p]
+2025-04-18 15:33:19,259 - INFO - Starting upload: /home/user/Desktop/torrents/Batman The Dark Knight (2008) [1080p] -> onedrive:Torrents/Batman The Dark Knight (2008) [1080p]
+2025-04-18 15:33:19,259 - INFO - Uploading directory of size 1743.85 MB
