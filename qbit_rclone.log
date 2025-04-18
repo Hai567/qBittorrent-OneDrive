@@ -2239,3 +2239,31 @@ OSError: [Errno 28] No space left on device
 2025-04-17 23:57:53,714 - INFO - Uploading torrent: Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
 2025-04-17 23:57:53,714 - INFO - Starting upload: /home/user/Desktop/torrents/Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p] -> onedrive:Torrents/Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
 2025-04-17 23:57:53,715 - INFO - Uploading directory of size 2044.16 MB
+2025-04-18 00:01:28,521 - INFO - Successfully uploaded to onedrive:Torrents/Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
+2025-04-18 00:01:28,521 - INFO - Verifying upload for: Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
+2025-04-18 00:01:28,521 - INFO - Verifying upload: /home/user/Desktop/torrents/Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p] -> onedrive:Torrents/Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
+2025-04-18 00:01:30,908 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
+2025-04-18 00:01:30,913 - INFO - Deleting torrent from qBittorrent: Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
+2025-04-18 00:01:30,913 - INFO - Deleting torrent with hash 9bd2a8e0910ebf04594f0781d85c64ab9b6878ce (delete_files=False)
+2025-04-18 00:01:30,922 - INFO - Successfully deleted torrent with hash 9bd2a8e0910ebf04594f0781d85c64ab9b6878ce
+2025-04-18 00:01:30,922 - INFO - Deleting content files: Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
+2025-04-18 00:01:30,922 - INFO - Deleting content: /home/user/Desktop/torrents/Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
+2025-04-18 00:01:30,935 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
+2025-04-18 00:01:30,936 - INFO - Successfully processed torrent: Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
+2025-04-18 00:01:30,936 - INFO - Uploading torrent: Pirates of the Caribbean - On Stranger Tides (2011) [1080p]
+2025-04-18 00:01:30,936 - INFO - Starting upload: /home/user/Desktop/torrents/Pirates of the Caribbean - On Stranger Tides (2011) [1080p] -> onedrive:Torrents/Pirates of the Caribbean - On Stranger Tides (2011) [1080p]
+2025-04-18 00:01:30,936 - INFO - Uploading directory of size 2044.30 MB
+2025-04-18 00:05:05,686 - INFO - Successfully uploaded to onedrive:Torrents/Pirates of the Caribbean - On Stranger Tides (2011) [1080p]
+2025-04-18 00:05:05,687 - INFO - Verifying upload for: Pirates of the Caribbean - On Stranger Tides (2011) [1080p]
+2025-04-18 00:05:05,687 - INFO - Verifying upload: /home/user/Desktop/torrents/Pirates of the Caribbean - On Stranger Tides (2011) [1080p] -> onedrive:Torrents/Pirates of the Caribbean - On Stranger Tides (2011) [1080p]
+2025-04-18 00:05:07,963 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pirates of the Caribbean - On Stranger Tides (2011) [1080p]
+2025-04-18 00:05:07,967 - INFO - Deleting torrent from qBittorrent: Pirates of the Caribbean - On Stranger Tides (2011) [1080p]
+2025-04-18 00:05:07,968 - INFO - Deleting torrent with hash 851502f054ec0482a3bb9b9532d50f2b34e660ea (delete_files=False)
+2025-04-18 00:05:07,978 - INFO - Successfully deleted torrent with hash 851502f054ec0482a3bb9b9532d50f2b34e660ea
+2025-04-18 00:05:07,979 - INFO - Deleting content files: Pirates of the Caribbean - On Stranger Tides (2011) [1080p]
+2025-04-18 00:05:07,979 - INFO - Deleting content: /home/user/Desktop/torrents/Pirates of the Caribbean - On Stranger Tides (2011) [1080p]
+2025-04-18 00:05:07,980 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pirates of the Caribbean - On Stranger Tides (2011) [1080p]
+2025-04-18 00:05:07,981 - INFO - Successfully processed torrent: Pirates of the Caribbean - On Stranger Tides (2011) [1080p]
+2025-04-18 00:05:07,981 - INFO - Uploading torrent: Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 00:05:07,981 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 00:05:07,981 - INFO - Uploading directory of size 5280.44 MB
