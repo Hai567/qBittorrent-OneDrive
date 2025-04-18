@@ -3496,3 +3496,8 @@ OSError: [Errno 28] No space left on device
 2025-04-18 14:44:38,358 - INFO - Deleting content: /home/user/Desktop/torrents/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-18 14:44:38,358 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-18 14:44:38,359 - INFO - Successfully processed torrent: The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:49:38,458 - INFO - Checking for completed torrents...
+2025-04-18 14:49:38,463 - INFO - Found 4 completed torrents
+2025-04-18 14:49:38,463 - INFO - Uploading torrent: Mad Max Fury Road (2015) [1080p]
+2025-04-18 14:49:38,464 - INFO - Starting upload: /home/user/Desktop/torrents/Mad Max Fury Road (2015) [1080p] -> onedrive:Torrents/Mad Max Fury Road (2015) [1080p]
+2025-04-18 14:49:38,464 - INFO - Uploading directory of size 1889.26 MB
