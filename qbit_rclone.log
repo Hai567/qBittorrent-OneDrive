@@ -3115,3 +3115,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 09:13:09,720 - INFO - Uploading torrent: Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-18 09:13:09,720 - INFO - Starting upload: /home/user/Desktop/torrents/Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-18 09:13:09,720 - INFO - Uploading directory of size 1851.83 MB
+2025-04-18 09:18:54,794 - INFO - Successfully uploaded to onedrive:Torrents/Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-18 09:18:54,795 - INFO - Verifying upload for: Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-18 09:18:54,795 - INFO - Verifying upload: /home/user/Desktop/torrents/Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-18 09:18:57,258 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-18 09:18:57,264 - INFO - Deleting torrent from qBittorrent: Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-18 09:18:57,264 - INFO - Deleting torrent with hash 3d52fdcafb57ac6c0d70878adc3a488cc3b882a3 (delete_files=False)
+2025-04-18 09:18:57,273 - INFO - Successfully deleted torrent with hash 3d52fdcafb57ac6c0d70878adc3a488cc3b882a3
+2025-04-18 09:18:57,273 - INFO - Deleting content files: Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-18 09:18:57,273 - INFO - Deleting content: /home/user/Desktop/torrents/Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-18 09:18:57,275 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-18 09:18:57,275 - INFO - Successfully processed torrent: Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-18 09:18:57,275 - INFO - Uploading torrent: Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:18:57,275 - INFO - Starting upload: /home/user/Desktop/torrents/Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:18:57,275 - INFO - Uploading directory of size 2282.26 MB
