@@ -3182,3 +3182,8 @@ OSError: [Errno 28] No space left on device
 2025-04-18 09:37:11,548 - INFO - Deleting content: /home/user/Desktop/torrents/Mother Couch (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 09:37:11,549 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mother Couch (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 09:37:11,549 - INFO - Successfully processed torrent: Mother Couch (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:42:11,650 - INFO - Checking for completed torrents...
+2025-04-18 09:42:11,655 - INFO - Found 10 completed torrents
+2025-04-18 09:42:11,655 - INFO - Uploading torrent: Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 09:42:11,656 - INFO - Starting upload: /home/user/Desktop/torrents/Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 09:42:11,656 - INFO - Uploading directory of size 1690.78 MB
