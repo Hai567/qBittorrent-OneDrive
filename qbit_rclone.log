@@ -2463,3 +2463,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 00:48:00,711 - INFO - Uploading torrent: Transformers The Last Knight (2017) [1080p] [YTS.AG]
 2025-04-18 00:48:00,711 - INFO - Starting upload: /home/user/Desktop/torrents/Transformers The Last Knight (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Transformers The Last Knight (2017) [1080p] [YTS.AG]
 2025-04-18 00:48:00,711 - INFO - Uploading directory of size 2415.14 MB
+2025-04-18 00:52:09,131 - INFO - Successfully uploaded to onedrive:Torrents/Transformers The Last Knight (2017) [1080p] [YTS.AG]
+2025-04-18 00:52:09,131 - INFO - Verifying upload for: Transformers The Last Knight (2017) [1080p] [YTS.AG]
+2025-04-18 00:52:09,131 - INFO - Verifying upload: /home/user/Desktop/torrents/Transformers The Last Knight (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Transformers The Last Knight (2017) [1080p] [YTS.AG]
+2025-04-18 00:52:11,413 - INFO - Upload verification successful for /home/user/Desktop/torrents/Transformers The Last Knight (2017) [1080p] [YTS.AG]
+2025-04-18 00:52:11,418 - INFO - Deleting torrent from qBittorrent: Transformers The Last Knight (2017) [1080p] [YTS.AG]
+2025-04-18 00:52:11,418 - INFO - Deleting torrent with hash 76bca8612b2623149792dfc51ecdb8b0b0c95b73 (delete_files=False)
+2025-04-18 00:52:11,426 - INFO - Successfully deleted torrent with hash 76bca8612b2623149792dfc51ecdb8b0b0c95b73
+2025-04-18 00:52:11,427 - INFO - Deleting content files: Transformers The Last Knight (2017) [1080p] [YTS.AG]
+2025-04-18 00:52:11,427 - INFO - Deleting content: /home/user/Desktop/torrents/Transformers The Last Knight (2017) [1080p] [YTS.AG]
+2025-04-18 00:52:11,429 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Transformers The Last Knight (2017) [1080p] [YTS.AG]
+2025-04-18 00:52:11,430 - INFO - Successfully processed torrent: Transformers The Last Knight (2017) [1080p] [YTS.AG]
+2025-04-18 00:52:11,430 - INFO - Uploading torrent: Wonder Woman (2017) [1080p] [YTS.AG]
+2025-04-18 00:52:11,430 - INFO - Starting upload: /home/user/Desktop/torrents/Wonder Woman (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Wonder Woman (2017) [1080p] [YTS.AG]
+2025-04-18 00:52:11,430 - INFO - Uploading directory of size 2217.23 MB
