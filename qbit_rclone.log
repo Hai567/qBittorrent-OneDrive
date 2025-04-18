@@ -3385,3 +3385,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 14:13:11,390 - INFO - Uploading torrent: Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 14:13:11,390 - INFO - Starting upload: /home/user/Desktop/torrents/Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 14:13:11,390 - INFO - Uploading directory of size 2339.41 MB
+2025-04-18 14:17:41,319 - INFO - Successfully uploaded to onedrive:Torrents/Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 14:17:41,320 - INFO - Verifying upload for: Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 14:17:41,320 - INFO - Verifying upload: /home/user/Desktop/torrents/Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 14:17:43,613 - INFO - Upload verification successful for /home/user/Desktop/torrents/Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 14:17:43,619 - INFO - Deleting torrent from qBittorrent: Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 14:17:43,619 - INFO - Deleting torrent with hash b17e2c6ce8d901a59b77f68781500640e5c0d917 (delete_files=False)
+2025-04-18 14:17:43,629 - INFO - Successfully deleted torrent with hash b17e2c6ce8d901a59b77f68781500640e5c0d917
+2025-04-18 14:17:43,630 - INFO - Deleting content files: Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 14:17:43,630 - INFO - Deleting content: /home/user/Desktop/torrents/Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 14:17:43,631 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 14:17:43,631 - INFO - Successfully processed torrent: Bad Boys For Life (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 14:17:43,631 - INFO - Uploading torrent: Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:17:43,632 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:17:43,632 - INFO - Uploading directory of size 2463.66 MB
