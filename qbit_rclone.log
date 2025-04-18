@@ -3501,3 +3501,14 @@ OSError: [Errno 28] No space left on device
 2025-04-18 14:49:38,463 - INFO - Uploading torrent: Mad Max Fury Road (2015) [1080p]
 2025-04-18 14:49:38,464 - INFO - Starting upload: /home/user/Desktop/torrents/Mad Max Fury Road (2015) [1080p] -> onedrive:Torrents/Mad Max Fury Road (2015) [1080p]
 2025-04-18 14:49:38,464 - INFO - Uploading directory of size 1889.26 MB
+2025-04-18 14:54:02,340 - INFO - Successfully uploaded to onedrive:Torrents/Mad Max Fury Road (2015) [1080p]
+2025-04-18 14:54:02,340 - INFO - Verifying upload for: Mad Max Fury Road (2015) [1080p]
+2025-04-18 14:54:02,340 - INFO - Verifying upload: /home/user/Desktop/torrents/Mad Max Fury Road (2015) [1080p] -> onedrive:Torrents/Mad Max Fury Road (2015) [1080p]
+2025-04-18 14:54:04,639 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mad Max Fury Road (2015) [1080p]
+2025-04-18 14:54:04,645 - INFO - Deleting torrent from qBittorrent: Mad Max Fury Road (2015) [1080p]
+2025-04-18 14:54:04,645 - INFO - Deleting torrent with hash 13241fe16a2797b2a41b7822bde970274d6b687c (delete_files=False)
+2025-04-18 14:54:04,654 - INFO - Successfully deleted torrent with hash 13241fe16a2797b2a41b7822bde970274d6b687c
+2025-04-18 14:54:04,654 - INFO - Deleting content files: Mad Max Fury Road (2015) [1080p]
+2025-04-18 14:54:04,654 - INFO - Deleting content: /home/user/Desktop/torrents/Mad Max Fury Road (2015) [1080p]
+2025-04-18 14:54:04,655 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mad Max Fury Road (2015) [1080p]
+2025-04-18 14:54:04,655 - INFO - Successfully processed torrent: Mad Max Fury Road (2015) [1080p]
