@@ -3059,3 +3059,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 08:48:48,950 - INFO - Uploading torrent: Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 08:48:48,950 - INFO - Starting upload: /home/user/Desktop/torrents/Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 08:48:48,950 - INFO - Uploading directory of size 1649.96 MB
+2025-04-18 08:52:48,081 - INFO - Successfully uploaded to onedrive:Torrents/Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:52:48,081 - INFO - Verifying upload for: Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:52:48,081 - INFO - Verifying upload: /home/user/Desktop/torrents/Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:52:50,506 - INFO - Upload verification successful for /home/user/Desktop/torrents/Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:52:50,511 - INFO - Deleting torrent from qBittorrent: Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:52:50,511 - INFO - Deleting torrent with hash 5b53ca8da928fba588185890d114c3bfa6bf9345 (delete_files=False)
+2025-04-18 08:52:50,519 - INFO - Successfully deleted torrent with hash 5b53ca8da928fba588185890d114c3bfa6bf9345
+2025-04-18 08:52:50,519 - INFO - Deleting content files: Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:52:50,520 - INFO - Deleting content: /home/user/Desktop/torrents/Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:52:50,523 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:52:50,523 - INFO - Successfully processed torrent: Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:52:50,523 - INFO - Uploading torrent: Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:52:50,523 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:52:50,523 - INFO - Uploading directory of size 3294.11 MB
