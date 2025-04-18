@@ -3143,3 +3143,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 09:25:32,759 - INFO - Uploading torrent: The Magnificent Seven (2016) [1080p] [YTS.AG]
 2025-04-18 09:25:32,760 - INFO - Starting upload: /home/user/Desktop/torrents/The Magnificent Seven (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Magnificent Seven (2016) [1080p] [YTS.AG]
 2025-04-18 09:25:32,760 - INFO - Uploading directory of size 2078.55 MB
+2025-04-18 09:30:49,069 - INFO - Successfully uploaded to onedrive:Torrents/The Magnificent Seven (2016) [1080p] [YTS.AG]
+2025-04-18 09:30:49,069 - INFO - Verifying upload for: The Magnificent Seven (2016) [1080p] [YTS.AG]
+2025-04-18 09:30:49,069 - INFO - Verifying upload: /home/user/Desktop/torrents/The Magnificent Seven (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Magnificent Seven (2016) [1080p] [YTS.AG]
+2025-04-18 09:30:51,317 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Magnificent Seven (2016) [1080p] [YTS.AG]
+2025-04-18 09:30:51,322 - INFO - Deleting torrent from qBittorrent: The Magnificent Seven (2016) [1080p] [YTS.AG]
+2025-04-18 09:30:51,322 - INFO - Deleting torrent with hash 9b4c9db1f1ecc3ab3f4e4ef9a7d5d38d791b7f7a (delete_files=False)
+2025-04-18 09:30:51,332 - INFO - Successfully deleted torrent with hash 9b4c9db1f1ecc3ab3f4e4ef9a7d5d38d791b7f7a
+2025-04-18 09:30:51,332 - INFO - Deleting content files: The Magnificent Seven (2016) [1080p] [YTS.AG]
+2025-04-18 09:30:51,333 - INFO - Deleting content: /home/user/Desktop/torrents/The Magnificent Seven (2016) [1080p] [YTS.AG]
+2025-04-18 09:30:51,334 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Magnificent Seven (2016) [1080p] [YTS.AG]
+2025-04-18 09:30:51,334 - INFO - Successfully processed torrent: The Magnificent Seven (2016) [1080p] [YTS.AG]
+2025-04-18 09:30:51,334 - INFO - Uploading torrent: The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:30:51,334 - INFO - Starting upload: /home/user/Desktop/torrents/The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:30:51,335 - INFO - Uploading directory of size 878.00 MB
+2025-04-18 09:32:50,572 - INFO - Successfully uploaded to onedrive:Torrents/The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:32:50,572 - INFO - Verifying upload for: The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:32:50,572 - INFO - Verifying upload: /home/user/Desktop/torrents/The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:32:53,215 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:32:53,220 - INFO - Deleting torrent from qBittorrent: The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:32:53,220 - INFO - Deleting torrent with hash 91b24b6a0cd143188bb855c449885df706bb1eea (delete_files=False)
+2025-04-18 09:32:53,229 - INFO - Successfully deleted torrent with hash 91b24b6a0cd143188bb855c449885df706bb1eea
+2025-04-18 09:32:53,229 - INFO - Deleting content files: The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:32:53,229 - INFO - Deleting content: /home/user/Desktop/torrents/The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:32:53,232 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:32:53,232 - INFO - Successfully processed torrent: The Boss Baby Christmas Bonus (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:32:53,232 - INFO - Uploading torrent: Mother Couch (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:32:53,233 - INFO - Starting upload: /home/user/Desktop/torrents/Mother Couch (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Mother Couch (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:32:53,233 - INFO - Uploading directory of size 1815.21 MB
