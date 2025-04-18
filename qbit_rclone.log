@@ -2407,3 +2407,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 00:34:12,976 - INFO - Uploading torrent: Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
 2025-04-18 00:34:12,976 - INFO - Starting upload: /home/user/Desktop/torrents/Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv] -> onedrive:Torrents/Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
 2025-04-18 00:34:12,976 - INFO - Uploading directory of size 5676.64 MB
+2025-04-18 00:38:04,013 - INFO - Successfully uploaded to onedrive:Torrents/Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
+2025-04-18 00:38:04,013 - INFO - Verifying upload for: Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
+2025-04-18 00:38:04,013 - INFO - Verifying upload: /home/user/Desktop/torrents/Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv] -> onedrive:Torrents/Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
+2025-04-18 00:38:06,628 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
+2025-04-18 00:38:06,632 - INFO - Deleting torrent from qBittorrent: Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
+2025-04-18 00:38:06,632 - INFO - Deleting torrent with hash f2a308b65542dfa543b0158d7b909f5154b76b11 (delete_files=False)
+2025-04-18 00:38:06,640 - INFO - Successfully deleted torrent with hash f2a308b65542dfa543b0158d7b909f5154b76b11
+2025-04-18 00:38:06,640 - INFO - Deleting content files: Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
+2025-04-18 00:38:06,641 - INFO - Deleting content: /home/user/Desktop/torrents/Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
+2025-04-18 00:38:06,644 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
+2025-04-18 00:38:06,645 - INFO - Successfully processed torrent: Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
+2025-04-18 00:38:06,645 - INFO - Uploading torrent: How to Train Your Dragon 2 (2014) [1080p]
+2025-04-18 00:38:06,645 - INFO - Starting upload: /home/user/Desktop/torrents/How to Train Your Dragon 2 (2014) [1080p] -> onedrive:Torrents/How to Train Your Dragon 2 (2014) [1080p]
+2025-04-18 00:38:06,645 - INFO - Uploading directory of size 1685.87 MB
