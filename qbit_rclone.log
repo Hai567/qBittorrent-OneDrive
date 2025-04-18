@@ -3021,3 +3021,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 05:59:27,612 - INFO - Uploading torrent: Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 05:59:27,614 - INFO - Starting upload: /home/user/Desktop/torrents/Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Birds.Of.Prey.And.The.Fantabulous.Emancipation.Of.One.Harley.Quinn.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4 -> onedrive:Torrents/Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 05:59:27,614 - INFO - Uploading file of size 2055.29 MB
+2025-04-18 06:04:26,371 - INFO - Successfully uploaded to onedrive:Torrents/Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 06:04:26,372 - INFO - Verifying upload for: Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 06:04:26,372 - INFO - Verifying upload: /home/user/Desktop/torrents/Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Birds.Of.Prey.And.The.Fantabulous.Emancipation.Of.One.Harley.Quinn.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4 -> onedrive:Torrents/Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 06:04:28,830 - INFO - Upload verification successful for /home/user/Desktop/torrents/Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Birds.Of.Prey.And.The.Fantabulous.Emancipation.Of.One.Harley.Quinn.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+2025-04-18 06:04:28,835 - INFO - Deleting torrent from qBittorrent: Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 06:04:28,835 - INFO - Deleting torrent with hash f49c6932a9d762e36573ae039949e7ec5521e16b (delete_files=False)
+2025-04-18 06:04:28,848 - INFO - Successfully deleted torrent with hash f49c6932a9d762e36573ae039949e7ec5521e16b
+2025-04-18 06:04:28,848 - INFO - Deleting content files: Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 06:04:28,848 - INFO - Deleting content: /home/user/Desktop/torrents/Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Birds.Of.Prey.And.The.Fantabulous.Emancipation.Of.One.Harley.Quinn.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+2025-04-18 06:04:28,850 - INFO - Successfully deleted file: /home/user/Desktop/torrents/Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Birds.Of.Prey.And.The.Fantabulous.Emancipation.Of.One.Harley.Quinn.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+2025-04-18 06:04:28,850 - INFO - Successfully processed torrent: Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 06:04:28,850 - INFO - Uploading torrent: Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 06:04:28,850 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 06:04:28,851 - INFO - Uploading directory of size 108.12 MB
