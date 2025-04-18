@@ -2757,3 +2757,28 @@ OSError: [Errno 28] No space left on device
 2025-04-18 02:03:22,980 - INFO - Uploading torrent: Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-18 02:03:22,980 - INFO - Starting upload: /home/user/Desktop/torrents/Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-18 02:03:22,981 - INFO - Uploading directory of size 2162.67 MB
+2025-04-18 02:07:12,839 - INFO - Successfully uploaded to onedrive:Torrents/Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 02:07:12,839 - INFO - Verifying upload for: Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 02:07:12,839 - INFO - Verifying upload: /home/user/Desktop/torrents/Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 02:07:15,124 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 02:07:15,128 - INFO - Deleting torrent from qBittorrent: Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 02:07:15,128 - INFO - Deleting torrent with hash cb3d4173e32f8b65b8bb60b8e453d18c2de2cb31 (delete_files=False)
+2025-04-18 02:07:15,138 - INFO - Successfully deleted torrent with hash cb3d4173e32f8b65b8bb60b8e453d18c2de2cb31
+2025-04-18 02:07:15,138 - INFO - Deleting content files: Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 02:07:15,139 - INFO - Deleting content: /home/user/Desktop/torrents/Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 02:07:15,140 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 02:07:15,140 - INFO - Successfully processed torrent: Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 02:07:15,140 - INFO - Uploading torrent: Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:07:15,140 - INFO - Starting upload: /home/user/Desktop/torrents/Smallfoot (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:07:15,141 - INFO - Uploading directory of size 1587.59 MB
+2025-04-18 02:10:39,796 - INFO - Successfully uploaded to onedrive:Torrents/Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:10:39,796 - INFO - Verifying upload for: Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:10:39,796 - INFO - Verifying upload: /home/user/Desktop/torrents/Smallfoot (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:10:42,071 - INFO - Upload verification successful for /home/user/Desktop/torrents/Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:10:42,077 - INFO - Deleting torrent from qBittorrent: Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:10:42,077 - INFO - Deleting torrent with hash a0f6f05082333a20ff66253f700a51b98f03e0bb (delete_files=False)
+2025-04-18 02:10:42,086 - INFO - Successfully deleted torrent with hash a0f6f05082333a20ff66253f700a51b98f03e0bb
+2025-04-18 02:10:42,086 - INFO - Deleting content files: Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:10:42,086 - INFO - Deleting content: /home/user/Desktop/torrents/Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:10:42,087 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:10:42,087 - INFO - Successfully processed torrent: Smallfoot (2018) [BluRay] [1080p] [YTS.AM]
