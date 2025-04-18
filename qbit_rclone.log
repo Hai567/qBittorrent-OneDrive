@@ -3603,3 +3603,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 15:44:29,245 - INFO - Uploading torrent: Jack Reacher (2012) [1080p]
 2025-04-18 15:44:29,245 - INFO - Starting upload: /home/user/Desktop/torrents/Jack Reacher (2012) [1080p] -> onedrive:Torrents/Jack Reacher (2012) [1080p]
 2025-04-18 15:44:29,245 - INFO - Uploading directory of size 2043.27 MB
+2025-04-18 15:51:43,997 - INFO - Successfully uploaded to onedrive:Torrents/Jack Reacher (2012) [1080p]
+2025-04-18 15:51:43,997 - INFO - Verifying upload for: Jack Reacher (2012) [1080p]
+2025-04-18 15:51:43,997 - INFO - Verifying upload: /home/user/Desktop/torrents/Jack Reacher (2012) [1080p] -> onedrive:Torrents/Jack Reacher (2012) [1080p]
+2025-04-18 15:51:45,310 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jack Reacher (2012) [1080p]
+2025-04-18 15:51:45,315 - INFO - Deleting torrent from qBittorrent: Jack Reacher (2012) [1080p]
+2025-04-18 15:51:45,316 - INFO - Deleting torrent with hash fbaab19e3b96bf5e32d3857e3a4a67f1d79aad37 (delete_files=False)
+2025-04-18 15:51:45,323 - INFO - Successfully deleted torrent with hash fbaab19e3b96bf5e32d3857e3a4a67f1d79aad37
+2025-04-18 15:51:45,323 - INFO - Deleting content files: Jack Reacher (2012) [1080p]
+2025-04-18 15:51:45,323 - INFO - Deleting content: /home/user/Desktop/torrents/Jack Reacher (2012) [1080p]
+2025-04-18 15:51:45,324 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jack Reacher (2012) [1080p]
+2025-04-18 15:51:45,324 - INFO - Successfully processed torrent: Jack Reacher (2012) [1080p]
+2025-04-18 15:51:45,324 - INFO - Uploading torrent: Furious Seven (2015) [1080p]
+2025-04-18 15:51:45,324 - INFO - Starting upload: /home/user/Desktop/torrents/Furious Seven (2015) [1080p] -> onedrive:Torrents/Furious Seven (2015) [1080p]
+2025-04-18 15:51:45,324 - INFO - Uploading directory of size 2111.06 MB
