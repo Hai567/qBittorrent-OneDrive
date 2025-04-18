@@ -2801,3 +2801,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 02:19:35,485 - INFO - Uploading torrent: Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-18 02:19:35,485 - INFO - Starting upload: /home/user/Desktop/torrents/Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-18 02:19:35,486 - INFO - Uploading directory of size 2005.30 MB
+2025-04-18 02:23:43,875 - INFO - Successfully uploaded to onedrive:Torrents/Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 02:23:43,875 - INFO - Verifying upload for: Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 02:23:43,876 - INFO - Verifying upload: /home/user/Desktop/torrents/Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 02:23:45,941 - INFO - Upload verification successful for /home/user/Desktop/torrents/Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 02:23:45,945 - INFO - Deleting torrent from qBittorrent: Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 02:23:45,945 - INFO - Deleting torrent with hash d6ba352d4371cee399c48e3b947c120798774287 (delete_files=False)
+2025-04-18 02:23:45,954 - INFO - Successfully deleted torrent with hash d6ba352d4371cee399c48e3b947c120798774287
+2025-04-18 02:23:45,954 - INFO - Deleting content files: Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 02:23:45,954 - INFO - Deleting content: /home/user/Desktop/torrents/Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 02:23:45,958 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 02:23:45,958 - INFO - Successfully processed torrent: Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 02:23:45,958 - INFO - Uploading torrent: The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 02:23:45,958 - INFO - Starting upload: /home/user/Desktop/torrents/The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 02:23:45,958 - INFO - Uploading directory of size 2026.78 MB
