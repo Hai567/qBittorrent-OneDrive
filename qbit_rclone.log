@@ -2561,3 +2561,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 01:12:59,208 - INFO - Uploading torrent: Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 01:12:59,208 - INFO - Starting upload: /home/user/Desktop/torrents/Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 01:12:59,208 - INFO - Uploading directory of size 2526.03 MB
+2025-04-18 01:18:00,768 - INFO - Successfully uploaded to onedrive:Torrents/Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:18:00,768 - INFO - Verifying upload for: Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:18:00,769 - INFO - Verifying upload: /home/user/Desktop/torrents/Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:18:03,368 - INFO - Upload verification successful for /home/user/Desktop/torrents/Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:18:03,372 - INFO - Deleting torrent from qBittorrent: Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:18:03,372 - INFO - Deleting torrent with hash 76d2015ac0445f1dca0e8847e08d9093bb03ce50 (delete_files=False)
+2025-04-18 01:18:03,382 - INFO - Successfully deleted torrent with hash 76d2015ac0445f1dca0e8847e08d9093bb03ce50
+2025-04-18 01:18:03,382 - INFO - Deleting content files: Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:18:03,382 - INFO - Deleting content: /home/user/Desktop/torrents/Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:18:03,383 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:18:03,383 - INFO - Successfully processed torrent: Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:18:03,383 - INFO - Uploading torrent: Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:18:03,384 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:18:03,384 - INFO - Uploading directory of size 5439.70 MB
