@@ -3675,3 +3675,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 16:27:15,000 - INFO - Uploading torrent: Cars 2 (2011) [1080p] [YTS.AG]
 2025-04-18 16:27:15,000 - INFO - Starting upload: /home/user/Desktop/torrents/Cars 2 (2011) [1080p] [YTS.AG] -> onedrive:Torrents/Cars 2 (2011) [1080p] [YTS.AG]
 2025-04-18 16:27:15,000 - INFO - Uploading directory of size 1646.16 MB
+2025-04-18 16:36:00,586 - INFO - Successfully uploaded to onedrive:Torrents/Cars 2 (2011) [1080p] [YTS.AG]
+2025-04-18 16:36:00,587 - INFO - Verifying upload for: Cars 2 (2011) [1080p] [YTS.AG]
+2025-04-18 16:36:00,587 - INFO - Verifying upload: /home/user/Desktop/torrents/Cars 2 (2011) [1080p] [YTS.AG] -> onedrive:Torrents/Cars 2 (2011) [1080p] [YTS.AG]
+2025-04-18 16:36:02,226 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cars 2 (2011) [1080p] [YTS.AG]
+2025-04-18 16:36:02,232 - INFO - Deleting torrent from qBittorrent: Cars 2 (2011) [1080p] [YTS.AG]
+2025-04-18 16:36:02,232 - INFO - Deleting torrent with hash fef40d29587e784355f205e76bdd945ef5a1ebe4 (delete_files=False)
+2025-04-18 16:36:02,242 - INFO - Successfully deleted torrent with hash fef40d29587e784355f205e76bdd945ef5a1ebe4
+2025-04-18 16:36:02,242 - INFO - Deleting content files: Cars 2 (2011) [1080p] [YTS.AG]
+2025-04-18 16:36:02,243 - INFO - Deleting content: /home/user/Desktop/torrents/Cars 2 (2011) [1080p] [YTS.AG]
+2025-04-18 16:36:02,244 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cars 2 (2011) [1080p] [YTS.AG]
+2025-04-18 16:36:02,244 - INFO - Successfully processed torrent: Cars 2 (2011) [1080p] [YTS.AG]
+2025-04-18 16:36:02,244 - INFO - Uploading torrent: Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 16:36:02,244 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 16:36:02,244 - INFO - Uploading directory of size 2899.68 MB
