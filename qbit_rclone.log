@@ -2895,3 +2895,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 05:12:18,939 - INFO - Uploading torrent: Ghostbusters (2016) [1080p] [YTS.AG]
 2025-04-18 05:12:18,939 - INFO - Starting upload: /home/user/Desktop/torrents/Ghostbusters (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Ghostbusters (2016) [1080p] [YTS.AG]
 2025-04-18 05:12:18,939 - INFO - Uploading directory of size 2083.97 MB
+2025-04-18 05:17:57,847 - INFO - Successfully uploaded to onedrive:Torrents/Ghostbusters (2016) [1080p] [YTS.AG]
+2025-04-18 05:17:57,847 - INFO - Verifying upload for: Ghostbusters (2016) [1080p] [YTS.AG]
+2025-04-18 05:17:57,847 - INFO - Verifying upload: /home/user/Desktop/torrents/Ghostbusters (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Ghostbusters (2016) [1080p] [YTS.AG]
+2025-04-18 05:18:00,195 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ghostbusters (2016) [1080p] [YTS.AG]
+2025-04-18 05:18:00,199 - INFO - Deleting torrent from qBittorrent: Ghostbusters (2016) [1080p] [YTS.AG]
+2025-04-18 05:18:00,199 - INFO - Deleting torrent with hash 38b3427aa82b6e09d6333c6cbb75b5dd47c850e3 (delete_files=False)
+2025-04-18 05:18:00,209 - INFO - Successfully deleted torrent with hash 38b3427aa82b6e09d6333c6cbb75b5dd47c850e3
+2025-04-18 05:18:00,210 - INFO - Deleting content files: Ghostbusters (2016) [1080p] [YTS.AG]
+2025-04-18 05:18:00,210 - INFO - Deleting content: /home/user/Desktop/torrents/Ghostbusters (2016) [1080p] [YTS.AG]
+2025-04-18 05:18:00,211 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ghostbusters (2016) [1080p] [YTS.AG]
+2025-04-18 05:18:00,211 - INFO - Successfully processed torrent: Ghostbusters (2016) [1080p] [YTS.AG]
+2025-04-18 05:18:00,211 - INFO - Uploading torrent: Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:18:00,212 - INFO - Starting upload: /home/user/Desktop/torrents/Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:18:00,212 - INFO - Uploading directory of size 2135.15 MB
