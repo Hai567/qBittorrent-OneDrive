@@ -3073,3 +3073,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 08:52:50,523 - INFO - Uploading torrent: Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 08:52:50,523 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 08:52:50,523 - INFO - Uploading directory of size 3294.11 MB
+2025-04-18 09:01:12,607 - INFO - Successfully uploaded to onedrive:Torrents/Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:01:12,608 - INFO - Verifying upload for: Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:01:12,608 - INFO - Verifying upload: /home/user/Desktop/torrents/Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:01:15,361 - INFO - Upload verification successful for /home/user/Desktop/torrents/Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:01:15,367 - INFO - Deleting torrent from qBittorrent: Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:01:15,367 - INFO - Deleting torrent with hash f34faf31510303bb9aa325f0b22187b1cd54e144 (delete_files=False)
+2025-04-18 09:01:15,376 - INFO - Successfully deleted torrent with hash f34faf31510303bb9aa325f0b22187b1cd54e144
+2025-04-18 09:01:15,377 - INFO - Deleting content files: Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:01:15,377 - INFO - Deleting content: /home/user/Desktop/torrents/Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:01:15,379 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:01:15,379 - INFO - Successfully processed torrent: Harry Potter And The Chamber Of Secrets (2002) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:01:15,379 - INFO - Uploading torrent: The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:01:15,379 - INFO - Starting upload: /home/user/Desktop/torrents/The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:01:15,379 - INFO - Uploading directory of size 2109.46 MB
