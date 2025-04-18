@@ -3087,3 +3087,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 09:01:15,379 - INFO - Uploading torrent: The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 09:01:15,379 - INFO - Starting upload: /home/user/Desktop/torrents/The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 09:01:15,379 - INFO - Uploading directory of size 2109.46 MB
+2025-04-18 09:06:21,777 - INFO - Successfully uploaded to onedrive:Torrents/The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:06:21,777 - INFO - Verifying upload for: The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:06:21,777 - INFO - Verifying upload: /home/user/Desktop/torrents/The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:06:24,221 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:06:24,226 - INFO - Deleting torrent from qBittorrent: The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:06:24,227 - INFO - Deleting torrent with hash e4ec2a938f38ab62d4930436798f8add42f94abe (delete_files=False)
+2025-04-18 09:06:24,235 - INFO - Successfully deleted torrent with hash e4ec2a938f38ab62d4930436798f8add42f94abe
+2025-04-18 09:06:24,235 - INFO - Deleting content files: The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:06:24,235 - INFO - Deleting content: /home/user/Desktop/torrents/The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:06:24,237 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:06:24,237 - INFO - Successfully processed torrent: The Lost City (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 09:06:24,237 - INFO - Uploading torrent: Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:06:24,238 - INFO - Starting upload: /home/user/Desktop/torrents/Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:06:24,238 - INFO - Uploading directory of size 2677.22 MB
