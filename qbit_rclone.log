@@ -2421,3 +2421,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 00:38:06,645 - INFO - Uploading torrent: How to Train Your Dragon 2 (2014) [1080p]
 2025-04-18 00:38:06,645 - INFO - Starting upload: /home/user/Desktop/torrents/How to Train Your Dragon 2 (2014) [1080p] -> onedrive:Torrents/How to Train Your Dragon 2 (2014) [1080p]
 2025-04-18 00:38:06,645 - INFO - Uploading directory of size 1685.87 MB
+2025-04-18 00:41:03,370 - INFO - Successfully uploaded to onedrive:Torrents/How to Train Your Dragon 2 (2014) [1080p]
+2025-04-18 00:41:03,371 - INFO - Verifying upload for: How to Train Your Dragon 2 (2014) [1080p]
+2025-04-18 00:41:03,371 - INFO - Verifying upload: /home/user/Desktop/torrents/How to Train Your Dragon 2 (2014) [1080p] -> onedrive:Torrents/How to Train Your Dragon 2 (2014) [1080p]
+2025-04-18 00:41:05,717 - INFO - Upload verification successful for /home/user/Desktop/torrents/How to Train Your Dragon 2 (2014) [1080p]
+2025-04-18 00:41:05,721 - INFO - Deleting torrent from qBittorrent: How to Train Your Dragon 2 (2014) [1080p]
+2025-04-18 00:41:05,721 - INFO - Deleting torrent with hash 6ab715782a9a1438b9054cdfff3b20cdfe0b94fa (delete_files=False)
+2025-04-18 00:41:05,729 - INFO - Successfully deleted torrent with hash 6ab715782a9a1438b9054cdfff3b20cdfe0b94fa
+2025-04-18 00:41:05,729 - INFO - Deleting content files: How to Train Your Dragon 2 (2014) [1080p]
+2025-04-18 00:41:05,729 - INFO - Deleting content: /home/user/Desktop/torrents/How to Train Your Dragon 2 (2014) [1080p]
+2025-04-18 00:41:05,730 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/How to Train Your Dragon 2 (2014) [1080p]
+2025-04-18 00:41:05,731 - INFO - Successfully processed torrent: How to Train Your Dragon 2 (2014) [1080p]
+2025-04-18 00:41:05,731 - INFO - Uploading torrent: Mission Impossible II (2000) [1080p] [YTS.AG]
+2025-04-18 00:41:05,731 - INFO - Starting upload: /home/user/Desktop/torrents/Mission Impossible II (2000) [1080p] [YTS.AG] -> onedrive:Torrents/Mission Impossible II (2000) [1080p] [YTS.AG]
+2025-04-18 00:41:05,731 - INFO - Uploading directory of size 1949.05 MB
+2025-04-18 00:44:41,391 - INFO - Successfully uploaded to onedrive:Torrents/Mission Impossible II (2000) [1080p] [YTS.AG]
+2025-04-18 00:44:41,391 - INFO - Verifying upload for: Mission Impossible II (2000) [1080p] [YTS.AG]
+2025-04-18 00:44:41,391 - INFO - Verifying upload: /home/user/Desktop/torrents/Mission Impossible II (2000) [1080p] [YTS.AG] -> onedrive:Torrents/Mission Impossible II (2000) [1080p] [YTS.AG]
+2025-04-18 00:44:43,733 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mission Impossible II (2000) [1080p] [YTS.AG]
+2025-04-18 00:44:43,738 - INFO - Deleting torrent from qBittorrent: Mission Impossible II (2000) [1080p] [YTS.AG]
+2025-04-18 00:44:43,739 - INFO - Deleting torrent with hash 06e2a9683bf4da92c73a661ac56f0ecc9c63c5b4 (delete_files=False)
+2025-04-18 00:44:43,747 - INFO - Successfully deleted torrent with hash 06e2a9683bf4da92c73a661ac56f0ecc9c63c5b4
+2025-04-18 00:44:43,748 - INFO - Deleting content files: Mission Impossible II (2000) [1080p] [YTS.AG]
+2025-04-18 00:44:43,748 - INFO - Deleting content: /home/user/Desktop/torrents/Mission Impossible II (2000) [1080p] [YTS.AG]
+2025-04-18 00:44:43,749 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mission Impossible II (2000) [1080p] [YTS.AG]
+2025-04-18 00:44:43,750 - INFO - Successfully processed torrent: Mission Impossible II (2000) [1080p] [YTS.AG]
+2025-04-18 00:44:43,750 - INFO - Uploading torrent: In The Summers (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 00:44:43,750 - INFO - Starting upload: /home/user/Desktop/torrents/In The Summers (2024) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/In The Summers (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 00:44:43,750 - INFO - Uploading directory of size 1681.42 MB
