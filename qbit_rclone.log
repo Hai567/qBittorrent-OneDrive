@@ -2225,3 +2225,17 @@ OSError: [Errno 28] No space left on device
 2025-04-17 23:55:08,431 - INFO - Uploading torrent: Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 23:55:08,431 - INFO - Starting upload: /home/user/Desktop/torrents/Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-17 23:55:08,431 - INFO - Uploading directory of size 1441.78 MB
+2025-04-17 23:57:50,906 - INFO - Successfully uploaded to onedrive:Torrents/Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 23:57:50,907 - INFO - Verifying upload for: Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 23:57:50,907 - INFO - Verifying upload: /home/user/Desktop/torrents/Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 23:57:53,696 - INFO - Upload verification successful for /home/user/Desktop/torrents/Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 23:57:53,700 - INFO - Deleting torrent from qBittorrent: Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 23:57:53,700 - INFO - Deleting torrent with hash b967cacf33e680f381cf41210554775d34138f79 (delete_files=False)
+2025-04-17 23:57:53,712 - INFO - Successfully deleted torrent with hash b967cacf33e680f381cf41210554775d34138f79
+2025-04-17 23:57:53,712 - INFO - Deleting content files: Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 23:57:53,712 - INFO - Deleting content: /home/user/Desktop/torrents/Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 23:57:53,714 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 23:57:53,714 - INFO - Successfully processed torrent: Reef Builders (2025) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-17 23:57:53,714 - INFO - Uploading torrent: Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
+2025-04-17 23:57:53,714 - INFO - Starting upload: /home/user/Desktop/torrents/Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p] -> onedrive:Torrents/Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p]
+2025-04-17 23:57:53,715 - INFO - Uploading directory of size 2044.16 MB
