@@ -2575,3 +2575,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 01:18:03,383 - INFO - Uploading torrent: Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
 2025-04-18 01:18:03,384 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
 2025-04-18 01:18:03,384 - INFO - Uploading directory of size 5439.70 MB
+2025-04-18 01:21:10,179 - INFO - Successfully uploaded to onedrive:Torrents/Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:21:10,180 - INFO - Verifying upload for: Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:21:10,180 - INFO - Verifying upload: /home/user/Desktop/torrents/Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:21:12,578 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:21:12,582 - INFO - Deleting torrent from qBittorrent: Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:21:12,582 - INFO - Deleting torrent with hash 01344219bb38df4108a4b0ddb183716d9ce9d085 (delete_files=False)
+2025-04-18 01:21:12,593 - INFO - Successfully deleted torrent with hash 01344219bb38df4108a4b0ddb183716d9ce9d085
+2025-04-18 01:21:12,593 - INFO - Deleting content files: Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:21:12,593 - INFO - Deleting content: /home/user/Desktop/torrents/Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:21:12,604 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:21:12,604 - INFO - Successfully processed torrent: Ben 10 2005 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:21:12,604 - INFO - Uploading torrent: F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:21:12,604 - INFO - Starting upload: /home/user/Desktop/torrents/F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:21:12,604 - INFO - Uploading directory of size 2696.61 MB
