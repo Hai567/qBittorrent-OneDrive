@@ -3129,3 +3129,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 09:18:57,275 - INFO - Uploading torrent: Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-18 09:18:57,275 - INFO - Starting upload: /home/user/Desktop/torrents/Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-18 09:18:57,275 - INFO - Uploading directory of size 2282.26 MB
+2025-04-18 09:25:30,467 - INFO - Successfully uploaded to onedrive:Torrents/Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:25:30,468 - INFO - Verifying upload for: Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:25:30,468 - INFO - Verifying upload: /home/user/Desktop/torrents/Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:25:32,742 - INFO - Upload verification successful for /home/user/Desktop/torrents/Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:25:32,747 - INFO - Deleting torrent from qBittorrent: Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:25:32,747 - INFO - Deleting torrent with hash a6bb49d09bdfe0c11e3a9089ae2963a875c2f10f (delete_files=False)
+2025-04-18 09:25:32,756 - INFO - Successfully deleted torrent with hash a6bb49d09bdfe0c11e3a9089ae2963a875c2f10f
+2025-04-18 09:25:32,756 - INFO - Deleting content files: Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:25:32,757 - INFO - Deleting content: /home/user/Desktop/torrents/Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:25:32,759 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:25:32,759 - INFO - Successfully processed torrent: Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:25:32,759 - INFO - Uploading torrent: The Magnificent Seven (2016) [1080p] [YTS.AG]
+2025-04-18 09:25:32,760 - INFO - Starting upload: /home/user/Desktop/torrents/The Magnificent Seven (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Magnificent Seven (2016) [1080p] [YTS.AG]
+2025-04-18 09:25:32,760 - INFO - Uploading directory of size 2078.55 MB
