@@ -2787,3 +2787,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 02:15:42,197 - INFO - Uploading torrent: Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
 2025-04-18 02:15:42,197 - INFO - Starting upload: /home/user/Desktop/torrents/Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
 2025-04-18 02:15:42,197 - INFO - Uploading directory of size 2022.22 MB
+2025-04-18 02:19:32,987 - INFO - Successfully uploaded to onedrive:Torrents/Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:19:32,988 - INFO - Verifying upload for: Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:19:32,988 - INFO - Verifying upload: /home/user/Desktop/torrents/Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:19:35,467 - INFO - Upload verification successful for /home/user/Desktop/torrents/Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:19:35,473 - INFO - Deleting torrent from qBittorrent: Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:19:35,474 - INFO - Deleting torrent with hash 2f200765bbfa5802ac2afdf0cb71865714e833a2 (delete_files=False)
+2025-04-18 02:19:35,483 - INFO - Successfully deleted torrent with hash 2f200765bbfa5802ac2afdf0cb71865714e833a2
+2025-04-18 02:19:35,483 - INFO - Deleting content files: Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:19:35,483 - INFO - Deleting content: /home/user/Desktop/torrents/Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:19:35,485 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:19:35,485 - INFO - Successfully processed torrent: Sicario Day Of The Soldado (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:19:35,485 - INFO - Uploading torrent: Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 02:19:35,485 - INFO - Starting upload: /home/user/Desktop/torrents/Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Exhibiting Forgiveness (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 02:19:35,486 - INFO - Uploading directory of size 2005.30 MB
