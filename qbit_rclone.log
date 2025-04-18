@@ -2923,3 +2923,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 05:23:42,290 - INFO - Uploading torrent: Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
 2025-04-18 05:23:42,290 - INFO - Starting upload: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
 2025-04-18 05:23:42,290 - INFO - Uploading directory of size 7750.58 MB
+2025-04-18 05:32:59,114 - INFO - Successfully uploaded to onedrive:Torrents/Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
+2025-04-18 05:32:59,115 - INFO - Verifying upload for: Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
+2025-04-18 05:32:59,115 - INFO - Verifying upload: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
+2025-04-18 05:33:01,408 - INFO - Upload verification successful for /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
+2025-04-18 05:33:01,413 - INFO - Deleting torrent from qBittorrent: Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
+2025-04-18 05:33:01,414 - INFO - Deleting torrent with hash 13a4417d4a20364fd8ae09f03aa1a3236219282a (delete_files=False)
+2025-04-18 05:33:01,425 - INFO - Successfully deleted torrent with hash 13a4417d4a20364fd8ae09f03aa1a3236219282a
+2025-04-18 05:33:01,425 - INFO - Deleting content files: Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
+2025-04-18 05:33:01,426 - INFO - Deleting content: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
+2025-04-18 05:33:01,441 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
+2025-04-18 05:33:01,441 - INFO - Successfully processed torrent: Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
+2025-04-18 05:33:01,442 - INFO - Uploading torrent: Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 05:33:01,442 - INFO - Starting upload: /home/user/Desktop/torrents/Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 05:33:01,442 - INFO - Uploading directory of size 2096.69 MB
