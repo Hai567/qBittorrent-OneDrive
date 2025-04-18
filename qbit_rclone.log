@@ -2659,3 +2659,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 01:40:37,984 - INFO - Uploading torrent: A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 01:40:37,984 - INFO - Starting upload: /home/user/Desktop/torrents/A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 01:40:37,984 - INFO - Uploading directory of size 1959.90 MB
+2025-04-18 01:44:08,384 - INFO - Successfully uploaded to onedrive:Torrents/A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 01:44:08,384 - INFO - Verifying upload for: A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 01:44:08,384 - INFO - Verifying upload: /home/user/Desktop/torrents/A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 01:44:10,683 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 01:44:10,689 - INFO - Deleting torrent from qBittorrent: A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 01:44:10,689 - INFO - Deleting torrent with hash 5013ac4fa3a1bad462cb10ddc3ffef75acac45a6 (delete_files=False)
+2025-04-18 01:44:10,701 - INFO - Successfully deleted torrent with hash 5013ac4fa3a1bad462cb10ddc3ffef75acac45a6
+2025-04-18 01:44:10,701 - INFO - Deleting content files: A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 01:44:10,701 - INFO - Deleting content: /home/user/Desktop/torrents/A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 01:44:10,704 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 01:44:10,704 - INFO - Successfully processed torrent: A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 01:44:10,704 - INFO - Uploading torrent: Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:44:10,704 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:44:10,705 - INFO - Uploading directory of size 5469.48 MB
