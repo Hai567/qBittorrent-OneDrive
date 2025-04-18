@@ -3703,3 +3703,27 @@ OSError: [Errno 28] No space left on device
 2025-04-18 16:49:56,922 - INFO - Uploading torrent: The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
 2025-04-18 16:49:56,922 - INFO - Starting upload: /home/user/Desktop/torrents/The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx] -> onedrive:Torrents/The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
 2025-04-18 16:49:56,923 - INFO - Uploading directory of size 4583.13 MB
+2025-04-18 17:01:40,472 - INFO - Successfully uploaded to onedrive:Torrents/The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 17:01:40,472 - INFO - Verifying upload for: The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 17:01:40,472 - INFO - Verifying upload: /home/user/Desktop/torrents/The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx] -> onedrive:Torrents/The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 17:01:41,998 - INFO - Upload verification successful for /home/user/Desktop/torrents/The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 17:01:42,004 - INFO - Deleting torrent from qBittorrent: The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 17:01:42,004 - INFO - Deleting torrent with hash ebf8e38c8c39ad84e3232e164d44b3bfb0dc1afb (delete_files=False)
+2025-04-18 17:01:42,014 - INFO - Successfully deleted torrent with hash ebf8e38c8c39ad84e3232e164d44b3bfb0dc1afb
+2025-04-18 17:01:42,014 - INFO - Deleting content files: The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 17:01:42,015 - INFO - Deleting content: /home/user/Desktop/torrents/The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 17:01:42,019 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 17:01:42,019 - INFO - Successfully processed torrent: The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 17:01:42,019 - INFO - Uploading torrent: Frozen (2013) [1080p]
+2025-04-18 17:01:42,019 - INFO - Starting upload: /home/user/Desktop/torrents/Frozen (2013) [1080p] -> onedrive:Torrents/Frozen (2013) [1080p]
+2025-04-18 17:01:42,019 - INFO - Uploading directory of size 1673.83 MB
+2025-04-18 23:59:23,424 - INFO - Loaded configuration from config.json
+2025-04-18 23:59:23,425 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-18 23:59:23,507 - INFO - Found onedrive remote in rclone configuration
+2025-04-18 23:59:23,512 - INFO - Successfully logged in to qBittorrent
+2025-04-18 23:59:23,512 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-18 23:59:23,512 - INFO - Checking for completed torrents...
+2025-04-18 23:59:23,515 - INFO - Found 5 completed torrents
+2025-04-18 23:59:23,515 - INFO - Uploading torrent: Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 23:59:23,516 - INFO - Starting upload: /home/user/Desktop/torrents/Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 23:59:23,516 - INFO - Uploading directory of size 2171.85 MB
