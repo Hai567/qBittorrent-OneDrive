@@ -3518,3 +3518,16 @@ OSError: [Errno 28] No space left on device
 2025-04-18 15:04:04,726 - INFO - Found 3 completed torrents
 2025-04-18 15:09:04,768 - INFO - Checking for completed torrents...
 2025-04-18 15:09:04,773 - INFO - Found 3 completed torrents
+2025-04-18 15:14:04,799 - INFO - Checking for completed torrents...
+2025-04-18 15:14:04,804 - INFO - Found 3 completed torrents
+2025-04-18 15:17:44,643 - INFO - Service stopped by user
+2025-04-18 15:17:48,183 - INFO - Loaded configuration from config.json
+2025-04-18 15:17:48,183 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-18 15:17:48,272 - INFO - Found onedrive remote in rclone configuration
+2025-04-18 15:17:48,277 - INFO - Successfully logged in to qBittorrent
+2025-04-18 15:17:48,278 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-18 15:17:48,278 - INFO - Checking for completed torrents...
+2025-04-18 15:17:48,282 - INFO - Found 5 completed torrents
+2025-04-18 15:17:48,282 - INFO - Uploading torrent: Toy Story (1995) [1080p]
+2025-04-18 15:17:48,282 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story (1995) [1080p] -> onedrive:Torrents/Toy Story (1995) [1080p]
+2025-04-18 15:17:48,282 - INFO - Uploading directory of size 1125.48 MB
