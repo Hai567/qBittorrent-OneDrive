@@ -2267,3 +2267,20 @@ OSError: [Errno 28] No space left on device
 2025-04-18 00:05:07,981 - INFO - Uploading torrent: Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
 2025-04-18 00:05:07,981 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
 2025-04-18 00:05:07,981 - INFO - Uploading directory of size 5280.44 MB
+2025-04-18 00:07:53,371 - INFO - Successfully uploaded to onedrive:Torrents/Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 00:07:53,371 - INFO - Verifying upload for: Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 00:07:53,371 - INFO - Verifying upload: /home/user/Desktop/torrents/Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 00:07:55,811 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 00:07:55,816 - INFO - Deleting torrent from qBittorrent: Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 00:07:55,816 - INFO - Deleting torrent with hash fd69198d2b28d9dfbb67a7e4aa0718789fc69bba (delete_files=False)
+2025-04-18 00:07:55,826 - INFO - Successfully deleted torrent with hash fd69198d2b28d9dfbb67a7e4aa0718789fc69bba
+2025-04-18 00:07:55,826 - INFO - Deleting content files: Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 00:07:55,826 - INFO - Deleting content: /home/user/Desktop/torrents/Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 00:07:55,838 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 00:07:55,838 - INFO - Successfully processed torrent: Ben 10 2005 Season 3 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 00:07:55,838 - INFO - Uploading torrent: Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:07:55,838 - INFO - Starting upload: /home/user/Desktop/torrents/Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:07:55,839 - INFO - Uploading directory of size 1219.11 MB
+2025-04-18 00:10:22,040 - INFO - Successfully uploaded to onedrive:Torrents/Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:10:22,040 - INFO - Verifying upload for: Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:10:22,040 - INFO - Verifying upload: /home/user/Desktop/torrents/Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
