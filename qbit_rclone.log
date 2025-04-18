@@ -3399,3 +3399,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 14:17:43,631 - INFO - Uploading torrent: Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 14:17:43,632 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 14:17:43,632 - INFO - Uploading directory of size 2463.66 MB
+2025-04-18 14:22:16,696 - INFO - Successfully uploaded to onedrive:Torrents/Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:22:16,696 - INFO - Verifying upload for: Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:22:16,697 - INFO - Verifying upload: /home/user/Desktop/torrents/Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:22:19,201 - INFO - Upload verification successful for /home/user/Desktop/torrents/Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:22:19,205 - INFO - Deleting torrent from qBittorrent: Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:22:19,205 - INFO - Deleting torrent with hash f08ffd1b898307a70600f5bcbcc95839804025d7 (delete_files=False)
+2025-04-18 14:22:19,216 - INFO - Successfully deleted torrent with hash f08ffd1b898307a70600f5bcbcc95839804025d7
+2025-04-18 14:22:19,216 - INFO - Deleting content files: Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:22:19,216 - INFO - Deleting content: /home/user/Desktop/torrents/Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:22:19,218 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:22:19,218 - INFO - Successfully processed torrent: Harry Potter And The Deathly Hallows Part 2 (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:22:19,218 - INFO - Uploading torrent: A Quiet Place (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:22:19,218 - INFO - Starting upload: /home/user/Desktop/torrents/A Quiet Place (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/A Quiet Place (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:22:19,218 - INFO - Uploading directory of size 1486.03 MB
