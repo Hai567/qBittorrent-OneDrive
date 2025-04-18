@@ -2631,3 +2631,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 01:33:33,550 - INFO - Uploading torrent: Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-18 01:33:33,550 - INFO - Starting upload: /home/user/Desktop/torrents/Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-18 01:33:33,550 - INFO - Uploading directory of size 2003.72 MB
+2025-04-18 01:37:00,164 - INFO - Successfully uploaded to onedrive:Torrents/Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 01:37:00,164 - INFO - Verifying upload for: Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 01:37:00,165 - INFO - Verifying upload: /home/user/Desktop/torrents/Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 01:37:02,442 - INFO - Upload verification successful for /home/user/Desktop/torrents/Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 01:37:02,447 - INFO - Deleting torrent from qBittorrent: Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 01:37:02,447 - INFO - Deleting torrent with hash 69c470b39c882fc7da727d22cc61c80e4d2e192b (delete_files=False)
+2025-04-18 01:37:02,461 - INFO - Successfully deleted torrent with hash 69c470b39c882fc7da727d22cc61c80e4d2e192b
+2025-04-18 01:37:02,462 - INFO - Deleting content files: Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 01:37:02,462 - INFO - Deleting content: /home/user/Desktop/torrents/Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 01:37:02,464 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 01:37:02,464 - INFO - Successfully processed torrent: Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 01:37:02,464 - INFO - Uploading torrent: Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:37:02,465 - INFO - Starting upload: /home/user/Desktop/torrents/Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:37:02,465 - INFO - Uploading directory of size 1933.83 MB
+2025-04-18 01:40:35,602 - INFO - Successfully uploaded to onedrive:Torrents/Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:40:35,603 - INFO - Verifying upload for: Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:40:35,603 - INFO - Verifying upload: /home/user/Desktop/torrents/Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:40:37,962 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:40:37,966 - INFO - Deleting torrent from qBittorrent: Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:40:37,966 - INFO - Deleting torrent with hash c45711fe49e45cf415b248fac6b06bdef1a160d1 (delete_files=False)
+2025-04-18 01:40:37,978 - INFO - Successfully deleted torrent with hash c45711fe49e45cf415b248fac6b06bdef1a160d1
+2025-04-18 01:40:37,978 - INFO - Deleting content files: Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:40:37,979 - INFO - Deleting content: /home/user/Desktop/torrents/Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:40:37,984 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:40:37,984 - INFO - Successfully processed torrent: Ant-Man And The Wasp (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:40:37,984 - INFO - Uploading torrent: A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 01:40:37,984 - INFO - Starting upload: /home/user/Desktop/torrents/A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/A Knights War (2025) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 01:40:37,984 - INFO - Uploading directory of size 1959.90 MB
