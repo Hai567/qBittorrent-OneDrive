@@ -2617,3 +2617,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 01:30:05,579 - INFO - Uploading torrent: The Mummy (2017) [1080p] [YTS.AG]
 2025-04-18 01:30:05,579 - INFO - Starting upload: /home/user/Desktop/torrents/The Mummy (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Mummy (2017) [1080p] [YTS.AG]
 2025-04-18 01:30:05,580 - INFO - Uploading directory of size 1725.49 MB
+2025-04-18 01:33:31,118 - INFO - Successfully uploaded to onedrive:Torrents/The Mummy (2017) [1080p] [YTS.AG]
+2025-04-18 01:33:31,118 - INFO - Verifying upload for: The Mummy (2017) [1080p] [YTS.AG]
+2025-04-18 01:33:31,118 - INFO - Verifying upload: /home/user/Desktop/torrents/The Mummy (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Mummy (2017) [1080p] [YTS.AG]
+2025-04-18 01:33:33,532 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Mummy (2017) [1080p] [YTS.AG]
+2025-04-18 01:33:33,536 - INFO - Deleting torrent from qBittorrent: The Mummy (2017) [1080p] [YTS.AG]
+2025-04-18 01:33:33,536 - INFO - Deleting torrent with hash ab72d891ea2a17dad9873f7d48277fd19265252e (delete_files=False)
+2025-04-18 01:33:33,547 - INFO - Successfully deleted torrent with hash ab72d891ea2a17dad9873f7d48277fd19265252e
+2025-04-18 01:33:33,548 - INFO - Deleting content files: The Mummy (2017) [1080p] [YTS.AG]
+2025-04-18 01:33:33,548 - INFO - Deleting content: /home/user/Desktop/torrents/The Mummy (2017) [1080p] [YTS.AG]
+2025-04-18 01:33:33,550 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Mummy (2017) [1080p] [YTS.AG]
+2025-04-18 01:33:33,550 - INFO - Successfully processed torrent: The Mummy (2017) [1080p] [YTS.AG]
+2025-04-18 01:33:33,550 - INFO - Uploading torrent: Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 01:33:33,550 - INFO - Starting upload: /home/user/Desktop/torrents/Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Alita Battle Angel (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 01:33:33,550 - INFO - Uploading directory of size 2003.72 MB
