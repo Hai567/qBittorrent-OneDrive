@@ -2505,3 +2505,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 00:58:53,792 - INFO - Uploading torrent: The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 00:58:53,792 - INFO - Starting upload: /home/user/Desktop/torrents/The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 00:58:53,793 - INFO - Uploading directory of size 1657.52 MB
+2025-04-18 01:02:00,869 - INFO - Successfully uploaded to onedrive:Torrents/The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:02:00,869 - INFO - Verifying upload for: The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:02:00,869 - INFO - Verifying upload: /home/user/Desktop/torrents/The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:02:03,646 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:02:03,650 - INFO - Deleting torrent from qBittorrent: The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:02:03,650 - INFO - Deleting torrent with hash 617242f0254e22c8516f43e9205731d95b4e0fbf (delete_files=False)
+2025-04-18 01:02:03,660 - INFO - Successfully deleted torrent with hash 617242f0254e22c8516f43e9205731d95b4e0fbf
+2025-04-18 01:02:03,660 - INFO - Deleting content files: The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:02:03,660 - INFO - Deleting content: /home/user/Desktop/torrents/The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:02:03,663 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:02:03,663 - INFO - Successfully processed torrent: The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:02:03,663 - INFO - Uploading torrent: Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:02:03,664 - INFO - Starting upload: /home/user/Desktop/torrents/Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:02:03,664 - INFO - Uploading directory of size 1719.56 MB
