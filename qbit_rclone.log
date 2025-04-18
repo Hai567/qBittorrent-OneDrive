@@ -3257,3 +3257,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 10:02:50,865 - INFO - Uploading torrent: Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-18 10:02:50,866 - INFO - Starting upload: /home/user/Desktop/torrents/Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-18 10:02:50,866 - INFO - Uploading directory of size 1435.88 MB
+2025-04-18 10:05:51,950 - INFO - Successfully uploaded to onedrive:Torrents/Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 10:05:51,950 - INFO - Verifying upload for: Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 10:05:51,950 - INFO - Verifying upload: /home/user/Desktop/torrents/Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 10:05:54,242 - INFO - Upload verification successful for /home/user/Desktop/torrents/Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 10:05:54,246 - INFO - Deleting torrent from qBittorrent: Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 10:05:54,246 - INFO - Deleting torrent with hash 62f185d48bee1bac2bea62a076cc92345d739974 (delete_files=False)
+2025-04-18 10:05:54,256 - INFO - Successfully deleted torrent with hash 62f185d48bee1bac2bea62a076cc92345d739974
+2025-04-18 10:05:54,256 - INFO - Deleting content files: Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 10:05:54,256 - INFO - Deleting content: /home/user/Desktop/torrents/Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 10:05:54,258 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 10:05:54,258 - INFO - Successfully processed torrent: Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 10:05:54,259 - INFO - Uploading torrent: Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 10:05:54,259 - INFO - Starting upload: /home/user/Desktop/torrents/Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 10:05:54,259 - INFO - Uploading directory of size 904.25 MB
+2025-04-18 10:07:55,399 - INFO - Successfully uploaded to onedrive:Torrents/Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 10:07:55,400 - INFO - Verifying upload for: Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 10:07:55,400 - INFO - Verifying upload: /home/user/Desktop/torrents/Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 10:07:57,946 - INFO - Upload verification successful for /home/user/Desktop/torrents/Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 10:07:57,951 - INFO - Deleting torrent from qBittorrent: Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 10:07:57,951 - INFO - Deleting torrent with hash 47c3a66a7d04065607f97aab5cbfa651c136d90a (delete_files=False)
+2025-04-18 10:07:57,960 - INFO - Successfully deleted torrent with hash 47c3a66a7d04065607f97aab5cbfa651c136d90a
+2025-04-18 10:07:57,960 - INFO - Deleting content files: Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 10:07:57,961 - INFO - Deleting content: /home/user/Desktop/torrents/Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 10:07:57,962 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 10:07:57,962 - INFO - Successfully processed torrent: Matrix Generation (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 10:07:57,962 - INFO - Uploading torrent: The Foreigner (2017) [1080p] [YTS.AG]
+2025-04-18 10:07:57,962 - INFO - Starting upload: /home/user/Desktop/torrents/The Foreigner (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Foreigner (2017) [1080p] [YTS.AG]
+2025-04-18 10:07:57,962 - INFO - Uploading directory of size 1769.35 MB
