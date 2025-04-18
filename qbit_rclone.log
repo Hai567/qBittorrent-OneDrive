@@ -2909,3 +2909,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 05:18:00,211 - INFO - Uploading torrent: Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 05:18:00,212 - INFO - Starting upload: /home/user/Desktop/torrents/Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 05:18:00,212 - INFO - Uploading directory of size 2135.15 MB
+2025-04-18 05:23:40,010 - INFO - Successfully uploaded to onedrive:Torrents/Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:23:40,010 - INFO - Verifying upload for: Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:23:40,010 - INFO - Verifying upload: /home/user/Desktop/torrents/Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:23:42,274 - INFO - Upload verification successful for /home/user/Desktop/torrents/Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:23:42,278 - INFO - Deleting torrent from qBittorrent: Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:23:42,279 - INFO - Deleting torrent with hash 8d3c4677cf4f7f12a0ddfbfe00214c48c7712624 (delete_files=False)
+2025-04-18 05:23:42,288 - INFO - Successfully deleted torrent with hash 8d3c4677cf4f7f12a0ddfbfe00214c48c7712624
+2025-04-18 05:23:42,288 - INFO - Deleting content files: Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:23:42,288 - INFO - Deleting content: /home/user/Desktop/torrents/Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:23:42,290 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:23:42,290 - INFO - Successfully processed torrent: Godzilla Vs. Kong (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:23:42,290 - INFO - Uploading torrent: Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
+2025-04-18 05:23:42,290 - INFO - Starting upload: /home/user/Desktop/torrents/Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c] -> onedrive:Torrents/Da Vincis Demons 2013 Season 3 Complete 720p BluRay x264 [i_c]
+2025-04-18 05:23:42,290 - INFO - Uploading directory of size 7750.58 MB
