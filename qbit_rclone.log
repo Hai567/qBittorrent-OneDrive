@@ -2589,3 +2589,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 01:21:12,604 - INFO - Uploading torrent: F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 01:21:12,604 - INFO - Starting upload: /home/user/Desktop/torrents/F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 01:21:12,604 - INFO - Uploading directory of size 2696.61 MB
+2025-04-18 01:26:34,219 - INFO - Successfully uploaded to onedrive:Torrents/F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:26:34,219 - INFO - Verifying upload for: F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:26:34,219 - INFO - Verifying upload: /home/user/Desktop/torrents/F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:26:36,475 - INFO - Upload verification successful for /home/user/Desktop/torrents/F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:26:36,481 - INFO - Deleting torrent from qBittorrent: F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:26:36,481 - INFO - Deleting torrent with hash ca6bcac2c8712370c9fcea47b7ff4536568a3779 (delete_files=False)
+2025-04-18 01:26:36,490 - INFO - Successfully deleted torrent with hash ca6bcac2c8712370c9fcea47b7ff4536568a3779
+2025-04-18 01:26:36,490 - INFO - Deleting content files: F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:26:36,490 - INFO - Deleting content: /home/user/Desktop/torrents/F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:26:36,492 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:26:36,492 - INFO - Successfully processed torrent: F9 (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:26:36,492 - INFO - Uploading torrent: Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 01:26:36,493 - INFO - Starting upload: /home/user/Desktop/torrents/Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 01:26:36,493 - INFO - Uploading directory of size 1561.65 MB
+2025-04-18 01:30:03,321 - INFO - Successfully uploaded to onedrive:Torrents/Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 01:30:03,322 - INFO - Verifying upload for: Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 01:30:03,322 - INFO - Verifying upload: /home/user/Desktop/torrents/Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 01:30:05,561 - INFO - Upload verification successful for /home/user/Desktop/torrents/Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 01:30:05,566 - INFO - Deleting torrent from qBittorrent: Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 01:30:05,566 - INFO - Deleting torrent with hash 9e9167010920ae39100383a4f7a2b3d5d9bf59f4 (delete_files=False)
+2025-04-18 01:30:05,578 - INFO - Successfully deleted torrent with hash 9e9167010920ae39100383a4f7a2b3d5d9bf59f4
+2025-04-18 01:30:05,578 - INFO - Deleting content files: Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 01:30:05,578 - INFO - Deleting content: /home/user/Desktop/torrents/Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 01:30:05,579 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 01:30:05,579 - INFO - Successfully processed torrent: Flight Risk (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 01:30:05,579 - INFO - Uploading torrent: The Mummy (2017) [1080p] [YTS.AG]
+2025-04-18 01:30:05,579 - INFO - Starting upload: /home/user/Desktop/torrents/The Mummy (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Mummy (2017) [1080p] [YTS.AG]
+2025-04-18 01:30:05,580 - INFO - Uploading directory of size 1725.49 MB
