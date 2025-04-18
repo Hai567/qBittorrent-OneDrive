@@ -2337,3 +2337,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 00:17:51,338 - INFO - Uploading torrent: 2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-18 00:17:51,338 - INFO - Starting upload: /home/user/Desktop/torrents/2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-18 00:17:51,339 - INFO - Uploading directory of size 1417.29 MB
+2025-04-18 00:20:33,252 - INFO - Successfully uploaded to onedrive:Torrents/2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:20:33,253 - INFO - Verifying upload for: 2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:20:33,253 - INFO - Verifying upload: /home/user/Desktop/torrents/2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:20:35,870 - INFO - Upload verification successful for /home/user/Desktop/torrents/2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:20:35,876 - INFO - Deleting torrent from qBittorrent: 2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:20:35,876 - INFO - Deleting torrent with hash 72b07dd082a47df63b66d5253363b7abdd5ae0f6 (delete_files=False)
+2025-04-18 00:20:35,886 - INFO - Successfully deleted torrent with hash 72b07dd082a47df63b66d5253363b7abdd5ae0f6
+2025-04-18 00:20:35,886 - INFO - Deleting content files: 2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:20:35,886 - INFO - Deleting content: /home/user/Desktop/torrents/2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:20:35,888 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:20:35,888 - INFO - Successfully processed torrent: 2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:20:35,888 - INFO - Uploading torrent: James Bond Die Another Day (2002) [1080p]
+2025-04-18 00:20:35,889 - INFO - Starting upload: /home/user/Desktop/torrents/James Bond Die Another Day (2002) [1080p] -> onedrive:Torrents/James Bond Die Another Day (2002) [1080p]
+2025-04-18 00:20:35,889 - INFO - Uploading directory of size 1943.98 MB
+2025-04-18 00:23:42,091 - INFO - Successfully uploaded to onedrive:Torrents/James Bond Die Another Day (2002) [1080p]
+2025-04-18 00:23:42,091 - INFO - Verifying upload for: James Bond Die Another Day (2002) [1080p]
+2025-04-18 00:23:42,091 - INFO - Verifying upload: /home/user/Desktop/torrents/James Bond Die Another Day (2002) [1080p] -> onedrive:Torrents/James Bond Die Another Day (2002) [1080p]
+2025-04-18 00:23:44,364 - INFO - Upload verification successful for /home/user/Desktop/torrents/James Bond Die Another Day (2002) [1080p]
+2025-04-18 00:23:44,369 - INFO - Deleting torrent from qBittorrent: James Bond Die Another Day (2002) [1080p]
+2025-04-18 00:23:44,369 - INFO - Deleting torrent with hash 68a3ad5bdbddb44264f455e41ddf6498e5f80c60 (delete_files=False)
+2025-04-18 00:23:44,379 - INFO - Successfully deleted torrent with hash 68a3ad5bdbddb44264f455e41ddf6498e5f80c60
+2025-04-18 00:23:44,380 - INFO - Deleting content files: James Bond Die Another Day (2002) [1080p]
+2025-04-18 00:23:44,380 - INFO - Deleting content: /home/user/Desktop/torrents/James Bond Die Another Day (2002) [1080p]
+2025-04-18 00:23:44,383 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/James Bond Die Another Day (2002) [1080p]
+2025-04-18 00:23:44,383 - INFO - Successfully processed torrent: James Bond Die Another Day (2002) [1080p]
+2025-04-18 00:23:44,383 - INFO - Uploading torrent: Mission Impossible Rogue Nation (2015) [1080p]
+2025-04-18 00:23:44,383 - INFO - Starting upload: /home/user/Desktop/torrents/Mission Impossible Rogue Nation (2015) [1080p] -> onedrive:Torrents/Mission Impossible Rogue Nation (2015) [1080p]
+2025-04-18 00:23:44,383 - INFO - Uploading directory of size 1891.17 MB
