@@ -2323,3 +2323,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 00:15:04,742 - INFO - Uploading torrent: No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-18 00:15:04,742 - INFO - Starting upload: /home/user/Desktop/torrents/No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-18 00:15:04,742 - INFO - Uploading directory of size 1642.71 MB
+2025-04-18 00:17:49,034 - INFO - Successfully uploaded to onedrive:Torrents/No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 00:17:49,034 - INFO - Verifying upload for: No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 00:17:49,034 - INFO - Verifying upload: /home/user/Desktop/torrents/No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 00:17:51,322 - INFO - Upload verification successful for /home/user/Desktop/torrents/No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 00:17:51,326 - INFO - Deleting torrent from qBittorrent: No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 00:17:51,326 - INFO - Deleting torrent with hash 7afda1281813267234b00aa5de611867c23cb18d (delete_files=False)
+2025-04-18 00:17:51,335 - INFO - Successfully deleted torrent with hash 7afda1281813267234b00aa5de611867c23cb18d
+2025-04-18 00:17:51,336 - INFO - Deleting content files: No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 00:17:51,336 - INFO - Deleting content: /home/user/Desktop/torrents/No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 00:17:51,338 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 00:17:51,338 - INFO - Successfully processed torrent: No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 00:17:51,338 - INFO - Uploading torrent: 2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:17:51,338 - INFO - Starting upload: /home/user/Desktop/torrents/2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/2073 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:17:51,339 - INFO - Uploading directory of size 1417.29 MB
