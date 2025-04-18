@@ -3485,3 +3485,14 @@ OSError: [Errno 28] No space left on device
 2025-04-18 14:40:08,073 - INFO - Uploading torrent: The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-18 14:40:08,073 - INFO - Starting upload: /home/user/Desktop/torrents/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-18 14:40:08,073 - INFO - Uploading directory of size 1994.47 MB
+2025-04-18 14:44:36,502 - INFO - Successfully uploaded to onedrive:Torrents/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:44:36,502 - INFO - Verifying upload for: The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:44:36,503 - INFO - Verifying upload: /home/user/Desktop/torrents/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:44:38,342 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:44:38,346 - INFO - Deleting torrent from qBittorrent: The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:44:38,347 - INFO - Deleting torrent with hash 54c736c8a78982842550c554bb2e8a21cbb6a4a2 (delete_files=False)
+2025-04-18 14:44:38,357 - INFO - Successfully deleted torrent with hash 54c736c8a78982842550c554bb2e8a21cbb6a4a2
+2025-04-18 14:44:38,358 - INFO - Deleting content files: The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:44:38,358 - INFO - Deleting content: /home/user/Desktop/torrents/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:44:38,358 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:44:38,359 - INFO - Successfully processed torrent: The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
