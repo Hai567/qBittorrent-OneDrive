@@ -2867,3 +2867,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 05:03:41,513 - INFO - Uploading torrent: Arrival (2016) [1080p] [YTS.AG]
 2025-04-18 05:03:41,514 - INFO - Starting upload: /home/user/Desktop/torrents/Arrival (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Arrival (2016) [1080p] [YTS.AG]
 2025-04-18 05:03:41,514 - INFO - Uploading directory of size 1809.98 MB
+2025-04-18 05:08:10,466 - INFO - Successfully uploaded to onedrive:Torrents/Arrival (2016) [1080p] [YTS.AG]
+2025-04-18 05:08:10,467 - INFO - Verifying upload for: Arrival (2016) [1080p] [YTS.AG]
+2025-04-18 05:08:10,467 - INFO - Verifying upload: /home/user/Desktop/torrents/Arrival (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Arrival (2016) [1080p] [YTS.AG]
+2025-04-18 05:08:12,802 - INFO - Upload verification successful for /home/user/Desktop/torrents/Arrival (2016) [1080p] [YTS.AG]
+2025-04-18 05:08:12,811 - INFO - Deleting torrent from qBittorrent: Arrival (2016) [1080p] [YTS.AG]
+2025-04-18 05:08:12,811 - INFO - Deleting torrent with hash ab41076caabd1a9ebef25795f1cfcc6491553881 (delete_files=False)
+2025-04-18 05:08:12,824 - INFO - Successfully deleted torrent with hash ab41076caabd1a9ebef25795f1cfcc6491553881
+2025-04-18 05:08:12,824 - INFO - Deleting content files: Arrival (2016) [1080p] [YTS.AG]
+2025-04-18 05:08:12,824 - INFO - Deleting content: /home/user/Desktop/torrents/Arrival (2016) [1080p] [YTS.AG]
+2025-04-18 05:08:12,826 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Arrival (2016) [1080p] [YTS.AG]
+2025-04-18 05:08:12,826 - INFO - Successfully processed torrent: Arrival (2016) [1080p] [YTS.AG]
+2025-04-18 05:08:12,826 - INFO - Uploading torrent: Toy Story 2 (1999) [1080p]
+2025-04-18 05:08:12,826 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story 2 (1999) [1080p] -> onedrive:Torrents/Toy Story 2 (1999) [1080p]
+2025-04-18 05:08:12,826 - INFO - Uploading directory of size 1329.40 MB
