@@ -3101,3 +3101,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 09:06:24,237 - INFO - Uploading torrent: Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 09:06:24,238 - INFO - Starting upload: /home/user/Desktop/torrents/Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 09:06:24,238 - INFO - Uploading directory of size 2677.22 MB
+2025-04-18 09:13:07,120 - INFO - Successfully uploaded to onedrive:Torrents/Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:13:07,121 - INFO - Verifying upload for: Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:13:07,121 - INFO - Verifying upload: /home/user/Desktop/torrents/Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:13:09,703 - INFO - Upload verification successful for /home/user/Desktop/torrents/Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:13:09,708 - INFO - Deleting torrent from qBittorrent: Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:13:09,708 - INFO - Deleting torrent with hash 3d05db59eebc36f37f70197b1c527ae0f4dcd0f8 (delete_files=False)
+2025-04-18 09:13:09,718 - INFO - Successfully deleted torrent with hash 3d05db59eebc36f37f70197b1c527ae0f4dcd0f8
+2025-04-18 09:13:09,718 - INFO - Deleting content files: Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:13:09,718 - INFO - Deleting content: /home/user/Desktop/torrents/Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:13:09,720 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:13:09,720 - INFO - Successfully processed torrent: Star Wars The Rise Of Skywalker (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 09:13:09,720 - INFO - Uploading torrent: Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-18 09:13:09,720 - INFO - Starting upload: /home/user/Desktop/torrents/Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Dark Phoenix (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-18 09:13:09,720 - INFO - Uploading directory of size 1851.83 MB
