@@ -2379,3 +2379,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 00:27:44,118 - INFO - Uploading torrent: American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 00:27:44,118 - INFO - Starting upload: /home/user/Desktop/torrents/American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 00:27:44,118 - INFO - Uploading directory of size 1857.63 MB
+2025-04-18 00:31:19,167 - INFO - Successfully uploaded to onedrive:Torrents/American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:31:19,167 - INFO - Verifying upload for: American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:31:19,168 - INFO - Verifying upload: /home/user/Desktop/torrents/American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:31:21,769 - INFO - Upload verification successful for /home/user/Desktop/torrents/American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:31:21,773 - INFO - Deleting torrent from qBittorrent: American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:31:21,773 - INFO - Deleting torrent with hash 7fcd53222651bcc62adb6baa8fdbf797209af33b (delete_files=False)
+2025-04-18 00:31:21,782 - INFO - Successfully deleted torrent with hash 7fcd53222651bcc62adb6baa8fdbf797209af33b
+2025-04-18 00:31:21,782 - INFO - Deleting content files: American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:31:21,782 - INFO - Deleting content: /home/user/Desktop/torrents/American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:31:21,784 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:31:21,784 - INFO - Successfully processed torrent: American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:31:21,784 - INFO - Uploading torrent: Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c]
+2025-04-18 00:31:21,785 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c] -> onedrive:Torrents/Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c]
+2025-04-18 00:31:21,785 - INFO - Uploading directory of size 5803.64 MB
+2025-04-18 00:34:10,242 - INFO - Successfully uploaded to onedrive:Torrents/Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c]
+2025-04-18 00:34:10,242 - INFO - Verifying upload for: Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c]
+2025-04-18 00:34:10,242 - INFO - Verifying upload: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c] -> onedrive:Torrents/Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c]
+2025-04-18 00:34:12,957 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c]
+2025-04-18 00:34:12,962 - INFO - Deleting torrent from qBittorrent: Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c]
+2025-04-18 00:34:12,962 - INFO - Deleting torrent with hash 6d5f2ac1a2e87285b84c2530377fdd920c631951 (delete_files=False)
+2025-04-18 00:34:12,970 - INFO - Successfully deleted torrent with hash 6d5f2ac1a2e87285b84c2530377fdd920c631951
+2025-04-18 00:34:12,970 - INFO - Deleting content files: Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c]
+2025-04-18 00:34:12,971 - INFO - Deleting content: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c]
+2025-04-18 00:34:12,976 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c]
+2025-04-18 00:34:12,976 - INFO - Successfully processed torrent: Ben 10 Alien Force 2008 Season 3 Complete Web 720p x264 [i_c]
+2025-04-18 00:34:12,976 - INFO - Uploading torrent: Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
+2025-04-18 00:34:12,976 - INFO - Starting upload: /home/user/Desktop/torrents/Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv] -> onedrive:Torrents/Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[rartv]
+2025-04-18 00:34:12,976 - INFO - Uploading directory of size 5676.64 MB
