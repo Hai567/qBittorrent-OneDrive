@@ -3296,3 +3296,8 @@ OSError: [Errno 28] No space left on device
 2025-04-18 10:12:06,730 - INFO - Deleting content: /home/user/Desktop/torrents/The Foreigner (2017) [1080p] [YTS.AG]
 2025-04-18 10:12:06,731 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Foreigner (2017) [1080p] [YTS.AG]
 2025-04-18 10:12:06,732 - INFO - Successfully processed torrent: The Foreigner (2017) [1080p] [YTS.AG]
+2025-04-18 10:17:06,831 - INFO - Checking for completed torrents...
+2025-04-18 10:17:06,836 - INFO - Found 4 completed torrents
+2025-04-18 10:17:06,836 - INFO - Uploading torrent: Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 10:17:06,837 - INFO - Starting upload: /home/user/Desktop/torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 10:17:06,837 - INFO - Uploading directory of size 1962.81 MB
