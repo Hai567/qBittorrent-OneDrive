@@ -3035,3 +3035,27 @@ OSError: [Errno 28] No space left on device
 2025-04-18 06:04:28,850 - INFO - Uploading torrent: Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
 2025-04-18 06:04:28,850 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
 2025-04-18 06:04:28,851 - INFO - Uploading directory of size 108.12 MB
+2025-04-18 06:05:12,734 - INFO - Successfully uploaded to onedrive:Torrents/Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 06:05:12,734 - INFO - Verifying upload for: Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 06:05:12,734 - INFO - Verifying upload: /home/user/Desktop/torrents/Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 06:05:15,374 - INFO - Upload verification successful for /home/user/Desktop/torrents/Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 06:05:15,378 - INFO - Deleting torrent from qBittorrent: Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 06:05:15,378 - INFO - Deleting torrent with hash 4ca088de6bcbb21122746008748e554930b4131c (delete_files=False)
+2025-04-18 06:05:15,390 - INFO - Successfully deleted torrent with hash 4ca088de6bcbb21122746008748e554930b4131c
+2025-04-18 06:05:15,390 - INFO - Deleting content files: Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 06:05:15,390 - INFO - Deleting content: /home/user/Desktop/torrents/Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 06:05:15,390 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 06:05:15,390 - INFO - Successfully processed torrent: Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 06:05:15,391 - INFO - Uploading torrent: Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 06:05:15,391 - INFO - Starting upload: /home/user/Desktop/torrents/Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Terminator Dark Fate (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 06:05:15,391 - INFO - Uploading directory of size 2282.26 MB
+2025-04-18 08:48:48,857 - INFO - Loaded configuration from config.json
+2025-04-18 08:48:48,863 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-18 08:48:48,940 - INFO - Found onedrive remote in rclone configuration
+2025-04-18 08:48:48,945 - INFO - Successfully logged in to qBittorrent
+2025-04-18 08:48:48,945 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-18 08:48:48,945 - INFO - Checking for completed torrents...
+2025-04-18 08:48:48,949 - INFO - Found 11 completed torrents
+2025-04-18 08:48:48,950 - INFO - Uploading torrent: Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:48:48,950 - INFO - Starting upload: /home/user/Desktop/torrents/Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Minions The Rise Of Gru (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 08:48:48,950 - INFO - Uploading directory of size 1649.96 MB
