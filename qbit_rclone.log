@@ -3656,3 +3656,8 @@ OSError: [Errno 28] No space left on device
 2025-04-18 16:14:00,651 - INFO - Deleting content: /home/user/Desktop/torrents/Blade Runner 2049 (2017) [1080p] [YTS.AG]
 2025-04-18 16:14:00,652 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Blade Runner 2049 (2017) [1080p] [YTS.AG]
 2025-04-18 16:14:00,653 - INFO - Successfully processed torrent: Blade Runner 2049 (2017) [1080p] [YTS.AG]
+2025-04-18 16:19:00,715 - INFO - Checking for completed torrents...
+2025-04-18 16:19:00,722 - INFO - Found 9 completed torrents
+2025-04-18 16:19:00,722 - INFO - Uploading torrent: Terminator Genisys (2015) [1080p]
+2025-04-18 16:19:00,722 - INFO - Starting upload: /home/user/Desktop/torrents/Terminator Genisys (2015) [1080p] -> onedrive:Torrents/Terminator Genisys (2015) [1080p]
+2025-04-18 16:19:00,722 - INFO - Uploading directory of size 1430.58 MB
