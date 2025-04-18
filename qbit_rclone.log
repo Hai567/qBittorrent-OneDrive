@@ -2477,3 +2477,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 00:52:11,430 - INFO - Uploading torrent: Wonder Woman (2017) [1080p] [YTS.AG]
 2025-04-18 00:52:11,430 - INFO - Starting upload: /home/user/Desktop/torrents/Wonder Woman (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Wonder Woman (2017) [1080p] [YTS.AG]
 2025-04-18 00:52:11,430 - INFO - Uploading directory of size 2217.23 MB
+2025-04-18 00:56:05,234 - INFO - Successfully uploaded to onedrive:Torrents/Wonder Woman (2017) [1080p] [YTS.AG]
+2025-04-18 00:56:05,234 - INFO - Verifying upload for: Wonder Woman (2017) [1080p] [YTS.AG]
+2025-04-18 00:56:05,235 - INFO - Verifying upload: /home/user/Desktop/torrents/Wonder Woman (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Wonder Woman (2017) [1080p] [YTS.AG]
+2025-04-18 00:56:07,616 - INFO - Upload verification successful for /home/user/Desktop/torrents/Wonder Woman (2017) [1080p] [YTS.AG]
+2025-04-18 00:56:07,620 - INFO - Deleting torrent from qBittorrent: Wonder Woman (2017) [1080p] [YTS.AG]
+2025-04-18 00:56:07,620 - INFO - Deleting torrent with hash 995f4accfb50711d0f8b1de8b098cad1ea9ade47 (delete_files=False)
+2025-04-18 00:56:07,629 - INFO - Successfully deleted torrent with hash 995f4accfb50711d0f8b1de8b098cad1ea9ade47
+2025-04-18 00:56:07,629 - INFO - Deleting content files: Wonder Woman (2017) [1080p] [YTS.AG]
+2025-04-18 00:56:07,629 - INFO - Deleting content: /home/user/Desktop/torrents/Wonder Woman (2017) [1080p] [YTS.AG]
+2025-04-18 00:56:07,631 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Wonder Woman (2017) [1080p] [YTS.AG]
+2025-04-18 00:56:07,631 - INFO - Successfully processed torrent: Wonder Woman (2017) [1080p] [YTS.AG]
+2025-04-18 00:56:07,631 - INFO - Uploading torrent: Cars 3 (2017) [1080p] [YTS.AG]
+2025-04-18 00:56:07,632 - INFO - Starting upload: /home/user/Desktop/torrents/Cars 3 (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Cars 3 (2017) [1080p] [YTS.AG]
+2025-04-18 00:56:07,632 - INFO - Uploading directory of size 1584.89 MB
+2025-04-18 00:58:51,398 - INFO - Successfully uploaded to onedrive:Torrents/Cars 3 (2017) [1080p] [YTS.AG]
+2025-04-18 00:58:51,398 - INFO - Verifying upload for: Cars 3 (2017) [1080p] [YTS.AG]
+2025-04-18 00:58:51,398 - INFO - Verifying upload: /home/user/Desktop/torrents/Cars 3 (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Cars 3 (2017) [1080p] [YTS.AG]
+2025-04-18 00:58:53,776 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cars 3 (2017) [1080p] [YTS.AG]
+2025-04-18 00:58:53,780 - INFO - Deleting torrent from qBittorrent: Cars 3 (2017) [1080p] [YTS.AG]
+2025-04-18 00:58:53,781 - INFO - Deleting torrent with hash f20d4989e9e0984135720708abc75246cdcb25b8 (delete_files=False)
+2025-04-18 00:58:53,790 - INFO - Successfully deleted torrent with hash f20d4989e9e0984135720708abc75246cdcb25b8
+2025-04-18 00:58:53,790 - INFO - Deleting content files: Cars 3 (2017) [1080p] [YTS.AG]
+2025-04-18 00:58:53,791 - INFO - Deleting content: /home/user/Desktop/torrents/Cars 3 (2017) [1080p] [YTS.AG]
+2025-04-18 00:58:53,792 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cars 3 (2017) [1080p] [YTS.AG]
+2025-04-18 00:58:53,792 - INFO - Successfully processed torrent: Cars 3 (2017) [1080p] [YTS.AG]
+2025-04-18 00:58:53,792 - INFO - Uploading torrent: The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:58:53,792 - INFO - Starting upload: /home/user/Desktop/torrents/The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Merry Gentlemen (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:58:53,793 - INFO - Uploading directory of size 1657.52 MB
