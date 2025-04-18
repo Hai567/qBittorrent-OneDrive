@@ -2965,3 +2965,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 05:42:18,159 - INFO - Uploading torrent: The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-18 05:42:18,159 - INFO - Starting upload: /home/user/Desktop/torrents/The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-18 05:42:18,159 - INFO - Uploading directory of size 1446.12 MB
+2025-04-18 05:45:14,312 - INFO - Successfully uploaded to onedrive:Torrents/The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 05:45:14,312 - INFO - Verifying upload for: The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 05:45:14,312 - INFO - Verifying upload: /home/user/Desktop/torrents/The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 05:45:16,627 - INFO - Upload verification successful for /home/user/Desktop/torrents/The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 05:45:16,630 - INFO - Deleting torrent from qBittorrent: The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 05:45:16,630 - INFO - Deleting torrent with hash 0c47d2da485103c16e11be3bde291d2bbb515782 (delete_files=False)
+2025-04-18 05:45:16,645 - INFO - Successfully deleted torrent with hash 0c47d2da485103c16e11be3bde291d2bbb515782
+2025-04-18 05:45:16,646 - INFO - Deleting content files: The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 05:45:16,646 - INFO - Deleting content: /home/user/Desktop/torrents/The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 05:45:16,648 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 05:45:16,648 - INFO - Successfully processed torrent: The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 05:45:16,648 - INFO - Uploading torrent: X Men Days of Future Past (2014) [1080p]
+2025-04-18 05:45:16,648 - INFO - Starting upload: /home/user/Desktop/torrents/X Men Days of Future Past (2014) [1080p] -> onedrive:Torrents/X Men Days of Future Past (2014) [1080p]
+2025-04-18 05:45:16,648 - INFO - Uploading directory of size 2000.99 MB
