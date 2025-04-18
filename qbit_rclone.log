@@ -3301,3 +3301,13 @@ OSError: [Errno 28] No space left on device
 2025-04-18 10:17:06,836 - INFO - Uploading torrent: Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 10:17:06,837 - INFO - Starting upload: /home/user/Desktop/torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 10:17:06,837 - INFO - Uploading directory of size 1962.81 MB
+2025-04-18 13:43:25,343 - INFO - Loaded configuration from config.json
+2025-04-18 13:43:25,349 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-18 13:43:25,428 - INFO - Found onedrive remote in rclone configuration
+2025-04-18 13:43:25,433 - INFO - Successfully logged in to qBittorrent
+2025-04-18 13:43:25,433 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-18 13:43:25,433 - INFO - Checking for completed torrents...
+2025-04-18 13:43:25,436 - INFO - Found 5 completed torrents
+2025-04-18 13:43:25,436 - INFO - Uploading torrent: Lucifer.S05.COMPLETE.REPACK.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 13:43:25,436 - INFO - Starting upload: /home/user/Desktop/torrents/Lucifer.S05.COMPLETE.REPACK.720p.NF.WEBRip.x264-GalaxyTV[TGx] -> onedrive:Torrents/Lucifer.S05.COMPLETE.REPACK.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 13:43:25,436 - INFO - Uploading directory of size 5947.87 MB
