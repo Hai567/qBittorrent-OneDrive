@@ -2979,3 +2979,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 05:45:16,648 - INFO - Uploading torrent: X Men Days of Future Past (2014) [1080p]
 2025-04-18 05:45:16,648 - INFO - Starting upload: /home/user/Desktop/torrents/X Men Days of Future Past (2014) [1080p] -> onedrive:Torrents/X Men Days of Future Past (2014) [1080p]
 2025-04-18 05:45:16,648 - INFO - Uploading directory of size 2000.99 MB
+2025-04-18 05:49:58,514 - INFO - Successfully uploaded to onedrive:Torrents/X Men Days of Future Past (2014) [1080p]
+2025-04-18 05:49:58,514 - INFO - Verifying upload for: X Men Days of Future Past (2014) [1080p]
+2025-04-18 05:49:58,514 - INFO - Verifying upload: /home/user/Desktop/torrents/X Men Days of Future Past (2014) [1080p] -> onedrive:Torrents/X Men Days of Future Past (2014) [1080p]
+2025-04-18 05:50:00,816 - INFO - Upload verification successful for /home/user/Desktop/torrents/X Men Days of Future Past (2014) [1080p]
+2025-04-18 05:50:00,819 - INFO - Deleting torrent from qBittorrent: X Men Days of Future Past (2014) [1080p]
+2025-04-18 05:50:00,820 - INFO - Deleting torrent with hash 4f275301f4baa51b455749599dc53250413eb9ad (delete_files=False)
+2025-04-18 05:50:00,829 - INFO - Successfully deleted torrent with hash 4f275301f4baa51b455749599dc53250413eb9ad
+2025-04-18 05:50:00,829 - INFO - Deleting content files: X Men Days of Future Past (2014) [1080p]
+2025-04-18 05:50:00,830 - INFO - Deleting content: /home/user/Desktop/torrents/X Men Days of Future Past (2014) [1080p]
+2025-04-18 05:50:00,831 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/X Men Days of Future Past (2014) [1080p]
+2025-04-18 05:50:00,831 - INFO - Successfully processed torrent: X Men Days of Future Past (2014) [1080p]
+2025-04-18 05:50:00,831 - INFO - Uploading torrent: Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:50:00,831 - INFO - Starting upload: /home/user/Desktop/torrents/Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Demise (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 05:50:00,831 - INFO - Uploading directory of size 2200.23 MB
