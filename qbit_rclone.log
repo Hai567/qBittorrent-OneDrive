@@ -3617,3 +3617,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 15:51:45,324 - INFO - Uploading torrent: Furious Seven (2015) [1080p]
 2025-04-18 15:51:45,324 - INFO - Starting upload: /home/user/Desktop/torrents/Furious Seven (2015) [1080p] -> onedrive:Torrents/Furious Seven (2015) [1080p]
 2025-04-18 15:51:45,324 - INFO - Uploading directory of size 2111.06 MB
+2025-04-18 15:56:25,803 - INFO - Successfully uploaded to onedrive:Torrents/Furious Seven (2015) [1080p]
+2025-04-18 15:56:25,803 - INFO - Verifying upload for: Furious Seven (2015) [1080p]
+2025-04-18 15:56:25,804 - INFO - Verifying upload: /home/user/Desktop/torrents/Furious Seven (2015) [1080p] -> onedrive:Torrents/Furious Seven (2015) [1080p]
+2025-04-18 15:56:27,652 - INFO - Upload verification successful for /home/user/Desktop/torrents/Furious Seven (2015) [1080p]
+2025-04-18 15:56:27,657 - INFO - Deleting torrent from qBittorrent: Furious Seven (2015) [1080p]
+2025-04-18 15:56:27,657 - INFO - Deleting torrent with hash 1fc5bfff2d39a97fe4a622c5b76d28a276cf2d8a (delete_files=False)
+2025-04-18 15:56:27,665 - INFO - Successfully deleted torrent with hash 1fc5bfff2d39a97fe4a622c5b76d28a276cf2d8a
+2025-04-18 15:56:27,665 - INFO - Deleting content files: Furious Seven (2015) [1080p]
+2025-04-18 15:56:27,665 - INFO - Deleting content: /home/user/Desktop/torrents/Furious Seven (2015) [1080p]
+2025-04-18 15:56:27,667 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Furious Seven (2015) [1080p]
+2025-04-18 15:56:27,667 - INFO - Successfully processed torrent: Furious Seven (2015) [1080p]
+2025-04-18 15:56:27,667 - INFO - Uploading torrent: Ghost In The Shell (2017) [1080p] [YTS.AG]
+2025-04-18 15:56:27,667 - INFO - Starting upload: /home/user/Desktop/torrents/Ghost In The Shell (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Ghost In The Shell (2017) [1080p] [YTS.AG]
+2025-04-18 15:56:27,667 - INFO - Uploading directory of size 1671.59 MB
