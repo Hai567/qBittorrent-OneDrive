@@ -2687,3 +2687,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 01:47:31,108 - INFO - Uploading torrent: 1888 (2023) [1080p] [WEBRip] [YTS.MX]
 2025-04-18 01:47:31,109 - INFO - Starting upload: /home/user/Desktop/torrents/1888 (2023) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/1888 (2023) [1080p] [WEBRip] [YTS.MX]
 2025-04-18 01:47:31,109 - INFO - Uploading directory of size 1963.96 MB
+2025-04-18 01:51:06,808 - INFO - Successfully uploaded to onedrive:Torrents/1888 (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 01:51:06,808 - INFO - Verifying upload for: 1888 (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 01:51:06,808 - INFO - Verifying upload: /home/user/Desktop/torrents/1888 (2023) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/1888 (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 01:51:09,389 - INFO - Upload verification successful for /home/user/Desktop/torrents/1888 (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 01:51:09,393 - INFO - Deleting torrent from qBittorrent: 1888 (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 01:51:09,393 - INFO - Deleting torrent with hash 44b8bafa45e8cd7872dd2f7d6f46f679e0514b83 (delete_files=False)
+2025-04-18 01:51:09,403 - INFO - Successfully deleted torrent with hash 44b8bafa45e8cd7872dd2f7d6f46f679e0514b83
+2025-04-18 01:51:09,403 - INFO - Deleting content files: 1888 (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 01:51:09,403 - INFO - Deleting content: /home/user/Desktop/torrents/1888 (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 01:51:09,405 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/1888 (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 01:51:09,405 - INFO - Successfully processed torrent: 1888 (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 01:51:09,405 - INFO - Uploading torrent: Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:51:09,405 - INFO - Starting upload: /home/user/Desktop/torrents/Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:51:09,405 - INFO - Uploading directory of size 1151.49 MB
+2025-04-18 01:53:18,859 - INFO - Successfully uploaded to onedrive:Torrents/Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:53:18,859 - INFO - Verifying upload for: Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:53:18,859 - INFO - Verifying upload: /home/user/Desktop/torrents/Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:53:21,479 - INFO - Upload verification successful for /home/user/Desktop/torrents/Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:53:21,483 - INFO - Deleting torrent from qBittorrent: Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:53:21,483 - INFO - Deleting torrent with hash e699bcf9299ba3823d9acae18f6a566d65dbf97b (delete_files=False)
+2025-04-18 01:53:21,492 - INFO - Successfully deleted torrent with hash e699bcf9299ba3823d9acae18f6a566d65dbf97b
+2025-04-18 01:53:21,492 - INFO - Deleting content files: Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:53:21,492 - INFO - Deleting content: /home/user/Desktop/torrents/Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:53:21,493 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:53:21,493 - INFO - Successfully processed torrent: Surveilled (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:53:21,493 - INFO - Uploading torrent: Fantastic Beasts And Where To Find Them (2016) [1080p] [YTS.AG]
+2025-04-18 01:53:21,493 - INFO - Starting upload: /home/user/Desktop/torrents/Fantastic Beasts And Where To Find Them (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Fantastic Beasts And Where To Find Them (2016) [1080p] [YTS.AG]
+2025-04-18 01:53:21,493 - INFO - Uploading directory of size 2081.52 MB
