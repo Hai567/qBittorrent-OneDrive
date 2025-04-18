@@ -3339,3 +3339,14 @@ OSError: [Errno 28] No space left on device
 2025-04-18 13:50:59,453 - INFO - Uploading torrent: Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 13:50:59,453 - INFO - Starting upload: /home/user/Desktop/torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 13:50:59,453 - INFO - Uploading directory of size 1962.81 MB
+2025-04-18 13:54:27,301 - INFO - Successfully uploaded to onedrive:Torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 13:54:27,301 - INFO - Verifying upload for: Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 13:54:27,301 - INFO - Verifying upload: /home/user/Desktop/torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 13:54:29,605 - INFO - Upload verification successful for /home/user/Desktop/torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 13:54:29,610 - INFO - Deleting torrent from qBittorrent: Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 13:54:29,610 - INFO - Deleting torrent with hash f0cf8a3524c403382cda1ff8b930c19f1a67cd51 (delete_files=False)
+2025-04-18 13:54:29,617 - INFO - Successfully deleted torrent with hash f0cf8a3524c403382cda1ff8b930c19f1a67cd51
+2025-04-18 13:54:29,618 - INFO - Deleting content files: Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 13:54:29,618 - INFO - Deleting content: /home/user/Desktop/torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 13:54:29,619 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 13:54:29,619 - INFO - Successfully processed torrent: Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
