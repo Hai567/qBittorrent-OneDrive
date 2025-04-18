@@ -3689,3 +3689,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 16:36:02,244 - INFO - Uploading torrent: Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 16:36:02,244 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 16:36:02,244 - INFO - Uploading directory of size 2899.68 MB
+2025-04-18 16:49:54,523 - INFO - Successfully uploaded to onedrive:Torrents/Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 16:49:54,524 - INFO - Verifying upload for: Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 16:49:54,524 - INFO - Verifying upload: /home/user/Desktop/torrents/Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 16:49:56,904 - INFO - Upload verification successful for /home/user/Desktop/torrents/Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 16:49:56,910 - INFO - Deleting torrent from qBittorrent: Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 16:49:56,910 - INFO - Deleting torrent with hash 25400bad16959e82554540a7a941e9be70a6c705 (delete_files=False)
+2025-04-18 16:49:56,921 - INFO - Successfully deleted torrent with hash 25400bad16959e82554540a7a941e9be70a6c705
+2025-04-18 16:49:56,921 - INFO - Deleting content files: Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 16:49:56,921 - INFO - Deleting content: /home/user/Desktop/torrents/Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 16:49:56,922 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 16:49:56,922 - INFO - Successfully processed torrent: Harry Potter And The Half-Blood Prince (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 16:49:56,922 - INFO - Uploading torrent: The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 16:49:56,922 - INFO - Starting upload: /home/user/Desktop/torrents/The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx] -> onedrive:Torrents/The.Good.Doctor.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 16:49:56,923 - INFO - Uploading directory of size 4583.13 MB
