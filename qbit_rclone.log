@@ -3512,3 +3512,5 @@ OSError: [Errno 28] No space left on device
 2025-04-18 14:54:04,654 - INFO - Deleting content: /home/user/Desktop/torrents/Mad Max Fury Road (2015) [1080p]
 2025-04-18 14:54:04,655 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mad Max Fury Road (2015) [1080p]
 2025-04-18 14:54:04,655 - INFO - Successfully processed torrent: Mad Max Fury Road (2015) [1080p]
+2025-04-18 14:59:04,704 - INFO - Checking for completed torrents...
+2025-04-18 14:59:04,709 - INFO - Found 3 completed torrents
