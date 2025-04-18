@@ -2365,3 +2365,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 00:23:44,383 - INFO - Uploading torrent: Mission Impossible Rogue Nation (2015) [1080p]
 2025-04-18 00:23:44,383 - INFO - Starting upload: /home/user/Desktop/torrents/Mission Impossible Rogue Nation (2015) [1080p] -> onedrive:Torrents/Mission Impossible Rogue Nation (2015) [1080p]
 2025-04-18 00:23:44,383 - INFO - Uploading directory of size 1891.17 MB
+2025-04-18 00:27:41,597 - INFO - Successfully uploaded to onedrive:Torrents/Mission Impossible Rogue Nation (2015) [1080p]
+2025-04-18 00:27:41,597 - INFO - Verifying upload for: Mission Impossible Rogue Nation (2015) [1080p]
+2025-04-18 00:27:41,597 - INFO - Verifying upload: /home/user/Desktop/torrents/Mission Impossible Rogue Nation (2015) [1080p] -> onedrive:Torrents/Mission Impossible Rogue Nation (2015) [1080p]
+2025-04-18 00:27:44,102 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mission Impossible Rogue Nation (2015) [1080p]
+2025-04-18 00:27:44,106 - INFO - Deleting torrent from qBittorrent: Mission Impossible Rogue Nation (2015) [1080p]
+2025-04-18 00:27:44,106 - INFO - Deleting torrent with hash 08082c3dce2219347225a42e43cc7214032a09ac (delete_files=False)
+2025-04-18 00:27:44,115 - INFO - Successfully deleted torrent with hash 08082c3dce2219347225a42e43cc7214032a09ac
+2025-04-18 00:27:44,116 - INFO - Deleting content files: Mission Impossible Rogue Nation (2015) [1080p]
+2025-04-18 00:27:44,116 - INFO - Deleting content: /home/user/Desktop/torrents/Mission Impossible Rogue Nation (2015) [1080p]
+2025-04-18 00:27:44,117 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mission Impossible Rogue Nation (2015) [1080p]
+2025-04-18 00:27:44,118 - INFO - Successfully processed torrent: Mission Impossible Rogue Nation (2015) [1080p]
+2025-04-18 00:27:44,118 - INFO - Uploading torrent: American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:27:44,118 - INFO - Starting upload: /home/user/Desktop/torrents/American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/American Dreamer (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 00:27:44,118 - INFO - Uploading directory of size 1857.63 MB
