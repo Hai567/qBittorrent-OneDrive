@@ -2519,3 +2519,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 01:02:03,663 - INFO - Uploading torrent: Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-18 01:02:03,664 - INFO - Starting upload: /home/user/Desktop/torrents/Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-18 01:02:03,664 - INFO - Uploading directory of size 1719.56 MB
+2025-04-18 01:06:14,409 - INFO - Successfully uploaded to onedrive:Torrents/Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:06:14,409 - INFO - Verifying upload for: Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:06:14,409 - INFO - Verifying upload: /home/user/Desktop/torrents/Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:06:16,694 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:06:16,699 - INFO - Deleting torrent from qBittorrent: Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:06:16,699 - INFO - Deleting torrent with hash 5490a6b04a5cabba27331114e05871f66ee9780a (delete_files=False)
+2025-04-18 01:06:16,709 - INFO - Successfully deleted torrent with hash 5490a6b04a5cabba27331114e05871f66ee9780a
+2025-04-18 01:06:16,710 - INFO - Deleting content files: Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:06:16,710 - INFO - Deleting content: /home/user/Desktop/torrents/Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:06:16,711 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:06:16,711 - INFO - Successfully processed torrent: Fifty Shades Freed (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:06:16,712 - INFO - Uploading torrent: The Nun (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:06:16,712 - INFO - Starting upload: /home/user/Desktop/torrents/The Nun (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Nun (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:06:16,712 - INFO - Uploading directory of size 1590.22 MB
+2025-04-18 01:09:24,057 - INFO - Successfully uploaded to onedrive:Torrents/The Nun (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:09:24,057 - INFO - Verifying upload for: The Nun (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:09:24,057 - INFO - Verifying upload: /home/user/Desktop/torrents/The Nun (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Nun (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:09:26,330 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Nun (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:09:26,334 - INFO - Deleting torrent from qBittorrent: The Nun (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:09:26,334 - INFO - Deleting torrent with hash e67ab3e10cef7e39db8523bc9e4fa29c6f831786 (delete_files=False)
+2025-04-18 01:09:26,342 - INFO - Successfully deleted torrent with hash e67ab3e10cef7e39db8523bc9e4fa29c6f831786
+2025-04-18 01:09:26,342 - INFO - Deleting content files: The Nun (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:09:26,343 - INFO - Deleting content: /home/user/Desktop/torrents/The Nun (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:09:26,344 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Nun (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:09:26,344 - INFO - Successfully processed torrent: The Nun (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 01:09:26,344 - INFO - Uploading torrent: Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:09:26,344 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:09:26,345 - INFO - Uploading directory of size 5324.74 MB
