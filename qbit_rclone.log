@@ -3457,3 +3457,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 14:37:19,002 - INFO - Uploading torrent: Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX]
 2025-04-18 14:37:19,002 - INFO - Starting upload: /home/user/Desktop/torrents/Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX]
 2025-04-18 14:37:19,002 - INFO - Uploading directory of size 897.11 MB
+2025-04-18 14:39:36,652 - INFO - Successfully uploaded to onedrive:Torrents/Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 14:39:36,652 - INFO - Verifying upload for: Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 14:39:36,653 - INFO - Verifying upload: /home/user/Desktop/torrents/Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 14:39:38,958 - INFO - Upload verification successful for /home/user/Desktop/torrents/Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 14:39:38,962 - INFO - Deleting torrent from qBittorrent: Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 14:39:38,962 - INFO - Deleting torrent with hash bd73b5d67855ba6e900ec846194d4054aeb92272 (delete_files=False)
+2025-04-18 14:39:38,974 - INFO - Successfully deleted torrent with hash bd73b5d67855ba6e900ec846194d4054aeb92272
+2025-04-18 14:39:38,975 - INFO - Deleting content files: Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 14:39:38,975 - INFO - Deleting content: /home/user/Desktop/torrents/Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 14:39:38,975 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 14:39:38,976 - INFO - Successfully processed torrent: Leonardo Da Vinci The Universal Man (2019) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 14:39:38,976 - INFO - Uploading torrent: Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:39:38,976 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:39:38,976 - INFO - Uploading directory of size 111.47 MB
+2025-04-18 14:40:05,721 - INFO - Successfully uploaded to onedrive:Torrents/Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:40:05,721 - INFO - Verifying upload for: Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:40:05,721 - INFO - Verifying upload: /home/user/Desktop/torrents/Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:40:08,059 - INFO - Upload verification successful for /home/user/Desktop/torrents/Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:40:08,063 - INFO - Deleting torrent from qBittorrent: Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:40:08,064 - INFO - Deleting torrent with hash eb2c1a5bd8dbc0624848ee6c7a09255e11e727fc (delete_files=False)
+2025-04-18 14:40:08,072 - INFO - Successfully deleted torrent with hash eb2c1a5bd8dbc0624848ee6c7a09255e11e727fc
+2025-04-18 14:40:08,072 - INFO - Deleting content files: Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:40:08,072 - INFO - Deleting content: /home/user/Desktop/torrents/Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:40:08,073 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:40:08,073 - INFO - Successfully processed torrent: Toy Story Toons Hawaiian Vacation (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:40:08,073 - INFO - Uploading torrent: The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:40:08,073 - INFO - Starting upload: /home/user/Desktop/torrents/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:40:08,073 - INFO - Uploading directory of size 1994.47 MB
