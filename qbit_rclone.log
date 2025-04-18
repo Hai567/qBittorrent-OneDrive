@@ -3531,3 +3531,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 15:17:48,282 - INFO - Uploading torrent: Toy Story (1995) [1080p]
 2025-04-18 15:17:48,282 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story (1995) [1080p] -> onedrive:Torrents/Toy Story (1995) [1080p]
 2025-04-18 15:17:48,282 - INFO - Uploading directory of size 1125.48 MB
+2025-04-18 15:20:20,235 - INFO - Successfully uploaded to onedrive:Torrents/Toy Story (1995) [1080p]
+2025-04-18 15:20:20,236 - INFO - Verifying upload for: Toy Story (1995) [1080p]
+2025-04-18 15:20:20,236 - INFO - Verifying upload: /home/user/Desktop/torrents/Toy Story (1995) [1080p] -> onedrive:Torrents/Toy Story (1995) [1080p]
+2025-04-18 15:20:22,612 - INFO - Upload verification successful for /home/user/Desktop/torrents/Toy Story (1995) [1080p]
+2025-04-18 15:20:22,618 - INFO - Deleting torrent from qBittorrent: Toy Story (1995) [1080p]
+2025-04-18 15:20:22,619 - INFO - Deleting torrent with hash aee2bcb4da9a5650941c64b127f491683c273d86 (delete_files=False)
+2025-04-18 15:20:22,630 - INFO - Successfully deleted torrent with hash aee2bcb4da9a5650941c64b127f491683c273d86
+2025-04-18 15:20:22,631 - INFO - Deleting content files: Toy Story (1995) [1080p]
+2025-04-18 15:20:22,631 - INFO - Deleting content: /home/user/Desktop/torrents/Toy Story (1995) [1080p]
+2025-04-18 15:20:22,632 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Toy Story (1995) [1080p]
+2025-04-18 15:20:22,632 - INFO - Successfully processed torrent: Toy Story (1995) [1080p]
+2025-04-18 15:20:22,632 - INFO - Uploading torrent: Mortal Kombat (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 15:20:22,632 - INFO - Starting upload: /home/user/Desktop/torrents/Mortal Kombat (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Mortal Kombat (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 15:20:22,632 - INFO - Uploading directory of size 2075.84 MB
