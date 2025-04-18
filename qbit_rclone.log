@@ -3350,3 +3350,22 @@ OSError: [Errno 28] No space left on device
 2025-04-18 13:54:29,618 - INFO - Deleting content: /home/user/Desktop/torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 13:54:29,619 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 13:54:29,619 - INFO - Successfully processed torrent: Doraemon The Movie Nobita And The Birth Of Japan (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 13:59:29,719 - INFO - Checking for completed torrents...
+2025-04-18 13:59:29,724 - INFO - Found 4 completed torrents
+2025-04-18 13:59:29,724 - INFO - Uploading torrent: Skyscraper (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 13:59:29,725 - INFO - Starting upload: /home/user/Desktop/torrents/Skyscraper (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Skyscraper (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 13:59:29,725 - INFO - Uploading directory of size 1672.33 MB
+2025-04-18 14:03:12,535 - INFO - Successfully uploaded to onedrive:Torrents/Skyscraper (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:03:12,535 - INFO - Verifying upload for: Skyscraper (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:03:12,535 - INFO - Verifying upload: /home/user/Desktop/torrents/Skyscraper (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Skyscraper (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:03:14,891 - INFO - Upload verification successful for /home/user/Desktop/torrents/Skyscraper (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:03:14,896 - INFO - Deleting torrent from qBittorrent: Skyscraper (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:03:14,896 - INFO - Deleting torrent with hash ea5f2b07b0a6742075c1dc3d0da502ba5097e037 (delete_files=False)
+2025-04-18 14:03:14,905 - INFO - Successfully deleted torrent with hash ea5f2b07b0a6742075c1dc3d0da502ba5097e037
+2025-04-18 14:03:14,906 - INFO - Deleting content files: Skyscraper (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:03:14,906 - INFO - Deleting content: /home/user/Desktop/torrents/Skyscraper (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:03:14,907 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Skyscraper (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:03:14,907 - INFO - Successfully processed torrent: Skyscraper (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 14:03:14,907 - INFO - Uploading torrent: Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 14:03:14,907 - INFO - Starting upload: /home/user/Desktop/torrents/Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 14:03:14,907 - INFO - Uploading directory of size 1908.48 MB
