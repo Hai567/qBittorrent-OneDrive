@@ -2937,3 +2937,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 05:33:01,442 - INFO - Uploading torrent: Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-18 05:33:01,442 - INFO - Starting upload: /home/user/Desktop/torrents/Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-18 05:33:01,442 - INFO - Uploading directory of size 2096.69 MB
+2025-04-18 05:38:50,488 - INFO - Successfully uploaded to onedrive:Torrents/Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 05:38:50,489 - INFO - Verifying upload for: Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 05:38:50,489 - INFO - Verifying upload: /home/user/Desktop/torrents/Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 05:38:52,797 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 05:38:52,800 - INFO - Deleting torrent from qBittorrent: Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 05:38:52,800 - INFO - Deleting torrent with hash 21ac8e15a07470748874d247b64deaf20974d6e4 (delete_files=False)
+2025-04-18 05:38:52,812 - INFO - Successfully deleted torrent with hash 21ac8e15a07470748874d247b64deaf20974d6e4
+2025-04-18 05:38:52,812 - INFO - Deleting content files: Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 05:38:52,812 - INFO - Deleting content: /home/user/Desktop/torrents/Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 05:38:52,814 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 05:38:52,814 - INFO - Successfully processed torrent: Mortal Engines (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 05:38:52,814 - INFO - Uploading torrent: The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 05:38:52,814 - INFO - Starting upload: /home/user/Desktop/torrents/The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx] -> onedrive:Torrents/The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 05:38:52,815 - INFO - Uploading directory of size 4075.45 MB
