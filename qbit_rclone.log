@@ -3661,3 +3661,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 16:19:00,722 - INFO - Uploading torrent: Terminator Genisys (2015) [1080p]
 2025-04-18 16:19:00,722 - INFO - Starting upload: /home/user/Desktop/torrents/Terminator Genisys (2015) [1080p] -> onedrive:Torrents/Terminator Genisys (2015) [1080p]
 2025-04-18 16:19:00,722 - INFO - Uploading directory of size 1430.58 MB
+2025-04-18 16:27:13,222 - INFO - Successfully uploaded to onedrive:Torrents/Terminator Genisys (2015) [1080p]
+2025-04-18 16:27:13,223 - INFO - Verifying upload for: Terminator Genisys (2015) [1080p]
+2025-04-18 16:27:13,223 - INFO - Verifying upload: /home/user/Desktop/torrents/Terminator Genisys (2015) [1080p] -> onedrive:Torrents/Terminator Genisys (2015) [1080p]
+2025-04-18 16:27:14,982 - INFO - Upload verification successful for /home/user/Desktop/torrents/Terminator Genisys (2015) [1080p]
+2025-04-18 16:27:14,989 - INFO - Deleting torrent from qBittorrent: Terminator Genisys (2015) [1080p]
+2025-04-18 16:27:14,989 - INFO - Deleting torrent with hash c1d7df860b8ee683abca0007007af7212cd6a980 (delete_files=False)
+2025-04-18 16:27:14,999 - INFO - Successfully deleted torrent with hash c1d7df860b8ee683abca0007007af7212cd6a980
+2025-04-18 16:27:14,999 - INFO - Deleting content files: Terminator Genisys (2015) [1080p]
+2025-04-18 16:27:14,999 - INFO - Deleting content: /home/user/Desktop/torrents/Terminator Genisys (2015) [1080p]
+2025-04-18 16:27:15,000 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Terminator Genisys (2015) [1080p]
+2025-04-18 16:27:15,000 - INFO - Successfully processed torrent: Terminator Genisys (2015) [1080p]
+2025-04-18 16:27:15,000 - INFO - Uploading torrent: Cars 2 (2011) [1080p] [YTS.AG]
+2025-04-18 16:27:15,000 - INFO - Starting upload: /home/user/Desktop/torrents/Cars 2 (2011) [1080p] [YTS.AG] -> onedrive:Torrents/Cars 2 (2011) [1080p] [YTS.AG]
+2025-04-18 16:27:15,000 - INFO - Uploading directory of size 1646.16 MB
