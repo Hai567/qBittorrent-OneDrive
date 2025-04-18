@@ -3427,3 +3427,28 @@ OSError: [Errno 28] No space left on device
 2025-04-18 14:25:19,272 - INFO - Uploading torrent: Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 14:25:19,272 - INFO - Starting upload: /home/user/Desktop/torrents/Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 14:25:19,272 - INFO - Uploading directory of size 1878.06 MB
+2025-04-18 14:29:21,494 - INFO - Successfully uploaded to onedrive:Torrents/Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:29:21,495 - INFO - Verifying upload for: Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:29:21,495 - INFO - Verifying upload: /home/user/Desktop/torrents/Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:29:23,831 - INFO - Upload verification successful for /home/user/Desktop/torrents/Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:29:23,836 - INFO - Deleting torrent from qBittorrent: Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:29:23,836 - INFO - Deleting torrent with hash 6c73eb4f6f62cacb7d8ba6872f849d7658be3061 (delete_files=False)
+2025-04-18 14:29:23,845 - INFO - Successfully deleted torrent with hash 6c73eb4f6f62cacb7d8ba6872f849d7658be3061
+2025-04-18 14:29:23,845 - INFO - Deleting content files: Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:29:23,845 - INFO - Deleting content: /home/user/Desktop/torrents/Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:29:23,846 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:29:23,847 - INFO - Successfully processed torrent: Frozen II (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-18 14:29:23,847 - INFO - Uploading torrent: Toy Story 3 (2010) [1080p]
+2025-04-18 14:29:23,847 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story 3 (2010) [1080p] -> onedrive:Torrents/Toy Story 3 (2010) [1080p]
+2025-04-18 14:29:23,847 - INFO - Uploading directory of size 1431.47 MB
+2025-04-18 14:32:16,508 - INFO - Successfully uploaded to onedrive:Torrents/Toy Story 3 (2010) [1080p]
+2025-04-18 14:32:16,508 - INFO - Verifying upload for: Toy Story 3 (2010) [1080p]
+2025-04-18 14:32:16,508 - INFO - Verifying upload: /home/user/Desktop/torrents/Toy Story 3 (2010) [1080p] -> onedrive:Torrents/Toy Story 3 (2010) [1080p]
+2025-04-18 14:32:18,904 - INFO - Upload verification successful for /home/user/Desktop/torrents/Toy Story 3 (2010) [1080p]
+2025-04-18 14:32:18,909 - INFO - Deleting torrent from qBittorrent: Toy Story 3 (2010) [1080p]
+2025-04-18 14:32:18,910 - INFO - Deleting torrent with hash 63ef65ac303b350e5c5c230c03066dccb3a45e64 (delete_files=False)
+2025-04-18 14:32:18,920 - INFO - Successfully deleted torrent with hash 63ef65ac303b350e5c5c230c03066dccb3a45e64
+2025-04-18 14:32:18,921 - INFO - Deleting content files: Toy Story 3 (2010) [1080p]
+2025-04-18 14:32:18,921 - INFO - Deleting content: /home/user/Desktop/torrents/Toy Story 3 (2010) [1080p]
+2025-04-18 14:32:18,921 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Toy Story 3 (2010) [1080p]
+2025-04-18 14:32:18,922 - INFO - Successfully processed torrent: Toy Story 3 (2010) [1080p]
