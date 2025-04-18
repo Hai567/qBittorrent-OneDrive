@@ -2815,3 +2815,55 @@ OSError: [Errno 28] No space left on device
 2025-04-18 02:23:45,958 - INFO - Uploading torrent: The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 02:23:45,958 - INFO - Starting upload: /home/user/Desktop/torrents/The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-18 02:23:45,958 - INFO - Uploading directory of size 2026.78 MB
+2025-04-18 02:28:08,352 - INFO - Successfully uploaded to onedrive:Torrents/The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 02:28:08,353 - INFO - Verifying upload for: The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 02:28:08,353 - INFO - Verifying upload: /home/user/Desktop/torrents/The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 02:28:09,934 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 02:28:09,939 - INFO - Deleting torrent from qBittorrent: The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 02:28:09,939 - INFO - Deleting torrent with hash 79844d98e63ded2a6a3dac0ac65e0dbdbcea52f8 (delete_files=False)
+2025-04-18 02:28:09,948 - INFO - Successfully deleted torrent with hash 79844d98e63ded2a6a3dac0ac65e0dbdbcea52f8
+2025-04-18 02:28:09,949 - INFO - Deleting content files: The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 02:28:09,949 - INFO - Deleting content: /home/user/Desktop/torrents/The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 02:28:09,950 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 02:28:09,950 - INFO - Successfully processed torrent: The Boss Baby Family Business (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 02:28:09,950 - INFO - Uploading torrent: Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:28:09,951 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Toy Story Toons Partysaurus Rex (2012) [BluRay] [1080p] [YTS.AM]
+2025-04-18 02:28:09,951 - INFO - Uploading directory of size 108.12 MB
+2025-04-18 04:54:43,638 - INFO - Loaded configuration from config.json
+2025-04-18 04:54:43,639 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-18 04:54:43,727 - INFO - Found onedrive remote in rclone configuration
+2025-04-18 04:54:43,733 - INFO - Successfully logged in to qBittorrent
+2025-04-18 04:54:43,733 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-18 04:54:43,733 - INFO - Checking for completed torrents...
+2025-04-18 04:54:43,740 - INFO - Found 20 completed torrents
+2025-04-18 04:54:43,740 - INFO - Uploading torrent: Sully (2016) [1080p] [YTS.AG]
+2025-04-18 04:54:43,740 - INFO - Starting upload: /home/user/Desktop/torrents/Sully (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Sully (2016) [1080p] [YTS.AG]
+2025-04-18 04:54:43,740 - INFO - Uploading directory of size 1501.45 MB
+2025-04-18 04:58:08,418 - INFO - Successfully uploaded to onedrive:Torrents/Sully (2016) [1080p] [YTS.AG]
+2025-04-18 04:58:08,418 - INFO - Verifying upload for: Sully (2016) [1080p] [YTS.AG]
+2025-04-18 04:58:08,418 - INFO - Verifying upload: /home/user/Desktop/torrents/Sully (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Sully (2016) [1080p] [YTS.AG]
+2025-04-18 04:58:10,816 - INFO - Upload verification successful for /home/user/Desktop/torrents/Sully (2016) [1080p] [YTS.AG]
+2025-04-18 04:58:10,820 - INFO - Deleting torrent from qBittorrent: Sully (2016) [1080p] [YTS.AG]
+2025-04-18 04:58:10,820 - INFO - Deleting torrent with hash 1581f09b4a26c3615f72b3b932627f5b8d6dd9f0 (delete_files=False)
+2025-04-18 04:58:10,830 - INFO - Successfully deleted torrent with hash 1581f09b4a26c3615f72b3b932627f5b8d6dd9f0
+2025-04-18 04:58:10,830 - INFO - Deleting content files: Sully (2016) [1080p] [YTS.AG]
+2025-04-18 04:58:10,830 - INFO - Deleting content: /home/user/Desktop/torrents/Sully (2016) [1080p] [YTS.AG]
+2025-04-18 04:58:10,832 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Sully (2016) [1080p] [YTS.AG]
+2025-04-18 04:58:10,832 - INFO - Successfully processed torrent: Sully (2016) [1080p] [YTS.AG]
+2025-04-18 04:58:10,832 - INFO - Uploading torrent: The Equalizer (2014) [1080p]
+2025-04-18 04:58:10,832 - INFO - Starting upload: /home/user/Desktop/torrents/The Equalizer (2014) [1080p] -> onedrive:Torrents/The Equalizer (2014) [1080p]
+2025-04-18 04:58:10,832 - INFO - Uploading directory of size 1992.49 MB
+2025-04-18 05:03:38,618 - INFO - Successfully uploaded to onedrive:Torrents/The Equalizer (2014) [1080p]
+2025-04-18 05:03:38,618 - INFO - Verifying upload for: The Equalizer (2014) [1080p]
+2025-04-18 05:03:38,618 - INFO - Verifying upload: /home/user/Desktop/torrents/The Equalizer (2014) [1080p] -> onedrive:Torrents/The Equalizer (2014) [1080p]
+2025-04-18 05:03:41,496 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Equalizer (2014) [1080p]
+2025-04-18 05:03:41,499 - INFO - Deleting torrent from qBittorrent: The Equalizer (2014) [1080p]
+2025-04-18 05:03:41,499 - INFO - Deleting torrent with hash fe4cd297ece7ecdeeca59462acd825327215d2b5 (delete_files=False)
+2025-04-18 05:03:41,511 - INFO - Successfully deleted torrent with hash fe4cd297ece7ecdeeca59462acd825327215d2b5
+2025-04-18 05:03:41,511 - INFO - Deleting content files: The Equalizer (2014) [1080p]
+2025-04-18 05:03:41,512 - INFO - Deleting content: /home/user/Desktop/torrents/The Equalizer (2014) [1080p]
+2025-04-18 05:03:41,513 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Equalizer (2014) [1080p]
+2025-04-18 05:03:41,513 - INFO - Successfully processed torrent: The Equalizer (2014) [1080p]
+2025-04-18 05:03:41,513 - INFO - Uploading torrent: Arrival (2016) [1080p] [YTS.AG]
+2025-04-18 05:03:41,514 - INFO - Starting upload: /home/user/Desktop/torrents/Arrival (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Arrival (2016) [1080p] [YTS.AG]
+2025-04-18 05:03:41,514 - INFO - Uploading directory of size 1809.98 MB
