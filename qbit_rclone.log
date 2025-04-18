@@ -3589,3 +3589,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 15:37:45,009 - INFO - Uploading torrent: Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-18 15:37:45,009 - INFO - Starting upload: /home/user/Desktop/torrents/Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-18 15:37:45,009 - INFO - Uploading directory of size 2657.52 MB
+2025-04-18 15:44:26,976 - INFO - Successfully uploaded to onedrive:Torrents/Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 15:44:26,977 - INFO - Verifying upload for: Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 15:44:26,977 - INFO - Verifying upload: /home/user/Desktop/torrents/Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 15:44:29,227 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 15:44:29,231 - INFO - Deleting torrent from qBittorrent: Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 15:44:29,232 - INFO - Deleting torrent with hash 77b28c08005d9c5900e50dad36a993e34b43ebff (delete_files=False)
+2025-04-18 15:44:29,243 - INFO - Successfully deleted torrent with hash 77b28c08005d9c5900e50dad36a993e34b43ebff
+2025-04-18 15:44:29,243 - INFO - Deleting content files: Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 15:44:29,243 - INFO - Deleting content: /home/user/Desktop/torrents/Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 15:44:29,245 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 15:44:29,245 - INFO - Successfully processed torrent: Dune (2021) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 15:44:29,245 - INFO - Uploading torrent: Jack Reacher (2012) [1080p]
+2025-04-18 15:44:29,245 - INFO - Starting upload: /home/user/Desktop/torrents/Jack Reacher (2012) [1080p] -> onedrive:Torrents/Jack Reacher (2012) [1080p]
+2025-04-18 15:44:29,245 - INFO - Uploading directory of size 2043.27 MB
