@@ -2743,3 +2743,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 02:00:15,387 - INFO - Uploading torrent: Venom (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-18 02:00:15,387 - INFO - Starting upload: /home/user/Desktop/torrents/Venom (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Venom (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-18 02:00:15,387 - INFO - Uploading directory of size 1751.22 MB
+2025-04-18 02:03:20,721 - INFO - Successfully uploaded to onedrive:Torrents/Venom (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 02:03:20,721 - INFO - Verifying upload for: Venom (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 02:03:20,722 - INFO - Verifying upload: /home/user/Desktop/torrents/Venom (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Venom (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 02:03:22,966 - INFO - Upload verification successful for /home/user/Desktop/torrents/Venom (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 02:03:22,970 - INFO - Deleting torrent from qBittorrent: Venom (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 02:03:22,970 - INFO - Deleting torrent with hash 03bb57ea1f7e8dc9cc7da349b549d7a7c5bc3359 (delete_files=False)
+2025-04-18 02:03:22,979 - INFO - Successfully deleted torrent with hash 03bb57ea1f7e8dc9cc7da349b549d7a7c5bc3359
+2025-04-18 02:03:22,979 - INFO - Deleting content files: Venom (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 02:03:22,979 - INFO - Deleting content: /home/user/Desktop/torrents/Venom (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 02:03:22,980 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Venom (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 02:03:22,980 - INFO - Successfully processed torrent: Venom (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-18 02:03:22,980 - INFO - Uploading torrent: Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 02:03:22,980 - INFO - Starting upload: /home/user/Desktop/torrents/Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Fast & Furious Presents Hobbs & Shaw (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 02:03:22,981 - INFO - Uploading directory of size 2162.67 MB
