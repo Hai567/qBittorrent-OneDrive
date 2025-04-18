@@ -2951,3 +2951,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 05:38:52,814 - INFO - Uploading torrent: The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
 2025-04-18 05:38:52,814 - INFO - Starting upload: /home/user/Desktop/torrents/The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx] -> onedrive:Torrents/The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
 2025-04-18 05:38:52,815 - INFO - Uploading directory of size 4075.45 MB
+2025-04-18 05:42:15,689 - INFO - Successfully uploaded to onedrive:Torrents/The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 05:42:15,690 - INFO - Verifying upload for: The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 05:42:15,690 - INFO - Verifying upload: /home/user/Desktop/torrents/The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx] -> onedrive:Torrents/The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 05:42:18,137 - INFO - Upload verification successful for /home/user/Desktop/torrents/The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 05:42:18,141 - INFO - Deleting torrent from qBittorrent: The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 05:42:18,141 - INFO - Deleting torrent with hash bfc3786f8480bed1fe814dee75013aefb3e90148 (delete_files=False)
+2025-04-18 05:42:18,153 - INFO - Successfully deleted torrent with hash bfc3786f8480bed1fe814dee75013aefb3e90148
+2025-04-18 05:42:18,153 - INFO - Deleting content files: The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 05:42:18,154 - INFO - Deleting content: /home/user/Desktop/torrents/The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 05:42:18,158 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 05:42:18,158 - INFO - Successfully processed torrent: The.Good.Doctor.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-18 05:42:18,159 - INFO - Uploading torrent: The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 05:42:18,159 - INFO - Starting upload: /home/user/Desktop/torrents/The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/The.Burial.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 05:42:18,159 - INFO - Uploading directory of size 1446.12 MB
