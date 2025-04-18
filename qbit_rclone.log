@@ -2547,3 +2547,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 01:09:26,344 - INFO - Uploading torrent: Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
 2025-04-18 01:09:26,344 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
 2025-04-18 01:09:26,345 - INFO - Uploading directory of size 5324.74 MB
+2025-04-18 01:12:56,330 - INFO - Successfully uploaded to onedrive:Torrents/Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:12:56,330 - INFO - Verifying upload for: Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:12:56,330 - INFO - Verifying upload: /home/user/Desktop/torrents/Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:12:59,183 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:12:59,187 - INFO - Deleting torrent from qBittorrent: Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:12:59,187 - INFO - Deleting torrent with hash 908f42713318e01ee3d76fdda9edca5ac53000aa (delete_files=False)
+2025-04-18 01:12:59,196 - INFO - Successfully deleted torrent with hash 908f42713318e01ee3d76fdda9edca5ac53000aa
+2025-04-18 01:12:59,196 - INFO - Deleting content files: Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:12:59,196 - INFO - Deleting content: /home/user/Desktop/torrents/Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:12:59,207 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:12:59,208 - INFO - Successfully processed torrent: Ben 10 Ultimate Alien 2010 Season 1 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:12:59,208 - INFO - Uploading torrent: Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:12:59,208 - INFO - Starting upload: /home/user/Desktop/torrents/Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Black Widow (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-18 01:12:59,208 - INFO - Uploading directory of size 2526.03 MB
