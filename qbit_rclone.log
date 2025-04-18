@@ -2673,3 +2673,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 01:44:10,704 - INFO - Uploading torrent: Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
 2025-04-18 01:44:10,704 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
 2025-04-18 01:44:10,705 - INFO - Uploading directory of size 5469.48 MB
+2025-04-18 01:47:28,672 - INFO - Successfully uploaded to onedrive:Torrents/Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:47:28,672 - INFO - Verifying upload for: Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:47:28,672 - INFO - Verifying upload: /home/user/Desktop/torrents/Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c] -> onedrive:Torrents/Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:47:31,085 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:47:31,089 - INFO - Deleting torrent from qBittorrent: Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:47:31,089 - INFO - Deleting torrent with hash 480fc4091c3696ce22543398c1de98b054fc483d (delete_files=False)
+2025-04-18 01:47:31,098 - INFO - Successfully deleted torrent with hash 480fc4091c3696ce22543398c1de98b054fc483d
+2025-04-18 01:47:31,098 - INFO - Deleting content files: Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:47:31,098 - INFO - Deleting content: /home/user/Desktop/torrents/Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:47:31,108 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:47:31,108 - INFO - Successfully processed torrent: Ben 10 2005 Season 2 Complete 720p WEB-DL x264 [i_c]
+2025-04-18 01:47:31,108 - INFO - Uploading torrent: 1888 (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 01:47:31,109 - INFO - Starting upload: /home/user/Desktop/torrents/1888 (2023) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/1888 (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 01:47:31,109 - INFO - Uploading directory of size 1963.96 MB
