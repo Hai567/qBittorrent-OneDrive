@@ -3201,3 +3201,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 09:45:57,954 - INFO - Uploading torrent: Fifty Shades of Grey (2015) [1080p]
 2025-04-18 09:45:57,954 - INFO - Starting upload: /home/user/Desktop/torrents/Fifty Shades of Grey (2015) [1080p] -> onedrive:Torrents/Fifty Shades of Grey (2015) [1080p]
 2025-04-18 09:45:57,954 - INFO - Uploading directory of size 1997.28 MB
+2025-04-18 09:49:42,602 - INFO - Successfully uploaded to onedrive:Torrents/Fifty Shades of Grey (2015) [1080p]
+2025-04-18 09:49:42,602 - INFO - Verifying upload for: Fifty Shades of Grey (2015) [1080p]
+2025-04-18 09:49:42,602 - INFO - Verifying upload: /home/user/Desktop/torrents/Fifty Shades of Grey (2015) [1080p] -> onedrive:Torrents/Fifty Shades of Grey (2015) [1080p]
+2025-04-18 09:49:45,084 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fifty Shades of Grey (2015) [1080p]
+2025-04-18 09:49:45,089 - INFO - Deleting torrent from qBittorrent: Fifty Shades of Grey (2015) [1080p]
+2025-04-18 09:49:45,089 - INFO - Deleting torrent with hash 4d113d28b14ea6cf66950b645f02ff79ec543e0b (delete_files=False)
+2025-04-18 09:49:45,099 - INFO - Successfully deleted torrent with hash 4d113d28b14ea6cf66950b645f02ff79ec543e0b
+2025-04-18 09:49:45,099 - INFO - Deleting content files: Fifty Shades of Grey (2015) [1080p]
+2025-04-18 09:49:45,100 - INFO - Deleting content: /home/user/Desktop/torrents/Fifty Shades of Grey (2015) [1080p]
+2025-04-18 09:49:45,101 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fifty Shades of Grey (2015) [1080p]
+2025-04-18 09:49:45,101 - INFO - Successfully processed torrent: Fifty Shades of Grey (2015) [1080p]
+2025-04-18 09:49:45,101 - INFO - Uploading torrent: Cars (2006) [1080p] [YTS.AG]
+2025-04-18 09:49:45,101 - INFO - Starting upload: /home/user/Desktop/torrents/Cars (2006) [1080p] [YTS.AG] -> onedrive:Torrents/Cars (2006) [1080p] [YTS.AG]
+2025-04-18 09:49:45,101 - INFO - Uploading directory of size 1818.28 MB
+2025-04-18 09:53:42,593 - INFO - Successfully uploaded to onedrive:Torrents/Cars (2006) [1080p] [YTS.AG]
+2025-04-18 09:53:42,594 - INFO - Verifying upload for: Cars (2006) [1080p] [YTS.AG]
+2025-04-18 09:53:42,594 - INFO - Verifying upload: /home/user/Desktop/torrents/Cars (2006) [1080p] [YTS.AG] -> onedrive:Torrents/Cars (2006) [1080p] [YTS.AG]
+2025-04-18 09:53:44,906 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cars (2006) [1080p] [YTS.AG]
+2025-04-18 09:53:44,911 - INFO - Deleting torrent from qBittorrent: Cars (2006) [1080p] [YTS.AG]
+2025-04-18 09:53:44,912 - INFO - Deleting torrent with hash bee9b68b74f66881066968a58d4f7f08a797a75a (delete_files=False)
+2025-04-18 09:53:44,922 - INFO - Successfully deleted torrent with hash bee9b68b74f66881066968a58d4f7f08a797a75a
+2025-04-18 09:53:44,922 - INFO - Deleting content files: Cars (2006) [1080p] [YTS.AG]
+2025-04-18 09:53:44,922 - INFO - Deleting content: /home/user/Desktop/torrents/Cars (2006) [1080p] [YTS.AG]
+2025-04-18 09:53:44,923 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cars (2006) [1080p] [YTS.AG]
+2025-04-18 09:53:44,923 - INFO - Successfully processed torrent: Cars (2006) [1080p] [YTS.AG]
+2025-04-18 09:53:44,924 - INFO - Uploading torrent: Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:53:44,924 - INFO - Starting upload: /home/user/Desktop/torrents/Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:53:44,924 - INFO - Uploading directory of size 2262.64 MB
