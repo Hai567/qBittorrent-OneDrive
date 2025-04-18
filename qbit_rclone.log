@@ -3631,3 +3631,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 15:56:27,667 - INFO - Uploading torrent: Ghost In The Shell (2017) [1080p] [YTS.AG]
 2025-04-18 15:56:27,667 - INFO - Starting upload: /home/user/Desktop/torrents/Ghost In The Shell (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Ghost In The Shell (2017) [1080p] [YTS.AG]
 2025-04-18 15:56:27,667 - INFO - Uploading directory of size 1671.59 MB
+2025-04-18 15:59:25,912 - INFO - Successfully uploaded to onedrive:Torrents/Ghost In The Shell (2017) [1080p] [YTS.AG]
+2025-04-18 15:59:25,912 - INFO - Verifying upload for: Ghost In The Shell (2017) [1080p] [YTS.AG]
+2025-04-18 15:59:25,912 - INFO - Verifying upload: /home/user/Desktop/torrents/Ghost In The Shell (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Ghost In The Shell (2017) [1080p] [YTS.AG]
+2025-04-18 15:59:28,540 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ghost In The Shell (2017) [1080p] [YTS.AG]
+2025-04-18 15:59:28,544 - INFO - Deleting torrent from qBittorrent: Ghost In The Shell (2017) [1080p] [YTS.AG]
+2025-04-18 15:59:28,545 - INFO - Deleting torrent with hash 475e515a79daecc6917b4606dd06d44045263efd (delete_files=False)
+2025-04-18 15:59:28,553 - INFO - Successfully deleted torrent with hash 475e515a79daecc6917b4606dd06d44045263efd
+2025-04-18 15:59:28,553 - INFO - Deleting content files: Ghost In The Shell (2017) [1080p] [YTS.AG]
+2025-04-18 15:59:28,553 - INFO - Deleting content: /home/user/Desktop/torrents/Ghost In The Shell (2017) [1080p] [YTS.AG]
+2025-04-18 15:59:28,554 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ghost In The Shell (2017) [1080p] [YTS.AG]
+2025-04-18 15:59:28,554 - INFO - Successfully processed torrent: Ghost In The Shell (2017) [1080p] [YTS.AG]
+2025-04-18 15:59:28,554 - INFO - Uploading torrent: Blade Runner 2049 (2017) [1080p] [YTS.AG]
+2025-04-18 15:59:28,554 - INFO - Starting upload: /home/user/Desktop/torrents/Blade Runner 2049 (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Blade Runner 2049 (2017) [1080p] [YTS.AG]
+2025-04-18 15:59:28,554 - INFO - Uploading directory of size 2568.95 MB
