@@ -3187,3 +3187,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 09:42:11,655 - INFO - Uploading torrent: Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
 2025-04-18 09:42:11,656 - INFO - Starting upload: /home/user/Desktop/torrents/Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
 2025-04-18 09:42:11,656 - INFO - Uploading directory of size 1690.78 MB
+2025-04-18 09:45:55,662 - INFO - Successfully uploaded to onedrive:Torrents/Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 09:45:55,662 - INFO - Verifying upload for: Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 09:45:55,662 - INFO - Verifying upload: /home/user/Desktop/torrents/Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 09:45:57,937 - INFO - Upload verification successful for /home/user/Desktop/torrents/Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 09:45:57,943 - INFO - Deleting torrent from qBittorrent: Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 09:45:57,943 - INFO - Deleting torrent with hash f3acfd3979cc1a30cc7f312673ced688ce78ce77 (delete_files=False)
+2025-04-18 09:45:57,952 - INFO - Successfully deleted torrent with hash f3acfd3979cc1a30cc7f312673ced688ce78ce77
+2025-04-18 09:45:57,952 - INFO - Deleting content files: Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 09:45:57,952 - INFO - Deleting content: /home/user/Desktop/torrents/Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 09:45:57,953 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 09:45:57,954 - INFO - Successfully processed torrent: Sonic The Hedgehog (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-18 09:45:57,954 - INFO - Uploading torrent: Fifty Shades of Grey (2015) [1080p]
+2025-04-18 09:45:57,954 - INFO - Starting upload: /home/user/Desktop/torrents/Fifty Shades of Grey (2015) [1080p] -> onedrive:Torrents/Fifty Shades of Grey (2015) [1080p]
+2025-04-18 09:45:57,954 - INFO - Uploading directory of size 1997.28 MB
