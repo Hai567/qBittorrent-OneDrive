@@ -3369,3 +3369,14 @@ OSError: [Errno 28] No space left on device
 2025-04-18 14:03:14,907 - INFO - Uploading torrent: Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-18 14:03:14,907 - INFO - Starting upload: /home/user/Desktop/torrents/Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-18 14:03:14,907 - INFO - Uploading directory of size 1908.48 MB
+2025-04-18 14:08:09,102 - INFO - Successfully uploaded to onedrive:Torrents/Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 14:08:09,103 - INFO - Verifying upload for: Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 14:08:09,103 - INFO - Verifying upload: /home/user/Desktop/torrents/Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 14:08:11,357 - INFO - Upload verification successful for /home/user/Desktop/torrents/Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 14:08:11,362 - INFO - Deleting torrent from qBittorrent: Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 14:08:11,362 - INFO - Deleting torrent with hash 1d70a615e3280eec79c5576f6c23fecbda8e24c3 (delete_files=False)
+2025-04-18 14:08:11,372 - INFO - Successfully deleted torrent with hash 1d70a615e3280eec79c5576f6c23fecbda8e24c3
+2025-04-18 14:08:11,372 - INFO - Deleting content files: Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 14:08:11,372 - INFO - Deleting content: /home/user/Desktop/torrents/Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 14:08:11,374 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 14:08:11,374 - INFO - Successfully processed torrent: Maleficent Mistress Of Evil (2019) [WEBRip] [1080p] [YTS.LT]
