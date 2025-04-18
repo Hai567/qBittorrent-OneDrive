@@ -3229,3 +3229,31 @@ OSError: [Errno 28] No space left on device
 2025-04-18 09:53:44,924 - INFO - Uploading torrent: Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-18 09:53:44,924 - INFO - Starting upload: /home/user/Desktop/torrents/Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-18 09:53:44,924 - INFO - Uploading directory of size 2262.64 MB
+2025-04-18 09:59:28,996 - INFO - Successfully uploaded to onedrive:Torrents/Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:59:28,996 - INFO - Verifying upload for: Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:59:28,996 - INFO - Verifying upload: /home/user/Desktop/torrents/Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:59:31,284 - INFO - Upload verification successful for /home/user/Desktop/torrents/Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:59:31,288 - INFO - Deleting torrent from qBittorrent: Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:59:31,288 - INFO - Deleting torrent with hash df60e25ec380d66185a9d628e85b0ad8b9a6fab9 (delete_files=False)
+2025-04-18 09:59:31,297 - INFO - Successfully deleted torrent with hash df60e25ec380d66185a9d628e85b0ad8b9a6fab9
+2025-04-18 09:59:31,298 - INFO - Deleting content files: Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:59:31,298 - INFO - Deleting content: /home/user/Desktop/torrents/Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:59:31,299 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:59:31,299 - INFO - Successfully processed torrent: Godzilla King Of The Monsters (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-18 09:59:31,299 - INFO - Uploading torrent: Despicable Me 3 (2017) [1080p] [YTS.AG]
+2025-04-18 09:59:31,299 - INFO - Starting upload: /home/user/Desktop/torrents/Despicable Me 3 (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Despicable Me 3 (2017) [1080p] [YTS.AG]
+2025-04-18 09:59:31,299 - INFO - Uploading directory of size 1395.80 MB
+2025-04-18 10:02:48,772 - INFO - Successfully uploaded to onedrive:Torrents/Despicable Me 3 (2017) [1080p] [YTS.AG]
+2025-04-18 10:02:48,772 - INFO - Verifying upload for: Despicable Me 3 (2017) [1080p] [YTS.AG]
+2025-04-18 10:02:48,772 - INFO - Verifying upload: /home/user/Desktop/torrents/Despicable Me 3 (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Despicable Me 3 (2017) [1080p] [YTS.AG]
+2025-04-18 10:02:50,850 - INFO - Upload verification successful for /home/user/Desktop/torrents/Despicable Me 3 (2017) [1080p] [YTS.AG]
+2025-04-18 10:02:50,854 - INFO - Deleting torrent from qBittorrent: Despicable Me 3 (2017) [1080p] [YTS.AG]
+2025-04-18 10:02:50,854 - INFO - Deleting torrent with hash 68d9400ab168c471740fb383f35a467705ac01fb (delete_files=False)
+2025-04-18 10:02:50,864 - INFO - Successfully deleted torrent with hash 68d9400ab168c471740fb383f35a467705ac01fb
+2025-04-18 10:02:50,864 - INFO - Deleting content files: Despicable Me 3 (2017) [1080p] [YTS.AG]
+2025-04-18 10:02:50,864 - INFO - Deleting content: /home/user/Desktop/torrents/Despicable Me 3 (2017) [1080p] [YTS.AG]
+2025-04-18 10:02:50,865 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Despicable Me 3 (2017) [1080p] [YTS.AG]
+2025-04-18 10:02:50,865 - INFO - Successfully processed torrent: Despicable Me 3 (2017) [1080p] [YTS.AG]
+2025-04-18 10:02:50,865 - INFO - Uploading torrent: Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 10:02:50,866 - INFO - Starting upload: /home/user/Desktop/torrents/Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Breakwater.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 10:02:50,866 - INFO - Uploading directory of size 1435.88 MB
