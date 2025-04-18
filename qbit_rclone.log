@@ -2284,3 +2284,42 @@ OSError: [Errno 28] No space left on device
 2025-04-18 00:10:22,040 - INFO - Successfully uploaded to onedrive:Torrents/Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-18 00:10:22,040 - INFO - Verifying upload for: Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-18 00:10:22,040 - INFO - Verifying upload: /home/user/Desktop/torrents/Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:10:24,705 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:10:24,710 - INFO - Deleting torrent from qBittorrent: Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:10:24,710 - INFO - Deleting torrent with hash e0abb6a23f325f38bf77be6710bf7188c7ce0a40 (delete_files=False)
+2025-04-18 00:10:24,720 - INFO - Successfully deleted torrent with hash e0abb6a23f325f38bf77be6710bf7188c7ce0a40
+2025-04-18 00:10:24,720 - INFO - Deleting content files: Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:10:24,720 - INFO - Deleting content: /home/user/Desktop/torrents/Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:10:24,723 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:10:24,723 - INFO - Successfully processed torrent: Cunk On Life (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:10:24,723 - INFO - Uploading torrent: Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:10:24,723 - INFO - Starting upload: /home/user/Desktop/torrents/Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:10:24,723 - INFO - Uploading directory of size 1402.80 MB
+2025-04-18 00:13:14,377 - INFO - Successfully uploaded to onedrive:Torrents/Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:13:14,377 - INFO - Verifying upload for: Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:13:14,377 - INFO - Verifying upload: /home/user/Desktop/torrents/Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:13:16,959 - INFO - Upload verification successful for /home/user/Desktop/torrents/Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:13:16,963 - INFO - Deleting torrent from qBittorrent: Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:13:16,963 - INFO - Deleting torrent with hash 6359a7646096312900a2879123645147625b4443 (delete_files=False)
+2025-04-18 00:13:16,972 - INFO - Successfully deleted torrent with hash 6359a7646096312900a2879123645147625b4443
+2025-04-18 00:13:16,972 - INFO - Deleting content files: Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:13:16,972 - INFO - Deleting content: /home/user/Desktop/torrents/Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:13:16,974 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:13:16,974 - INFO - Successfully processed torrent: Veni Vidi Vici (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-18 00:13:16,974 - INFO - Uploading torrent: Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c]
+2025-04-18 00:13:16,974 - INFO - Starting upload: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c] -> onedrive:Torrents/Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c]
+2025-04-18 00:13:16,975 - INFO - Uploading directory of size 3328.13 MB
+2025-04-18 00:15:02,303 - INFO - Successfully uploaded to onedrive:Torrents/Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c]
+2025-04-18 00:15:02,304 - INFO - Verifying upload for: Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c]
+2025-04-18 00:15:02,304 - INFO - Verifying upload: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c] -> onedrive:Torrents/Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c]
+2025-04-18 00:15:04,723 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c]
+2025-04-18 00:15:04,727 - INFO - Deleting torrent from qBittorrent: Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c]
+2025-04-18 00:15:04,727 - INFO - Deleting torrent with hash e884b8d4109bf6477222b6241acc2908e06870e1 (delete_files=False)
+2025-04-18 00:15:04,739 - INFO - Successfully deleted torrent with hash e884b8d4109bf6477222b6241acc2908e06870e1
+2025-04-18 00:15:04,739 - INFO - Deleting content files: Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c]
+2025-04-18 00:15:04,739 - INFO - Deleting content: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c]
+2025-04-18 00:15:04,742 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c]
+2025-04-18 00:15:04,742 - INFO - Successfully processed torrent: Ben 10 Alien Force 2008 Season 2 Complete Web 720p x264 [i_c]
+2025-04-18 00:15:04,742 - INFO - Uploading torrent: No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 00:15:04,742 - INFO - Starting upload: /home/user/Desktop/torrents/No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/No.Time.To.Die.2021.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-18 00:15:04,742 - INFO - Uploading directory of size 1642.71 MB
