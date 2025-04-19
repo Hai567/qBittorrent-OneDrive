@@ -3765,3 +3765,14 @@ OSError: [Errno 28] No space left on device
 2025-04-19 00:31:44,585 - INFO - Uploading torrent: Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-19 00:31:44,585 - INFO - Starting upload: /home/user/Desktop/torrents/Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-19 00:31:44,585 - INFO - Uploading directory of size 1436.16 MB
+2025-04-19 00:36:41,360 - INFO - Successfully uploaded to onedrive:Torrents/Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 00:36:41,360 - INFO - Verifying upload for: Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 00:36:41,360 - INFO - Verifying upload: /home/user/Desktop/torrents/Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 00:36:43,658 - INFO - Upload verification successful for /home/user/Desktop/torrents/Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 00:36:43,662 - INFO - Deleting torrent from qBittorrent: Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 00:36:43,662 - INFO - Deleting torrent with hash 45c035c458f27dd3c2fe9ffc4860166e10932736 (delete_files=False)
+2025-04-19 00:36:43,673 - INFO - Successfully deleted torrent with hash 45c035c458f27dd3c2fe9ffc4860166e10932736
+2025-04-19 00:36:43,673 - INFO - Deleting content files: Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 00:36:43,673 - INFO - Deleting content: /home/user/Desktop/torrents/Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 00:36:43,675 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 00:36:43,675 - INFO - Successfully processed torrent: Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
