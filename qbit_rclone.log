@@ -4361,3 +4361,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 07:34:56,307 - INFO - Uploading torrent: Despicable Me (2010) [3D] [HSBS]
 2025-04-19 07:34:56,308 - INFO - Starting upload: /home/user/Desktop/torrents/Despicable Me (2010) [3D] [HSBS] -> onedrive:Torrents/Despicable Me (2010) [3D] [HSBS]
 2025-04-19 07:34:56,308 - INFO - Uploading directory of size 1431.15 MB
+2025-04-19 07:42:59,121 - INFO - Successfully uploaded to onedrive:Torrents/Despicable Me (2010) [3D] [HSBS]
+2025-04-19 07:42:59,121 - INFO - Verifying upload for: Despicable Me (2010) [3D] [HSBS]
+2025-04-19 07:42:59,121 - INFO - Verifying upload: /home/user/Desktop/torrents/Despicable Me (2010) [3D] [HSBS] -> onedrive:Torrents/Despicable Me (2010) [3D] [HSBS]
+2025-04-19 07:43:00,810 - INFO - Upload verification successful for /home/user/Desktop/torrents/Despicable Me (2010) [3D] [HSBS]
+2025-04-19 07:43:00,820 - INFO - Deleting torrent from qBittorrent: Despicable Me (2010) [3D] [HSBS]
+2025-04-19 07:43:00,820 - INFO - Deleting torrent with hash 8c0bc6007e2182932b601cad38b5aadb5ef1052d (delete_files=False)
+2025-04-19 07:43:00,829 - INFO - Successfully deleted torrent with hash 8c0bc6007e2182932b601cad38b5aadb5ef1052d
+2025-04-19 07:43:00,830 - INFO - Deleting content files: Despicable Me (2010) [3D] [HSBS]
+2025-04-19 07:43:00,830 - INFO - Deleting content: /home/user/Desktop/torrents/Despicable Me (2010) [3D] [HSBS]
+2025-04-19 07:43:00,831 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Despicable Me (2010) [3D] [HSBS]
+2025-04-19 07:43:00,831 - INFO - Successfully processed torrent: Despicable Me (2010) [3D] [HSBS]
+2025-04-19 07:43:00,831 - INFO - Uploading torrent: Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:43:00,831 - INFO - Starting upload: /home/user/Desktop/torrents/Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:43:00,831 - INFO - Uploading directory of size 2339.76 MB
