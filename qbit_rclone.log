@@ -4289,3 +4289,14 @@ OSError: [Errno 28] No space left on device
 2025-04-19 06:31:58,414 - INFO - Uploading torrent: The Maze Runner (2014) [1080p]
 2025-04-19 06:31:58,414 - INFO - Starting upload: /home/user/Desktop/torrents/The Maze Runner (2014) [1080p] -> onedrive:Torrents/The Maze Runner (2014) [1080p]
 2025-04-19 06:31:58,414 - INFO - Uploading directory of size 1685.71 MB
+2025-04-19 06:47:36,778 - INFO - Successfully uploaded to onedrive:Torrents/The Maze Runner (2014) [1080p]
+2025-04-19 06:47:36,779 - INFO - Verifying upload for: The Maze Runner (2014) [1080p]
+2025-04-19 06:47:36,779 - INFO - Verifying upload: /home/user/Desktop/torrents/The Maze Runner (2014) [1080p] -> onedrive:Torrents/The Maze Runner (2014) [1080p]
+2025-04-19 06:47:39,133 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Maze Runner (2014) [1080p]
+2025-04-19 06:47:39,139 - INFO - Deleting torrent from qBittorrent: The Maze Runner (2014) [1080p]
+2025-04-19 06:47:39,139 - INFO - Deleting torrent with hash 2552169e161a1e766aa1ddc5f03b16ac5cb50f68 (delete_files=False)
+2025-04-19 06:47:39,151 - INFO - Successfully deleted torrent with hash 2552169e161a1e766aa1ddc5f03b16ac5cb50f68
+2025-04-19 06:47:39,151 - INFO - Deleting content files: The Maze Runner (2014) [1080p]
+2025-04-19 06:47:39,151 - INFO - Deleting content: /home/user/Desktop/torrents/The Maze Runner (2014) [1080p]
+2025-04-19 06:47:39,152 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Maze Runner (2014) [1080p]
+2025-04-19 06:47:39,152 - INFO - Successfully processed torrent: The Maze Runner (2014) [1080p]
