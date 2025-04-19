@@ -4763,3 +4763,14 @@ OSError: [Errno 28] No space left on device
 2025-04-19 14:42:29,580 - INFO - Uploading torrent: Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 14:42:29,580 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 14:42:29,581 - INFO - Uploading directory of size 2675.49 MB
+2025-04-19 14:47:34,323 - INFO - Successfully uploaded to onedrive:Torrents/Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:47:34,323 - INFO - Verifying upload for: Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:47:34,324 - INFO - Verifying upload: /home/user/Desktop/torrents/Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:47:36,921 - INFO - Upload verification successful for /home/user/Desktop/torrents/Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:47:36,927 - INFO - Deleting torrent from qBittorrent: Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:47:36,928 - INFO - Deleting torrent with hash 5990096a2e13079c4b5c8aec516f3fa660206e7a (delete_files=False)
+2025-04-19 14:47:36,939 - INFO - Successfully deleted torrent with hash 5990096a2e13079c4b5c8aec516f3fa660206e7a
+2025-04-19 14:47:36,939 - INFO - Deleting content files: Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:47:36,940 - INFO - Deleting content: /home/user/Desktop/torrents/Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:47:36,943 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:47:36,943 - INFO - Successfully processed torrent: Harry Potter And The Prisoner Of Azkaban (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
