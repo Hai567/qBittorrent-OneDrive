@@ -3853,3 +3853,31 @@ OSError: [Errno 28] No space left on device
 2025-04-19 01:33:02,836 - INFO - Uploading torrent: Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-19 01:33:02,836 - INFO - Starting upload: /home/user/Desktop/torrents/Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-19 01:33:02,836 - INFO - Uploading directory of size 1434.72 MB
+2025-04-19 01:40:55,263 - INFO - Successfully uploaded to onedrive:Torrents/Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 01:40:55,263 - INFO - Verifying upload for: Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 01:40:55,264 - INFO - Verifying upload: /home/user/Desktop/torrents/Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 01:40:56,600 - INFO - Upload verification successful for /home/user/Desktop/torrents/Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 01:40:56,605 - INFO - Deleting torrent from qBittorrent: Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 01:40:56,605 - INFO - Deleting torrent with hash 9aca56bffbcb601a6b6cf02990eab619e3fe4d25 (delete_files=False)
+2025-04-19 01:40:56,617 - INFO - Successfully deleted torrent with hash 9aca56bffbcb601a6b6cf02990eab619e3fe4d25
+2025-04-19 01:40:56,618 - INFO - Deleting content files: Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 01:40:56,618 - INFO - Deleting content: /home/user/Desktop/torrents/Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 01:40:56,619 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 01:40:56,619 - INFO - Successfully processed torrent: Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 01:40:56,619 - INFO - Uploading torrent: Frozen Fever (2015) [1080p] [YTS.AG]
+2025-04-19 01:40:56,620 - INFO - Starting upload: /home/user/Desktop/torrents/Frozen Fever (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Frozen Fever (2015) [1080p] [YTS.AG]
+2025-04-19 01:40:56,620 - INFO - Uploading directory of size 123.23 MB
+2025-04-19 01:41:22,239 - INFO - Successfully uploaded to onedrive:Torrents/Frozen Fever (2015) [1080p] [YTS.AG]
+2025-04-19 01:41:22,239 - INFO - Verifying upload for: Frozen Fever (2015) [1080p] [YTS.AG]
+2025-04-19 01:41:22,240 - INFO - Verifying upload: /home/user/Desktop/torrents/Frozen Fever (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Frozen Fever (2015) [1080p] [YTS.AG]
+2025-04-19 01:41:23,704 - INFO - Upload verification successful for /home/user/Desktop/torrents/Frozen Fever (2015) [1080p] [YTS.AG]
+2025-04-19 01:41:23,712 - INFO - Deleting torrent from qBittorrent: Frozen Fever (2015) [1080p] [YTS.AG]
+2025-04-19 01:41:23,712 - INFO - Deleting torrent with hash 95ef921a3e1128f65cdd7b85e87d738249fa94a1 (delete_files=False)
+2025-04-19 01:41:23,731 - INFO - Successfully deleted torrent with hash 95ef921a3e1128f65cdd7b85e87d738249fa94a1
+2025-04-19 01:41:23,731 - INFO - Deleting content files: Frozen Fever (2015) [1080p] [YTS.AG]
+2025-04-19 01:41:23,731 - INFO - Deleting content: /home/user/Desktop/torrents/Frozen Fever (2015) [1080p] [YTS.AG]
+2025-04-19 01:41:23,732 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Frozen Fever (2015) [1080p] [YTS.AG]
+2025-04-19 01:41:23,732 - INFO - Successfully processed torrent: Frozen Fever (2015) [1080p] [YTS.AG]
+2025-04-19 01:41:23,732 - INFO - Uploading torrent: Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
+2025-04-19 01:41:23,732 - INFO - Starting upload: /home/user/Desktop/torrents/Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
+2025-04-19 01:41:23,732 - INFO - Uploading directory of size 1974.63 MB
