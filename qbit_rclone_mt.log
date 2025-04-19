@@ -66,3 +66,45 @@
 2025-04-19 16:14:07,277 - TaskProcessor-1 - INFO - Uploading directory of size 2498.42 MB
 2025-04-19 16:14:07,303 - TaskProcessor-2 - INFO - Starting upload: /home/user/Desktop/torrents/Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 16:14:07,303 - TaskProcessor-2 - INFO - Uploading directory of size 2028.83 MB
+2025-04-19 16:18:33,794 - TaskProcessor-2 - INFO - Successfully uploaded to onedrive:Torrents/Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:18:33,795 - TaskProcessor-2 - INFO - Verifying upload for: Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:18:33,795 - TaskProcessor-2 - INFO - Verifying upload: /home/user/Desktop/torrents/Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:18:36,338 - TaskProcessor-2 - INFO - Upload verification successful for /home/user/Desktop/torrents/Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:18:36,338 - TaskProcessor-2 - INFO - Performing safety check for: Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:18:36,344 - TaskProcessor-2 - INFO - Deleting torrent from qBittorrent: Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:18:36,345 - TaskProcessor-2 - INFO - Deleting torrent with hash 602a60bb6b4f061b5e4e7be9822b67d6cd289e23 (delete_files=False)
+2025-04-19 16:18:36,356 - TaskProcessor-2 - INFO - Successfully deleted torrent with hash 602a60bb6b4f061b5e4e7be9822b67d6cd289e23
+2025-04-19 16:18:36,356 - TaskProcessor-2 - INFO - Deleting content files: Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:18:36,356 - TaskProcessor-2 - INFO - Deleting content: /home/user/Desktop/torrents/Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:18:36,357 - TaskProcessor-2 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:18:36,357 - TaskProcessor-2 - INFO - Successfully processed torrent: Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:19:05,267 - QBitMonitor - INFO - Found 9 completed torrents
+2025-04-19 16:19:05,267 - QBitMonitor - INFO - Analyzing 9 completed torrents for upload eligibility
+2025-04-19 16:19:05,268 - QBitMonitor - INFO - Enqueued upload task for torrent: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:05,268 - TaskProcessor-2 - INFO - Processing torrent: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:05,268 - QBitMonitor - INFO - Enqueued upload task for torrent: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:19:05,268 - TaskProcessor-6 - INFO - Processing torrent: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:19:05,269 - TaskProcessor-2 - INFO - Uploading torrent: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:05,269 - TaskProcessor-6 - INFO - Uploading torrent: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:19:05,269 - TaskProcessor-2 - INFO - Checking if destination already exists: onedrive:Torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:05,270 - TaskProcessor-6 - INFO - Checking if destination already exists: onedrive:Torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:19:07,577 - TaskProcessor-2 - INFO - Files already exist at destination: onedrive:Torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:07,577 - TaskProcessor-2 - INFO - Skipping upload to avoid potential data loss.
+2025-04-19 16:19:07,577 - TaskProcessor-2 - INFO - Verifying upload for: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:07,577 - TaskProcessor-2 - INFO - Verifying upload: /home/user/Desktop/torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:08,282 - TaskProcessor-6 - INFO - Starting upload: /home/user/Desktop/torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:19:08,283 - TaskProcessor-6 - INFO - Uploading directory of size 2220.39 MB
+2025-04-19 16:19:09,958 - TaskProcessor-2 - ERROR - Upload verification failed: 
+2025-04-19 16:19:09,959 - TaskProcessor-2 - ERROR - Upload verification failed for: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:24,486 - TaskProcessor-1 - INFO - Successfully uploaded to onedrive:Torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:24,486 - TaskProcessor-1 - INFO - Verifying upload for: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:24,486 - TaskProcessor-1 - INFO - Verifying upload: /home/user/Desktop/torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:26,314 - TaskProcessor-1 - INFO - Upload verification successful for /home/user/Desktop/torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:26,314 - TaskProcessor-1 - INFO - Performing safety check for: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:26,320 - TaskProcessor-1 - INFO - Deleting torrent from qBittorrent: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:26,320 - TaskProcessor-1 - INFO - Deleting torrent with hash 98b61fd9df89d0f4d08a23c14a0dedfe38f81efb (delete_files=False)
+2025-04-19 16:19:26,332 - TaskProcessor-1 - INFO - Successfully deleted torrent with hash 98b61fd9df89d0f4d08a23c14a0dedfe38f81efb
+2025-04-19 16:19:26,332 - TaskProcessor-1 - INFO - Deleting content files: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:26,332 - TaskProcessor-1 - INFO - Deleting content: /home/user/Desktop/torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:26,333 - TaskProcessor-1 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:19:26,334 - TaskProcessor-1 - INFO - Successfully processed torrent: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
