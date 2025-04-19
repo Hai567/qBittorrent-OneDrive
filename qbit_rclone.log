@@ -3834,3 +3834,8 @@ OSError: [Errno 28] No space left on device
 2025-04-19 01:02:55,341 - INFO - Deleting content: /home/user/Desktop/torrents/The Accountant (2016) [1080p] [YTS.AG]
 2025-04-19 01:02:55,342 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Accountant (2016) [1080p] [YTS.AG]
 2025-04-19 01:02:55,343 - INFO - Successfully processed torrent: The Accountant (2016) [1080p] [YTS.AG]
+2025-04-19 01:07:55,346 - INFO - Checking for completed torrents...
+2025-04-19 01:07:55,352 - INFO - Found 10 completed torrents
+2025-04-19 01:07:55,352 - INFO - Uploading torrent: Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
+2025-04-19 01:07:55,353 - INFO - Starting upload: /home/user/Desktop/torrents/Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv] -> onedrive:Torrents/Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
+2025-04-19 01:07:55,353 - INFO - Uploading directory of size 18498.06 MB
