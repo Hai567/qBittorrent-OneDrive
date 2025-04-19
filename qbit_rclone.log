@@ -3760,3 +3760,8 @@ OSError: [Errno 28] No space left on device
 2025-04-19 00:21:44,373 - INFO - Found 3 completed torrents
 2025-04-19 00:26:44,473 - INFO - Checking for completed torrents...
 2025-04-19 00:26:44,478 - INFO - Found 3 completed torrents
+2025-04-19 00:31:44,578 - INFO - Checking for completed torrents...
+2025-04-19 00:31:44,584 - INFO - Found 4 completed torrents
+2025-04-19 00:31:44,585 - INFO - Uploading torrent: Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 00:31:44,585 - INFO - Starting upload: /home/user/Desktop/torrents/Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 00:31:44,585 - INFO - Uploading directory of size 1436.16 MB
