@@ -4177,3 +4177,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 05:02:56,270 - INFO - Uploading torrent: Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
 2025-04-19 05:02:56,270 - INFO - Starting upload: /home/user/Desktop/torrents/Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx] -> onedrive:Torrents/Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
 2025-04-19 05:02:56,271 - INFO - Uploading directory of size 7861.90 MB
+2025-04-19 05:15:07,319 - INFO - Successfully uploaded to onedrive:Torrents/Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:15:07,319 - INFO - Verifying upload for: Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:15:07,319 - INFO - Verifying upload: /home/user/Desktop/torrents/Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx] -> onedrive:Torrents/Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:15:09,810 - INFO - Upload verification successful for /home/user/Desktop/torrents/Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:15:09,815 - INFO - Deleting torrent from qBittorrent: Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:15:09,815 - INFO - Deleting torrent with hash 413c9b5af11394048d9b9f8d46260c4dff392f0c (delete_files=False)
+2025-04-19 05:15:09,825 - INFO - Successfully deleted torrent with hash 413c9b5af11394048d9b9f8d46260c4dff392f0c
+2025-04-19 05:15:09,825 - INFO - Deleting content files: Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:15:09,826 - INFO - Deleting content: /home/user/Desktop/torrents/Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:15:09,830 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:15:09,831 - INFO - Successfully processed torrent: Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:15:09,831 - INFO - Uploading torrent: Lucifer.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:15:09,831 - INFO - Starting upload: /home/user/Desktop/torrents/Lucifer.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx] -> onedrive:Torrents/Lucifer.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:15:09,831 - INFO - Uploading directory of size 3732.26 MB
