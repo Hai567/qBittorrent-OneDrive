@@ -4300,3 +4300,8 @@ OSError: [Errno 28] No space left on device
 2025-04-19 06:47:39,151 - INFO - Deleting content: /home/user/Desktop/torrents/The Maze Runner (2014) [1080p]
 2025-04-19 06:47:39,152 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Maze Runner (2014) [1080p]
 2025-04-19 06:47:39,152 - INFO - Successfully processed torrent: The Maze Runner (2014) [1080p]
+2025-04-19 06:52:39,187 - INFO - Checking for completed torrents...
+2025-04-19 06:52:39,198 - INFO - Found 29 completed torrents
+2025-04-19 06:52:39,199 - INFO - Uploading torrent: Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:52:39,199 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:52:39,199 - INFO - Uploading directory of size 3000.93 MB
