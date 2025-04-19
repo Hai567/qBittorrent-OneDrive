@@ -3741,3 +3741,14 @@ OSError: [Errno 28] No space left on device
 2025-04-19 00:04:06,963 - INFO - Uploading torrent: Frozen (2013) [1080p]
 2025-04-19 00:04:06,963 - INFO - Starting upload: /home/user/Desktop/torrents/Frozen (2013) [1080p] -> onedrive:Torrents/Frozen (2013) [1080p]
 2025-04-19 00:04:06,963 - INFO - Uploading directory of size 1673.83 MB
+2025-04-19 00:06:42,734 - INFO - Successfully uploaded to onedrive:Torrents/Frozen (2013) [1080p]
+2025-04-19 00:06:42,734 - INFO - Verifying upload for: Frozen (2013) [1080p]
+2025-04-19 00:06:42,735 - INFO - Verifying upload: /home/user/Desktop/torrents/Frozen (2013) [1080p] -> onedrive:Torrents/Frozen (2013) [1080p]
+2025-04-19 00:06:44,061 - INFO - Upload verification successful for /home/user/Desktop/torrents/Frozen (2013) [1080p]
+2025-04-19 00:06:44,132 - INFO - Deleting torrent from qBittorrent: Frozen (2013) [1080p]
+2025-04-19 00:06:44,133 - INFO - Deleting torrent with hash 4956a4e976ea948025c3c3554567ca2820f65f64 (delete_files=False)
+2025-04-19 00:06:44,142 - INFO - Successfully deleted torrent with hash 4956a4e976ea948025c3c3554567ca2820f65f64
+2025-04-19 00:06:44,142 - INFO - Deleting content files: Frozen (2013) [1080p]
+2025-04-19 00:06:44,142 - INFO - Deleting content: /home/user/Desktop/torrents/Frozen (2013) [1080p]
+2025-04-19 00:06:44,143 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Frozen (2013) [1080p]
+2025-04-19 00:06:44,143 - INFO - Successfully processed torrent: Frozen (2013) [1080p]
