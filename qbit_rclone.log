@@ -4375,3 +4375,41 @@ OSError: [Errno 28] No space left on device
 2025-04-19 07:43:00,831 - INFO - Uploading torrent: Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 07:43:00,831 - INFO - Starting upload: /home/user/Desktop/torrents/Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 07:43:00,831 - INFO - Uploading directory of size 2339.76 MB
+2025-04-19 12:53:05,708 - INFO - Loaded configuration from config.json
+2025-04-19 12:53:05,710 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-19 12:53:05,819 - INFO - Found onedrive remote in rclone configuration
+2025-04-19 12:53:05,825 - INFO - Successfully logged in to qBittorrent
+2025-04-19 12:53:05,825 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-19 12:53:05,825 - INFO - Checking for completed torrents...
+2025-04-19 12:53:05,834 - INFO - Found 34 completed torrents
+2025-04-19 12:53:05,835 - INFO - Uploading torrent: Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 12:53:05,835 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 12:53:05,835 - INFO - Uploading directory of size 134.32 MB
+2025-04-19 12:53:53,818 - INFO - Successfully uploaded to onedrive:Torrents/Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 12:53:53,818 - INFO - Verifying upload for: Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 12:53:53,819 - INFO - Verifying upload: /home/user/Desktop/torrents/Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 12:53:56,202 - INFO - Upload verification successful for /home/user/Desktop/torrents/Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 12:53:56,208 - INFO - Deleting torrent from qBittorrent: Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 12:53:56,208 - INFO - Deleting torrent with hash 748f89a7c8f140d7cbaa69f9180687a9d37ff4f5 (delete_files=False)
+2025-04-19 12:53:56,218 - INFO - Successfully deleted torrent with hash 748f89a7c8f140d7cbaa69f9180687a9d37ff4f5
+2025-04-19 12:53:56,219 - INFO - Deleting content files: Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 12:53:56,219 - INFO - Deleting content: /home/user/Desktop/torrents/Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 12:53:56,219 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 12:53:56,219 - INFO - Successfully processed torrent: Toy Story Toons Small Fry (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 12:53:56,219 - INFO - Uploading torrent: Jack Reacher Never Go Back (2016) [1080p] [YTS.AG]
+2025-04-19 12:53:56,220 - INFO - Starting upload: /home/user/Desktop/torrents/Jack Reacher Never Go Back (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Jack Reacher Never Go Back (2016) [1080p] [YTS.AG]
+2025-04-19 12:53:56,220 - INFO - Uploading directory of size 1844.58 MB
+2025-04-19 12:57:35,481 - INFO - Successfully uploaded to onedrive:Torrents/Jack Reacher Never Go Back (2016) [1080p] [YTS.AG]
+2025-04-19 12:57:35,481 - INFO - Verifying upload for: Jack Reacher Never Go Back (2016) [1080p] [YTS.AG]
+2025-04-19 12:57:35,481 - INFO - Verifying upload: /home/user/Desktop/torrents/Jack Reacher Never Go Back (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Jack Reacher Never Go Back (2016) [1080p] [YTS.AG]
+2025-04-19 12:57:36,836 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jack Reacher Never Go Back (2016) [1080p] [YTS.AG]
+2025-04-19 12:57:36,841 - INFO - Deleting torrent from qBittorrent: Jack Reacher Never Go Back (2016) [1080p] [YTS.AG]
+2025-04-19 12:57:36,841 - INFO - Deleting torrent with hash 2866ac87a65d6d1d690d5e0085d8b688623a4238 (delete_files=False)
+2025-04-19 12:57:36,852 - INFO - Successfully deleted torrent with hash 2866ac87a65d6d1d690d5e0085d8b688623a4238
+2025-04-19 12:57:36,853 - INFO - Deleting content files: Jack Reacher Never Go Back (2016) [1080p] [YTS.AG]
+2025-04-19 12:57:36,853 - INFO - Deleting content: /home/user/Desktop/torrents/Jack Reacher Never Go Back (2016) [1080p] [YTS.AG]
+2025-04-19 12:57:36,856 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jack Reacher Never Go Back (2016) [1080p] [YTS.AG]
+2025-04-19 12:57:36,856 - INFO - Successfully processed torrent: Jack Reacher Never Go Back (2016) [1080p] [YTS.AG]
+2025-04-19 12:57:36,856 - INFO - Uploading torrent: Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-19 12:57:36,856 - INFO - Starting upload: /home/user/Desktop/torrents/Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx] -> onedrive:Torrents/Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-19 12:57:36,857 - INFO - Uploading directory of size 1436.81 MB
