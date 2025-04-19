@@ -4319,3 +4319,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 07:08:46,899 - INFO - Uploading torrent: Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-19 07:08:46,899 - INFO - Starting upload: /home/user/Desktop/torrents/Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-19 07:08:46,899 - INFO - Uploading directory of size 1800.72 MB
+2025-04-19 07:17:50,830 - INFO - Successfully uploaded to onedrive:Torrents/Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 07:17:50,831 - INFO - Verifying upload for: Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 07:17:50,831 - INFO - Verifying upload: /home/user/Desktop/torrents/Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 07:17:53,206 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 07:17:53,211 - INFO - Deleting torrent from qBittorrent: Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 07:17:53,211 - INFO - Deleting torrent with hash f641db1164cd37d00e8133104af34ac1907739a1 (delete_files=False)
+2025-04-19 07:17:53,222 - INFO - Successfully deleted torrent with hash f641db1164cd37d00e8133104af34ac1907739a1
+2025-04-19 07:17:53,223 - INFO - Deleting content files: Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 07:17:53,223 - INFO - Deleting content: /home/user/Desktop/torrents/Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 07:17:53,224 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 07:17:53,224 - INFO - Successfully processed torrent: Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 07:17:53,224 - INFO - Uploading torrent: Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 07:17:53,224 - INFO - Starting upload: /home/user/Desktop/torrents/Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 07:17:53,224 - INFO - Uploading directory of size 2852.32 MB
