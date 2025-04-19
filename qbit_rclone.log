@@ -4149,3 +4149,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 04:41:26,698 - INFO - Uploading torrent: Kong Skull Island (2017) [1080p] [YTS.AG]
 2025-04-19 04:41:26,698 - INFO - Starting upload: /home/user/Desktop/torrents/Kong Skull Island (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Kong Skull Island (2017) [1080p] [YTS.AG]
 2025-04-19 04:41:26,698 - INFO - Uploading directory of size 1857.42 MB
+2025-04-19 04:51:17,586 - INFO - Successfully uploaded to onedrive:Torrents/Kong Skull Island (2017) [1080p] [YTS.AG]
+2025-04-19 04:51:17,586 - INFO - Verifying upload for: Kong Skull Island (2017) [1080p] [YTS.AG]
+2025-04-19 04:51:17,586 - INFO - Verifying upload: /home/user/Desktop/torrents/Kong Skull Island (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Kong Skull Island (2017) [1080p] [YTS.AG]
+2025-04-19 04:51:18,879 - INFO - Upload verification successful for /home/user/Desktop/torrents/Kong Skull Island (2017) [1080p] [YTS.AG]
+2025-04-19 04:51:18,884 - INFO - Deleting torrent from qBittorrent: Kong Skull Island (2017) [1080p] [YTS.AG]
+2025-04-19 04:51:18,884 - INFO - Deleting torrent with hash 148242cb8f98cfd40d2725b43931daaea55e752c (delete_files=False)
+2025-04-19 04:51:18,892 - INFO - Successfully deleted torrent with hash 148242cb8f98cfd40d2725b43931daaea55e752c
+2025-04-19 04:51:18,893 - INFO - Deleting content files: Kong Skull Island (2017) [1080p] [YTS.AG]
+2025-04-19 04:51:18,893 - INFO - Deleting content: /home/user/Desktop/torrents/Kong Skull Island (2017) [1080p] [YTS.AG]
+2025-04-19 04:51:18,894 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Kong Skull Island (2017) [1080p] [YTS.AG]
+2025-04-19 04:51:18,894 - INFO - Successfully processed torrent: Kong Skull Island (2017) [1080p] [YTS.AG]
+2025-04-19 04:51:18,894 - INFO - Uploading torrent: X-Men 2 (2003) [1080p]
+2025-04-19 04:51:18,894 - INFO - Starting upload: /home/user/Desktop/torrents/X-Men 2 (2003) [1080p] -> onedrive:Torrents/X-Men 2 (2003) [1080p]
+2025-04-19 04:51:18,894 - INFO - Uploading directory of size 1532.38 MB
