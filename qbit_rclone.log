@@ -4693,3 +4693,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 14:17:15,437 - INFO - Uploading torrent: Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 14:17:15,437 - INFO - Starting upload: /home/user/Desktop/torrents/Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 14:17:15,438 - INFO - Uploading directory of size 2063.33 MB
+2025-04-19 14:21:30,028 - INFO - Successfully uploaded to onedrive:Torrents/Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:21:30,029 - INFO - Verifying upload for: Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:21:30,029 - INFO - Verifying upload: /home/user/Desktop/torrents/Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:21:32,397 - INFO - Upload verification successful for /home/user/Desktop/torrents/Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:21:32,403 - INFO - Deleting torrent from qBittorrent: Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:21:32,404 - INFO - Deleting torrent with hash 645a04a627c9c77cec364f954f8a80bbd2f33910 (delete_files=False)
+2025-04-19 14:21:32,415 - INFO - Successfully deleted torrent with hash 645a04a627c9c77cec364f954f8a80bbd2f33910
+2025-04-19 14:21:32,415 - INFO - Deleting content files: Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:21:32,415 - INFO - Deleting content: /home/user/Desktop/torrents/Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:21:32,418 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:21:32,418 - INFO - Successfully processed torrent: Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:21:32,418 - INFO - Uploading torrent: It (2017) [1080p] [YTS.AG]
+2025-04-19 14:21:32,418 - INFO - Starting upload: /home/user/Desktop/torrents/It (2017) [1080p] [YTS.AG] -> onedrive:Torrents/It (2017) [1080p] [YTS.AG]
+2025-04-19 14:21:32,418 - INFO - Uploading directory of size 2105.00 MB
