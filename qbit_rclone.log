@@ -4051,3 +4051,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 03:12:50,362 - INFO - Uploading torrent: The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
 2025-04-19 03:12:50,362 - INFO - Starting upload: /home/user/Desktop/torrents/The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c] -> onedrive:Torrents/The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
 2025-04-19 03:12:50,363 - INFO - Uploading directory of size 8416.10 MB
+2025-04-19 03:29:44,853 - INFO - Successfully uploaded to onedrive:Torrents/The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-19 03:29:44,853 - INFO - Verifying upload for: The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-19 03:29:44,854 - INFO - Verifying upload: /home/user/Desktop/torrents/The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c] -> onedrive:Torrents/The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-19 03:29:46,672 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-19 03:29:46,774 - INFO - Deleting torrent from qBittorrent: The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-19 03:29:46,775 - INFO - Deleting torrent with hash dfe1e565c07e6896581618f6de020ffb4e9f2490 (delete_files=False)
+2025-04-19 03:29:46,785 - INFO - Successfully deleted torrent with hash dfe1e565c07e6896581618f6de020ffb4e9f2490
+2025-04-19 03:29:46,785 - INFO - Deleting content files: The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-19 03:29:46,785 - INFO - Deleting content: /home/user/Desktop/torrents/The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-19 03:29:46,791 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-19 03:29:46,792 - INFO - Successfully processed torrent: The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-19 03:29:46,792 - INFO - Uploading torrent: Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 03:29:46,792 - INFO - Starting upload: /home/user/Desktop/torrents/Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 03:29:46,792 - INFO - Uploading directory of size 1003.25 MB
