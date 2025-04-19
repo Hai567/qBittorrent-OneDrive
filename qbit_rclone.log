@@ -4305,3 +4305,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 06:52:39,199 - INFO - Uploading torrent: Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 06:52:39,199 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 06:52:39,199 - INFO - Uploading directory of size 3000.93 MB
+2025-04-19 07:08:45,455 - INFO - Successfully uploaded to onedrive:Torrents/Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:08:45,455 - INFO - Verifying upload for: Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:08:45,456 - INFO - Verifying upload: /home/user/Desktop/torrents/Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:08:46,880 - INFO - Upload verification successful for /home/user/Desktop/torrents/Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:08:46,887 - INFO - Deleting torrent from qBittorrent: Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:08:46,887 - INFO - Deleting torrent with hash 8c5a4004a6f67bfd373b179fcb7633d9a2e9de26 (delete_files=False)
+2025-04-19 07:08:46,897 - INFO - Successfully deleted torrent with hash 8c5a4004a6f67bfd373b179fcb7633d9a2e9de26
+2025-04-19 07:08:46,897 - INFO - Deleting content files: Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:08:46,897 - INFO - Deleting content: /home/user/Desktop/torrents/Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:08:46,899 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:08:46,899 - INFO - Successfully processed torrent: Harry Potter And The Sorcerers Stone (2001) [EXTENDED] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:08:46,899 - INFO - Uploading torrent: Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 07:08:46,899 - INFO - Starting upload: /home/user/Desktop/torrents/Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Ocean's Eight (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 07:08:46,899 - INFO - Uploading directory of size 1800.72 MB
