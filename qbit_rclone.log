@@ -3781,3 +3781,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 00:41:43,683 - INFO - Uploading torrent: Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-19 00:41:43,683 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-19 00:41:43,684 - INFO - Uploading directory of size 1597.40 MB
+2025-04-19 00:47:41,263 - INFO - Successfully uploaded to onedrive:Torrents/Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-19 00:47:41,263 - INFO - Verifying upload for: Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-19 00:47:41,264 - INFO - Verifying upload: /home/user/Desktop/torrents/Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-19 00:47:42,585 - INFO - Upload verification successful for /home/user/Desktop/torrents/Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-19 00:47:42,591 - INFO - Deleting torrent from qBittorrent: Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-19 00:47:42,591 - INFO - Deleting torrent with hash 0b9c7dd6e98fbb2965706d3719d846c0f2e1367a (delete_files=False)
+2025-04-19 00:47:42,604 - INFO - Successfully deleted torrent with hash 0b9c7dd6e98fbb2965706d3719d846c0f2e1367a
+2025-04-19 00:47:42,604 - INFO - Deleting content files: Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-19 00:47:42,604 - INFO - Deleting content: /home/user/Desktop/torrents/Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-19 00:47:42,605 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-19 00:47:42,605 - INFO - Successfully processed torrent: Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-19 00:47:42,605 - INFO - Uploading torrent: Glass (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 00:47:42,606 - INFO - Starting upload: /home/user/Desktop/torrents/Glass (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Glass (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 00:47:42,606 - INFO - Uploading directory of size 2124.02 MB
