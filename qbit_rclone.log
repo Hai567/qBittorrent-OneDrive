@@ -4721,3 +4721,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 14:26:08,105 - INFO - Uploading torrent: Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 14:26:08,105 - INFO - Starting upload: /home/user/Desktop/torrents/Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 14:26:08,105 - INFO - Uploading directory of size 2339.76 MB
+2025-04-19 14:31:38,362 - INFO - Successfully uploaded to onedrive:Torrents/Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:31:38,363 - INFO - Verifying upload for: Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:31:38,363 - INFO - Verifying upload: /home/user/Desktop/torrents/Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:31:41,297 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:31:41,303 - INFO - Deleting torrent from qBittorrent: Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:31:41,303 - INFO - Deleting torrent with hash 12572e7da86f4465a0a9062da2aace8591cd45c3 (delete_files=False)
+2025-04-19 14:31:41,314 - INFO - Successfully deleted torrent with hash 12572e7da86f4465a0a9062da2aace8591cd45c3
+2025-04-19 14:31:41,314 - INFO - Deleting content files: Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:31:41,314 - INFO - Deleting content: /home/user/Desktop/torrents/Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:31:41,319 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:31:41,319 - INFO - Successfully processed torrent: Ghostbusters Afterlife (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:31:41,319 - INFO - Uploading torrent: The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 14:31:41,319 - INFO - Starting upload: /home/user/Desktop/torrents/The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 14:31:41,319 - INFO - Uploading directory of size 1642.41 MB
