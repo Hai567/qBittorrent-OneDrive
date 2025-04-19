@@ -3967,3 +3967,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 02:32:10,867 - INFO - Uploading torrent: Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 02:32:10,867 - INFO - Starting upload: /home/user/Desktop/torrents/Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 02:32:10,867 - INFO - Uploading directory of size 2404.31 MB
+2025-04-19 02:41:56,672 - INFO - Successfully uploaded to onedrive:Torrents/Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 02:41:56,672 - INFO - Verifying upload for: Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 02:41:56,672 - INFO - Verifying upload: /home/user/Desktop/torrents/Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 02:44:14,209 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 02:44:14,219 - INFO - Deleting torrent from qBittorrent: Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 02:44:14,220 - INFO - Deleting torrent with hash 33969d34fc1a1988abdfe061f4ec19ad70d7be4b (delete_files=False)
+2025-04-19 02:44:14,228 - INFO - Successfully deleted torrent with hash 33969d34fc1a1988abdfe061f4ec19ad70d7be4b
+2025-04-19 02:44:14,229 - INFO - Deleting content files: Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 02:44:14,229 - INFO - Deleting content: /home/user/Desktop/torrents/Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 02:44:14,231 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 02:44:14,231 - INFO - Successfully processed torrent: Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 02:44:14,231 - INFO - Uploading torrent: The Matrix (1999) [1080p]
+2025-04-19 02:44:14,231 - INFO - Starting upload: /home/user/Desktop/torrents/The Matrix (1999) [1080p] -> onedrive:Torrents/The Matrix (1999) [1080p]
+2025-04-19 02:44:14,231 - INFO - Uploading directory of size 1899.98 MB
