@@ -4233,3 +4233,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 05:37:57,995 - INFO - Uploading torrent: Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-19 05:37:57,996 - INFO - Starting upload: /home/user/Desktop/torrents/Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-19 05:37:57,996 - INFO - Uploading directory of size 1814.19 MB
+2025-04-19 05:51:37,151 - INFO - Successfully uploaded to onedrive:Torrents/Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 05:51:37,152 - INFO - Verifying upload for: Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 05:51:37,152 - INFO - Verifying upload: /home/user/Desktop/torrents/Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 05:51:38,472 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 05:51:38,557 - INFO - Deleting torrent from qBittorrent: Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 05:51:38,557 - INFO - Deleting torrent with hash aa6aab076df23e990e626d81d59d48d192c38cef (delete_files=False)
+2025-04-19 05:51:38,566 - INFO - Successfully deleted torrent with hash aa6aab076df23e990e626d81d59d48d192c38cef
+2025-04-19 05:51:38,566 - INFO - Deleting content files: Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 05:51:38,566 - INFO - Deleting content: /home/user/Desktop/torrents/Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 05:51:38,567 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 05:51:38,567 - INFO - Successfully processed torrent: Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 05:51:38,568 - INFO - Uploading torrent: Coco (2017) [1080p] [YTS.AG]
+2025-04-19 05:51:38,568 - INFO - Starting upload: /home/user/Desktop/torrents/Coco (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Coco (2017) [1080p] [YTS.AG]
+2025-04-19 05:51:38,568 - INFO - Uploading directory of size 1630.03 MB
