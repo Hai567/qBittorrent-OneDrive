@@ -4275,3 +4275,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 06:14:24,783 - INFO - Uploading torrent: The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 06:14:24,783 - INFO - Starting upload: /home/user/Desktop/torrents/The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 06:14:24,783 - INFO - Uploading directory of size 2793.05 MB
+2025-04-19 06:31:57,108 - INFO - Successfully uploaded to onedrive:Torrents/The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:31:57,108 - INFO - Verifying upload for: The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:31:57,108 - INFO - Verifying upload: /home/user/Desktop/torrents/The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:31:58,392 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:31:58,397 - INFO - Deleting torrent from qBittorrent: The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:31:58,397 - INFO - Deleting torrent with hash e9cc8cb56c01edcb7e324a5b57a7b5d04520dd48 (delete_files=False)
+2025-04-19 06:31:58,411 - INFO - Successfully deleted torrent with hash e9cc8cb56c01edcb7e324a5b57a7b5d04520dd48
+2025-04-19 06:31:58,411 - INFO - Deleting content files: The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:31:58,411 - INFO - Deleting content: /home/user/Desktop/torrents/The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:31:58,414 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:31:58,414 - INFO - Successfully processed torrent: The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:31:58,414 - INFO - Uploading torrent: The Maze Runner (2014) [1080p]
+2025-04-19 06:31:58,414 - INFO - Starting upload: /home/user/Desktop/torrents/The Maze Runner (2014) [1080p] -> onedrive:Torrents/The Maze Runner (2014) [1080p]
+2025-04-19 06:31:58,414 - INFO - Uploading directory of size 1685.71 MB
