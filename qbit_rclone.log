@@ -4133,3 +4133,14 @@ OSError: [Errno 28] No space left on device
 2025-04-19 04:21:06,842 - INFO - Uploading torrent: Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 04:21:06,842 - INFO - Starting upload: /home/user/Desktop/torrents/Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 04:21:06,842 - INFO - Uploading directory of size 2774.28 MB
+2025-04-19 04:36:23,956 - INFO - Successfully uploaded to onedrive:Torrents/Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 04:36:23,956 - INFO - Verifying upload for: Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 04:36:23,956 - INFO - Verifying upload: /home/user/Desktop/torrents/Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 04:36:26,650 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 04:36:26,657 - INFO - Deleting torrent from qBittorrent: Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 04:36:26,657 - INFO - Deleting torrent with hash 41a458b0fe1d51166f16d25c29c7f9d5d3b6b7c9 (delete_files=False)
+2025-04-19 04:36:26,667 - INFO - Successfully deleted torrent with hash 41a458b0fe1d51166f16d25c29c7f9d5d3b6b7c9
+2025-04-19 04:36:26,667 - INFO - Deleting content files: Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 04:36:26,667 - INFO - Deleting content: /home/user/Desktop/torrents/Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 04:36:26,669 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 04:36:26,669 - INFO - Successfully processed torrent: Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
