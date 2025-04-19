@@ -4076,3 +4076,8 @@ OSError: [Errno 28] No space left on device
 2025-04-19 03:33:04,320 - INFO - Deleting content: /home/user/Desktop/torrents/Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 03:33:04,323 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 03:33:04,324 - INFO - Successfully processed torrent: Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 03:38:04,423 - INFO - Checking for completed torrents...
+2025-04-19 03:38:04,430 - INFO - Found 9 completed torrents
+2025-04-19 03:38:04,430 - INFO - Uploading torrent: The Martian (2015) [3D] [HSBS] [YTS.AG]
+2025-04-19 03:38:04,430 - INFO - Starting upload: /home/user/Desktop/torrents/The Martian (2015) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/The Martian (2015) [3D] [HSBS] [YTS.AG]
+2025-04-19 03:38:04,430 - INFO - Uploading directory of size 2215.09 MB
