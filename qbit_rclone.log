@@ -4119,3 +4119,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 04:11:24,558 - INFO - Uploading torrent: The Martian (2015) [3D] [HSBS] [YTS.AG]
 2025-04-19 04:11:24,558 - INFO - Starting upload: /home/user/Desktop/torrents/The Martian (2015) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/The Martian (2015) [3D] [HSBS] [YTS.AG]
 2025-04-19 04:11:24,558 - INFO - Uploading directory of size 2215.09 MB
+2025-04-19 04:21:04,410 - INFO - Successfully uploaded to onedrive:Torrents/The Martian (2015) [3D] [HSBS] [YTS.AG]
+2025-04-19 04:21:04,410 - INFO - Verifying upload for: The Martian (2015) [3D] [HSBS] [YTS.AG]
+2025-04-19 04:21:04,411 - INFO - Verifying upload: /home/user/Desktop/torrents/The Martian (2015) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/The Martian (2015) [3D] [HSBS] [YTS.AG]
+2025-04-19 04:21:06,824 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Martian (2015) [3D] [HSBS] [YTS.AG]
+2025-04-19 04:21:06,830 - INFO - Deleting torrent from qBittorrent: The Martian (2015) [3D] [HSBS] [YTS.AG]
+2025-04-19 04:21:06,830 - INFO - Deleting torrent with hash e050fa9fbcfca77d34b63a8fbe96af29b4ec86a8 (delete_files=False)
+2025-04-19 04:21:06,839 - INFO - Successfully deleted torrent with hash e050fa9fbcfca77d34b63a8fbe96af29b4ec86a8
+2025-04-19 04:21:06,839 - INFO - Deleting content files: The Martian (2015) [3D] [HSBS] [YTS.AG]
+2025-04-19 04:21:06,839 - INFO - Deleting content: /home/user/Desktop/torrents/The Martian (2015) [3D] [HSBS] [YTS.AG]
+2025-04-19 04:21:06,841 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Martian (2015) [3D] [HSBS] [YTS.AG]
+2025-04-19 04:21:06,842 - INFO - Successfully processed torrent: The Martian (2015) [3D] [HSBS] [YTS.AG]
+2025-04-19 04:21:06,842 - INFO - Uploading torrent: Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 04:21:06,842 - INFO - Starting upload: /home/user/Desktop/torrents/Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 04:21:06,842 - INFO - Uploading directory of size 2774.28 MB
