@@ -4581,3 +4581,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 13:46:19,195 - INFO - Uploading torrent: Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 13:46:19,195 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 13:46:19,195 - INFO - Uploading directory of size 2759.38 MB
+2025-04-19 13:52:01,339 - INFO - Successfully uploaded to onedrive:Torrents/Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:52:01,339 - INFO - Verifying upload for: Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:52:01,339 - INFO - Verifying upload: /home/user/Desktop/torrents/Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:52:03,729 - INFO - Upload verification successful for /home/user/Desktop/torrents/Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:52:03,735 - INFO - Deleting torrent from qBittorrent: Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:52:03,735 - INFO - Deleting torrent with hash 0bfd93d4877d96df612c3b720580519c4287bedb (delete_files=False)
+2025-04-19 13:52:03,745 - INFO - Successfully deleted torrent with hash 0bfd93d4877d96df612c3b720580519c4287bedb
+2025-04-19 13:52:03,745 - INFO - Deleting content files: Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:52:03,745 - INFO - Deleting content: /home/user/Desktop/torrents/Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:52:03,750 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:52:03,750 - INFO - Successfully processed torrent: Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:52:03,750 - INFO - Uploading torrent: Hacksaw Ridge (2016) [1080p] [YTS.AG]
+2025-04-19 13:52:03,751 - INFO - Starting upload: /home/user/Desktop/torrents/Hacksaw Ridge (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Hacksaw Ridge (2016) [1080p] [YTS.AG]
+2025-04-19 13:52:03,751 - INFO - Uploading directory of size 2174.45 MB
