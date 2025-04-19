@@ -4735,3 +4735,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 14:31:41,319 - INFO - Uploading torrent: The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-19 14:31:41,319 - INFO - Starting upload: /home/user/Desktop/torrents/The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-19 14:31:41,319 - INFO - Uploading directory of size 1642.41 MB
+2025-04-19 14:35:26,079 - INFO - Successfully uploaded to onedrive:Torrents/The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 14:35:26,079 - INFO - Verifying upload for: The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 14:35:26,079 - INFO - Verifying upload: /home/user/Desktop/torrents/The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 14:35:27,976 - INFO - Upload verification successful for /home/user/Desktop/torrents/The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 14:35:27,981 - INFO - Deleting torrent from qBittorrent: The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 14:35:27,982 - INFO - Deleting torrent with hash 2d976df6d9a901bb04f80e00bfe3061ca86f44b6 (delete_files=False)
+2025-04-19 14:35:27,992 - INFO - Successfully deleted torrent with hash 2d976df6d9a901bb04f80e00bfe3061ca86f44b6
+2025-04-19 14:35:27,993 - INFO - Deleting content files: The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 14:35:27,993 - INFO - Deleting content: /home/user/Desktop/torrents/The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 14:35:27,994 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 14:35:27,994 - INFO - Successfully processed torrent: The.Kings.Man.2021.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 14:35:27,994 - INFO - Uploading torrent: The Good Doctor (2017) Season 7 S07 (1080p AMZN WEB-DL x265 HEVC 10bit DDP 5.1 Vyndros)
+2025-04-19 14:35:27,994 - INFO - Starting upload: /home/user/Desktop/torrents/The Good Doctor (2017) Season 7 S07 (1080p AMZN WEB-DL x265 HEVC 10bit DDP 5.1 Vyndros) -> onedrive:Torrents/The Good Doctor (2017) Season 7 S07 (1080p AMZN WEB-DL x265 HEVC 10bit DDP 5.1 Vyndros)
+2025-04-19 14:35:27,995 - INFO - Uploading directory of size 9258.67 MB
