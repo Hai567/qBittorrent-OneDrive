@@ -4665,3 +4665,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 14:08:15,996 - INFO - Uploading torrent: Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 14:08:15,996 - INFO - Starting upload: /home/user/Desktop/torrents/Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 14:08:15,996 - INFO - Uploading directory of size 2078.41 MB
+2025-04-19 14:13:01,131 - INFO - Successfully uploaded to onedrive:Torrents/Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:13:01,132 - INFO - Verifying upload for: Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:13:01,132 - INFO - Verifying upload: /home/user/Desktop/torrents/Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:13:03,176 - INFO - Upload verification successful for /home/user/Desktop/torrents/Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:13:03,182 - INFO - Deleting torrent from qBittorrent: Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:13:03,182 - INFO - Deleting torrent with hash 4bbfbacdf1406c1466bf10dbdd519e8dc3694fd4 (delete_files=False)
+2025-04-19 14:13:03,193 - INFO - Successfully deleted torrent with hash 4bbfbacdf1406c1466bf10dbdd519e8dc3694fd4
+2025-04-19 14:13:03,193 - INFO - Deleting content files: Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:13:03,193 - INFO - Deleting content: /home/user/Desktop/torrents/Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:13:03,196 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:13:03,196 - INFO - Successfully processed torrent: Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:13:03,196 - INFO - Uploading torrent: The Meg (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 14:13:03,196 - INFO - Starting upload: /home/user/Desktop/torrents/The Meg (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Meg (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 14:13:03,196 - INFO - Uploading directory of size 1853.95 MB
