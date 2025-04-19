@@ -4595,3 +4595,31 @@ OSError: [Errno 28] No space left on device
 2025-04-19 13:52:03,750 - INFO - Uploading torrent: Hacksaw Ridge (2016) [1080p] [YTS.AG]
 2025-04-19 13:52:03,751 - INFO - Starting upload: /home/user/Desktop/torrents/Hacksaw Ridge (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Hacksaw Ridge (2016) [1080p] [YTS.AG]
 2025-04-19 13:52:03,751 - INFO - Uploading directory of size 2174.45 MB
+2025-04-19 13:56:57,057 - INFO - Successfully uploaded to onedrive:Torrents/Hacksaw Ridge (2016) [1080p] [YTS.AG]
+2025-04-19 13:56:57,058 - INFO - Verifying upload for: Hacksaw Ridge (2016) [1080p] [YTS.AG]
+2025-04-19 13:56:57,058 - INFO - Verifying upload: /home/user/Desktop/torrents/Hacksaw Ridge (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Hacksaw Ridge (2016) [1080p] [YTS.AG]
+2025-04-19 13:56:59,419 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hacksaw Ridge (2016) [1080p] [YTS.AG]
+2025-04-19 13:56:59,424 - INFO - Deleting torrent from qBittorrent: Hacksaw Ridge (2016) [1080p] [YTS.AG]
+2025-04-19 13:56:59,425 - INFO - Deleting torrent with hash 65793e99362aad994ae86d3f97e43b3465b05b1b (delete_files=False)
+2025-04-19 13:56:59,435 - INFO - Successfully deleted torrent with hash 65793e99362aad994ae86d3f97e43b3465b05b1b
+2025-04-19 13:56:59,436 - INFO - Deleting content files: Hacksaw Ridge (2016) [1080p] [YTS.AG]
+2025-04-19 13:56:59,436 - INFO - Deleting content: /home/user/Desktop/torrents/Hacksaw Ridge (2016) [1080p] [YTS.AG]
+2025-04-19 13:56:59,438 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Hacksaw Ridge (2016) [1080p] [YTS.AG]
+2025-04-19 13:56:59,438 - INFO - Successfully processed torrent: Hacksaw Ridge (2016) [1080p] [YTS.AG]
+2025-04-19 13:56:59,438 - INFO - Uploading torrent: Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX]
+2025-04-19 13:56:59,438 - INFO - Starting upload: /home/user/Desktop/torrents/Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX] -> onedrive:Torrents/Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX]
+2025-04-19 13:56:59,438 - INFO - Uploading directory of size 373.80 MB
+2025-04-19 13:57:56,004 - INFO - Successfully uploaded to onedrive:Torrents/Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX]
+2025-04-19 13:57:56,004 - INFO - Verifying upload for: Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX]
+2025-04-19 13:57:56,004 - INFO - Verifying upload: /home/user/Desktop/torrents/Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX] -> onedrive:Torrents/Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX]
+2025-04-19 13:57:58,310 - INFO - Upload verification successful for /home/user/Desktop/torrents/Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX]
+2025-04-19 13:57:58,315 - INFO - Deleting torrent from qBittorrent: Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX]
+2025-04-19 13:57:58,315 - INFO - Deleting torrent with hash b1426cced57af68a0af2bc5e558e51f181f5a73f (delete_files=False)
+2025-04-19 13:57:58,326 - INFO - Successfully deleted torrent with hash b1426cced57af68a0af2bc5e558e51f181f5a73f
+2025-04-19 13:57:58,326 - INFO - Deleting content files: Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX]
+2025-04-19 13:57:58,326 - INFO - Deleting content: /home/user/Desktop/torrents/Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX]
+2025-04-19 13:57:58,327 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX]
+2025-04-19 13:57:58,327 - INFO - Successfully processed torrent: Olafs Frozen Adventure (2017) [1080p] [BluRay] [YTS.MX]
+2025-04-19 13:57:58,327 - INFO - Uploading torrent: Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:57:58,327 - INFO - Starting upload: /home/user/Desktop/torrents/Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:57:58,327 - INFO - Uploading directory of size 365.82 MB
