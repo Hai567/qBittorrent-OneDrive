@@ -4023,3 +4023,31 @@ OSError: [Errno 28] No space left on device
 2025-04-19 03:09:47,561 - INFO - Uploading torrent: Maze Runner The Scorch Trails (2015) [1080p]
 2025-04-19 03:09:47,561 - INFO - Starting upload: /home/user/Desktop/torrents/Maze Runner The Scorch Trails (2015) [1080p] -> onedrive:Torrents/Maze Runner The Scorch Trails (2015) [1080p]
 2025-04-19 03:09:47,561 - INFO - Uploading directory of size 1141.95 MB
+2025-04-19 03:12:30,404 - INFO - Successfully uploaded to onedrive:Torrents/Maze Runner The Scorch Trails (2015) [1080p]
+2025-04-19 03:12:30,404 - INFO - Verifying upload for: Maze Runner The Scorch Trails (2015) [1080p]
+2025-04-19 03:12:30,404 - INFO - Verifying upload: /home/user/Desktop/torrents/Maze Runner The Scorch Trails (2015) [1080p] -> onedrive:Torrents/Maze Runner The Scorch Trails (2015) [1080p]
+2025-04-19 03:12:31,736 - INFO - Upload verification successful for /home/user/Desktop/torrents/Maze Runner The Scorch Trails (2015) [1080p]
+2025-04-19 03:12:31,742 - INFO - Deleting torrent from qBittorrent: Maze Runner The Scorch Trails (2015) [1080p]
+2025-04-19 03:12:31,742 - INFO - Deleting torrent with hash 4b1c856363402a138389ae940df2c3367baea7b3 (delete_files=False)
+2025-04-19 03:12:31,751 - INFO - Successfully deleted torrent with hash 4b1c856363402a138389ae940df2c3367baea7b3
+2025-04-19 03:12:31,751 - INFO - Deleting content files: Maze Runner The Scorch Trails (2015) [1080p]
+2025-04-19 03:12:31,752 - INFO - Deleting content: /home/user/Desktop/torrents/Maze Runner The Scorch Trails (2015) [1080p]
+2025-04-19 03:12:31,752 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Maze Runner The Scorch Trails (2015) [1080p]
+2025-04-19 03:12:31,752 - INFO - Successfully processed torrent: Maze Runner The Scorch Trails (2015) [1080p]
+2025-04-19 03:12:31,752 - INFO - Uploading torrent: Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 03:12:31,753 - INFO - Starting upload: /home/user/Desktop/torrents/Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 03:12:31,753 - INFO - Uploading directory of size 79.44 MB
+2025-04-19 03:12:48,676 - INFO - Successfully uploaded to onedrive:Torrents/Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 03:12:48,677 - INFO - Verifying upload for: Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 03:12:48,677 - INFO - Verifying upload: /home/user/Desktop/torrents/Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 03:12:50,342 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 03:12:50,352 - INFO - Deleting torrent from qBittorrent: Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 03:12:50,352 - INFO - Deleting torrent with hash c32f023a815cab365db2c2a695d74047802aa2a8 (delete_files=False)
+2025-04-19 03:12:50,361 - INFO - Successfully deleted torrent with hash c32f023a815cab365db2c2a695d74047802aa2a8
+2025-04-19 03:12:50,361 - INFO - Deleting content files: Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 03:12:50,361 - INFO - Deleting content: /home/user/Desktop/torrents/Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 03:12:50,362 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 03:12:50,362 - INFO - Successfully processed torrent: Mower Minions (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 03:12:50,362 - INFO - Uploading torrent: The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-19 03:12:50,362 - INFO - Starting upload: /home/user/Desktop/torrents/The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c] -> onedrive:Torrents/The Good Doctor Season 3 Complete 720p AMZN WEB-DL x264 [i_c]
+2025-04-19 03:12:50,363 - INFO - Uploading directory of size 8416.10 MB
