@@ -4637,3 +4637,31 @@ OSError: [Errno 28] No space left on device
 2025-04-19 13:58:59,530 - INFO - Uploading torrent: Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 13:58:59,530 - INFO - Starting upload: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 13:58:59,530 - INFO - Uploading directory of size 2172.28 MB
+2025-04-19 14:03:57,905 - INFO - Successfully uploaded to onedrive:Torrents/Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:03:57,906 - INFO - Verifying upload for: Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:03:57,906 - INFO - Verifying upload: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:04:00,172 - INFO - Upload verification successful for /home/user/Desktop/torrents/Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:04:00,178 - INFO - Deleting torrent from qBittorrent: Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:04:00,179 - INFO - Deleting torrent with hash 94a37ec93e8d4233c3be92cc676af7a38080b434 (delete_files=False)
+2025-04-19 14:04:00,190 - INFO - Successfully deleted torrent with hash 94a37ec93e8d4233c3be92cc676af7a38080b434
+2025-04-19 14:04:00,191 - INFO - Deleting content files: Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:04:00,191 - INFO - Deleting content: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:04:00,194 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:04:00,194 - INFO - Successfully processed torrent: Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:04:00,194 - INFO - Uploading torrent: The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 14:04:00,194 - INFO - Starting upload: /home/user/Desktop/torrents/The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx] -> onedrive:Torrents/The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 14:04:00,195 - INFO - Uploading directory of size 4936.02 MB
+2025-04-19 14:08:13,391 - INFO - Successfully uploaded to onedrive:Torrents/The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 14:08:13,392 - INFO - Verifying upload for: The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 14:08:13,392 - INFO - Verifying upload: /home/user/Desktop/torrents/The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx] -> onedrive:Torrents/The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 14:08:15,975 - INFO - Upload verification successful for /home/user/Desktop/torrents/The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 14:08:15,980 - INFO - Deleting torrent from qBittorrent: The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 14:08:15,980 - INFO - Deleting torrent with hash 60a852a14b4d891b1d4d22efcaefdd619aff62a4 (delete_files=False)
+2025-04-19 14:08:15,991 - INFO - Successfully deleted torrent with hash 60a852a14b4d891b1d4d22efcaefdd619aff62a4
+2025-04-19 14:08:15,991 - INFO - Deleting content files: The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 14:08:15,991 - INFO - Deleting content: /home/user/Desktop/torrents/The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 14:08:15,996 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 14:08:15,996 - INFO - Successfully processed torrent: The.Good.Doctor.S06.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 14:08:15,996 - INFO - Uploading torrent: Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:08:15,996 - INFO - Starting upload: /home/user/Desktop/torrents/Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobitas New Dinosaur (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:08:15,996 - INFO - Uploading directory of size 2078.41 MB
