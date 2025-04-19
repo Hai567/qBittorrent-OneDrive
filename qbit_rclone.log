@@ -4333,3 +4333,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 07:17:53,224 - INFO - Uploading torrent: Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 07:17:53,224 - INFO - Starting upload: /home/user/Desktop/torrents/Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 07:17:53,224 - INFO - Uploading directory of size 2852.32 MB
+2025-04-19 07:25:21,078 - INFO - Successfully uploaded to onedrive:Torrents/Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 07:25:21,079 - INFO - Verifying upload for: Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 07:25:21,079 - INFO - Verifying upload: /home/user/Desktop/torrents/Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 07:25:22,441 - INFO - Upload verification successful for /home/user/Desktop/torrents/Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 07:25:22,447 - INFO - Deleting torrent from qBittorrent: Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 07:25:22,447 - INFO - Deleting torrent with hash 8b08a4c2dd7efbc48dc2ce35c2219cfd2f744b26 (delete_files=False)
+2025-04-19 07:25:22,456 - INFO - Successfully deleted torrent with hash 8b08a4c2dd7efbc48dc2ce35c2219cfd2f744b26
+2025-04-19 07:25:22,456 - INFO - Deleting content files: Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 07:25:22,456 - INFO - Deleting content: /home/user/Desktop/torrents/Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 07:25:22,458 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 07:25:22,459 - INFO - Successfully processed torrent: Wonder Woman 1984 (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 07:25:22,459 - INFO - Uploading torrent: Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:25:22,459 - INFO - Starting upload: /home/user/Desktop/torrents/Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:25:22,459 - INFO - Uploading directory of size 2724.69 MB
