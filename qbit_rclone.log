@@ -4623,3 +4623,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 13:57:58,327 - INFO - Uploading torrent: Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
 2025-04-19 13:57:58,327 - INFO - Starting upload: /home/user/Desktop/torrents/Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
 2025-04-19 13:57:58,327 - INFO - Uploading directory of size 365.82 MB
+2025-04-19 13:58:57,219 - INFO - Successfully uploaded to onedrive:Torrents/Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:58:57,219 - INFO - Verifying upload for: Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:58:57,219 - INFO - Verifying upload: /home/user/Desktop/torrents/Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:58:59,513 - INFO - Upload verification successful for /home/user/Desktop/torrents/Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:58:59,519 - INFO - Deleting torrent from qBittorrent: Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:58:59,519 - INFO - Deleting torrent with hash 12d47b6836fd7787531393069ed5ade7f53df7d8 (delete_files=False)
+2025-04-19 13:58:59,529 - INFO - Successfully deleted torrent with hash 12d47b6836fd7787531393069ed5ade7f53df7d8
+2025-04-19 13:58:59,529 - INFO - Deleting content files: Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:58:59,529 - INFO - Deleting content: /home/user/Desktop/torrents/Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:58:59,529 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:58:59,530 - INFO - Successfully processed torrent: Minions Holiday Special (2020) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:58:59,530 - INFO - Uploading torrent: Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:58:59,530 - INFO - Starting upload: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobitas Earth Symphony (2024) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:58:59,530 - INFO - Uploading directory of size 2172.28 MB
