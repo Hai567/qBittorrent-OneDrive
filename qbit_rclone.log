@@ -4553,3 +4553,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 13:35:58,255 - INFO - Uploading torrent: The Good Doctor Season 2 Complete 720p HDTV x264 [i_c]
 2025-04-19 13:35:58,255 - INFO - Starting upload: /home/user/Desktop/torrents/The Good Doctor Season 2 Complete 720p HDTV x264 [i_c] -> onedrive:Torrents/The Good Doctor Season 2 Complete 720p HDTV x264 [i_c]
 2025-04-19 13:35:58,255 - INFO - Uploading directory of size 8499.91 MB
+2025-04-19 13:42:23,264 - INFO - Successfully uploaded to onedrive:Torrents/The Good Doctor Season 2 Complete 720p HDTV x264 [i_c]
+2025-04-19 13:42:23,264 - INFO - Verifying upload for: The Good Doctor Season 2 Complete 720p HDTV x264 [i_c]
+2025-04-19 13:42:23,264 - INFO - Verifying upload: /home/user/Desktop/torrents/The Good Doctor Season 2 Complete 720p HDTV x264 [i_c] -> onedrive:Torrents/The Good Doctor Season 2 Complete 720p HDTV x264 [i_c]
+2025-04-19 13:42:24,739 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Good Doctor Season 2 Complete 720p HDTV x264 [i_c]
+2025-04-19 13:42:24,745 - INFO - Deleting torrent from qBittorrent: The Good Doctor Season 2 Complete 720p HDTV x264 [i_c]
+2025-04-19 13:42:24,745 - INFO - Deleting torrent with hash 424ee825b18152b6ba96a3c79b8c380d7fa7de09 (delete_files=False)
+2025-04-19 13:42:24,760 - INFO - Successfully deleted torrent with hash 424ee825b18152b6ba96a3c79b8c380d7fa7de09
+2025-04-19 13:42:24,760 - INFO - Deleting content files: The Good Doctor Season 2 Complete 720p HDTV x264 [i_c]
+2025-04-19 13:42:24,760 - INFO - Deleting content: /home/user/Desktop/torrents/The Good Doctor Season 2 Complete 720p HDTV x264 [i_c]
+2025-04-19 13:42:24,765 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Good Doctor Season 2 Complete 720p HDTV x264 [i_c]
+2025-04-19 13:42:24,766 - INFO - Successfully processed torrent: The Good Doctor Season 2 Complete 720p HDTV x264 [i_c]
+2025-04-19 13:42:24,766 - INFO - Uploading torrent: Ex Machina (2015) [1080p]
+2025-04-19 13:42:24,766 - INFO - Starting upload: /home/user/Desktop/torrents/Ex Machina (2015) [1080p] -> onedrive:Torrents/Ex Machina (2015) [1080p]
+2025-04-19 13:42:24,766 - INFO - Uploading directory of size 1669.75 MB
