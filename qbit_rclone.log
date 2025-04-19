@@ -4247,3 +4247,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 05:51:38,568 - INFO - Uploading torrent: Coco (2017) [1080p] [YTS.AG]
 2025-04-19 05:51:38,568 - INFO - Starting upload: /home/user/Desktop/torrents/Coco (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Coco (2017) [1080p] [YTS.AG]
 2025-04-19 05:51:38,568 - INFO - Uploading directory of size 1630.03 MB
+2025-04-19 06:02:31,284 - INFO - Successfully uploaded to onedrive:Torrents/Coco (2017) [1080p] [YTS.AG]
+2025-04-19 06:02:31,285 - INFO - Verifying upload for: Coco (2017) [1080p] [YTS.AG]
+2025-04-19 06:02:31,285 - INFO - Verifying upload: /home/user/Desktop/torrents/Coco (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Coco (2017) [1080p] [YTS.AG]
+2025-04-19 06:02:33,474 - INFO - Upload verification successful for /home/user/Desktop/torrents/Coco (2017) [1080p] [YTS.AG]
+2025-04-19 06:02:33,479 - INFO - Deleting torrent from qBittorrent: Coco (2017) [1080p] [YTS.AG]
+2025-04-19 06:02:33,480 - INFO - Deleting torrent with hash 56ea070327c4f34bfb3adfbebda29bb1125799e7 (delete_files=False)
+2025-04-19 06:02:33,489 - INFO - Successfully deleted torrent with hash 56ea070327c4f34bfb3adfbebda29bb1125799e7
+2025-04-19 06:02:33,489 - INFO - Deleting content files: Coco (2017) [1080p] [YTS.AG]
+2025-04-19 06:02:33,489 - INFO - Deleting content: /home/user/Desktop/torrents/Coco (2017) [1080p] [YTS.AG]
+2025-04-19 06:02:33,491 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Coco (2017) [1080p] [YTS.AG]
+2025-04-19 06:02:33,491 - INFO - Successfully processed torrent: Coco (2017) [1080p] [YTS.AG]
+2025-04-19 06:02:33,491 - INFO - Uploading torrent: Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:02:33,491 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:02:33,491 - INFO - Uploading directory of size 1945.52 MB
