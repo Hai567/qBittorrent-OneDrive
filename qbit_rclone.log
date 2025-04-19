@@ -4469,3 +4469,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 13:11:58,165 - INFO - Uploading torrent: Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 13:11:58,165 - INFO - Starting upload: /home/user/Desktop/torrents/Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 13:11:58,166 - INFO - Uploading directory of size 919.03 MB
+2025-04-19 13:14:37,352 - INFO - Successfully uploaded to onedrive:Torrents/Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:14:37,353 - INFO - Verifying upload for: Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:14:37,353 - INFO - Verifying upload: /home/user/Desktop/torrents/Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:14:39,956 - INFO - Upload verification successful for /home/user/Desktop/torrents/Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:14:39,961 - INFO - Deleting torrent from qBittorrent: Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:14:39,962 - INFO - Deleting torrent with hash 11c9bf0c0c08655c0c643867d92d1afab9f7cc6c (delete_files=False)
+2025-04-19 13:14:39,971 - INFO - Successfully deleted torrent with hash 11c9bf0c0c08655c0c643867d92d1afab9f7cc6c
+2025-04-19 13:14:39,972 - INFO - Deleting content files: Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:14:39,972 - INFO - Deleting content: /home/user/Desktop/torrents/Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:14:39,975 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:14:39,975 - INFO - Successfully processed torrent: Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:14:39,975 - INFO - Uploading torrent: The Greatest Showman (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 13:14:39,975 - INFO - Starting upload: /home/user/Desktop/torrents/The Greatest Showman (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Greatest Showman (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 13:14:39,975 - INFO - Uploading directory of size 1718.72 MB
