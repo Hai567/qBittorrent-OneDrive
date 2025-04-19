@@ -4413,3 +4413,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 12:57:36,856 - INFO - Uploading torrent: Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
 2025-04-19 12:57:36,856 - INFO - Starting upload: /home/user/Desktop/torrents/Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx] -> onedrive:Torrents/Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
 2025-04-19 12:57:36,857 - INFO - Uploading directory of size 1436.81 MB
+2025-04-19 13:01:02,441 - INFO - Successfully uploaded to onedrive:Torrents/Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-19 13:01:02,442 - INFO - Verifying upload for: Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-19 13:01:02,442 - INFO - Verifying upload: /home/user/Desktop/torrents/Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx] -> onedrive:Torrents/Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-19 13:01:04,265 - INFO - Upload verification successful for /home/user/Desktop/torrents/Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-19 13:01:04,270 - INFO - Deleting torrent from qBittorrent: Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-19 13:01:04,271 - INFO - Deleting torrent with hash 0068ff2f467714f1c97d61469aaf04c749196ada (delete_files=False)
+2025-04-19 13:01:04,281 - INFO - Successfully deleted torrent with hash 0068ff2f467714f1c97d61469aaf04c749196ada
+2025-04-19 13:01:04,282 - INFO - Deleting content files: Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-19 13:01:04,282 - INFO - Deleting content: /home/user/Desktop/torrents/Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-19 13:01:04,283 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-19 13:01:04,283 - INFO - Successfully processed torrent: Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG[TGx]
+2025-04-19 13:01:04,283 - INFO - Uploading torrent: Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 13:01:04,284 - INFO - Starting upload: /home/user/Desktop/torrents/Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 13:01:04,284 - INFO - Uploading directory of size 1436.33 MB
