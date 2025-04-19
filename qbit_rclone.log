@@ -3939,3 +3939,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 02:17:25,830 - INFO - Uploading torrent: Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 02:17:25,830 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 02:17:25,830 - INFO - Uploading directory of size 2966.70 MB
+2025-04-19 02:28:17,285 - INFO - Successfully uploaded to onedrive:Torrents/Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 02:28:17,285 - INFO - Verifying upload for: Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 02:28:17,285 - INFO - Verifying upload: /home/user/Desktop/torrents/Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 02:28:19,647 - INFO - Upload verification successful for /home/user/Desktop/torrents/Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 02:28:19,654 - INFO - Deleting torrent from qBittorrent: Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 02:28:19,654 - INFO - Deleting torrent with hash a3c6f308ad13d4f192db1e3cbc3a4d6c72ce30b0 (delete_files=False)
+2025-04-19 02:28:19,667 - INFO - Successfully deleted torrent with hash a3c6f308ad13d4f192db1e3cbc3a4d6c72ce30b0
+2025-04-19 02:28:19,667 - INFO - Deleting content files: Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 02:28:19,667 - INFO - Deleting content: /home/user/Desktop/torrents/Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 02:28:19,669 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 02:28:19,670 - INFO - Successfully processed torrent: Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 02:28:19,670 - INFO - Uploading torrent: Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 02:28:19,670 - INFO - Starting upload: /home/user/Desktop/torrents/Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 02:28:19,670 - INFO - Uploading directory of size 1842.02 MB
