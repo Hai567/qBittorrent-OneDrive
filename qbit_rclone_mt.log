@@ -1,1 +1,68 @@
 2025-04-19 23:04:03,816 - MainThread - INFO - Created default configuration file: config.json
+2025-04-19 16:09:55,039 - MainThread - INFO - Configuration file not found, creating default
+2025-04-19 16:09:55,039 - MainThread - INFO - Created default configuration file: multithreads_config.json
+2025-04-19 16:09:55,040 - MainThread - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-19 16:09:55,041 - MainThread - INFO - Created thread pool with 4 workers
+2025-04-19 16:09:55,122 - MainThread - INFO - Found onedrive remote in rclone configuration
+2025-04-19 16:09:55,127 - MainThread - INFO - Successfully logged in to qBittorrent
+2025-04-19 16:09:55,127 - MainThread - INFO - Starting multithreaded qBittorrent to OneDrive uploader service
+2025-04-19 16:09:55,128 - MainThread - INFO - Started task processor thread 1
+2025-04-19 16:09:55,128 - MainThread - INFO - Started task processor thread 2
+2025-04-19 16:09:55,129 - MainThread - INFO - Started task processor thread 3
+2025-04-19 16:09:55,129 - MainThread - INFO - Started task processor thread 4
+2025-04-19 16:09:55,129 - QBitMonitor - INFO - qBittorrent monitor thread started
+2025-04-19 16:09:55,129 - MainThread - INFO - Started qBittorrent monitor thread
+2025-04-19 16:09:55,134 - QBitMonitor - INFO - Found 6 completed torrents
+2025-04-19 16:09:55,134 - QBitMonitor - INFO - Analyzing 6 completed torrents for upload eligibility
+2025-04-19 16:10:29,533 - MainThread - INFO - Interrupted by user
+2025-04-19 16:10:29,533 - MainThread - INFO - Stopping manager threads...
+2025-04-19 16:10:29,533 - MainThread - INFO - Waiting for monitor thread to finish...
+2025-04-19 16:12:54,573 - MainThread - INFO - Loaded configuration from multithreads_config.json
+2025-04-19 16:12:54,574 - MainThread - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-19 16:12:54,580 - MainThread - INFO - Created thread pool with 4 workers
+2025-04-19 16:12:54,689 - MainThread - INFO - Found onedrive remote in rclone configuration
+2025-04-19 16:12:54,697 - MainThread - INFO - Successfully logged in to qBittorrent
+2025-04-19 16:12:54,697 - MainThread - INFO - Starting multithreaded qBittorrent to OneDrive uploader service
+2025-04-19 16:12:54,698 - MainThread - INFO - Started task processor thread 1
+2025-04-19 16:12:54,699 - MainThread - INFO - Started task processor thread 2
+2025-04-19 16:12:54,700 - MainThread - INFO - Started task processor thread 3
+2025-04-19 16:12:54,700 - MainThread - INFO - Started task processor thread 4
+2025-04-19 16:12:54,700 - QBitMonitor - INFO - qBittorrent monitor thread started
+2025-04-19 16:12:54,700 - MainThread - INFO - Started qBittorrent monitor thread
+2025-04-19 16:12:54,706 - QBitMonitor - INFO - Found 6 completed torrents
+2025-04-19 16:12:54,706 - QBitMonitor - INFO - Analyzing 6 completed torrents for upload eligibility
+2025-04-19 16:12:55,434 - MainThread - INFO - Interrupted by user
+2025-04-19 16:12:55,434 - MainThread - INFO - Stopping manager threads...
+2025-04-19 16:12:55,435 - MainThread - INFO - Waiting for monitor thread to finish...
+2025-04-19 16:14:04,865 - MainThread - INFO - Loaded configuration from multithreads_config.json
+2025-04-19 16:14:04,866 - MainThread - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-19 16:14:04,868 - MainThread - INFO - Created thread pool with 10 workers
+2025-04-19 16:14:04,964 - MainThread - INFO - Found onedrive remote in rclone configuration
+2025-04-19 16:14:04,969 - MainThread - INFO - Successfully logged in to qBittorrent
+2025-04-19 16:14:04,970 - MainThread - INFO - Starting multithreaded qBittorrent to OneDrive uploader service
+2025-04-19 16:14:04,970 - MainThread - INFO - Started task processor thread 1
+2025-04-19 16:14:04,971 - MainThread - INFO - Started task processor thread 2
+2025-04-19 16:14:04,971 - MainThread - INFO - Started task processor thread 3
+2025-04-19 16:14:04,972 - MainThread - INFO - Started task processor thread 4
+2025-04-19 16:14:04,972 - MainThread - INFO - Started task processor thread 5
+2025-04-19 16:14:04,972 - MainThread - INFO - Started task processor thread 6
+2025-04-19 16:14:04,973 - MainThread - INFO - Started task processor thread 7
+2025-04-19 16:14:04,973 - MainThread - INFO - Started task processor thread 8
+2025-04-19 16:14:04,974 - MainThread - INFO - Started task processor thread 9
+2025-04-19 16:14:04,974 - MainThread - INFO - Started task processor thread 10
+2025-04-19 16:14:04,975 - QBitMonitor - INFO - qBittorrent monitor thread started
+2025-04-19 16:14:04,975 - MainThread - INFO - Started qBittorrent monitor thread
+2025-04-19 16:14:04,980 - QBitMonitor - INFO - Found 8 completed torrents
+2025-04-19 16:14:04,980 - QBitMonitor - INFO - Analyzing 8 completed torrents for upload eligibility
+2025-04-19 16:14:04,981 - QBitMonitor - INFO - Enqueued upload task for torrent: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:14:04,981 - TaskProcessor-1 - INFO - Processing torrent: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:14:04,981 - QBitMonitor - INFO - Enqueued upload task for torrent: Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:14:04,981 - TaskProcessor-2 - INFO - Processing torrent: Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:14:04,981 - TaskProcessor-1 - INFO - Uploading torrent: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:14:04,982 - TaskProcessor-2 - INFO - Uploading torrent: Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:14:04,982 - TaskProcessor-1 - INFO - Checking if destination already exists: onedrive:Torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:14:04,982 - TaskProcessor-2 - INFO - Checking if destination already exists: onedrive:Torrents/Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:14:07,277 - TaskProcessor-1 - INFO - Starting upload: /home/user/Desktop/torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:14:07,277 - TaskProcessor-1 - INFO - Uploading directory of size 2498.42 MB
+2025-04-19 16:14:07,303 - TaskProcessor-2 - INFO - Starting upload: /home/user/Desktop/torrents/Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Raya And The Last Dragon (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 16:14:07,303 - TaskProcessor-2 - INFO - Uploading directory of size 2028.83 MB
