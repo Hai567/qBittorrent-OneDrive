@@ -3934,3 +3934,8 @@ OSError: [Errno 28] No space left on device
 2025-04-19 02:12:25,759 - INFO - Deleting content: /home/user/Desktop/torrents/The Great Wall (2016) [1080p] [YTS.AG]
 2025-04-19 02:12:25,760 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Great Wall (2016) [1080p] [YTS.AG]
 2025-04-19 02:12:25,760 - INFO - Successfully processed torrent: The Great Wall (2016) [1080p] [YTS.AG]
+2025-04-19 02:17:25,822 - INFO - Checking for completed torrents...
+2025-04-19 02:17:25,830 - INFO - Found 14 completed torrents
+2025-04-19 02:17:25,830 - INFO - Uploading torrent: Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 02:17:25,830 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Goblet Of Fire (2005) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 02:17:25,830 - INFO - Uploading directory of size 2966.70 MB
