@@ -3839,3 +3839,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 01:07:55,352 - INFO - Uploading torrent: Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
 2025-04-19 01:07:55,353 - INFO - Starting upload: /home/user/Desktop/torrents/Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv] -> onedrive:Torrents/Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
 2025-04-19 01:07:55,353 - INFO - Uploading directory of size 18498.06 MB
+2025-04-19 01:33:01,405 - INFO - Successfully uploaded to onedrive:Torrents/Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
+2025-04-19 01:33:01,406 - INFO - Verifying upload for: Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
+2025-04-19 01:33:01,406 - INFO - Verifying upload: /home/user/Desktop/torrents/Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv] -> onedrive:Torrents/Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
+2025-04-19 01:33:02,804 - INFO - Upload verification successful for /home/user/Desktop/torrents/Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
+2025-04-19 01:33:02,809 - INFO - Deleting torrent from qBittorrent: Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
+2025-04-19 01:33:02,810 - INFO - Deleting torrent with hash 8d7fea5c5b6252aa72801ca8df233c475162df20 (delete_files=False)
+2025-04-19 01:33:02,824 - INFO - Successfully deleted torrent with hash 8d7fea5c5b6252aa72801ca8df233c475162df20
+2025-04-19 01:33:02,825 - INFO - Deleting content files: Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
+2025-04-19 01:33:02,825 - INFO - Deleting content: /home/user/Desktop/torrents/Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
+2025-04-19 01:33:02,835 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
+2025-04-19 01:33:02,835 - INFO - Successfully processed torrent: Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]
+2025-04-19 01:33:02,836 - INFO - Uploading torrent: Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 01:33:02,836 - INFO - Starting upload: /home/user/Desktop/torrents/Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Despicable.Me.4.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 01:33:02,836 - INFO - Uploading directory of size 1434.72 MB
