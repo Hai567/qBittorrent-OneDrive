@@ -132,3 +132,10 @@
 2025-04-19 16:24:10,072 - TaskProcessor-2 - INFO - Successfully processed torrent: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
 2025-04-19 16:24:12,516 - TaskProcessor-6 - ERROR - Upload verification failed: 
 2025-04-19 16:24:12,516 - TaskProcessor-6 - ERROR - Upload verification failed for: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:29:05,828 - QBitMonitor - INFO - Found 7 completed torrents
+2025-04-19 16:29:05,828 - QBitMonitor - INFO - Analyzing 7 completed torrents for upload eligibility
+2025-04-19 16:29:05,828 - QBitMonitor - INFO - Checking 1 failed uploads for retry
+2025-04-19 16:29:05,828 - QBitMonitor - WARNING - Content no longer exists for failed upload: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:29:18,377 - MainThread - INFO - Interrupted by user
+2025-04-19 16:29:18,378 - MainThread - INFO - Stopping manager threads...
+2025-04-19 16:29:18,378 - MainThread - INFO - Waiting for monitor thread to finish...
