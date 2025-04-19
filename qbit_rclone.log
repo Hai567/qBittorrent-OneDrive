@@ -4261,3 +4261,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 06:02:33,491 - INFO - Uploading torrent: Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 06:02:33,491 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 06:02:33,491 - INFO - Uploading directory of size 1945.52 MB
+2025-04-19 06:14:23,440 - INFO - Successfully uploaded to onedrive:Torrents/Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:14:23,441 - INFO - Verifying upload for: Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:14:23,441 - INFO - Verifying upload: /home/user/Desktop/torrents/Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:14:24,762 - INFO - Upload verification successful for /home/user/Desktop/torrents/Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:14:24,768 - INFO - Deleting torrent from qBittorrent: Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:14:24,769 - INFO - Deleting torrent with hash c2c38ecee77d4845fe8e57ed3819b6b0a0eef077 (delete_files=False)
+2025-04-19 06:14:24,780 - INFO - Successfully deleted torrent with hash c2c38ecee77d4845fe8e57ed3819b6b0a0eef077
+2025-04-19 06:14:24,781 - INFO - Deleting content files: Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:14:24,781 - INFO - Deleting content: /home/user/Desktop/torrents/Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:14:24,783 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:14:24,783 - INFO - Successfully processed torrent: Harry Potter 20th Anniversary Return To Hogwarts (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:14:24,783 - INFO - Uploading torrent: The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:14:24,783 - INFO - Starting upload: /home/user/Desktop/torrents/The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Matrix Resurrections (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 06:14:24,783 - INFO - Uploading directory of size 2793.05 MB
