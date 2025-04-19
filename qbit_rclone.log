@@ -4219,3 +4219,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 05:29:55,222 - INFO - Uploading torrent: Terminator Salvation DIRECTORS CUT (2009) [1080p]
 2025-04-19 05:29:55,222 - INFO - Starting upload: /home/user/Desktop/torrents/Terminator Salvation DIRECTORS CUT (2009) [1080p] -> onedrive:Torrents/Terminator Salvation DIRECTORS CUT (2009) [1080p]
 2025-04-19 05:29:55,222 - INFO - Uploading directory of size 1641.30 MB
+2025-04-19 05:37:55,637 - INFO - Successfully uploaded to onedrive:Torrents/Terminator Salvation DIRECTORS CUT (2009) [1080p]
+2025-04-19 05:37:55,637 - INFO - Verifying upload for: Terminator Salvation DIRECTORS CUT (2009) [1080p]
+2025-04-19 05:37:55,637 - INFO - Verifying upload: /home/user/Desktop/torrents/Terminator Salvation DIRECTORS CUT (2009) [1080p] -> onedrive:Torrents/Terminator Salvation DIRECTORS CUT (2009) [1080p]
+2025-04-19 05:37:57,977 - INFO - Upload verification successful for /home/user/Desktop/torrents/Terminator Salvation DIRECTORS CUT (2009) [1080p]
+2025-04-19 05:37:57,984 - INFO - Deleting torrent from qBittorrent: Terminator Salvation DIRECTORS CUT (2009) [1080p]
+2025-04-19 05:37:57,985 - INFO - Deleting torrent with hash d9cdc859a739751d8104847acd1914ad5d8ba0f8 (delete_files=False)
+2025-04-19 05:37:57,994 - INFO - Successfully deleted torrent with hash d9cdc859a739751d8104847acd1914ad5d8ba0f8
+2025-04-19 05:37:57,994 - INFO - Deleting content files: Terminator Salvation DIRECTORS CUT (2009) [1080p]
+2025-04-19 05:37:57,994 - INFO - Deleting content: /home/user/Desktop/torrents/Terminator Salvation DIRECTORS CUT (2009) [1080p]
+2025-04-19 05:37:57,995 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Terminator Salvation DIRECTORS CUT (2009) [1080p]
+2025-04-19 05:37:57,995 - INFO - Successfully processed torrent: Terminator Salvation DIRECTORS CUT (2009) [1080p]
+2025-04-19 05:37:57,995 - INFO - Uploading torrent: Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 05:37:57,996 - INFO - Starting upload: /home/user/Desktop/torrents/Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 05:37:57,996 - INFO - Uploading directory of size 1814.19 MB
