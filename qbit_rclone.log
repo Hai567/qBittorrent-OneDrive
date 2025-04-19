@@ -3727,3 +3727,17 @@ OSError: [Errno 28] No space left on device
 2025-04-18 23:59:23,515 - INFO - Uploading torrent: Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 23:59:23,516 - INFO - Starting upload: /home/user/Desktop/torrents/Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-18 23:59:23,516 - INFO - Uploading directory of size 2171.85 MB
+2025-04-19 00:04:05,500 - INFO - Successfully uploaded to onedrive:Torrents/Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:04:05,500 - INFO - Verifying upload for: Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:04:05,500 - INFO - Verifying upload: /home/user/Desktop/torrents/Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:04:06,871 - INFO - Upload verification successful for /home/user/Desktop/torrents/Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:04:06,948 - INFO - Deleting torrent from qBittorrent: Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:04:06,948 - INFO - Deleting torrent with hash 7fd23fe2308ae558dcfdd687f3c94ae106ae835f (delete_files=False)
+2025-04-19 00:04:06,959 - INFO - Successfully deleted torrent with hash 7fd23fe2308ae558dcfdd687f3c94ae106ae835f
+2025-04-19 00:04:06,959 - INFO - Deleting content files: Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:04:06,959 - INFO - Deleting content: /home/user/Desktop/torrents/Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:04:06,963 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:04:06,963 - INFO - Successfully processed torrent: Free Guy (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:04:06,963 - INFO - Uploading torrent: Frozen (2013) [1080p]
+2025-04-19 00:04:06,963 - INFO - Starting upload: /home/user/Desktop/torrents/Frozen (2013) [1080p] -> onedrive:Torrents/Frozen (2013) [1080p]
+2025-04-19 00:04:06,963 - INFO - Uploading directory of size 1673.83 MB
