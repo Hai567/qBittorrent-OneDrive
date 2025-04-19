@@ -4347,3 +4347,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 07:25:22,459 - INFO - Uploading torrent: Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 07:25:22,459 - INFO - Starting upload: /home/user/Desktop/torrents/Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 07:25:22,459 - INFO - Uploading directory of size 2724.69 MB
+2025-04-19 07:34:54,520 - INFO - Successfully uploaded to onedrive:Torrents/Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:34:54,520 - INFO - Verifying upload for: Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:34:54,520 - INFO - Verifying upload: /home/user/Desktop/torrents/Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:34:56,288 - INFO - Upload verification successful for /home/user/Desktop/torrents/Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:34:56,293 - INFO - Deleting torrent from qBittorrent: Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:34:56,294 - INFO - Deleting torrent with hash f921c01b1d8bc2d5b1c13b1f03275c932ba1157e (delete_files=False)
+2025-04-19 07:34:56,305 - INFO - Successfully deleted torrent with hash f921c01b1d8bc2d5b1c13b1f03275c932ba1157e
+2025-04-19 07:34:56,305 - INFO - Deleting content files: Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:34:56,305 - INFO - Deleting content: /home/user/Desktop/torrents/Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:34:56,307 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:34:56,307 - INFO - Successfully processed torrent: Eternals (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 07:34:56,307 - INFO - Uploading torrent: Despicable Me (2010) [3D] [HSBS]
+2025-04-19 07:34:56,308 - INFO - Starting upload: /home/user/Desktop/torrents/Despicable Me (2010) [3D] [HSBS] -> onedrive:Torrents/Despicable Me (2010) [3D] [HSBS]
+2025-04-19 07:34:56,308 - INFO - Uploading directory of size 1431.15 MB
