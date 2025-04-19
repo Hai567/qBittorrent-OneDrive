@@ -4511,3 +4511,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 13:22:14,169 - INFO - Uploading torrent: Storks (2016) [1080p] [YTS.AG]
 2025-04-19 13:22:14,170 - INFO - Starting upload: /home/user/Desktop/torrents/Storks (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Storks (2016) [1080p] [YTS.AG]
 2025-04-19 13:22:14,170 - INFO - Uploading directory of size 1356.76 MB
+2025-04-19 13:25:13,004 - INFO - Successfully uploaded to onedrive:Torrents/Storks (2016) [1080p] [YTS.AG]
+2025-04-19 13:25:13,005 - INFO - Verifying upload for: Storks (2016) [1080p] [YTS.AG]
+2025-04-19 13:25:13,005 - INFO - Verifying upload: /home/user/Desktop/torrents/Storks (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Storks (2016) [1080p] [YTS.AG]
+2025-04-19 13:25:15,417 - INFO - Upload verification successful for /home/user/Desktop/torrents/Storks (2016) [1080p] [YTS.AG]
+2025-04-19 13:25:15,422 - INFO - Deleting torrent from qBittorrent: Storks (2016) [1080p] [YTS.AG]
+2025-04-19 13:25:15,422 - INFO - Deleting torrent with hash 7bb10ca92aeaa876a9cafa3bb622c9fd81025ed9 (delete_files=False)
+2025-04-19 13:25:15,432 - INFO - Successfully deleted torrent with hash 7bb10ca92aeaa876a9cafa3bb622c9fd81025ed9
+2025-04-19 13:25:15,432 - INFO - Deleting content files: Storks (2016) [1080p] [YTS.AG]
+2025-04-19 13:25:15,432 - INFO - Deleting content: /home/user/Desktop/torrents/Storks (2016) [1080p] [YTS.AG]
+2025-04-19 13:25:15,434 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Storks (2016) [1080p] [YTS.AG]
+2025-04-19 13:25:15,434 - INFO - Successfully processed torrent: Storks (2016) [1080p] [YTS.AG]
+2025-04-19 13:25:15,434 - INFO - Uploading torrent: Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:25:15,434 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:25:15,434 - INFO - Uploading directory of size 2610.00 MB
