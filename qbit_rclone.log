@@ -4441,3 +4441,31 @@ OSError: [Errno 28] No space left on device
 2025-04-19 13:04:47,007 - INFO - Uploading torrent: Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 13:04:47,007 - INFO - Starting upload: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 13:04:47,007 - INFO - Uploading directory of size 2052.65 MB
+2025-04-19 13:09:04,463 - INFO - Successfully uploaded to onedrive:Torrents/Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:09:04,463 - INFO - Verifying upload for: Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:09:04,463 - INFO - Verifying upload: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:09:07,085 - INFO - Upload verification successful for /home/user/Desktop/torrents/Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:09:07,090 - INFO - Deleting torrent from qBittorrent: Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:09:07,090 - INFO - Deleting torrent with hash 312cee2d7b936b004be5caf28717d6d7c4af1838 (delete_files=False)
+2025-04-19 13:09:07,102 - INFO - Successfully deleted torrent with hash 312cee2d7b936b004be5caf28717d6d7c4af1838
+2025-04-19 13:09:07,102 - INFO - Deleting content files: Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:09:07,102 - INFO - Deleting content: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:09:07,106 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:09:07,106 - INFO - Successfully processed torrent: Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:09:07,106 - INFO - Uploading torrent: Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 13:09:07,106 - INFO - Starting upload: /home/user/Desktop/torrents/Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx] -> onedrive:Torrents/Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 13:09:07,106 - INFO - Uploading directory of size 3361.69 MB
+2025-04-19 13:11:55,769 - INFO - Successfully uploaded to onedrive:Torrents/Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 13:11:55,770 - INFO - Verifying upload for: Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 13:11:55,770 - INFO - Verifying upload: /home/user/Desktop/torrents/Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx] -> onedrive:Torrents/Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 13:11:58,142 - INFO - Upload verification successful for /home/user/Desktop/torrents/Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 13:11:58,148 - INFO - Deleting torrent from qBittorrent: Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 13:11:58,148 - INFO - Deleting torrent with hash a315837a090b2277424f25139c268b483b5c5f5d (delete_files=False)
+2025-04-19 13:11:58,161 - INFO - Successfully deleted torrent with hash a315837a090b2277424f25139c268b483b5c5f5d
+2025-04-19 13:11:58,161 - INFO - Deleting content files: Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 13:11:58,161 - INFO - Deleting content: /home/user/Desktop/torrents/Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 13:11:58,165 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 13:11:58,165 - INFO - Successfully processed torrent: Lucifer.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+2025-04-19 13:11:58,165 - INFO - Uploading torrent: Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:11:58,165 - INFO - Starting upload: /home/user/Desktop/torrents/Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Minions More 1 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:11:58,166 - INFO - Uploading directory of size 919.03 MB
