@@ -3881,3 +3881,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 01:41:23,732 - INFO - Uploading torrent: Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
 2025-04-19 01:41:23,732 - INFO - Starting upload: /home/user/Desktop/torrents/Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
 2025-04-19 01:41:23,732 - INFO - Uploading directory of size 1974.63 MB
+2025-04-19 01:48:21,441 - INFO - Successfully uploaded to onedrive:Torrents/Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
+2025-04-19 01:48:21,442 - INFO - Verifying upload for: Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
+2025-04-19 01:48:21,442 - INFO - Verifying upload: /home/user/Desktop/torrents/Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
+2025-04-19 01:48:22,819 - INFO - Upload verification successful for /home/user/Desktop/torrents/Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
+2025-04-19 01:48:22,825 - INFO - Deleting torrent from qBittorrent: Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
+2025-04-19 01:48:22,826 - INFO - Deleting torrent with hash 64bc21fe3aa40a29c3875577acbfef2e1908910c (delete_files=False)
+2025-04-19 01:48:22,838 - INFO - Successfully deleted torrent with hash 64bc21fe3aa40a29c3875577acbfef2e1908910c
+2025-04-19 01:48:22,838 - INFO - Deleting content files: Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
+2025-04-19 01:48:22,838 - INFO - Deleting content: /home/user/Desktop/torrents/Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
+2025-04-19 01:48:22,839 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
+2025-04-19 01:48:22,839 - INFO - Successfully processed torrent: Miss Peregrine's Home For Peculiar Children (2016) [1080p] [YTS.AG]
+2025-04-19 01:48:22,839 - INFO - Uploading torrent: X-Men Origins Wolverine (2009) [1080p]
+2025-04-19 01:48:22,839 - INFO - Starting upload: /home/user/Desktop/torrents/X-Men Origins Wolverine (2009) [1080p] -> onedrive:Torrents/X-Men Origins Wolverine (2009) [1080p]
+2025-04-19 01:48:22,839 - INFO - Uploading directory of size 1383.61 MB
