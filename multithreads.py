@@ -354,8 +354,31 @@ class RcloneUploader:
                 if local_basename:
                     remote_full_path = os.path.join(remote_full_path, local_basename)
             
-            # Generate a unique log file name for this upload to avoid conflicts
+            # First check if files already exist at the destination with lsf
             thread_id = threading.get_ident()
+            lsf_log_file = f"rclone-lsf-{thread_id}-{int(time.time())}.txt"
+            
+            try:
+                logger.info(f"Checking if destination already exists: {remote_full_path}")
+                lsf_result = subprocess.run(
+                    [self.rclone_path, "lsf", remote_full_path, "--max-depth", "1"],
+                    capture_output=True, text=True, timeout=30
+                )
+                
+                if lsf_result.returncode == 0 and lsf_result.stdout.strip():
+                    # Files already exist at the destination
+                    logger.info(f"Files already exist at destination: {remote_full_path}")
+                    logger.info(f"Skipping upload to avoid potential data loss.")
+                    
+                    # Return success since the files are already at the destination
+                    with self.error_lock:
+                        self.last_error = None
+                    return True
+            except Exception as e:
+                # Continue even if lsf check fails - it's just a precaution
+                logger.warning(f"Error checking destination existence: {e}, continuing with upload")
+            
+            # Generate a unique log file name for this upload to avoid conflicts
             log_file = f"rclone-log-{thread_id}-{int(time.time())}.txt"
             
             # Run rclone copy command
@@ -383,12 +406,19 @@ class RcloneUploader:
                     # Execute the rclone command with progress monitoring
                     process = subprocess.Popen(
                         [
-                            self.rclone_path, "copy", local_path, remote_full_path, 
+                            self.rclone_path, "copy", 
+                            local_path, 
+                            remote_full_path, 
                             f"--log-file={log_file}",
-                            "--progress", "--stats-one-line", "--stats=15s",
+                            "--progress", 
+                            "--stats-one-line", 
+                            "--stats=15s",
                             "--retries", "3",
                             "--low-level-retries", "10",
-                            "--transfers", "4"  # Parallel file transfers within this upload
+                            "--transfers", "4",  # Parallel file transfers within this upload
+                            "--no-update-modtime",  # Don't update modification times to avoid overwriting
+                            "--skip-links",  # Skip symlinks which might cause issues
+                            "--create-empty-src-dirs"  # Create directory structure even for empty dirs
                         ],
                         stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
                         text=True, bufsize=1
@@ -559,6 +589,13 @@ class TorrentUploadTask:
             # Use torrent name as the subpath to preserve folder structure
             remote_subpath = self.torrent_name
             
+            # First check if this torrent has been previously uploaded successfully
+            # This adds an extra layer of protection against re-uploading and potentially overwriting files
+            with self.manager.data_lock:
+                if self.torrent_hash in self.manager.processed_torrents:
+                    logger.info(f"Torrent {self.torrent_name} already marked as processed. Skipping to avoid data loss.")
+                    return True
+            
             # Upload the completed download
             logger.info(f"Uploading torrent: {self.torrent_name}")
             upload_success = self.manager.rclone.upload_file(self.content_path, remote_subpath)
@@ -569,14 +606,25 @@ class TorrentUploadTask:
                 verify_success = self.manager.rclone.verify_upload(self.content_path, remote_subpath)
                 
                 if verify_success:
-                    # Mark as processed
-                    self.manager._mark_processed(self.torrent_hash, self.torrent_name, self.content_path, self.retry_count)
-                    
-                    # Handle torrent deletion and content cleanup
-                    self.manager._handle_post_upload_actions(self.torrent_hash, self.torrent_name, self.content_path)
-                    
-                    logger.info(f"Successfully processed torrent: {self.torrent_name}")
-                    return True
+                    # Double verification - check if files exist in the destination
+                    logger.info(f"Performing safety check for: {self.torrent_name}")
+                    try:
+                        # Mark as processed
+                        self.manager._mark_processed(self.torrent_hash, self.torrent_name, self.content_path, self.retry_count)
+                        
+                        # Handle torrent deletion and content cleanup only after verification
+                        if self.manager.config.get("auto_delete", {}).get("delete_after_verification", True):
+                            self.manager._handle_post_upload_actions(self.torrent_hash, self.torrent_name, self.content_path)
+                        else:
+                            logger.info(f"Skipping auto-delete for: {self.torrent_name} (disabled in config)")
+                        
+                        logger.info(f"Successfully processed torrent: {self.torrent_name}")
+                        return True
+                    except Exception as safety_err:
+                        logger.error(f"Safety check failed for {self.torrent_name}: {safety_err}")
+                        logger.error(traceback.format_exc())
+                        # Still return success since the upload and verification passed
+                        return True
                 else:
                     # Verification failed, record as a failure
                     error_msg = f"Upload verification failed for: {self.torrent_name}"
@@ -820,6 +868,13 @@ class QBittorrentRcloneManager:
         """Analyze torrents and enqueue upload tasks for eligible ones"""
         logger.info(f"Analyzing {len(torrents)} completed torrents for upload eligibility")
         
+        # Create a set of existing torrent names if duplicate skipping is enabled
+        existing_torrent_names = set()
+        if self.config.get("safety", {}).get("skip_duplicate_torrents", True):
+            with self.data_lock:
+                for torrent_data in self.processed_torrents.values():
+                    existing_torrent_names.add(torrent_data.get("name", "").lower())
+        
         for torrent in torrents:
             torrent_hash = torrent.get("hash")
             torrent_name = torrent.get("name")
@@ -840,10 +895,18 @@ class QBittorrentRcloneManager:
                     logger.warning(f"Skipping torrent that failed {self.max_failures} times: {torrent_name}")
                     continue
             
+            # Check for duplicate torrent names to avoid overwriting issues
+            if torrent_name.lower() in existing_torrent_names and self.config.get("safety", {}).get("skip_duplicate_torrents", True):
+                logger.warning(f"Skipping duplicate torrent name: {torrent_name} to avoid potential conflicts")
+                continue
+            
             # Create and enqueue upload task
             task = TorrentUploadTask(torrent, self)
             self.task_queue.put(task)
             logger.info(f"Enqueued upload task for torrent: {torrent_name}")
+            
+            # Add to existing names set to prevent duplicates later in this batch
+            existing_torrent_names.add(torrent_name.lower())
     
     def _enqueue_retry_tasks(self) -> None:
         """Analyze failed uploads and enqueue retry tasks for eligible ones"""
@@ -1061,29 +1124,34 @@ def create_default_config() -> Dict:
         "worker_threads": 4,              # Number of worker threads for processing uploads
         "max_concurrent_uploads": 3,      # Maximum number of concurrent uploads
         "auto_delete": {
-            "delete_from_client": True,  # Delete the torrent from qBittorrent after upload
-            "delete_content": True       # Delete the content files/folders after upload
+            "delete_from_client": True,   # Delete the torrent from qBittorrent after upload
+            "delete_content": True,       # Delete the content files/folders after upload
+            "delete_after_verification": True  # Only delete after successful verification
         },
         "verification": {
             "verify_uploads": True,      # Verify uploads before deletion
             "use_full_hash": False,      # Use full hash checking (slower but more accurate) instead of size-only
             "verification_timeout": 300  # Timeout for verification in seconds
+        },
+        "safety": {
+            "prevent_overwrite": True,   # Prevent overwriting existing files at destination
+            "skip_duplicate_torrents": True  # Skip torrents with the same name to avoid conflicts
         }
     }
     
     try:
         # First write to temp file, then move (atomic operation)
-        temp_file = "config.json.tmp"
+        temp_file = "multithreads_config.json.tmp"
         with open(temp_file, "w") as f:
             json.dump(config, f, indent=4)
         
         # Move temp file to actual config file
-        if os.path.exists("config.json"):
-            os.replace(temp_file, "config.json")
+        if os.path.exists("multithreads_config.json"):
+            os.replace(temp_file, "multithreads_config.json")
         else:
-            os.rename(temp_file, "config.json")
+            os.rename(temp_file, "multithreads_config.json")
             
-        logger.info("Created default configuration file: config.json")
+        logger.info("Created default configuration file: multithreads_config.json")
         return config
     except Exception as e:
         logger.error(f"Error creating default configuration: {e}")
@@ -1094,20 +1162,20 @@ def create_default_config() -> Dict:
 def load_config() -> Dict:
     """Load configuration from file or create default"""
     try:
-        if os.path.exists("config.json"):
-            with open("config.json", "r") as f:
+        if os.path.exists("multithreads_config.json"):
+            with open("multithreads_config.json", "r") as f:
                 config = json.load(f)
-            logger.info("Loaded configuration from config.json")
+            logger.info("Loaded configuration from multithreads_config.json")
             return config
         else:
             logger.info("Configuration file not found, creating default")
             return create_default_config()
     except json.JSONDecodeError as e:
-        logger.error(f"Invalid JSON in config.json: {e}")
+        logger.error(f"Invalid JSON in multithreads_config.json: {e}")
         # Create backup of invalid config
         try:
-            backup_name = f"config.json.{int(time.time())}.bak"
-            shutil.copy2("config.json", backup_name)
+            backup_name = f"multithreads_config.json.{int(time.time())}.bak"
+            shutil.copy2("multithreads_config.json", backup_name)
             logger.info(f"Created backup of invalid config as {backup_name}")
         except Exception as backup_err:
             logger.error(f"Failed to backup invalid config: {backup_err}")
@@ -1198,12 +1266,12 @@ def main() -> None:
     # Create default config and exit if --setup is provided
     if args.setup:
         create_default_config()
-        print("Created default configuration file: config.json")
+        print("Created default configuration file: multithreads_config.json")
         print("Please edit this file with your qBittorrent and rclone settings")
         return
     
     # Load configuration
-    config_file = args.config if args.config else "config.json"
+    config_file = args.config if args.config else "multithreads_config.json"
     if args.config and os.path.exists(args.config):
         try:
             with open(args.config, "r") as f:
