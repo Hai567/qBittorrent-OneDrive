@@ -3752,3 +3752,5 @@ OSError: [Errno 28] No space left on device
 2025-04-19 00:06:44,142 - INFO - Deleting content: /home/user/Desktop/torrents/Frozen (2013) [1080p]
 2025-04-19 00:06:44,143 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Frozen (2013) [1080p]
 2025-04-19 00:06:44,143 - INFO - Successfully processed torrent: Frozen (2013) [1080p]
+2025-04-19 00:11:44,174 - INFO - Checking for completed torrents...
+2025-04-19 00:11:44,179 - INFO - Found 3 completed torrents
