@@ -108,3 +108,27 @@
 2025-04-19 16:19:26,332 - TaskProcessor-1 - INFO - Deleting content: /home/user/Desktop/torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 16:19:26,333 - TaskProcessor-1 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 16:19:26,334 - TaskProcessor-1 - INFO - Successfully processed torrent: Shang-Chi And The Legend Of The Ten Rings (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 16:24:05,552 - QBitMonitor - INFO - Found 8 completed torrents
+2025-04-19 16:24:05,552 - QBitMonitor - INFO - Analyzing 8 completed torrents for upload eligibility
+2025-04-19 16:24:05,553 - QBitMonitor - INFO - Enqueued upload task for torrent: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:05,553 - TaskProcessor-2 - INFO - Processing torrent: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:05,553 - TaskProcessor-2 - INFO - Uploading torrent: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:05,553 - TaskProcessor-2 - INFO - Checking if destination already exists: onedrive:Torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:07,783 - TaskProcessor-2 - INFO - Files already exist at destination: onedrive:Torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:07,783 - TaskProcessor-2 - INFO - Skipping upload to avoid potential data loss.
+2025-04-19 16:24:07,783 - TaskProcessor-2 - INFO - Verifying upload for: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:07,783 - TaskProcessor-2 - INFO - Verifying upload: /home/user/Desktop/torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:09,474 - TaskProcessor-6 - INFO - Successfully uploaded to onedrive:Torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:09,474 - TaskProcessor-6 - INFO - Verifying upload for: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:09,475 - TaskProcessor-6 - INFO - Verifying upload: /home/user/Desktop/torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:10,052 - TaskProcessor-2 - INFO - Upload verification successful for /home/user/Desktop/torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:10,053 - TaskProcessor-2 - INFO - Performing safety check for: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:10,059 - TaskProcessor-2 - INFO - Deleting torrent from qBittorrent: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:10,059 - TaskProcessor-2 - INFO - Deleting torrent with hash 6c7842fc3aa1c66f91812cc398c0edba92f941f3 (delete_files=False)
+2025-04-19 16:24:10,070 - TaskProcessor-2 - INFO - Successfully deleted torrent with hash 6c7842fc3aa1c66f91812cc398c0edba92f941f3
+2025-04-19 16:24:10,070 - TaskProcessor-2 - INFO - Deleting content files: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:10,070 - TaskProcessor-2 - INFO - Deleting content: /home/user/Desktop/torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:10,071 - TaskProcessor-2 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:10,072 - TaskProcessor-2 - INFO - Successfully processed torrent: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 16:24:12,516 - TaskProcessor-6 - ERROR - Upload verification failed: 
+2025-04-19 16:24:12,516 - TaskProcessor-6 - ERROR - Upload verification failed for: Top Gun Maverick (2022) [1080p] [WEBRip] [YTS.MX]
