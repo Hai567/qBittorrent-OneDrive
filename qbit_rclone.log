@@ -4081,3 +4081,13 @@ OSError: [Errno 28] No space left on device
 2025-04-19 03:38:04,430 - INFO - Uploading torrent: The Martian (2015) [3D] [HSBS] [YTS.AG]
 2025-04-19 03:38:04,430 - INFO - Starting upload: /home/user/Desktop/torrents/The Martian (2015) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/The Martian (2015) [3D] [HSBS] [YTS.AG]
 2025-04-19 03:38:04,430 - INFO - Uploading directory of size 2215.09 MB
+2025-04-19 03:55:44,447 - INFO - Loaded configuration from config.json
+2025-04-19 03:55:44,448 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-19 03:55:44,531 - INFO - Found onedrive remote in rclone configuration
+2025-04-19 03:55:44,537 - INFO - Successfully logged in to qBittorrent
+2025-04-19 03:55:44,537 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-19 03:55:44,537 - INFO - Checking for completed torrents...
+2025-04-19 03:55:44,541 - INFO - Found 9 completed torrents
+2025-04-19 03:55:44,541 - INFO - Uploading torrent: Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
+2025-04-19 03:55:44,542 - INFO - Starting upload: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv -> onedrive:Torrents/Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
+2025-04-19 03:55:44,542 - INFO - Uploading file of size 1567.53 MB
