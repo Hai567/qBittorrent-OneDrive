@@ -3895,3 +3895,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 01:48:22,839 - INFO - Uploading torrent: X-Men Origins Wolverine (2009) [1080p]
 2025-04-19 01:48:22,839 - INFO - Starting upload: /home/user/Desktop/torrents/X-Men Origins Wolverine (2009) [1080p] -> onedrive:Torrents/X-Men Origins Wolverine (2009) [1080p]
 2025-04-19 01:48:22,839 - INFO - Uploading directory of size 1383.61 MB
+2025-04-19 01:53:28,860 - INFO - Successfully uploaded to onedrive:Torrents/X-Men Origins Wolverine (2009) [1080p]
+2025-04-19 01:53:28,860 - INFO - Verifying upload for: X-Men Origins Wolverine (2009) [1080p]
+2025-04-19 01:53:28,860 - INFO - Verifying upload: /home/user/Desktop/torrents/X-Men Origins Wolverine (2009) [1080p] -> onedrive:Torrents/X-Men Origins Wolverine (2009) [1080p]
+2025-04-19 01:53:31,613 - INFO - Upload verification successful for /home/user/Desktop/torrents/X-Men Origins Wolverine (2009) [1080p]
+2025-04-19 01:53:31,617 - INFO - Deleting torrent from qBittorrent: X-Men Origins Wolverine (2009) [1080p]
+2025-04-19 01:53:31,617 - INFO - Deleting torrent with hash 6b586abefdb2efaf2f125103bde1e7665742f059 (delete_files=False)
+2025-04-19 01:53:31,631 - INFO - Successfully deleted torrent with hash 6b586abefdb2efaf2f125103bde1e7665742f059
+2025-04-19 01:53:31,631 - INFO - Deleting content files: X-Men Origins Wolverine (2009) [1080p]
+2025-04-19 01:53:31,631 - INFO - Deleting content: /home/user/Desktop/torrents/X-Men Origins Wolverine (2009) [1080p]
+2025-04-19 01:53:31,632 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/X-Men Origins Wolverine (2009) [1080p]
+2025-04-19 01:53:31,632 - INFO - Successfully processed torrent: X-Men Origins Wolverine (2009) [1080p]
+2025-04-19 01:53:31,632 - INFO - Uploading torrent: Solo A Star Wars Story (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 01:53:31,632 - INFO - Starting upload: /home/user/Desktop/torrents/Solo A Star Wars Story (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Solo A Star Wars Story (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 01:53:31,633 - INFO - Uploading directory of size 2222.16 MB
