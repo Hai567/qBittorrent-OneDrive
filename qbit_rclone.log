@@ -3995,3 +3995,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 02:52:52,901 - INFO - Uploading torrent: Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
 2025-04-19 02:52:52,901 - INFO - Starting upload: /home/user/Desktop/torrents/Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX] -> onedrive:Torrents/Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
 2025-04-19 02:52:52,901 - INFO - Uploading directory of size 2183.36 MB
+2025-04-19 03:04:59,977 - INFO - Successfully uploaded to onedrive:Torrents/Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-19 03:04:59,977 - INFO - Verifying upload for: Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-19 03:04:59,977 - INFO - Verifying upload: /home/user/Desktop/torrents/Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX] -> onedrive:Torrents/Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-19 03:05:02,212 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-19 03:05:02,217 - INFO - Deleting torrent from qBittorrent: Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-19 03:05:02,218 - INFO - Deleting torrent with hash ef1cfaf8c9968e0ad90f79e7ec236c0c90eb3032 (delete_files=False)
+2025-04-19 03:05:02,227 - INFO - Successfully deleted torrent with hash ef1cfaf8c9968e0ad90f79e7ec236c0c90eb3032
+2025-04-19 03:05:02,228 - INFO - Deleting content files: Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-19 03:05:02,228 - INFO - Deleting content: /home/user/Desktop/torrents/Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-19 03:05:02,229 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-19 03:05:02,229 - INFO - Successfully processed torrent: Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-19 03:05:02,229 - INFO - Uploading torrent: Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
+2025-04-19 03:05:02,230 - INFO - Starting upload: /home/user/Desktop/torrents/Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX] -> onedrive:Torrents/Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
+2025-04-19 03:05:02,230 - INFO - Uploading directory of size 866.57 MB
