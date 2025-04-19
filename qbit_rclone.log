@@ -3953,3 +3953,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 02:28:19,670 - INFO - Uploading torrent: Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
 2025-04-19 02:28:19,670 - INFO - Starting upload: /home/user/Desktop/torrents/Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
 2025-04-19 02:28:19,670 - INFO - Uploading directory of size 1842.02 MB
+2025-04-19 02:32:07,408 - INFO - Successfully uploaded to onedrive:Torrents/Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 02:32:07,408 - INFO - Verifying upload for: Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 02:32:07,408 - INFO - Verifying upload: /home/user/Desktop/torrents/Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 02:32:10,783 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 02:32:10,853 - INFO - Deleting torrent from qBittorrent: Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 02:32:10,853 - INFO - Deleting torrent with hash 9c7a49095c405310fa2001cd2038fe2979e9c2d6 (delete_files=False)
+2025-04-19 02:32:10,865 - INFO - Successfully deleted torrent with hash 9c7a49095c405310fa2001cd2038fe2979e9c2d6
+2025-04-19 02:32:10,865 - INFO - Deleting content files: Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 02:32:10,866 - INFO - Deleting content: /home/user/Desktop/torrents/Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 02:32:10,866 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 02:32:10,867 - INFO - Successfully processed torrent: Ralph Breaks The Internet (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-19 02:32:10,867 - INFO - Uploading torrent: Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 02:32:10,867 - INFO - Starting upload: /home/user/Desktop/torrents/Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Jungle Cruise (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 02:32:10,867 - INFO - Uploading directory of size 2404.31 MB
