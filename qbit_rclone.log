@@ -3823,3 +3823,14 @@ OSError: [Errno 28] No space left on device
 2025-04-19 00:59:00,300 - INFO - Uploading torrent: The Accountant (2016) [1080p] [YTS.AG]
 2025-04-19 00:59:00,300 - INFO - Starting upload: /home/user/Desktop/torrents/The Accountant (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Accountant (2016) [1080p] [YTS.AG]
 2025-04-19 00:59:00,300 - INFO - Uploading directory of size 1995.43 MB
+2025-04-19 01:02:53,986 - INFO - Successfully uploaded to onedrive:Torrents/The Accountant (2016) [1080p] [YTS.AG]
+2025-04-19 01:02:53,986 - INFO - Verifying upload for: The Accountant (2016) [1080p] [YTS.AG]
+2025-04-19 01:02:53,986 - INFO - Verifying upload: /home/user/Desktop/torrents/The Accountant (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Accountant (2016) [1080p] [YTS.AG]
+2025-04-19 01:02:55,325 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Accountant (2016) [1080p] [YTS.AG]
+2025-04-19 01:02:55,330 - INFO - Deleting torrent from qBittorrent: The Accountant (2016) [1080p] [YTS.AG]
+2025-04-19 01:02:55,330 - INFO - Deleting torrent with hash defa7d8218baa4f3b0f54a7a7619911d83b11607 (delete_files=False)
+2025-04-19 01:02:55,341 - INFO - Successfully deleted torrent with hash defa7d8218baa4f3b0f54a7a7619911d83b11607
+2025-04-19 01:02:55,341 - INFO - Deleting content files: The Accountant (2016) [1080p] [YTS.AG]
+2025-04-19 01:02:55,341 - INFO - Deleting content: /home/user/Desktop/torrents/The Accountant (2016) [1080p] [YTS.AG]
+2025-04-19 01:02:55,342 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Accountant (2016) [1080p] [YTS.AG]
+2025-04-19 01:02:55,343 - INFO - Successfully processed torrent: The Accountant (2016) [1080p] [YTS.AG]
