@@ -4205,3 +4205,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 05:26:00,433 - INFO - Uploading torrent: Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 05:26:00,433 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 05:26:00,434 - INFO - Uploading directory of size 408.18 MB
+2025-04-19 05:29:52,959 - INFO - Successfully uploaded to onedrive:Torrents/Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 05:29:52,959 - INFO - Verifying upload for: Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 05:29:52,959 - INFO - Verifying upload: /home/user/Desktop/torrents/Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 05:29:55,206 - INFO - Upload verification successful for /home/user/Desktop/torrents/Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 05:29:55,212 - INFO - Deleting torrent from qBittorrent: Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 05:29:55,212 - INFO - Deleting torrent with hash 22dab9d39b827e6aa99c813d0f21a1ec38366fd0 (delete_files=False)
+2025-04-19 05:29:55,221 - INFO - Successfully deleted torrent with hash 22dab9d39b827e6aa99c813d0f21a1ec38366fd0
+2025-04-19 05:29:55,221 - INFO - Deleting content files: Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 05:29:55,221 - INFO - Deleting content: /home/user/Desktop/torrents/Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 05:29:55,222 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 05:29:55,222 - INFO - Successfully processed torrent: Toy Story That Time Forgot (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 05:29:55,222 - INFO - Uploading torrent: Terminator Salvation DIRECTORS CUT (2009) [1080p]
+2025-04-19 05:29:55,222 - INFO - Starting upload: /home/user/Desktop/torrents/Terminator Salvation DIRECTORS CUT (2009) [1080p] -> onedrive:Torrents/Terminator Salvation DIRECTORS CUT (2009) [1080p]
+2025-04-19 05:29:55,222 - INFO - Uploading directory of size 1641.30 MB
