@@ -4163,3 +4163,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 04:51:18,894 - INFO - Uploading torrent: X-Men 2 (2003) [1080p]
 2025-04-19 04:51:18,894 - INFO - Starting upload: /home/user/Desktop/torrents/X-Men 2 (2003) [1080p] -> onedrive:Torrents/X-Men 2 (2003) [1080p]
 2025-04-19 04:51:18,894 - INFO - Uploading directory of size 1532.38 MB
+2025-04-19 05:02:53,553 - INFO - Successfully uploaded to onedrive:Torrents/X-Men 2 (2003) [1080p]
+2025-04-19 05:02:53,553 - INFO - Verifying upload for: X-Men 2 (2003) [1080p]
+2025-04-19 05:02:53,553 - INFO - Verifying upload: /home/user/Desktop/torrents/X-Men 2 (2003) [1080p] -> onedrive:Torrents/X-Men 2 (2003) [1080p]
+2025-04-19 05:02:56,254 - INFO - Upload verification successful for /home/user/Desktop/torrents/X-Men 2 (2003) [1080p]
+2025-04-19 05:02:56,260 - INFO - Deleting torrent from qBittorrent: X-Men 2 (2003) [1080p]
+2025-04-19 05:02:56,260 - INFO - Deleting torrent with hash 399aac78b84292a55f299a0f73fc8d159a73a92b (delete_files=False)
+2025-04-19 05:02:56,268 - INFO - Successfully deleted torrent with hash 399aac78b84292a55f299a0f73fc8d159a73a92b
+2025-04-19 05:02:56,269 - INFO - Deleting content files: X-Men 2 (2003) [1080p]
+2025-04-19 05:02:56,269 - INFO - Deleting content: /home/user/Desktop/torrents/X-Men 2 (2003) [1080p]
+2025-04-19 05:02:56,270 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/X-Men 2 (2003) [1080p]
+2025-04-19 05:02:56,270 - INFO - Successfully processed torrent: X-Men 2 (2003) [1080p]
+2025-04-19 05:02:56,270 - INFO - Uploading torrent: Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:02:56,270 - INFO - Starting upload: /home/user/Desktop/torrents/Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx] -> onedrive:Torrents/Lucifer.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 05:02:56,271 - INFO - Uploading directory of size 7861.90 MB
