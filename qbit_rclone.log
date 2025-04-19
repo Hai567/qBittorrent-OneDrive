@@ -4525,3 +4525,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 13:25:15,434 - INFO - Uploading torrent: Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 13:25:15,434 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-19 13:25:15,434 - INFO - Uploading directory of size 2610.00 MB
+2025-04-19 13:31:10,101 - INFO - Successfully uploaded to onedrive:Torrents/Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:31:10,102 - INFO - Verifying upload for: Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:31:10,102 - INFO - Verifying upload: /home/user/Desktop/torrents/Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:31:12,450 - INFO - Upload verification successful for /home/user/Desktop/torrents/Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:31:12,456 - INFO - Deleting torrent from qBittorrent: Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:31:12,456 - INFO - Deleting torrent with hash 4627ce4d29d41d8d04113868f14f85216d7bc6df (delete_files=False)
+2025-04-19 13:31:12,467 - INFO - Successfully deleted torrent with hash 4627ce4d29d41d8d04113868f14f85216d7bc6df
+2025-04-19 13:31:12,467 - INFO - Deleting content files: Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:31:12,467 - INFO - Deleting content: /home/user/Desktop/torrents/Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:31:12,471 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:31:12,471 - INFO - Successfully processed torrent: Harry Potter And The Order Of The Phoenix (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:31:12,471 - INFO - Uploading torrent: Sonic The Hedgehog 2 (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:31:12,471 - INFO - Starting upload: /home/user/Desktop/torrents/Sonic The Hedgehog 2 (2022) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Sonic The Hedgehog 2 (2022) [1080p] [WEBRip] [YTS.MX]
+2025-04-19 13:31:12,471 - INFO - Uploading directory of size 2077.32 MB
