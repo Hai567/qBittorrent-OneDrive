@@ -4091,3 +4091,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 03:55:44,541 - INFO - Uploading torrent: Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
 2025-04-19 03:55:44,542 - INFO - Starting upload: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv -> onedrive:Torrents/Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
 2025-04-19 03:55:44,542 - INFO - Uploading file of size 1567.53 MB
+2025-04-19 03:58:12,153 - INFO - Successfully uploaded to onedrive:Torrents/Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
+2025-04-19 03:58:12,153 - INFO - Verifying upload for: Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
+2025-04-19 03:58:12,153 - INFO - Verifying upload: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv -> onedrive:Torrents/Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
+2025-04-19 03:58:13,525 - INFO - Upload verification successful for /home/user/Desktop/torrents/Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
+2025-04-19 03:58:13,548 - INFO - Deleting torrent from qBittorrent: Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
+2025-04-19 03:58:13,548 - INFO - Deleting torrent with hash 29a58ec50585f1737987d424cbd5d536ff274073 (delete_files=False)
+2025-04-19 03:58:13,557 - INFO - Successfully deleted torrent with hash 29a58ec50585f1737987d424cbd5d536ff274073
+2025-04-19 03:58:13,557 - INFO - Deleting content files: Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
+2025-04-19 03:58:13,557 - INFO - Deleting content: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
+2025-04-19 03:58:13,558 - INFO - Successfully deleted file: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
+2025-04-19 03:58:13,558 - INFO - Successfully processed torrent: Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1 BONE.mkv
+2025-04-19 03:58:13,558 - INFO - Uploading torrent: Lucifer.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 03:58:13,559 - INFO - Starting upload: /home/user/Desktop/torrents/Lucifer.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx] -> onedrive:Torrents/Lucifer.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]
+2025-04-19 03:58:13,559 - INFO - Uploading directory of size 5638.82 MB
