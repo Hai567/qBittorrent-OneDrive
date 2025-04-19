@@ -4427,3 +4427,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 13:01:04,283 - INFO - Uploading torrent: Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-19 13:01:04,284 - INFO - Starting upload: /home/user/Desktop/torrents/Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-19 13:01:04,284 - INFO - Uploading directory of size 1436.33 MB
+2025-04-19 13:04:44,670 - INFO - Successfully uploaded to onedrive:Torrents/Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 13:04:44,671 - INFO - Verifying upload for: Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 13:04:44,671 - INFO - Verifying upload: /home/user/Desktop/torrents/Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 13:04:46,985 - INFO - Upload verification successful for /home/user/Desktop/torrents/Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 13:04:46,993 - INFO - Deleting torrent from qBittorrent: Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 13:04:46,993 - INFO - Deleting torrent with hash dd7bc606001328063a8f6ccf6114140db3a0835b (delete_files=False)
+2025-04-19 13:04:47,004 - INFO - Successfully deleted torrent with hash dd7bc606001328063a8f6ccf6114140db3a0835b
+2025-04-19 13:04:47,004 - INFO - Deleting content files: Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 13:04:47,004 - INFO - Deleting content: /home/user/Desktop/torrents/Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 13:04:47,007 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 13:04:47,007 - INFO - Successfully processed torrent: Venom.Let.There.Be.Carnage.2021.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 13:04:47,007 - INFO - Uploading torrent: Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:04:47,007 - INFO - Starting upload: /home/user/Desktop/torrents/Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon The Movie Nobitas Little Star Wars 2021 (2022) [JAPANESE] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 13:04:47,007 - INFO - Uploading directory of size 2052.65 MB
