@@ -4065,3 +4065,14 @@ OSError: [Errno 28] No space left on device
 2025-04-19 03:29:46,792 - INFO - Uploading torrent: Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 03:29:46,792 - INFO - Starting upload: /home/user/Desktop/torrents/Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 03:29:46,792 - INFO - Uploading directory of size 1003.25 MB
+2025-04-19 03:33:01,662 - INFO - Successfully uploaded to onedrive:Torrents/Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 03:33:01,662 - INFO - Verifying upload for: Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 03:33:01,663 - INFO - Verifying upload: /home/user/Desktop/torrents/Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 03:33:04,281 - INFO - Upload verification successful for /home/user/Desktop/torrents/Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 03:33:04,308 - INFO - Deleting torrent from qBittorrent: Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 03:33:04,308 - INFO - Deleting torrent with hash 8e0ba8a2e629832b5dbe2276b719284e1e47f98d (delete_files=False)
+2025-04-19 03:33:04,319 - INFO - Successfully deleted torrent with hash 8e0ba8a2e629832b5dbe2276b719284e1e47f98d
+2025-04-19 03:33:04,320 - INFO - Deleting content files: Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 03:33:04,320 - INFO - Deleting content: /home/user/Desktop/torrents/Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 03:33:04,323 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 03:33:04,324 - INFO - Successfully processed torrent: Minions More 2 (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
