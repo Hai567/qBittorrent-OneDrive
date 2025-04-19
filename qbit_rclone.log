@@ -3795,3 +3795,31 @@ OSError: [Errno 28] No space left on device
 2025-04-19 00:47:42,605 - INFO - Uploading torrent: Glass (2019) [WEBRip] [1080p] [YTS.AM]
 2025-04-19 00:47:42,606 - INFO - Starting upload: /home/user/Desktop/torrents/Glass (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Glass (2019) [WEBRip] [1080p] [YTS.AM]
 2025-04-19 00:47:42,606 - INFO - Uploading directory of size 2124.02 MB
+2025-04-19 00:56:08,952 - INFO - Successfully uploaded to onedrive:Torrents/Glass (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 00:56:08,952 - INFO - Verifying upload for: Glass (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 00:56:08,952 - INFO - Verifying upload: /home/user/Desktop/torrents/Glass (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Glass (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 00:56:10,303 - INFO - Upload verification successful for /home/user/Desktop/torrents/Glass (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 00:56:10,361 - INFO - Deleting torrent from qBittorrent: Glass (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 00:56:10,361 - INFO - Deleting torrent with hash 3a21339534a738627588394bba97a916daf79ac9 (delete_files=False)
+2025-04-19 00:56:10,373 - INFO - Successfully deleted torrent with hash 3a21339534a738627588394bba97a916daf79ac9
+2025-04-19 00:56:10,373 - INFO - Deleting content files: Glass (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 00:56:10,373 - INFO - Deleting content: /home/user/Desktop/torrents/Glass (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 00:56:10,375 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Glass (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 00:56:10,375 - INFO - Successfully processed torrent: Glass (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 00:56:10,375 - INFO - Uploading torrent: Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:56:10,375 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:56:10,375 - INFO - Uploading directory of size 408.00 MB
+2025-04-19 00:58:58,682 - INFO - Successfully uploaded to onedrive:Torrents/Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:58:58,683 - INFO - Verifying upload for: Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:58:58,683 - INFO - Verifying upload: /home/user/Desktop/torrents/Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:59:00,281 - INFO - Upload verification successful for /home/user/Desktop/torrents/Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:59:00,287 - INFO - Deleting torrent from qBittorrent: Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:59:00,287 - INFO - Deleting torrent with hash 0825b15c69535e78e61f8cfd8144473ba83e224d (delete_files=False)
+2025-04-19 00:59:00,298 - INFO - Successfully deleted torrent with hash 0825b15c69535e78e61f8cfd8144473ba83e224d
+2025-04-19 00:59:00,299 - INFO - Deleting content files: Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:59:00,299 - INFO - Deleting content: /home/user/Desktop/torrents/Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:59:00,300 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:59:00,300 - INFO - Successfully processed torrent: Toy Story Of Terror (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 00:59:00,300 - INFO - Uploading torrent: The Accountant (2016) [1080p] [YTS.AG]
+2025-04-19 00:59:00,300 - INFO - Starting upload: /home/user/Desktop/torrents/The Accountant (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Accountant (2016) [1080p] [YTS.AG]
+2025-04-19 00:59:00,300 - INFO - Uploading directory of size 1995.43 MB
