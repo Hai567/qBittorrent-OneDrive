@@ -4009,3 +4009,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 03:05:02,229 - INFO - Uploading torrent: Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
 2025-04-19 03:05:02,230 - INFO - Starting upload: /home/user/Desktop/torrents/Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX] -> onedrive:Torrents/Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
 2025-04-19 03:05:02,230 - INFO - Uploading directory of size 866.57 MB
+2025-04-19 03:09:46,200 - INFO - Successfully uploaded to onedrive:Torrents/Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
+2025-04-19 03:09:46,200 - INFO - Verifying upload for: Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
+2025-04-19 03:09:46,201 - INFO - Verifying upload: /home/user/Desktop/torrents/Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX] -> onedrive:Torrents/Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
+2025-04-19 03:09:47,547 - INFO - Upload verification successful for /home/user/Desktop/torrents/Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
+2025-04-19 03:09:47,551 - INFO - Deleting torrent from qBittorrent: Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
+2025-04-19 03:09:47,551 - INFO - Deleting torrent with hash b6971661a60cb80caf1f427fddf872204df581cc (delete_files=False)
+2025-04-19 03:09:47,560 - INFO - Successfully deleted torrent with hash b6971661a60cb80caf1f427fddf872204df581cc
+2025-04-19 03:09:47,560 - INFO - Deleting content files: Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
+2025-04-19 03:09:47,560 - INFO - Deleting content: /home/user/Desktop/torrents/Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
+2025-04-19 03:09:47,561 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
+2025-04-19 03:09:47,561 - INFO - Successfully processed torrent: Stand By Me Doraemon (2014) [720p] [BluRay] [YTS.MX]
+2025-04-19 03:09:47,561 - INFO - Uploading torrent: Maze Runner The Scorch Trails (2015) [1080p]
+2025-04-19 03:09:47,561 - INFO - Starting upload: /home/user/Desktop/torrents/Maze Runner The Scorch Trails (2015) [1080p] -> onedrive:Torrents/Maze Runner The Scorch Trails (2015) [1080p]
+2025-04-19 03:09:47,561 - INFO - Uploading directory of size 1141.95 MB
