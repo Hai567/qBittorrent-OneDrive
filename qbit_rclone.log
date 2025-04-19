@@ -4144,3 +4144,8 @@ OSError: [Errno 28] No space left on device
 2025-04-19 04:36:26,667 - INFO - Deleting content: /home/user/Desktop/torrents/Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 04:36:26,669 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-19 04:36:26,669 - INFO - Successfully processed torrent: Jurassic World Dominion (2022) [REPACK] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-19 04:41:26,689 - INFO - Checking for completed torrents...
+2025-04-19 04:41:26,698 - INFO - Found 17 completed torrents
+2025-04-19 04:41:26,698 - INFO - Uploading torrent: Kong Skull Island (2017) [1080p] [YTS.AG]
+2025-04-19 04:41:26,698 - INFO - Starting upload: /home/user/Desktop/torrents/Kong Skull Island (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Kong Skull Island (2017) [1080p] [YTS.AG]
+2025-04-19 04:41:26,698 - INFO - Uploading directory of size 1857.42 MB
