@@ -3776,3 +3776,8 @@ OSError: [Errno 28] No space left on device
 2025-04-19 00:36:43,673 - INFO - Deleting content: /home/user/Desktop/torrents/Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-19 00:36:43,675 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-19 00:36:43,675 - INFO - Successfully processed torrent: Uncharted.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-19 00:41:43,677 - INFO - Checking for completed torrents...
+2025-04-19 00:41:43,683 - INFO - Found 7 completed torrents
+2025-04-19 00:41:43,683 - INFO - Uploading torrent: Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-19 00:41:43,683 - INFO - Starting upload: /home/user/Desktop/torrents/Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Toy Story 4 (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-19 00:41:43,684 - INFO - Uploading directory of size 1597.40 MB
