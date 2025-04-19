@@ -3981,3 +3981,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 02:44:14,231 - INFO - Uploading torrent: The Matrix (1999) [1080p]
 2025-04-19 02:44:14,231 - INFO - Starting upload: /home/user/Desktop/torrents/The Matrix (1999) [1080p] -> onedrive:Torrents/The Matrix (1999) [1080p]
 2025-04-19 02:44:14,231 - INFO - Uploading directory of size 1899.98 MB
+2025-04-19 02:52:51,271 - INFO - Successfully uploaded to onedrive:Torrents/The Matrix (1999) [1080p]
+2025-04-19 02:52:51,272 - INFO - Verifying upload for: The Matrix (1999) [1080p]
+2025-04-19 02:52:51,272 - INFO - Verifying upload: /home/user/Desktop/torrents/The Matrix (1999) [1080p] -> onedrive:Torrents/The Matrix (1999) [1080p]
+2025-04-19 02:52:52,879 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Matrix (1999) [1080p]
+2025-04-19 02:52:52,886 - INFO - Deleting torrent from qBittorrent: The Matrix (1999) [1080p]
+2025-04-19 02:52:52,887 - INFO - Deleting torrent with hash d7a46713eaee18c746b3254b7d1492a50fd9d6ce (delete_files=False)
+2025-04-19 02:52:52,898 - INFO - Successfully deleted torrent with hash d7a46713eaee18c746b3254b7d1492a50fd9d6ce
+2025-04-19 02:52:52,898 - INFO - Deleting content files: The Matrix (1999) [1080p]
+2025-04-19 02:52:52,898 - INFO - Deleting content: /home/user/Desktop/torrents/The Matrix (1999) [1080p]
+2025-04-19 02:52:52,900 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Matrix (1999) [1080p]
+2025-04-19 02:52:52,900 - INFO - Successfully processed torrent: The Matrix (1999) [1080p]
+2025-04-19 02:52:52,901 - INFO - Uploading torrent: Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-19 02:52:52,901 - INFO - Starting upload: /home/user/Desktop/torrents/Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX] -> onedrive:Torrents/Cleanin Up The Town Remembering Ghostbusters (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-19 02:52:52,901 - INFO - Uploading directory of size 2183.36 MB
