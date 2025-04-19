@@ -4679,3 +4679,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 14:13:03,196 - INFO - Uploading torrent: The Meg (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-19 14:13:03,196 - INFO - Starting upload: /home/user/Desktop/torrents/The Meg (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Meg (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-19 14:13:03,196 - INFO - Uploading directory of size 1853.95 MB
+2025-04-19 14:17:13,118 - INFO - Successfully uploaded to onedrive:Torrents/The Meg (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 14:17:13,118 - INFO - Verifying upload for: The Meg (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 14:17:13,118 - INFO - Verifying upload: /home/user/Desktop/torrents/The Meg (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Meg (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 14:17:15,419 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Meg (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 14:17:15,425 - INFO - Deleting torrent from qBittorrent: The Meg (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 14:17:15,425 - INFO - Deleting torrent with hash e2343ad1eefa8f931fb371c4d839822493efe814 (delete_files=False)
+2025-04-19 14:17:15,435 - INFO - Successfully deleted torrent with hash e2343ad1eefa8f931fb371c4d839822493efe814
+2025-04-19 14:17:15,435 - INFO - Deleting content files: The Meg (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 14:17:15,436 - INFO - Deleting content: /home/user/Desktop/torrents/The Meg (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 14:17:15,437 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Meg (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 14:17:15,437 - INFO - Successfully processed torrent: The Meg (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-19 14:17:15,437 - INFO - Uploading torrent: Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:17:15,437 - INFO - Starting upload: /home/user/Desktop/torrents/Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Bloodshot (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 14:17:15,438 - INFO - Uploading directory of size 2063.33 MB
