@@ -4567,3 +4567,17 @@ OSError: [Errno 28] No space left on device
 2025-04-19 13:42:24,766 - INFO - Uploading torrent: Ex Machina (2015) [1080p]
 2025-04-19 13:42:24,766 - INFO - Starting upload: /home/user/Desktop/torrents/Ex Machina (2015) [1080p] -> onedrive:Torrents/Ex Machina (2015) [1080p]
 2025-04-19 13:42:24,766 - INFO - Uploading directory of size 1669.75 MB
+2025-04-19 13:46:16,843 - INFO - Successfully uploaded to onedrive:Torrents/Ex Machina (2015) [1080p]
+2025-04-19 13:46:16,844 - INFO - Verifying upload for: Ex Machina (2015) [1080p]
+2025-04-19 13:46:16,844 - INFO - Verifying upload: /home/user/Desktop/torrents/Ex Machina (2015) [1080p] -> onedrive:Torrents/Ex Machina (2015) [1080p]
+2025-04-19 13:46:19,160 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ex Machina (2015) [1080p]
+2025-04-19 13:46:19,166 - INFO - Deleting torrent from qBittorrent: Ex Machina (2015) [1080p]
+2025-04-19 13:46:19,166 - INFO - Deleting torrent with hash 31ff6c7f8af99bdbc2d5f022367bc6b85bd613ee (delete_files=False)
+2025-04-19 13:46:19,189 - INFO - Successfully deleted torrent with hash 31ff6c7f8af99bdbc2d5f022367bc6b85bd613ee
+2025-04-19 13:46:19,189 - INFO - Deleting content files: Ex Machina (2015) [1080p]
+2025-04-19 13:46:19,189 - INFO - Deleting content: /home/user/Desktop/torrents/Ex Machina (2015) [1080p]
+2025-04-19 13:46:19,194 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ex Machina (2015) [1080p]
+2025-04-19 13:46:19,194 - INFO - Successfully processed torrent: Ex Machina (2015) [1080p]
+2025-04-19 13:46:19,195 - INFO - Uploading torrent: Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:46:19,195 - INFO - Starting upload: /home/user/Desktop/torrents/Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Harry Potter And The Deathly Hallows Part 1 (2010) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-19 13:46:19,195 - INFO - Uploading directory of size 2759.38 MB
