@@ -1756,3 +1756,63 @@
 2025-04-20 15:39:51,261 - INFO - Uploading directory of size 2095.90 MB
 2025-04-20 15:39:51,262 - INFO - Uploading directory of size 2140.70 MB
 2025-04-20 15:39:51,263 - INFO - Uploading directory of size 2297.60 MB
+2025-04-20 15:47:11,987 - INFO - Successfully uploaded to onedrive:Torrents/Fury (2014) [1080p]
+2025-04-20 15:47:11,987 - INFO - Verifying upload for: Fury (2014) [1080p]
+2025-04-20 15:47:11,987 - INFO - Verifying upload: /home/user/Desktop/torrents/Fury (2014) [1080p] -> onedrive:Torrents/Fury (2014) [1080p]
+2025-04-20 15:47:14,577 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fury (2014) [1080p]
+2025-04-20 15:47:14,585 - INFO - Deleting torrent from qBittorrent: Fury (2014) [1080p]
+2025-04-20 15:47:14,585 - INFO - Deleting torrent with hash 2f335f14cefd735a7687cf7f31ba42a0db15a217 (delete_files=False)
+2025-04-20 15:47:14,594 - INFO - Successfully deleted torrent with hash 2f335f14cefd735a7687cf7f31ba42a0db15a217
+2025-04-20 15:47:14,595 - INFO - Deleting content files: Fury (2014) [1080p]
+2025-04-20 15:47:14,595 - INFO - Deleting content: /home/user/Desktop/torrents/Fury (2014) [1080p]
+2025-04-20 15:47:14,595 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fury (2014) [1080p]
+2025-04-20 15:47:14,596 - INFO - Successfully processed torrent: Fury (2014) [1080p]
+2025-04-20 15:47:14,596 - INFO - Processing torrent: Now You See Me (2013) [1080p]
+2025-04-20 15:47:14,596 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Fury (2014) [1080p]'}
+2025-04-20 15:47:14,596 - INFO - Attempting to upload torrent: Now You See Me (2013) [1080p]
+2025-04-20 15:47:14,596 - INFO - Content path: /home/user/Desktop/torrents/Now You See Me (2013) [1080p]
+2025-04-20 15:47:14,596 - INFO - Remote path: onedrive:Torrents/Now You See Me (2013) [1080p]
+2025-04-20 15:47:14,596 - INFO - Uploading torrent: Now You See Me (2013) [1080p]
+2025-04-20 15:47:14,597 - INFO - Directory /home/user/Desktop/torrents/Now You See Me (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-20 15:47:14,597 - INFO - Starting upload: /home/user/Desktop/torrents/Now You See Me (2013) [1080p] -> onedrive:Torrents/Now You See Me (2013) [1080p]
+2025-04-20 15:47:14,597 - INFO - Uploading directory of size 1899.66 MB
+2025-04-20 15:47:33,169 - INFO - Successfully uploaded to onedrive:Torrents/The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:33,169 - INFO - Verifying upload for: The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:33,169 - INFO - Verifying upload: /home/user/Desktop/torrents/The Prestige (2006) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,809 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,815 - INFO - Deleting torrent from qBittorrent: The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,816 - INFO - Deleting torrent with hash aaa47382b2e6834cd487d0858bcd502d40145f7e (delete_files=False)
+2025-04-20 15:47:35,826 - INFO - Successfully deleted torrent with hash aaa47382b2e6834cd487d0858bcd502d40145f7e
+2025-04-20 15:47:35,826 - INFO - Deleting content files: The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,826 - INFO - Deleting content: /home/user/Desktop/torrents/The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,827 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,827 - INFO - Successfully processed torrent: The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,827 - INFO - Processing torrent: Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,827 - INFO - Attempting to upload torrent: Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,827 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Prestige (2006) [BluRay] [1080p] [YTS.AM]'}
+2025-04-20 15:47:35,827 - INFO - Content path: /home/user/Desktop/torrents/Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,828 - INFO - Remote path: onedrive:Torrents/Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,828 - INFO - Uploading torrent: Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,828 - INFO - Directory /home/user/Desktop/torrents/Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 15:47:35,828 - INFO - Starting upload: /home/user/Desktop/torrents/Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:47:35,828 - INFO - Uploading directory of size 1557.26 MB
+2025-04-20 15:47:37,514 - INFO - Successfully uploaded to onedrive:Torrents/Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:47:37,514 - INFO - Verifying upload for: Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:47:37,514 - INFO - Verifying upload: /home/user/Desktop/torrents/Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:47:39,910 - INFO - Upload verification successful for /home/user/Desktop/torrents/Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:47:39,917 - INFO - Deleting torrent from qBittorrent: Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:47:39,917 - INFO - Deleting torrent with hash b91e9cbfc857ed40b58276faa0140f0171f5c135 (delete_files=False)
+2025-04-20 15:47:39,926 - INFO - Successfully deleted torrent with hash b91e9cbfc857ed40b58276faa0140f0171f5c135
+2025-04-20 15:47:39,926 - INFO - Deleting content files: Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:47:39,926 - INFO - Deleting content: /home/user/Desktop/torrents/Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:47:39,928 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:47:39,928 - INFO - Successfully processed torrent: Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:47:39,928 - INFO - Processing torrent: Lucy (2014) [1080p]
+2025-04-20 15:47:39,928 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 15:47:39,928 - INFO - Attempting to upload torrent: Lucy (2014) [1080p]
+2025-04-20 15:47:39,929 - INFO - Content path: /home/user/Desktop/torrents/Lucy (2014) [1080p]
+2025-04-20 15:47:39,929 - INFO - Remote path: onedrive:Torrents/Lucy (2014) [1080p]
+2025-04-20 15:47:39,929 - INFO - Uploading torrent: Lucy (2014) [1080p]
+2025-04-20 15:47:39,929 - INFO - Directory /home/user/Desktop/torrents/Lucy (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 15:47:39,929 - INFO - Starting upload: /home/user/Desktop/torrents/Lucy (2014) [1080p] -> onedrive:Torrents/Lucy (2014) [1080p]
+2025-04-20 15:47:39,929 - INFO - Uploading directory of size 1266.98 MB
