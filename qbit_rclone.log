@@ -1345,3 +1345,25 @@
 2025-04-20 14:53:22,143 - INFO - Active upload threads: 5/5
 2025-04-20 14:53:22,143 - INFO - Checking for completed torrents...
 2025-04-20 14:53:22,146 - INFO - Found 0 completed torrents
+2025-04-20 14:58:22,246 - INFO - Active upload threads: 5/5
+2025-04-20 14:58:22,247 - INFO - Checking for completed torrents...
+2025-04-20 14:58:22,251 - INFO - Found 2 completed torrents
+2025-04-20 14:58:22,251 - INFO - Torrent A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 14:58:22,251 - INFO - Torrent Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]: content_path = /home/user/Desktop/torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT], exists: True
+2025-04-20 14:58:22,252 - INFO - Submitting 2 torrents for parallel upload
+2025-04-20 14:58:22,252 - INFO - Processing torrent: A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:58:22,252 - INFO - Processing torrent: Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 14:58:22,252 - INFO - Attempting to upload torrent: A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:58:22,252 - INFO - Attempting to upload torrent: Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 14:58:22,252 - INFO - Content path: /home/user/Desktop/torrents/A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:58:22,253 - INFO - Remote path: onedrive:Torrents/A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:58:22,253 - INFO - Uploading torrent: A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:58:22,253 - INFO - Directory /home/user/Desktop/torrents/A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 14:58:22,253 - INFO - Starting upload: /home/user/Desktop/torrents/A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:58:22,253 - INFO - Content path: /home/user/Desktop/torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 14:58:22,253 - INFO - Remote path: onedrive:Torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 14:58:22,254 - INFO - Uploading torrent: Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 14:58:22,254 - INFO - Uploading directory of size 2217.38 MB
+2025-04-20 14:58:22,254 - INFO - Directory /home/user/Desktop/torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT] is readable, contains 3 files/dirs
+2025-04-20 14:58:22,255 - INFO - Starting upload: /home/user/Desktop/torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT] -> onedrive:Torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 14:58:22,255 - INFO - Uploading directory of size 2775.35 MB
