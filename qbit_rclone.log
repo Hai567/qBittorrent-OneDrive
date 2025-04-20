@@ -3744,3 +3744,15 @@
 2025-04-20 18:30:18,338 - INFO - Directory /home/user/Desktop/torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 2 files/dirs
 2025-04-20 18:30:18,338 - INFO - Starting upload: /home/user/Desktop/torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-20 18:30:18,338 - INFO - Uploading directory of size 1906.76 MB
+2025-04-20 18:33:53,505 - INFO - Successfully uploaded to onedrive:Torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:33:53,505 - INFO - Verifying upload for: Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:33:53,506 - INFO - Verifying upload: /home/user/Desktop/torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:33:55,919 - INFO - Upload verification successful for /home/user/Desktop/torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:33:55,928 - INFO - Deleting torrent from qBittorrent: Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:33:55,928 - INFO - Deleting torrent with hash 1e6f6e216915fec5770a0958cd57155193579618 (delete_files=False)
+2025-04-20 18:33:55,938 - INFO - Successfully deleted torrent with hash 1e6f6e216915fec5770a0958cd57155193579618
+2025-04-20 18:33:55,938 - INFO - Deleting content files: Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:33:55,938 - INFO - Deleting content: /home/user/Desktop/torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:33:55,940 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:33:55,940 - INFO - Successfully processed torrent: Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:33:55,940 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
