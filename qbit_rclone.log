@@ -1449,3 +1449,23 @@
 2025-04-20 15:11:06,721 - INFO - Uploading directory of size 1686.83 MB
 2025-04-20 15:11:06,721 - INFO - Uploading directory of size 2090.63 MB
 2025-04-20 15:11:06,722 - INFO - Uploading directory of size 1381.10 MB
+2025-04-20 15:16:56,966 - INFO - Successfully uploaded to onedrive:Torrents/The Secret Life Of Pets 2 (2019) [BluRay] [3D] [HSBS] [YTS.LT]
+2025-04-20 15:16:56,967 - INFO - Verifying upload for: The Secret Life Of Pets 2 (2019) [BluRay] [3D] [HSBS] [YTS.LT]
+2025-04-20 15:16:56,967 - INFO - Verifying upload: /home/user/Desktop/torrents/The Secret Life Of Pets 2 (2019) [BluRay] [3D] [HSBS] [YTS.LT] -> onedrive:Torrents/The Secret Life Of Pets 2 (2019) [BluRay] [3D] [HSBS] [YTS.LT]
+2025-04-20 15:16:59,354 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Secret Life Of Pets 2 (2019) [BluRay] [3D] [HSBS] [YTS.LT]
+2025-04-20 15:16:59,360 - INFO - Deleting torrent from qBittorrent: The Secret Life Of Pets 2 (2019) [BluRay] [3D] [HSBS] [YTS.LT]
+2025-04-20 15:16:59,360 - INFO - Deleting torrent with hash b0d16136a3f2adeb06986e3d7cd2a9363cb3879c (delete_files=False)
+2025-04-20 15:16:59,371 - INFO - Successfully deleted torrent with hash b0d16136a3f2adeb06986e3d7cd2a9363cb3879c
+2025-04-20 15:16:59,371 - INFO - Deleting content files: The Secret Life Of Pets 2 (2019) [BluRay] [3D] [HSBS] [YTS.LT]
+2025-04-20 15:16:59,371 - INFO - Deleting content: /home/user/Desktop/torrents/The Secret Life Of Pets 2 (2019) [BluRay] [3D] [HSBS] [YTS.LT]
+2025-04-20 15:16:59,373 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Secret Life Of Pets 2 (2019) [BluRay] [3D] [HSBS] [YTS.LT]
+2025-04-20 15:16:59,373 - INFO - Successfully processed torrent: The Secret Life Of Pets 2 (2019) [BluRay] [3D] [HSBS] [YTS.LT]
+2025-04-20 15:16:59,373 - INFO - Processing torrent: Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:16:59,373 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Secret Life Of Pets 2 (2019) [BluRay] [3D] [HSBS] [YTS.LT]'}
+2025-04-20 15:16:59,373 - INFO - Attempting to upload torrent: Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:16:59,374 - INFO - Content path: /home/user/Desktop/torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:16:59,374 - INFO - Remote path: onedrive:Torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:16:59,374 - INFO - Uploading torrent: Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:16:59,374 - INFO - Directory /home/user/Desktop/torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-20 15:16:59,374 - INFO - Starting upload: /home/user/Desktop/torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:16:59,374 - INFO - Uploading directory of size 1730.14 MB
