@@ -2228,3 +2228,46 @@
 2025-04-20 16:20:23,447 - INFO - Uploading directory of size 1663.92 MB
 2025-04-20 16:20:23,449 - INFO - Uploading directory of size 1893.43 MB
 2025-04-20 16:20:23,449 - INFO - Uploading directory of size 1992.76 MB
+2025-04-20 16:26:20,901 - INFO - Successfully uploaded to onedrive:Torrents/Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:26:20,902 - INFO - Verifying upload for: Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:26:20,902 - INFO - Verifying upload: /home/user/Desktop/torrents/Blockers (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:26:23,370 - INFO - Upload verification successful for /home/user/Desktop/torrents/Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:26:23,376 - INFO - Deleting torrent from qBittorrent: Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:26:23,377 - INFO - Deleting torrent with hash 2d39aa41992de94159d8ee7ac1da7c660e3f4848 (delete_files=False)
+2025-04-20 16:26:23,386 - INFO - Successfully deleted torrent with hash 2d39aa41992de94159d8ee7ac1da7c660e3f4848
+2025-04-20 16:26:23,386 - INFO - Deleting content files: Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:26:23,386 - INFO - Deleting content: /home/user/Desktop/torrents/Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:26:23,387 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:26:23,387 - INFO - Successfully processed torrent: Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:26:23,387 - INFO - Processing torrent: Jason Bourne (2016) [1080p] [YTS.AG]
+2025-04-20 16:26:23,387 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Blockers (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 16:26:23,388 - INFO - Attempting to upload torrent: Jason Bourne (2016) [1080p] [YTS.AG]
+2025-04-20 16:26:23,388 - INFO - Content path: /home/user/Desktop/torrents/Jason Bourne (2016) [1080p] [YTS.AG]
+2025-04-20 16:26:23,388 - INFO - Remote path: onedrive:Torrents/Jason Bourne (2016) [1080p] [YTS.AG]
+2025-04-20 16:26:23,388 - INFO - Uploading torrent: Jason Bourne (2016) [1080p] [YTS.AG]
+2025-04-20 16:26:23,388 - INFO - Directory /home/user/Desktop/torrents/Jason Bourne (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 16:26:23,388 - INFO - Starting upload: /home/user/Desktop/torrents/Jason Bourne (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Jason Bourne (2016) [1080p] [YTS.AG]
+2025-04-20 16:26:23,389 - INFO - Uploading directory of size 1947.43 MB
+2025-04-20 16:27:02,103 - INFO - Successfully uploaded to onedrive:Torrents/Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:27:02,103 - INFO - Verifying upload for: Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:27:02,103 - INFO - Verifying upload: /home/user/Desktop/torrents/Horrible Bosses 2 (2014) [1080p] -> onedrive:Torrents/Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:27:04,615 - INFO - Upload verification successful for /home/user/Desktop/torrents/Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:27:04,622 - INFO - Deleting torrent from qBittorrent: Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:27:04,622 - INFO - Deleting torrent with hash dd465fe1256fc9a36ef8c889aaa49be5d7d2afa0 (delete_files=False)
+2025-04-20 16:27:04,633 - INFO - Successfully deleted torrent with hash dd465fe1256fc9a36ef8c889aaa49be5d7d2afa0
+2025-04-20 16:27:04,634 - INFO - Deleting content files: Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:27:04,634 - INFO - Deleting content: /home/user/Desktop/torrents/Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:27:04,635 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:27:04,635 - INFO - Successfully processed torrent: Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:27:04,635 - INFO - Processing torrent: Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:27:04,635 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Horrible Bosses 2 (2014) [1080p]'}
+2025-04-20 16:27:04,635 - INFO - Attempting to upload torrent: Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:27:04,635 - INFO - Content path: /home/user/Desktop/torrents/Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:27:04,635 - INFO - Remote path: onedrive:Torrents/Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:27:04,635 - INFO - Uploading torrent: Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:27:04,636 - INFO - Directory /home/user/Desktop/torrents/Upgrade (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 16:27:04,636 - INFO - Starting upload: /home/user/Desktop/torrents/Upgrade (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:27:04,636 - INFO - Uploading directory of size 1641.80 MB
+2025-04-20 16:28:01,918 - INFO - Successfully uploaded to onedrive:Torrents/Furious 6 (2013) [1080p]
+2025-04-20 16:28:01,918 - INFO - Verifying upload for: Furious 6 (2013) [1080p]
+2025-04-20 16:28:01,919 - INFO - Verifying upload: /home/user/Desktop/torrents/Furious 6 (2013) [1080p] -> onedrive:Torrents/Furious 6 (2013) [1080p]
