@@ -3634,3 +3634,15 @@
 2025-04-20 17:56:04,803 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Penguins of Madagascar (2014) [1080p]
 2025-04-20 17:56:04,803 - INFO - Successfully processed torrent: Penguins of Madagascar (2014) [1080p]
 2025-04-20 17:56:04,803 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Penguins of Madagascar (2014) [1080p]'}
+2025-04-20 17:56:16,213 - INFO - Successfully uploaded to onedrive:Torrents/Inglourious Bastards (2009) [1080p]
+2025-04-20 17:56:16,214 - INFO - Verifying upload for: Inglourious Bastards (2009) [1080p]
+2025-04-20 17:56:16,214 - INFO - Verifying upload: /home/user/Desktop/torrents/Inglourious Bastards (2009) [1080p] -> onedrive:Torrents/Inglourious Bastards (2009) [1080p]
+2025-04-20 17:56:18,751 - INFO - Upload verification successful for /home/user/Desktop/torrents/Inglourious Bastards (2009) [1080p]
+2025-04-20 17:56:18,758 - INFO - Deleting torrent from qBittorrent: Inglourious Bastards (2009) [1080p]
+2025-04-20 17:56:18,758 - INFO - Deleting torrent with hash ee309632268d960122be489f312aeab87548d723 (delete_files=False)
+2025-04-20 17:56:18,768 - INFO - Successfully deleted torrent with hash ee309632268d960122be489f312aeab87548d723
+2025-04-20 17:56:18,768 - INFO - Deleting content files: Inglourious Bastards (2009) [1080p]
+2025-04-20 17:56:18,768 - INFO - Deleting content: /home/user/Desktop/torrents/Inglourious Bastards (2009) [1080p]
+2025-04-20 17:56:18,769 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Inglourious Bastards (2009) [1080p]
+2025-04-20 17:56:18,769 - INFO - Successfully processed torrent: Inglourious Bastards (2009) [1080p]
+2025-04-20 17:56:18,769 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Inglourious Bastards (2009) [1080p]'}
