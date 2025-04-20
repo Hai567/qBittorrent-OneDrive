@@ -3646,3 +3646,71 @@
 2025-04-20 17:56:18,769 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Inglourious Bastards (2009) [1080p]
 2025-04-20 17:56:18,769 - INFO - Successfully processed torrent: Inglourious Bastards (2009) [1080p]
 2025-04-20 17:56:18,769 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Inglourious Bastards (2009) [1080p]'}
+2025-04-20 18:01:18,785 - INFO - Active upload threads: 5/5
+2025-04-20 18:01:18,786 - INFO - Checking for completed torrents...
+2025-04-20 18:01:18,790 - INFO - Found 4 completed torrents
+2025-04-20 18:01:18,790 - INFO - Torrent Up (2009) [1080p]: content_path = /home/user/Desktop/torrents/Up (2009) [1080p], exists: True
+2025-04-20 18:01:18,790 - INFO - Torrent Your Name (2016) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Your Name (2016) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-20 18:01:18,791 - INFO - Torrent Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 18:01:18,791 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-20 18:01:18,791 - INFO - Submitting 3 torrents for parallel upload
+2025-04-20 18:01:18,791 - INFO - Processing torrent: Up (2009) [1080p]
+2025-04-20 18:01:18,791 - INFO - Attempting to upload torrent: Up (2009) [1080p]
+2025-04-20 18:01:18,791 - INFO - Content path: /home/user/Desktop/torrents/Up (2009) [1080p]
+2025-04-20 18:01:18,791 - INFO - Remote path: onedrive:Torrents/Up (2009) [1080p]
+2025-04-20 18:01:18,791 - INFO - Processing torrent: Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:01:18,791 - INFO - Uploading torrent: Up (2009) [1080p]
+2025-04-20 18:01:18,792 - INFO - Attempting to upload torrent: Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:01:18,792 - INFO - Processing torrent: Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:01:18,792 - INFO - Content path: /home/user/Desktop/torrents/Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:01:18,792 - INFO - Attempting to upload torrent: Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:01:18,793 - INFO - Remote path: onedrive:Torrents/Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:01:18,793 - INFO - Directory /home/user/Desktop/torrents/Up (2009) [1080p] is readable, contains 2 files/dirs
+2025-04-20 18:01:18,793 - INFO - Content path: /home/user/Desktop/torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:01:18,793 - INFO - Uploading torrent: Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:01:18,793 - INFO - Starting upload: /home/user/Desktop/torrents/Up (2009) [1080p] -> onedrive:Torrents/Up (2009) [1080p]
+2025-04-20 18:01:18,793 - INFO - Remote path: onedrive:Torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:01:18,794 - INFO - Uploading torrent: Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:01:18,794 - INFO - Directory /home/user/Desktop/torrents/Your Name (2016) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 18:01:18,794 - INFO - Starting upload: /home/user/Desktop/torrents/Your Name (2016) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:01:18,794 - INFO - Directory /home/user/Desktop/torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 18:01:18,795 - INFO - Starting upload: /home/user/Desktop/torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:01:18,795 - INFO - Uploading directory of size 1469.42 MB
+2025-04-20 18:01:18,796 - INFO - Uploading directory of size 1881.74 MB
+2025-04-20 18:01:18,796 - INFO - Uploading directory of size 1628.60 MB
+2025-04-20 18:04:18,467 - INFO - Successfully uploaded to onedrive:Torrents/Up (2009) [1080p]
+2025-04-20 18:04:18,467 - INFO - Verifying upload for: Up (2009) [1080p]
+2025-04-20 18:04:18,467 - INFO - Verifying upload: /home/user/Desktop/torrents/Up (2009) [1080p] -> onedrive:Torrents/Up (2009) [1080p]
+2025-04-20 18:04:20,746 - INFO - Upload verification successful for /home/user/Desktop/torrents/Up (2009) [1080p]
+2025-04-20 18:04:20,753 - INFO - Deleting torrent from qBittorrent: Up (2009) [1080p]
+2025-04-20 18:04:20,753 - INFO - Deleting torrent with hash 6ac7f6c2c49342f02de3621b9595c073c485a47a (delete_files=False)
+2025-04-20 18:04:20,765 - INFO - Successfully deleted torrent with hash 6ac7f6c2c49342f02de3621b9595c073c485a47a
+2025-04-20 18:04:20,765 - INFO - Deleting content files: Up (2009) [1080p]
+2025-04-20 18:04:20,765 - INFO - Deleting content: /home/user/Desktop/torrents/Up (2009) [1080p]
+2025-04-20 18:04:20,766 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Up (2009) [1080p]
+2025-04-20 18:04:20,766 - INFO - Successfully processed torrent: Up (2009) [1080p]
+2025-04-20 18:04:20,766 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Up (2009) [1080p]'}
+2025-04-20 18:04:32,403 - INFO - Successfully uploaded to onedrive:Torrents/Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:04:32,404 - INFO - Verifying upload for: Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:04:32,404 - INFO - Verifying upload: /home/user/Desktop/torrents/Your Name (2016) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:04:34,691 - INFO - Upload verification successful for /home/user/Desktop/torrents/Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:04:34,702 - INFO - Deleting torrent from qBittorrent: Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:04:34,702 - INFO - Deleting torrent with hash 4dcddd6deb6fde94dae41f9991fe4223c30972e8 (delete_files=False)
+2025-04-20 18:04:34,713 - INFO - Successfully deleted torrent with hash 4dcddd6deb6fde94dae41f9991fe4223c30972e8
+2025-04-20 18:04:34,713 - INFO - Deleting content files: Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:04:34,713 - INFO - Deleting content: /home/user/Desktop/torrents/Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:04:34,715 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:04:34,715 - INFO - Successfully processed torrent: Your Name (2016) [BluRay] [1080p] [YTS.AM]
+2025-04-20 18:04:34,715 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Your Name (2016) [BluRay] [1080p] [YTS.AM]'}
+2025-04-20 18:05:15,301 - INFO - Successfully uploaded to onedrive:Torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:05:15,301 - INFO - Verifying upload for: Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:05:15,301 - INFO - Verifying upload: /home/user/Desktop/torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:05:17,881 - INFO - Upload verification successful for /home/user/Desktop/torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:05:17,889 - INFO - Deleting torrent from qBittorrent: Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:05:17,889 - INFO - Deleting torrent with hash 9ea0be8bcb634ba6f8aae58681bc6b8e375d2c4d (delete_files=False)
+2025-04-20 18:05:17,897 - INFO - Successfully deleted torrent with hash 9ea0be8bcb634ba6f8aae58681bc6b8e375d2c4d
+2025-04-20 18:05:17,898 - INFO - Deleting content files: Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:05:17,898 - INFO - Deleting content: /home/user/Desktop/torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:05:17,899 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:05:17,899 - INFO - Successfully processed torrent: Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 18:05:17,899 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
