@@ -3714,3 +3714,7 @@
 2025-04-20 18:05:17,899 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-20 18:05:17,899 - INFO - Successfully processed torrent: Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-20 18:05:17,899 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Turning Red (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 18:10:18,000 - INFO - Active upload threads: 5/5
+2025-04-20 18:10:18,000 - INFO - Checking for completed torrents...
+2025-04-20 18:10:18,004 - INFO - Found 1 completed torrents
+2025-04-20 18:10:18,004 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
