@@ -1,0 +1,44 @@
+2025-04-19 16:15:07,935 - git-cronjob - INFO - Starting cronjob scheduler
+2025-04-19 16:15:07,936 - git-cronjob - INFO - Configuration loaded from cron_config.json
+2025-04-19 16:15:07,936 - git-cronjob - INFO - Setting job interval to 5 minutes
+2025-04-19 16:15:07,936 - git-cronjob - INFO - Checking for changes in repository
+2025-04-19 16:15:07,942 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-19 16:15:07,942 - git-cronjob - INFO - Running command: git add .
+2025-04-19 16:15:07,947 - git-cronjob - INFO - Success: 
+2025-04-19 16:15:07,947 - git-cronjob - INFO - Running command: git commit -m [bot] update crawling data
+2025-04-19 16:15:07,958 - git-cronjob - INFO - Success: [master 4f7f518] [bot] update crawling data
+ 5 files changed, 107 insertions(+)
+ create mode 100644 cronjob.log
+ create mode 100644 multithreads_config.json
+ create mode 100644 rclone-log-139971019077312-1745079247.txt
+ create mode 100644 rclone-log-139971027470016-1745079247.txt
+2025-04-19 16:15:07,958 - git-cronjob - INFO - Running command: git push origin master
+2025-04-19 16:15:09,234 - git-cronjob - INFO - Success: 
+2025-04-19 16:15:09,234 - git-cronjob - INFO - Git operations completed successfully
+2025-04-19 16:15:09,234 - git-cronjob - INFO - Scheduler running. Press Ctrl+C to stop.
+2025-04-19 16:20:08,543 - git-cronjob - INFO - Checking for changes in repository
+2025-04-19 16:20:08,549 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-19 16:20:08,549 - git-cronjob - INFO - Running command: git add .
+2025-04-19 16:20:08,557 - git-cronjob - INFO - Success: 
+2025-04-19 16:20:08,557 - git-cronjob - INFO - Running command: git commit -m [bot] update crawling data
+2025-04-19 16:20:08,576 - git-cronjob - INFO - Success: [master 63fe119] [bot] update crawling data
+ 7 files changed, 67 insertions(+), 4892 deletions(-)
+ rename rclone-log-139971019077312-1745079247.txt => rclone-log-139970985506496-1745079548.txt (100%)
+ delete mode 100644 rclone-log-139971027470016-1745079247.txt
+2025-04-19 16:20:08,576 - git-cronjob - INFO - Running command: git push origin master
+2025-04-19 16:20:09,763 - git-cronjob - INFO - Success: 
+2025-04-19 16:20:09,763 - git-cronjob - INFO - Git operations completed successfully
+2025-04-19 16:25:10,102 - git-cronjob - INFO - Checking for changes in repository
+2025-04-19 16:25:10,109 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-19 16:25:10,109 - git-cronjob - INFO - Running command: git add .
+2025-04-19 16:25:10,118 - git-cronjob - INFO - Success: 
+2025-04-19 16:25:10,118 - git-cronjob - INFO - Running command: git commit -m [bot] update crawling data
+2025-04-19 16:25:10,131 - git-cronjob - INFO - Success: [master efc14a3] [bot] update crawling data
+ 5 files changed, 51 insertions(+), 1 deletion(-)
+ delete mode 100644 rclone-log-139970985506496-1745079548.txt
+2025-04-19 16:25:10,131 - git-cronjob - INFO - Running command: git push origin master
+2025-04-19 16:25:11,413 - git-cronjob - INFO - Success: 
+2025-04-19 16:25:11,414 - git-cronjob - INFO - Git operations completed successfully
+2025-04-19 16:30:11,765 - git-cronjob - INFO - Checking for changes in repository
+2025-04-19 16:30:11,770 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-19 16:30:11,770 - git-cronjob - INFO - Running command: git add .
