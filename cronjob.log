@@ -89,3 +89,13 @@
 2025-04-20 13:57:11,580 - git-cronjob - INFO - Checking for changes in repository
 2025-04-20 13:57:11,585 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
 2025-04-20 13:57:11,585 - git-cronjob - INFO - Running command: git add .
+2025-04-20 13:57:11,596 - git-cronjob - INFO - Success: 
+2025-04-20 13:57:11,596 - git-cronjob - INFO - Running command: git commit -m [bot] update crawling data
+2025-04-20 13:57:11,608 - git-cronjob - INFO - Success: [master 0c87332] [bot] update crawling data
+ 3 files changed, 85 insertions(+)
+2025-04-20 13:57:11,608 - git-cronjob - INFO - Running command: git push origin master
+2025-04-20 13:57:13,038 - git-cronjob - INFO - Success: 
+2025-04-20 13:57:13,038 - git-cronjob - INFO - Git operations completed successfully
+2025-04-20 14:02:13,347 - git-cronjob - INFO - Checking for changes in repository
+2025-04-20 14:02:13,351 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-20 14:02:13,351 - git-cronjob - INFO - Running command: git add .

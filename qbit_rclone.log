@@ -739,3 +739,43 @@
 2025-04-20 13:56:42,823 - INFO - Directory /home/user/Desktop/torrents/American Sniper (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-20 13:56:42,824 - INFO - Starting upload: /home/user/Desktop/torrents/American Sniper (2014) [1080p] -> onedrive:Torrents/American Sniper (2014) [1080p]
 2025-04-20 13:56:42,824 - INFO - Uploading directory of size 2001.99 MB
+2025-04-20 13:58:45,891 - INFO - Successfully uploaded to onedrive:Torrents/Taken 3 (2014) [1080p]
+2025-04-20 13:58:45,892 - INFO - Verifying upload for: Taken 3 (2014) [1080p]
+2025-04-20 13:58:45,892 - INFO - Verifying upload: /home/user/Desktop/torrents/Taken 3 (2014) [1080p] -> onedrive:Torrents/Taken 3 (2014) [1080p]
+2025-04-20 13:58:48,461 - INFO - Upload verification successful for /home/user/Desktop/torrents/Taken 3 (2014) [1080p]
+2025-04-20 13:58:48,467 - INFO - Deleting torrent from qBittorrent: Taken 3 (2014) [1080p]
+2025-04-20 13:58:48,467 - INFO - Deleting torrent with hash 4f77ded985802ae75972a97b4b82171075dc4623 (delete_files=False)
+2025-04-20 13:58:48,476 - INFO - Successfully deleted torrent with hash 4f77ded985802ae75972a97b4b82171075dc4623
+2025-04-20 13:58:48,477 - INFO - Deleting content files: Taken 3 (2014) [1080p]
+2025-04-20 13:58:48,477 - INFO - Deleting content: /home/user/Desktop/torrents/Taken 3 (2014) [1080p]
+2025-04-20 13:58:48,478 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Taken 3 (2014) [1080p]
+2025-04-20 13:58:48,478 - INFO - Successfully processed torrent: Taken 3 (2014) [1080p]
+2025-04-20 13:58:48,478 - INFO - Processing torrent: Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:58:48,478 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Taken 3 (2014) [1080p]'}
+2025-04-20 13:58:48,478 - INFO - Attempting to upload torrent: Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:58:48,478 - INFO - Content path: /home/user/Desktop/torrents/Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:58:48,478 - INFO - Remote path: onedrive:Torrents/Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:58:48,478 - INFO - Uploading torrent: Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:58:48,478 - INFO - Directory /home/user/Desktop/torrents/Hereditary (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 13:58:48,478 - INFO - Starting upload: /home/user/Desktop/torrents/Hereditary (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:58:48,479 - INFO - Uploading directory of size 2096.50 MB
+2025-04-20 13:59:36,655 - INFO - Successfully uploaded to onedrive:Torrents/Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:59:36,656 - INFO - Verifying upload for: Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:59:36,656 - INFO - Verifying upload: /home/user/Desktop/torrents/Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:59:39,328 - INFO - Upload verification successful for /home/user/Desktop/torrents/Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:59:39,333 - INFO - Deleting torrent from qBittorrent: Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:59:39,333 - INFO - Deleting torrent with hash 5eb5104b94724f2aef5d1d3545de45833e8fe614 (delete_files=False)
+2025-04-20 13:59:39,343 - INFO - Successfully deleted torrent with hash 5eb5104b94724f2aef5d1d3545de45833e8fe614
+2025-04-20 13:59:39,343 - INFO - Deleting content files: Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:59:39,343 - INFO - Deleting content: /home/user/Desktop/torrents/Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:59:39,351 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:59:39,351 - INFO - Successfully processed torrent: Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:59:39,352 - INFO - Processing torrent: Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 13:59:39,352 - INFO - Attempting to upload torrent: Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 13:59:39,352 - INFO - Content path: /home/user/Desktop/torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 13:59:39,352 - INFO - Remote path: onedrive:Torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 13:59:39,352 - INFO - Uploading torrent: Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 13:59:39,352 - INFO - Directory /home/user/Desktop/torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 13:59:39,352 - INFO - Starting upload: /home/user/Desktop/torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 13:59:39,352 - INFO - Uploading directory of size 2388.78 MB
+2025-04-20 13:59:39,353 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
