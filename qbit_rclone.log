@@ -1339,3 +1339,6 @@
 2025-04-20 14:43:22,134 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-20 14:43:22,135 - INFO - Successfully processed torrent: Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-20 14:43:22,135 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Men In Black International (2019) [BluRay] [1080p] [YTS.LT]'}
+2025-04-20 14:48:22,136 - INFO - Active upload threads: 5/5
+2025-04-20 14:48:22,137 - INFO - Checking for completed torrents...
+2025-04-20 14:48:22,140 - INFO - Found 0 completed torrents
