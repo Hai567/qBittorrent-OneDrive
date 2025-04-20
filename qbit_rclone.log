@@ -1222,3 +1222,96 @@
 2025-04-20 14:37:24,964 - INFO - Successfully uploaded to onedrive:Torrents/Geostorm (2017) [1080p] [YTS.AG]
 2025-04-20 14:37:24,965 - INFO - Verifying upload for: Geostorm (2017) [1080p] [YTS.AG]
 2025-04-20 14:37:24,965 - INFO - Verifying upload: /home/user/Desktop/torrents/Geostorm (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,332 - INFO - Upload verification successful for /home/user/Desktop/torrents/Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,338 - INFO - Deleting torrent from qBittorrent: Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,338 - INFO - Deleting torrent with hash 2bfdadc4635fbefd9e66a053e4e632a51276c08d (delete_files=False)
+2025-04-20 14:37:27,348 - INFO - Successfully deleted torrent with hash 2bfdadc4635fbefd9e66a053e4e632a51276c08d
+2025-04-20 14:37:27,348 - INFO - Deleting content files: Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,348 - INFO - Deleting content: /home/user/Desktop/torrents/Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,349 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,349 - INFO - Successfully processed torrent: Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,349 - INFO - Processing torrent: The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,349 - INFO - Attempting to upload torrent: The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,349 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Geostorm (2017) [1080p] [YTS.AG]'}
+2025-04-20 14:37:27,350 - INFO - Content path: /home/user/Desktop/torrents/The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,350 - INFO - Remote path: onedrive:Torrents/The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,350 - INFO - Uploading torrent: The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,350 - INFO - Directory /home/user/Desktop/torrents/The Dark Tower (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 14:37:27,350 - INFO - Starting upload: /home/user/Desktop/torrents/The Dark Tower (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:37:27,350 - INFO - Uploading directory of size 1482.75 MB
+2025-04-20 14:37:52,189 - INFO - Successfully uploaded to onedrive:Torrents/The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:37:52,189 - INFO - Verifying upload for: The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:37:52,189 - INFO - Verifying upload: /home/user/Desktop/torrents/The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:37:54,795 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:37:54,802 - INFO - Deleting torrent from qBittorrent: The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:37:54,802 - INFO - Deleting torrent with hash 450a7aa0a33e7c9574b4b1910be28088290712b2 (delete_files=False)
+2025-04-20 14:37:54,810 - INFO - Successfully deleted torrent with hash 450a7aa0a33e7c9574b4b1910be28088290712b2
+2025-04-20 14:37:54,811 - INFO - Deleting content files: The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:37:54,811 - INFO - Deleting content: /home/user/Desktop/torrents/The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:37:54,812 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:37:54,812 - INFO - Successfully processed torrent: The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:37:54,812 - INFO - Processing torrent: Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:37:54,812 - INFO - Attempting to upload torrent: Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:37:54,812 - INFO - Content path: /home/user/Desktop/torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:37:54,812 - INFO - Remote path: onedrive:Torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:37:54,812 - INFO - Uploading torrent: Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:37:54,812 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 14:37:54,813 - INFO - Directory /home/user/Desktop/torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-20 14:37:54,813 - INFO - Starting upload: /home/user/Desktop/torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:37:54,813 - INFO - Uploading directory of size 1845.71 MB
+2025-04-20 14:38:30,046 - INFO - Successfully uploaded to onedrive:Torrents/Prisoners (2013) [1080p]
+2025-04-20 14:38:30,046 - INFO - Verifying upload for: Prisoners (2013) [1080p]
+2025-04-20 14:38:30,046 - INFO - Verifying upload: /home/user/Desktop/torrents/Prisoners (2013) [1080p] -> onedrive:Torrents/Prisoners (2013) [1080p]
+2025-04-20 14:38:32,419 - INFO - Upload verification successful for /home/user/Desktop/torrents/Prisoners (2013) [1080p]
+2025-04-20 14:38:32,425 - INFO - Deleting torrent from qBittorrent: Prisoners (2013) [1080p]
+2025-04-20 14:38:32,425 - INFO - Deleting torrent with hash 3cf2ae7742bc8b22467a2dfd4f1ac93e0e6fda10 (delete_files=False)
+2025-04-20 14:38:32,448 - INFO - Successfully deleted torrent with hash 3cf2ae7742bc8b22467a2dfd4f1ac93e0e6fda10
+2025-04-20 14:38:32,449 - INFO - Deleting content files: Prisoners (2013) [1080p]
+2025-04-20 14:38:32,449 - INFO - Deleting content: /home/user/Desktop/torrents/Prisoners (2013) [1080p]
+2025-04-20 14:38:32,449 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Prisoners (2013) [1080p]
+2025-04-20 14:38:32,450 - INFO - Successfully processed torrent: Prisoners (2013) [1080p]
+2025-04-20 14:38:32,450 - INFO - Processing torrent: The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:38:32,450 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Prisoners (2013) [1080p]'}
+2025-04-20 14:38:32,450 - INFO - Attempting to upload torrent: The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:38:32,450 - INFO - Content path: /home/user/Desktop/torrents/The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:38:32,450 - INFO - Remote path: onedrive:Torrents/The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:38:32,450 - INFO - Uploading torrent: The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:38:32,451 - INFO - Directory /home/user/Desktop/torrents/The Girl On The Train (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 14:38:32,451 - INFO - Starting upload: /home/user/Desktop/torrents/The Girl On The Train (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:38:32,451 - INFO - Uploading directory of size 1746.10 MB
+2025-04-20 14:38:33,581 - INFO - Successfully uploaded to onedrive:Torrents/The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:38:33,581 - INFO - Verifying upload for: The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:38:33,581 - INFO - Verifying upload: /home/user/Desktop/torrents/The Dark Knight Rises (2012) [1080p] -> onedrive:Torrents/The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:38:35,920 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:38:35,926 - INFO - Deleting torrent from qBittorrent: The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:38:35,926 - INFO - Deleting torrent with hash fbc4beed6422187f34556c5c0ad2473e4d2e5c18 (delete_files=False)
+2025-04-20 14:38:35,945 - INFO - Successfully deleted torrent with hash fbc4beed6422187f34556c5c0ad2473e4d2e5c18
+2025-04-20 14:38:35,945 - INFO - Deleting content files: The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:38:35,945 - INFO - Deleting content: /home/user/Desktop/torrents/The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:38:35,946 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:38:35,946 - INFO - Successfully processed torrent: The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:38:35,946 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Dark Knight Rises (2012) [1080p]'}
+2025-04-20 14:39:47,699 - INFO - Successfully uploaded to onedrive:Torrents/Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:39:47,699 - INFO - Verifying upload for: Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:39:47,699 - INFO - Verifying upload: /home/user/Desktop/torrents/Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:39:50,268 - INFO - Upload verification successful for /home/user/Desktop/torrents/Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:39:50,275 - INFO - Deleting torrent from qBittorrent: Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:39:50,275 - INFO - Deleting torrent with hash fbbb30fc903a87e735963c5a43329c4600023d4d (delete_files=False)
+2025-04-20 14:39:50,289 - INFO - Successfully deleted torrent with hash fbbb30fc903a87e735963c5a43329c4600023d4d
+2025-04-20 14:39:50,290 - INFO - Deleting content files: Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:39:50,290 - INFO - Deleting content: /home/user/Desktop/torrents/Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:39:50,292 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:39:50,292 - INFO - Successfully processed torrent: Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:39:50,292 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 14:42:13,422 - INFO - Successfully uploaded to onedrive:Torrents/The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:42:13,422 - INFO - Verifying upload for: The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:42:13,422 - INFO - Verifying upload: /home/user/Desktop/torrents/The Dark Tower (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:42:15,633 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:42:15,641 - INFO - Deleting torrent from qBittorrent: The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:42:15,641 - INFO - Deleting torrent with hash 6afad9c28e7462a06cd8a5023c1125ee086d9859 (delete_files=False)
+2025-04-20 14:42:15,650 - INFO - Successfully deleted torrent with hash 6afad9c28e7462a06cd8a5023c1125ee086d9859
+2025-04-20 14:42:15,650 - INFO - Deleting content files: The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:42:15,650 - INFO - Deleting content: /home/user/Desktop/torrents/The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:42:15,651 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:42:15,651 - INFO - Successfully processed torrent: The Dark Tower (2017) [1080p] [YTS.AG]
+2025-04-20 14:42:15,652 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Dark Tower (2017) [1080p] [YTS.AG]'}
