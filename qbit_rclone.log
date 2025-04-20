@@ -779,3 +779,83 @@
 2025-04-20 13:59:39,352 - INFO - Starting upload: /home/user/Desktop/torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-20 13:59:39,352 - INFO - Uploading directory of size 2388.78 MB
 2025-04-20 13:59:39,353 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-20 14:05:09,557 - INFO - Successfully uploaded to onedrive:Torrents/The Fault in Our Stars (2014) [1080p]
+2025-04-20 14:05:09,557 - INFO - Verifying upload for: The Fault in Our Stars (2014) [1080p]
+2025-04-20 14:05:09,557 - INFO - Verifying upload: /home/user/Desktop/torrents/The Fault in Our Stars (2014) [1080p] -> onedrive:Torrents/The Fault in Our Stars (2014) [1080p]
+2025-04-20 14:05:11,809 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Fault in Our Stars (2014) [1080p]
+2025-04-20 14:05:11,814 - INFO - Deleting torrent from qBittorrent: The Fault in Our Stars (2014) [1080p]
+2025-04-20 14:05:11,814 - INFO - Deleting torrent with hash 1d92d1128edce4b465e1355d4c002f2f2902f992 (delete_files=False)
+2025-04-20 14:05:11,825 - INFO - Successfully deleted torrent with hash 1d92d1128edce4b465e1355d4c002f2f2902f992
+2025-04-20 14:05:11,825 - INFO - Deleting content files: The Fault in Our Stars (2014) [1080p]
+2025-04-20 14:05:11,825 - INFO - Deleting content: /home/user/Desktop/torrents/The Fault in Our Stars (2014) [1080p]
+2025-04-20 14:05:11,827 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Fault in Our Stars (2014) [1080p]
+2025-04-20 14:05:11,827 - INFO - Successfully processed torrent: The Fault in Our Stars (2014) [1080p]
+2025-04-20 14:05:11,827 - INFO - Processing torrent: Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:05:11,827 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Fault in Our Stars (2014) [1080p]'}
+2025-04-20 14:05:11,827 - INFO - Attempting to upload torrent: Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:05:11,827 - INFO - Content path: /home/user/Desktop/torrents/Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:05:11,828 - INFO - Remote path: onedrive:Torrents/Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:05:11,828 - INFO - Uploading torrent: Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:05:11,828 - INFO - Directory /home/user/Desktop/torrents/Deepwater Horizon (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 14:05:11,828 - INFO - Starting upload: /home/user/Desktop/torrents/Deepwater Horizon (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:05:11,828 - INFO - Uploading directory of size 1668.31 MB
+2025-04-20 14:05:25,661 - INFO - Successfully uploaded to onedrive:Torrents/American Sniper (2014) [1080p]
+2025-04-20 14:05:25,661 - INFO - Verifying upload for: American Sniper (2014) [1080p]
+2025-04-20 14:05:25,662 - INFO - Verifying upload: /home/user/Desktop/torrents/American Sniper (2014) [1080p] -> onedrive:Torrents/American Sniper (2014) [1080p]
+2025-04-20 14:05:26,611 - INFO - Successfully uploaded to onedrive:Torrents/The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:26,611 - INFO - Verifying upload for: The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:26,611 - INFO - Verifying upload: /home/user/Desktop/torrents/The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:28,028 - INFO - Upload verification successful for /home/user/Desktop/torrents/American Sniper (2014) [1080p]
+2025-04-20 14:05:28,034 - INFO - Deleting torrent from qBittorrent: American Sniper (2014) [1080p]
+2025-04-20 14:05:28,034 - INFO - Deleting torrent with hash fb62ca94115a16cf51adb139d75d7f31f7552d55 (delete_files=False)
+2025-04-20 14:05:28,044 - INFO - Successfully deleted torrent with hash fb62ca94115a16cf51adb139d75d7f31f7552d55
+2025-04-20 14:05:28,044 - INFO - Deleting content files: American Sniper (2014) [1080p]
+2025-04-20 14:05:28,044 - INFO - Deleting content: /home/user/Desktop/torrents/American Sniper (2014) [1080p]
+2025-04-20 14:05:28,045 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/American Sniper (2014) [1080p]
+2025-04-20 14:05:28,045 - INFO - Successfully processed torrent: American Sniper (2014) [1080p]
+2025-04-20 14:05:28,045 - INFO - Processing torrent: A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:28,045 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'American Sniper (2014) [1080p]'}
+2025-04-20 14:05:28,045 - INFO - Attempting to upload torrent: A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:28,045 - INFO - Content path: /home/user/Desktop/torrents/A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:28,045 - INFO - Remote path: onedrive:Torrents/A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:28,045 - INFO - Uploading torrent: A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:28,046 - INFO - Directory /home/user/Desktop/torrents/A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 14:05:28,046 - INFO - Starting upload: /home/user/Desktop/torrents/A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:28,046 - INFO - Uploading directory of size 1830.76 MB
+2025-04-20 14:05:29,288 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:29,293 - INFO - Deleting torrent from qBittorrent: The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:29,294 - INFO - Deleting torrent with hash 0bcd062cc8d97872f8526f0b1a9e029d601bb9d1 (delete_files=False)
+2025-04-20 14:05:29,304 - INFO - Successfully deleted torrent with hash 0bcd062cc8d97872f8526f0b1a9e029d601bb9d1
+2025-04-20 14:05:29,304 - INFO - Deleting content files: The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:29,305 - INFO - Deleting content: /home/user/Desktop/torrents/The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:29,306 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:29,306 - INFO - Successfully processed torrent: The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:05:29,307 - INFO - Processing torrent: Jupiter Ascending (2015) [1080p]
+2025-04-20 14:05:29,307 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-20 14:05:29,307 - INFO - Attempting to upload torrent: Jupiter Ascending (2015) [1080p]
+2025-04-20 14:05:29,307 - INFO - Content path: /home/user/Desktop/torrents/Jupiter Ascending (2015) [1080p]
+2025-04-20 14:05:29,307 - INFO - Remote path: onedrive:Torrents/Jupiter Ascending (2015) [1080p]
+2025-04-20 14:05:29,307 - INFO - Uploading torrent: Jupiter Ascending (2015) [1080p]
+2025-04-20 14:05:29,307 - INFO - Directory /home/user/Desktop/torrents/Jupiter Ascending (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-20 14:05:29,307 - INFO - Starting upload: /home/user/Desktop/torrents/Jupiter Ascending (2015) [1080p] -> onedrive:Torrents/Jupiter Ascending (2015) [1080p]
+2025-04-20 14:05:29,307 - INFO - Uploading directory of size 1997.78 MB
+2025-04-20 14:06:33,938 - INFO - Successfully uploaded to onedrive:Torrents/Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:06:33,938 - INFO - Verifying upload for: Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:06:33,938 - INFO - Verifying upload: /home/user/Desktop/torrents/Hereditary (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:06:35,256 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:06:35,262 - INFO - Deleting torrent from qBittorrent: Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:06:35,262 - INFO - Deleting torrent with hash 4ad8030feecde6a91225940b6d77aa6d3019453d (delete_files=False)
+2025-04-20 14:06:35,271 - INFO - Successfully deleted torrent with hash 4ad8030feecde6a91225940b6d77aa6d3019453d
+2025-04-20 14:06:35,271 - INFO - Deleting content files: Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:06:35,271 - INFO - Deleting content: /home/user/Desktop/torrents/Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:06:35,272 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:06:35,272 - INFO - Successfully processed torrent: Hereditary (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:06:35,273 - INFO - Processing torrent: Batman Begins (2005) [1080p]
+2025-04-20 14:06:35,273 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Hereditary (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 14:06:35,273 - INFO - Attempting to upload torrent: Batman Begins (2005) [1080p]
+2025-04-20 14:06:35,273 - INFO - Content path: /home/user/Desktop/torrents/Batman Begins (2005) [1080p]
+2025-04-20 14:06:35,273 - INFO - Remote path: onedrive:Torrents/Batman Begins (2005) [1080p]
+2025-04-20 14:06:35,273 - INFO - Uploading torrent: Batman Begins (2005) [1080p]
+2025-04-20 14:06:35,273 - INFO - Directory /home/user/Desktop/torrents/Batman Begins (2005) [1080p] is readable, contains 4 files/dirs
+2025-04-20 14:06:35,273 - INFO - Starting upload: /home/user/Desktop/torrents/Batman Begins (2005) [1080p] -> onedrive:Torrents/Batman Begins (2005) [1080p]
+2025-04-20 14:06:35,274 - INFO - Uploading directory of size 1644.40 MB
