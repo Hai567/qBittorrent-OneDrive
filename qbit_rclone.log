@@ -2348,3 +2348,43 @@
 2025-04-20 16:33:35,866 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Alien Covenant (2017) [1080p] [YTS.AG]
 2025-04-20 16:33:35,866 - INFO - Successfully processed torrent: Alien Covenant (2017) [1080p] [YTS.AG]
 2025-04-20 16:33:35,866 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Alien Covenant (2017) [1080p] [YTS.AG]'}
+2025-04-20 16:38:35,967 - INFO - Active upload threads: 5/5
+2025-04-20 16:38:35,967 - INFO - Checking for completed torrents...
+2025-04-20 16:38:35,973 - INFO - Found 4 completed torrents
+2025-04-20 16:38:35,973 - INFO - Torrent Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 16:38:35,973 - INFO - Torrent Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 16:38:35,973 - INFO - Torrent Atomic Blonde (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Atomic Blonde (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 16:38:35,973 - INFO - Torrent Annabelle Creation (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Annabelle Creation (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 16:38:35,973 - INFO - Submitting 4 torrents for parallel upload
+2025-04-20 16:38:35,974 - INFO - Processing torrent: Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:38:35,974 - INFO - Processing torrent: Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:38:35,974 - INFO - Attempting to upload torrent: Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:38:35,974 - INFO - Processing torrent: Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:38:35,974 - INFO - Attempting to upload torrent: Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:38:35,974 - INFO - Processing torrent: Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:38:35,975 - INFO - Content path: /home/user/Desktop/torrents/Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:38:35,975 - INFO - Attempting to upload torrent: Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:38:35,975 - INFO - Content path: /home/user/Desktop/torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:38:35,975 - INFO - Attempting to upload torrent: Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:38:35,975 - INFO - Remote path: onedrive:Torrents/Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:38:35,975 - INFO - Content path: /home/user/Desktop/torrents/Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:38:35,975 - INFO - Remote path: onedrive:Torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:38:35,976 - INFO - Content path: /home/user/Desktop/torrents/Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:38:35,976 - INFO - Uploading torrent: Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:38:35,976 - INFO - Remote path: onedrive:Torrents/Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:38:35,976 - INFO - Uploading torrent: Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:38:35,976 - INFO - Remote path: onedrive:Torrents/Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:38:35,977 - INFO - Uploading torrent: Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:38:35,977 - INFO - Directory /home/user/Desktop/torrents/Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 16:38:35,977 - INFO - Uploading torrent: Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:38:35,978 - INFO - Starting upload: /home/user/Desktop/torrents/Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:38:35,978 - INFO - Directory /home/user/Desktop/torrents/Atomic Blonde (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 16:38:35,978 - INFO - Directory /home/user/Desktop/torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-20 16:38:35,978 - INFO - Starting upload: /home/user/Desktop/torrents/Atomic Blonde (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:38:35,978 - INFO - Uploading directory of size 2030.25 MB
+2025-04-20 16:38:35,979 - INFO - Directory /home/user/Desktop/torrents/Annabelle Creation (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 16:38:35,979 - INFO - Starting upload: /home/user/Desktop/torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:38:35,979 - INFO - Starting upload: /home/user/Desktop/torrents/Annabelle Creation (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:38:35,979 - INFO - Uploading directory of size 1783.07 MB
+2025-04-20 16:38:35,981 - INFO - Uploading directory of size 1703.93 MB
+2025-04-20 16:38:35,982 - INFO - Uploading directory of size 2084.52 MB
