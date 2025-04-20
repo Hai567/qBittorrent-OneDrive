@@ -3186,3 +3186,103 @@
 2025-04-20 17:34:29,617 - INFO - Uploading directory of size 1557.01 MB
 2025-04-20 17:34:29,620 - INFO - Uploading directory of size 2255.85 MB
 2025-04-20 17:34:29,621 - INFO - Uploading directory of size 1799.71 MB
+2025-04-20 17:37:52,675 - INFO - Successfully uploaded to onedrive:Torrents/A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:37:52,675 - INFO - Verifying upload for: A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:37:52,676 - INFO - Verifying upload: /home/user/Desktop/torrents/A Dog's Purpose (2017) [1080p] [YTS.AG] -> onedrive:Torrents/A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:37:55,020 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:37:55,028 - INFO - Deleting torrent from qBittorrent: A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:37:55,028 - INFO - Deleting torrent with hash 221278e4e50f75302b4150c5d3ca2df9a2e68e6e (delete_files=False)
+2025-04-20 17:37:55,039 - INFO - Successfully deleted torrent with hash 221278e4e50f75302b4150c5d3ca2df9a2e68e6e
+2025-04-20 17:37:55,039 - INFO - Deleting content files: A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:37:55,040 - INFO - Deleting content: /home/user/Desktop/torrents/A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:37:55,041 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:37:55,041 - INFO - Successfully processed torrent: A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:37:55,041 - INFO - Processing torrent: Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:37:55,041 - INFO - Attempting to upload torrent: Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:37:55,041 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "A Dog's Purpose (2017) [1080p] [YTS.AG]"}
+2025-04-20 17:37:55,041 - INFO - Content path: /home/user/Desktop/torrents/Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:37:55,041 - INFO - Remote path: onedrive:Torrents/Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:37:55,041 - INFO - Uploading torrent: Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:37:55,042 - INFO - Directory /home/user/Desktop/torrents/Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 17:37:55,042 - INFO - Starting upload: /home/user/Desktop/torrents/Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:37:55,042 - INFO - Uploading directory of size 1935.15 MB
+2025-04-20 17:38:08,667 - INFO - Successfully uploaded to onedrive:Torrents/Non Stop (2014) [1080p]
+2025-04-20 17:38:08,668 - INFO - Verifying upload for: Non Stop (2014) [1080p]
+2025-04-20 17:38:08,668 - INFO - Verifying upload: /home/user/Desktop/torrents/Non Stop (2014) [1080p] -> onedrive:Torrents/Non Stop (2014) [1080p]
+2025-04-20 17:38:10,974 - INFO - Upload verification successful for /home/user/Desktop/torrents/Non Stop (2014) [1080p]
+2025-04-20 17:38:10,980 - INFO - Deleting torrent from qBittorrent: Non Stop (2014) [1080p]
+2025-04-20 17:38:10,980 - INFO - Deleting torrent with hash af0d72e384028930b00ef969262aab6628130c7e (delete_files=False)
+2025-04-20 17:38:10,991 - INFO - Successfully deleted torrent with hash af0d72e384028930b00ef969262aab6628130c7e
+2025-04-20 17:38:10,991 - INFO - Deleting content files: Non Stop (2014) [1080p]
+2025-04-20 17:38:10,991 - INFO - Deleting content: /home/user/Desktop/torrents/Non Stop (2014) [1080p]
+2025-04-20 17:38:10,992 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Non Stop (2014) [1080p]
+2025-04-20 17:38:10,992 - INFO - Successfully processed torrent: Non Stop (2014) [1080p]
+2025-04-20 17:38:10,992 - INFO - Processing torrent: Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:38:10,992 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Non Stop (2014) [1080p]'}
+2025-04-20 17:38:10,993 - INFO - Attempting to upload torrent: Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:38:10,993 - INFO - Content path: /home/user/Desktop/torrents/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:38:10,993 - INFO - Remote path: onedrive:Torrents/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:38:10,993 - INFO - Uploading torrent: Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:38:10,993 - INFO - Directory /home/user/Desktop/torrents/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-20 17:38:10,993 - INFO - Starting upload: /home/user/Desktop/torrents/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:38:10,993 - INFO - Uploading directory of size 1985.52 MB
+2025-04-20 17:38:31,683 - INFO - Successfully uploaded to onedrive:Torrents/Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:38:31,684 - INFO - Verifying upload for: Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:38:31,684 - INFO - Verifying upload: /home/user/Desktop/torrents/Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:38:34,027 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:38:34,034 - INFO - Deleting torrent from qBittorrent: Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:38:34,034 - INFO - Deleting torrent with hash 57537d93a76f574369dc2e573e99c3840a9fd89d (delete_files=False)
+2025-04-20 17:38:34,042 - INFO - Successfully deleted torrent with hash 57537d93a76f574369dc2e573e99c3840a9fd89d
+2025-04-20 17:38:34,042 - INFO - Deleting content files: Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:38:34,042 - INFO - Deleting content: /home/user/Desktop/torrents/Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:38:34,043 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:38:34,044 - INFO - Successfully processed torrent: Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:38:34,044 - INFO - Processing torrent: Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:38:34,044 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 17:38:34,044 - INFO - Attempting to upload torrent: Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:38:34,044 - INFO - Content path: /home/user/Desktop/torrents/Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:38:34,044 - INFO - Remote path: onedrive:Torrents/Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:38:34,044 - INFO - Uploading torrent: Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:38:34,044 - INFO - Directory /home/user/Desktop/torrents/Smurfs The Lost Village (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 17:38:34,045 - INFO - Starting upload: /home/user/Desktop/torrents/Smurfs The Lost Village (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:38:34,045 - INFO - Uploading directory of size 1400.69 MB
+2025-04-20 17:38:39,340 - INFO - Successfully uploaded to onedrive:Torrents/Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:38:39,340 - INFO - Verifying upload for: Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:38:39,341 - INFO - Verifying upload: /home/user/Desktop/torrents/Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:38:41,997 - INFO - Upload verification successful for /home/user/Desktop/torrents/Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:38:42,004 - INFO - Deleting torrent from qBittorrent: Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:38:42,004 - INFO - Deleting torrent with hash 94d1b695cfa239513d7219c5508ef14926fae7ec (delete_files=False)
+2025-04-20 17:38:42,013 - INFO - Successfully deleted torrent with hash 94d1b695cfa239513d7219c5508ef14926fae7ec
+2025-04-20 17:38:42,014 - INFO - Deleting content files: Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:38:42,014 - INFO - Deleting content: /home/user/Desktop/torrents/Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:38:42,015 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:38:42,015 - INFO - Successfully processed torrent: Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:38:42,015 - INFO - Processing torrent: Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:38:42,016 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-20 17:38:42,016 - INFO - Attempting to upload torrent: Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:38:42,016 - INFO - Content path: /home/user/Desktop/torrents/Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:38:42,016 - INFO - Remote path: onedrive:Torrents/Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:38:42,016 - INFO - Uploading torrent: Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:38:42,016 - INFO - Directory /home/user/Desktop/torrents/Ferdinand (2017) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 17:38:42,016 - INFO - Starting upload: /home/user/Desktop/torrents/Ferdinand (2017) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:38:42,016 - INFO - Uploading directory of size 1853.86 MB
+2025-04-20 17:39:24,839 - INFO - Successfully uploaded to onedrive:Torrents/Django Unchained (2012) [1080p]
+2025-04-20 17:39:24,839 - INFO - Verifying upload for: Django Unchained (2012) [1080p]
+2025-04-20 17:39:24,839 - INFO - Verifying upload: /home/user/Desktop/torrents/Django Unchained (2012) [1080p] -> onedrive:Torrents/Django Unchained (2012) [1080p]
+2025-04-20 17:39:27,171 - INFO - Upload verification successful for /home/user/Desktop/torrents/Django Unchained (2012) [1080p]
+2025-04-20 17:39:27,178 - INFO - Deleting torrent from qBittorrent: Django Unchained (2012) [1080p]
+2025-04-20 17:39:27,178 - INFO - Deleting torrent with hash 5a33fe6305951a420ca30a6a5ff2e48c6fb4c7f1 (delete_files=False)
+2025-04-20 17:39:27,188 - INFO - Successfully deleted torrent with hash 5a33fe6305951a420ca30a6a5ff2e48c6fb4c7f1
+2025-04-20 17:39:27,188 - INFO - Deleting content files: Django Unchained (2012) [1080p]
+2025-04-20 17:39:27,188 - INFO - Deleting content: /home/user/Desktop/torrents/Django Unchained (2012) [1080p]
+2025-04-20 17:39:27,189 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Django Unchained (2012) [1080p]
+2025-04-20 17:39:27,190 - INFO - Successfully processed torrent: Django Unchained (2012) [1080p]
+2025-04-20 17:39:27,190 - INFO - Processing torrent: Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:39:27,190 - INFO - Attempting to upload torrent: Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:39:27,190 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Django Unchained (2012) [1080p]'}
+2025-04-20 17:39:27,190 - INFO - Content path: /home/user/Desktop/torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:39:27,190 - INFO - Remote path: onedrive:Torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:39:27,191 - INFO - Uploading torrent: Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:39:27,191 - INFO - Directory /home/user/Desktop/torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-20 17:39:27,191 - INFO - Starting upload: /home/user/Desktop/torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:39:27,191 - INFO - Uploading directory of size 2041.22 MB
