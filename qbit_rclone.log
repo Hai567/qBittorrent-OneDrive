@@ -1099,3 +1099,103 @@
 2025-04-20 14:26:34,766 - INFO - Directory /home/user/Desktop/torrents/The Incredible Hulk (2008) [1080p] is readable, contains 2 files/dirs
 2025-04-20 14:26:34,766 - INFO - Starting upload: /home/user/Desktop/torrents/The Incredible Hulk (2008) [1080p] -> onedrive:Torrents/The Incredible Hulk (2008) [1080p]
 2025-04-20 14:26:34,766 - INFO - Uploading directory of size 1681.16 MB
+2025-04-20 14:28:29,944 - INFO - Successfully uploaded to onedrive:Torrents/Birdman (2014) [1080p]
+2025-04-20 14:28:29,945 - INFO - Verifying upload for: Birdman (2014) [1080p]
+2025-04-20 14:28:29,945 - INFO - Verifying upload: /home/user/Desktop/torrents/Birdman (2014) [1080p] -> onedrive:Torrents/Birdman (2014) [1080p]
+2025-04-20 14:28:32,691 - INFO - Upload verification successful for /home/user/Desktop/torrents/Birdman (2014) [1080p]
+2025-04-20 14:28:32,696 - INFO - Deleting torrent from qBittorrent: Birdman (2014) [1080p]
+2025-04-20 14:28:32,696 - INFO - Deleting torrent with hash 2302ecab74207e7831055400563a61aa23025fe5 (delete_files=False)
+2025-04-20 14:28:32,708 - INFO - Successfully deleted torrent with hash 2302ecab74207e7831055400563a61aa23025fe5
+2025-04-20 14:28:32,708 - INFO - Deleting content files: Birdman (2014) [1080p]
+2025-04-20 14:28:32,708 - INFO - Deleting content: /home/user/Desktop/torrents/Birdman (2014) [1080p]
+2025-04-20 14:28:32,709 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Birdman (2014) [1080p]
+2025-04-20 14:28:32,710 - INFO - Successfully processed torrent: Birdman (2014) [1080p]
+2025-04-20 14:28:32,710 - INFO - Processing torrent: The Lion King 1 1.2 (2004) [1080p]
+2025-04-20 14:28:32,710 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Birdman (2014) [1080p]'}
+2025-04-20 14:28:32,710 - INFO - Attempting to upload torrent: The Lion King 1 1.2 (2004) [1080p]
+2025-04-20 14:28:32,710 - INFO - Content path: /home/user/Desktop/torrents/The Lion King 1 1.2 (2004) [1080p]
+2025-04-20 14:28:32,710 - INFO - Remote path: onedrive:Torrents/The Lion King 1 1.2 (2004) [1080p]
+2025-04-20 14:28:32,711 - INFO - Uploading torrent: The Lion King 1 1.2 (2004) [1080p]
+2025-04-20 14:28:32,711 - INFO - Directory /home/user/Desktop/torrents/The Lion King 1 1.2 (2004) [1080p] is readable, contains 2 files/dirs
+2025-04-20 14:28:32,711 - INFO - Starting upload: /home/user/Desktop/torrents/The Lion King 1 1.2 (2004) [1080p] -> onedrive:Torrents/The Lion King 1 1.2 (2004) [1080p]
+2025-04-20 14:28:32,711 - INFO - Uploading directory of size 1267.26 MB
+2025-04-20 14:30:10,234 - INFO - Successfully uploaded to onedrive:Torrents/Shutter Island (2010) [1080p]
+2025-04-20 14:30:10,234 - INFO - Verifying upload for: Shutter Island (2010) [1080p]
+2025-04-20 14:30:10,234 - INFO - Verifying upload: /home/user/Desktop/torrents/Shutter Island (2010) [1080p] -> onedrive:Torrents/Shutter Island (2010) [1080p]
+2025-04-20 14:30:12,577 - INFO - Upload verification successful for /home/user/Desktop/torrents/Shutter Island (2010) [1080p]
+2025-04-20 14:30:12,582 - INFO - Deleting torrent from qBittorrent: Shutter Island (2010) [1080p]
+2025-04-20 14:30:12,583 - INFO - Deleting torrent with hash cdf09bffc475789aa557eff19a090735412be99d (delete_files=False)
+2025-04-20 14:30:12,592 - INFO - Successfully deleted torrent with hash cdf09bffc475789aa557eff19a090735412be99d
+2025-04-20 14:30:12,592 - INFO - Deleting content files: Shutter Island (2010) [1080p]
+2025-04-20 14:30:12,592 - INFO - Deleting content: /home/user/Desktop/torrents/Shutter Island (2010) [1080p]
+2025-04-20 14:30:12,593 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Shutter Island (2010) [1080p]
+2025-04-20 14:30:12,593 - INFO - Successfully processed torrent: Shutter Island (2010) [1080p]
+2025-04-20 14:30:12,593 - INFO - Processing torrent: The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:30:12,593 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Shutter Island (2010) [1080p]'}
+2025-04-20 14:30:12,593 - INFO - Attempting to upload torrent: The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:30:12,594 - INFO - Content path: /home/user/Desktop/torrents/The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:30:12,594 - INFO - Remote path: onedrive:Torrents/The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:30:12,594 - INFO - Uploading torrent: The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:30:12,594 - INFO - Directory /home/user/Desktop/torrents/The Dark Knight Rises (2012) [1080p] is readable, contains 3 files/dirs
+2025-04-20 14:30:12,594 - INFO - Starting upload: /home/user/Desktop/torrents/The Dark Knight Rises (2012) [1080p] -> onedrive:Torrents/The Dark Knight Rises (2012) [1080p]
+2025-04-20 14:30:12,594 - INFO - Uploading directory of size 2539.45 MB
+2025-04-20 14:30:59,912 - INFO - Successfully uploaded to onedrive:Torrents/Sicario (2015) [1080p]
+2025-04-20 14:30:59,912 - INFO - Verifying upload for: Sicario (2015) [1080p]
+2025-04-20 14:30:59,912 - INFO - Verifying upload: /home/user/Desktop/torrents/Sicario (2015) [1080p] -> onedrive:Torrents/Sicario (2015) [1080p]
+2025-04-20 14:31:02,170 - INFO - Upload verification successful for /home/user/Desktop/torrents/Sicario (2015) [1080p]
+2025-04-20 14:31:02,177 - INFO - Deleting torrent from qBittorrent: Sicario (2015) [1080p]
+2025-04-20 14:31:02,177 - INFO - Deleting torrent with hash 791585794116d6bf67703727621a772105e85f9e (delete_files=False)
+2025-04-20 14:31:02,189 - INFO - Successfully deleted torrent with hash 791585794116d6bf67703727621a772105e85f9e
+2025-04-20 14:31:02,189 - INFO - Deleting content files: Sicario (2015) [1080p]
+2025-04-20 14:31:02,189 - INFO - Deleting content: /home/user/Desktop/torrents/Sicario (2015) [1080p]
+2025-04-20 14:31:02,191 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Sicario (2015) [1080p]
+2025-04-20 14:31:02,191 - INFO - Successfully processed torrent: Sicario (2015) [1080p]
+2025-04-20 14:31:02,191 - INFO - Processing torrent: Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:31:02,191 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Sicario (2015) [1080p]'}
+2025-04-20 14:31:02,191 - INFO - Attempting to upload torrent: Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:31:02,192 - INFO - Content path: /home/user/Desktop/torrents/Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:31:02,192 - INFO - Remote path: onedrive:Torrents/Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:31:02,192 - INFO - Uploading torrent: Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:31:02,192 - INFO - Directory /home/user/Desktop/torrents/Geostorm (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 14:31:02,192 - INFO - Starting upload: /home/user/Desktop/torrents/Geostorm (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Geostorm (2017) [1080p] [YTS.AG]
+2025-04-20 14:31:02,193 - INFO - Uploading directory of size 1709.90 MB
+2025-04-20 14:31:08,180 - INFO - Successfully uploaded to onedrive:Torrents/Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:31:08,180 - INFO - Verifying upload for: Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:31:08,180 - INFO - Verifying upload: /home/user/Desktop/torrents/Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Onward.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4 -> onedrive:Torrents/Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:31:10,444 - INFO - Upload verification successful for /home/user/Desktop/torrents/Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Onward.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+2025-04-20 14:31:10,451 - INFO - Deleting torrent from qBittorrent: Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:31:10,452 - INFO - Deleting torrent with hash 9185a249fa36f5743c8315fbab1b596af691a3db (delete_files=False)
+2025-04-20 14:31:10,461 - INFO - Successfully deleted torrent with hash 9185a249fa36f5743c8315fbab1b596af691a3db
+2025-04-20 14:31:10,461 - INFO - Deleting content files: Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:31:10,461 - INFO - Deleting content: /home/user/Desktop/torrents/Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Onward.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+2025-04-20 14:31:10,462 - INFO - Successfully deleted file: /home/user/Desktop/torrents/Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Onward.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+2025-04-20 14:31:10,462 - INFO - Successfully processed torrent: Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:31:10,462 - INFO - Processing torrent: Prisoners (2013) [1080p]
+2025-04-20 14:31:10,462 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-20 14:31:10,462 - INFO - Attempting to upload torrent: Prisoners (2013) [1080p]
+2025-04-20 14:31:10,462 - INFO - Content path: /home/user/Desktop/torrents/Prisoners (2013) [1080p]
+2025-04-20 14:31:10,462 - INFO - Remote path: onedrive:Torrents/Prisoners (2013) [1080p]
+2025-04-20 14:31:10,462 - INFO - Uploading torrent: Prisoners (2013) [1080p]
+2025-04-20 14:31:10,463 - INFO - Directory /home/user/Desktop/torrents/Prisoners (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-20 14:31:10,463 - INFO - Starting upload: /home/user/Desktop/torrents/Prisoners (2013) [1080p] -> onedrive:Torrents/Prisoners (2013) [1080p]
+2025-04-20 14:31:10,463 - INFO - Uploading directory of size 2099.39 MB
+2025-04-20 14:31:28,674 - INFO - Successfully uploaded to onedrive:Torrents/The Incredible Hulk (2008) [1080p]
+2025-04-20 14:31:28,674 - INFO - Verifying upload for: The Incredible Hulk (2008) [1080p]
+2025-04-20 14:31:28,674 - INFO - Verifying upload: /home/user/Desktop/torrents/The Incredible Hulk (2008) [1080p] -> onedrive:Torrents/The Incredible Hulk (2008) [1080p]
+2025-04-20 14:31:30,989 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Incredible Hulk (2008) [1080p]
+2025-04-20 14:31:30,994 - INFO - Deleting torrent from qBittorrent: The Incredible Hulk (2008) [1080p]
+2025-04-20 14:31:30,994 - INFO - Deleting torrent with hash e4ab118fc83d62e7c330cc353dbd8e12afbfbb5e (delete_files=False)
+2025-04-20 14:31:31,008 - INFO - Successfully deleted torrent with hash e4ab118fc83d62e7c330cc353dbd8e12afbfbb5e
+2025-04-20 14:31:31,008 - INFO - Deleting content files: The Incredible Hulk (2008) [1080p]
+2025-04-20 14:31:31,008 - INFO - Deleting content: /home/user/Desktop/torrents/The Incredible Hulk (2008) [1080p]
+2025-04-20 14:31:31,008 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Incredible Hulk (2008) [1080p]
+2025-04-20 14:31:31,009 - INFO - Successfully processed torrent: The Incredible Hulk (2008) [1080p]
+2025-04-20 14:31:31,009 - INFO - Processing torrent: The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:31:31,009 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Incredible Hulk (2008) [1080p]'}
+2025-04-20 14:31:31,009 - INFO - Attempting to upload torrent: The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:31:31,009 - INFO - Content path: /home/user/Desktop/torrents/The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:31:31,009 - INFO - Remote path: onedrive:Torrents/The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:31:31,009 - INFO - Uploading torrent: The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:31:31,009 - INFO - Directory /home/user/Desktop/torrents/The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-20 14:31:31,009 - INFO - Starting upload: /home/user/Desktop/torrents/The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:31:31,009 - INFO - Uploading directory of size 1882.85 MB
