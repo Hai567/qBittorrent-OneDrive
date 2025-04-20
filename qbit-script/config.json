@@ -1,0 +1,18 @@
+{
+    "qbittorrent": {
+        "host": "http://localhost:8080",
+        "username": "admin",
+        "password": "adminadmin"
+    },
+    "onedrive": {
+        "remote_name": "onedrive",
+        "target_path": "Torrents"
+    },
+    "logging": {
+        "log_file": "qbit-rclone.log",
+        "log_level": "INFO"
+    },
+    "rclone": {
+        "options": ["--progress"]
+    }
+}
