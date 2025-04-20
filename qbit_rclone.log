@@ -2592,3 +2592,79 @@
 2025-04-20 16:54:44,240 - INFO - Directory /home/user/Desktop/torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT] is readable, contains 3 files/dirs
 2025-04-20 16:54:44,240 - INFO - Starting upload: /home/user/Desktop/torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-20 16:54:44,240 - INFO - Uploading directory of size 1981.89 MB
+2025-04-20 16:57:44,825 - INFO - Successfully uploaded to onedrive:Torrents/The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:57:44,826 - INFO - Verifying upload for: The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:57:44,826 - INFO - Verifying upload: /home/user/Desktop/torrents/The Commuter (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:57:47,102 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:57:47,109 - INFO - Deleting torrent from qBittorrent: The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:57:47,109 - INFO - Deleting torrent with hash 3be1f845e6ba3b1b1e0b1e76814d5fc6401d1dc5 (delete_files=False)
+2025-04-20 16:57:47,123 - INFO - Successfully deleted torrent with hash 3be1f845e6ba3b1b1e0b1e76814d5fc6401d1dc5
+2025-04-20 16:57:47,123 - INFO - Deleting content files: The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:57:47,123 - INFO - Deleting content: /home/user/Desktop/torrents/The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:57:47,125 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:57:47,125 - INFO - Successfully processed torrent: The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:57:47,125 - INFO - Processing torrent: Pitch Perfect 2 (2015) [1080p]
+2025-04-20 16:57:47,125 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Commuter (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 16:57:47,126 - INFO - Attempting to upload torrent: Pitch Perfect 2 (2015) [1080p]
+2025-04-20 16:57:47,126 - INFO - Content path: /home/user/Desktop/torrents/Pitch Perfect 2 (2015) [1080p]
+2025-04-20 16:57:47,126 - INFO - Remote path: onedrive:Torrents/Pitch Perfect 2 (2015) [1080p]
+2025-04-20 16:57:47,126 - INFO - Uploading torrent: Pitch Perfect 2 (2015) [1080p]
+2025-04-20 16:57:47,126 - INFO - Directory /home/user/Desktop/torrents/Pitch Perfect 2 (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-20 16:57:47,126 - INFO - Starting upload: /home/user/Desktop/torrents/Pitch Perfect 2 (2015) [1080p] -> onedrive:Torrents/Pitch Perfect 2 (2015) [1080p]
+2025-04-20 16:57:47,126 - INFO - Uploading directory of size 1892.38 MB
+2025-04-20 16:58:03,218 - INFO - Successfully uploaded to onedrive:Torrents/Gladiator (2000)
+2025-04-20 16:58:03,218 - INFO - Verifying upload for: Gladiator (2000)
+2025-04-20 16:58:03,218 - INFO - Verifying upload: /home/user/Desktop/torrents/Gladiator (2000) -> onedrive:Torrents/Gladiator (2000)
+2025-04-20 16:58:05,822 - INFO - Upload verification successful for /home/user/Desktop/torrents/Gladiator (2000)
+2025-04-20 16:58:05,829 - INFO - Deleting torrent from qBittorrent: Gladiator (2000)
+2025-04-20 16:58:05,829 - INFO - Deleting torrent with hash 9bfab920305925f9954d8c4b9dedcd4c6b12ffea (delete_files=False)
+2025-04-20 16:58:05,838 - INFO - Successfully deleted torrent with hash 9bfab920305925f9954d8c4b9dedcd4c6b12ffea
+2025-04-20 16:58:05,839 - INFO - Deleting content files: Gladiator (2000)
+2025-04-20 16:58:05,839 - INFO - Deleting content: /home/user/Desktop/torrents/Gladiator (2000)
+2025-04-20 16:58:05,840 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Gladiator (2000)
+2025-04-20 16:58:05,840 - INFO - Successfully processed torrent: Gladiator (2000)
+2025-04-20 16:58:05,840 - INFO - Processing torrent: Focus (2015) [1080p]
+2025-04-20 16:58:05,840 - INFO - Attempting to upload torrent: Focus (2015) [1080p]
+2025-04-20 16:58:05,840 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Gladiator (2000)'}
+2025-04-20 16:58:05,840 - INFO - Content path: /home/user/Desktop/torrents/Focus (2015) [1080p]
+2025-04-20 16:58:05,841 - INFO - Remote path: onedrive:Torrents/Focus (2015) [1080p]
+2025-04-20 16:58:05,841 - INFO - Uploading torrent: Focus (2015) [1080p]
+2025-04-20 16:58:05,841 - INFO - Directory /home/user/Desktop/torrents/Focus (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-20 16:58:05,841 - INFO - Starting upload: /home/user/Desktop/torrents/Focus (2015) [1080p] -> onedrive:Torrents/Focus (2015) [1080p]
+2025-04-20 16:58:05,841 - INFO - Uploading directory of size 1679.32 MB
+2025-04-20 16:58:20,707 - INFO - Successfully uploaded to onedrive:Torrents/Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:58:20,708 - INFO - Verifying upload for: Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:58:20,708 - INFO - Verifying upload: /home/user/Desktop/torrents/Dawn of the Planet of the Apes (2014) [1080p] -> onedrive:Torrents/Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:58:23,052 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:58:23,059 - INFO - Deleting torrent from qBittorrent: Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:58:23,059 - INFO - Deleting torrent with hash ba1c73b4bf5fd35faabb37fece1786945780760e (delete_files=False)
+2025-04-20 16:58:23,068 - INFO - Successfully deleted torrent with hash ba1c73b4bf5fd35faabb37fece1786945780760e
+2025-04-20 16:58:23,068 - INFO - Deleting content files: Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:58:23,068 - INFO - Deleting content: /home/user/Desktop/torrents/Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:58:23,069 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:58:23,069 - INFO - Successfully processed torrent: Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:58:23,070 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Dawn of the Planet of the Apes (2014) [1080p]'}
+2025-04-20 16:59:14,796 - INFO - Successfully uploaded to onedrive:Torrents/Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:59:14,796 - INFO - Verifying upload for: Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:59:14,796 - INFO - Verifying upload: /home/user/Desktop/torrents/Knives Out (2019) [1080p] [BluRay] [YTS.MX] -> onedrive:Torrents/Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:59:17,292 - INFO - Upload verification successful for /home/user/Desktop/torrents/Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:59:17,300 - INFO - Deleting torrent from qBittorrent: Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:59:17,301 - INFO - Deleting torrent with hash 3b2694fb0e0bb41d7fb92c79d7d0cc7b90543a13 (delete_files=False)
+2025-04-20 16:59:17,310 - INFO - Successfully deleted torrent with hash 3b2694fb0e0bb41d7fb92c79d7d0cc7b90543a13
+2025-04-20 16:59:17,313 - INFO - Deleting content files: Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:59:17,313 - INFO - Deleting content: /home/user/Desktop/torrents/Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:59:17,316 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:59:17,317 - INFO - Successfully processed torrent: Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:59:17,317 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Knives Out (2019) [1080p] [BluRay] [YTS.MX]'}
+2025-04-20 17:00:28,726 - INFO - Successfully uploaded to onedrive:Torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:00:28,726 - INFO - Verifying upload for: Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:00:28,726 - INFO - Verifying upload: /home/user/Desktop/torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:00:31,091 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:00:31,097 - INFO - Deleting torrent from qBittorrent: Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:00:31,097 - INFO - Deleting torrent with hash 3f928ca44dbceac53c64bb56c8e1f63de0a7cdb2 (delete_files=False)
+2025-04-20 17:00:31,107 - INFO - Successfully deleted torrent with hash 3f928ca44dbceac53c64bb56c8e1f63de0a7cdb2
+2025-04-20 17:00:31,107 - INFO - Deleting content files: Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:00:31,108 - INFO - Deleting content: /home/user/Desktop/torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:00:31,109 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:00:31,109 - INFO - Successfully processed torrent: Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:00:31,109 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ad Astra (2019) [BluRay] [1080p] [YTS.LT]'}
