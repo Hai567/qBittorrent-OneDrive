@@ -3426,3 +3426,103 @@
 2025-04-20 17:45:53,855 - INFO - Directory /home/user/Desktop/torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT] is readable, contains 2 files/dirs
 2025-04-20 17:45:53,855 - INFO - Starting upload: /home/user/Desktop/torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-20 17:45:53,855 - INFO - Uploading directory of size 1991.38 MB
+2025-04-20 17:46:29,742 - INFO - Successfully uploaded to onedrive:Torrents/The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:46:29,742 - INFO - Verifying upload for: The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:46:29,742 - INFO - Verifying upload: /home/user/Desktop/torrents/The Grand Budapest Hotel (2014) [1080p] -> onedrive:Torrents/The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:46:32,058 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:46:32,064 - INFO - Deleting torrent from qBittorrent: The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:46:32,064 - INFO - Deleting torrent with hash 50c4f4dc98003e9d8f1618609108199f22d5a392 (delete_files=False)
+2025-04-20 17:46:32,079 - INFO - Successfully deleted torrent with hash 50c4f4dc98003e9d8f1618609108199f22d5a392
+2025-04-20 17:46:32,079 - INFO - Deleting content files: The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:46:32,079 - INFO - Deleting content: /home/user/Desktop/torrents/The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:46:32,080 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:46:32,080 - INFO - Successfully processed torrent: The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:46:32,080 - INFO - Processing torrent: Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:46:32,081 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Grand Budapest Hotel (2014) [1080p]'}
+2025-04-20 17:46:32,081 - INFO - Attempting to upload torrent: Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:46:32,081 - INFO - Content path: /home/user/Desktop/torrents/Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:46:32,081 - INFO - Remote path: onedrive:Torrents/Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:46:32,081 - INFO - Uploading torrent: Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:46:32,081 - INFO - Directory /home/user/Desktop/torrents/Tag (2018) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 17:46:32,082 - INFO - Starting upload: /home/user/Desktop/torrents/Tag (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:46:32,082 - INFO - Uploading directory of size 1646.74 MB
+2025-04-20 17:46:55,270 - INFO - Successfully uploaded to onedrive:Torrents/The Longest Ride (2015) [1080p]
+2025-04-20 17:46:55,270 - INFO - Verifying upload for: The Longest Ride (2015) [1080p]
+2025-04-20 17:46:55,270 - INFO - Verifying upload: /home/user/Desktop/torrents/The Longest Ride (2015) [1080p] -> onedrive:Torrents/The Longest Ride (2015) [1080p]
+2025-04-20 17:46:57,539 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Longest Ride (2015) [1080p]
+2025-04-20 17:46:57,545 - INFO - Deleting torrent from qBittorrent: The Longest Ride (2015) [1080p]
+2025-04-20 17:46:57,546 - INFO - Deleting torrent with hash f83e1b203f936cf5d676b45cd19c6e68718ba22b (delete_files=False)
+2025-04-20 17:46:57,557 - INFO - Successfully deleted torrent with hash f83e1b203f936cf5d676b45cd19c6e68718ba22b
+2025-04-20 17:46:57,557 - INFO - Deleting content files: The Longest Ride (2015) [1080p]
+2025-04-20 17:46:57,557 - INFO - Deleting content: /home/user/Desktop/torrents/The Longest Ride (2015) [1080p]
+2025-04-20 17:46:57,558 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Longest Ride (2015) [1080p]
+2025-04-20 17:46:57,558 - INFO - Successfully processed torrent: The Longest Ride (2015) [1080p]
+2025-04-20 17:46:57,558 - INFO - Processing torrent: Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:46:57,559 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Longest Ride (2015) [1080p]'}
+2025-04-20 17:46:57,559 - INFO - Attempting to upload torrent: Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:46:57,559 - INFO - Content path: /home/user/Desktop/torrents/Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:46:57,559 - INFO - Remote path: onedrive:Torrents/Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:46:57,559 - INFO - Uploading torrent: Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:46:57,559 - INFO - Directory /home/user/Desktop/torrents/Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 17:46:57,559 - INFO - Starting upload: /home/user/Desktop/torrents/Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:46:57,559 - INFO - Uploading directory of size 2130.49 MB
+2025-04-20 17:47:42,022 - INFO - Successfully uploaded to onedrive:Torrents/The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:47:42,022 - INFO - Verifying upload for: The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:47:42,023 - INFO - Verifying upload: /home/user/Desktop/torrents/The Founder (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:47:44,306 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:47:44,315 - INFO - Deleting torrent from qBittorrent: The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:47:44,315 - INFO - Deleting torrent with hash 51818af477a5a40398bca294cdeff6615ef21e21 (delete_files=False)
+2025-04-20 17:47:44,324 - INFO - Successfully deleted torrent with hash 51818af477a5a40398bca294cdeff6615ef21e21
+2025-04-20 17:47:44,324 - INFO - Deleting content files: The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:47:44,324 - INFO - Deleting content: /home/user/Desktop/torrents/The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:47:44,326 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:47:44,326 - INFO - Successfully processed torrent: The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:47:44,326 - INFO - Processing torrent: G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:47:44,326 - INFO - Attempting to upload torrent: G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:47:44,326 - INFO - Content path: /home/user/Desktop/torrents/G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:47:44,326 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Founder (2016) [1080p] [YTS.AG]'}
+2025-04-20 17:47:44,327 - INFO - Remote path: onedrive:Torrents/G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:47:44,327 - INFO - Uploading torrent: G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:47:44,327 - INFO - Directory /home/user/Desktop/torrents/G.I. Joe Rise of Cobra (2009) [1080p] is readable, contains 4 files/dirs
+2025-04-20 17:47:44,327 - INFO - Starting upload: /home/user/Desktop/torrents/G.I. Joe Rise of Cobra (2009) [1080p] -> onedrive:Torrents/G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:47:44,327 - INFO - Uploading directory of size 1351.44 MB
+2025-04-20 17:49:30,985 - INFO - Successfully uploaded to onedrive:Torrents/Pixels (2015) [1080p]
+2025-04-20 17:49:30,985 - INFO - Verifying upload for: Pixels (2015) [1080p]
+2025-04-20 17:49:30,985 - INFO - Verifying upload: /home/user/Desktop/torrents/Pixels (2015) [1080p] -> onedrive:Torrents/Pixels (2015) [1080p]
+2025-04-20 17:49:33,252 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pixels (2015) [1080p]
+2025-04-20 17:49:33,259 - INFO - Deleting torrent from qBittorrent: Pixels (2015) [1080p]
+2025-04-20 17:49:33,259 - INFO - Deleting torrent with hash d5a14dd9675e85750e60051fc86f0ab402e9443f (delete_files=False)
+2025-04-20 17:49:33,275 - INFO - Successfully deleted torrent with hash d5a14dd9675e85750e60051fc86f0ab402e9443f
+2025-04-20 17:49:33,275 - INFO - Deleting content files: Pixels (2015) [1080p]
+2025-04-20 17:49:33,275 - INFO - Deleting content: /home/user/Desktop/torrents/Pixels (2015) [1080p]
+2025-04-20 17:49:33,276 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pixels (2015) [1080p]
+2025-04-20 17:49:33,276 - INFO - Successfully processed torrent: Pixels (2015) [1080p]
+2025-04-20 17:49:33,277 - INFO - Processing torrent: The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:49:33,277 - INFO - Attempting to upload torrent: The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:49:33,277 - INFO - Content path: /home/user/Desktop/torrents/The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:49:33,277 - INFO - Remote path: onedrive:Torrents/The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:49:33,277 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Pixels (2015) [1080p]'}
+2025-04-20 17:49:33,277 - INFO - Uploading torrent: The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:49:33,277 - INFO - Directory /home/user/Desktop/torrents/The Addams Family (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 3 files/dirs
+2025-04-20 17:49:33,278 - INFO - Starting upload: /home/user/Desktop/torrents/The Addams Family (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:49:33,278 - INFO - Uploading directory of size 1397.59 MB
+2025-04-20 17:50:50,838 - INFO - Successfully uploaded to onedrive:Torrents/Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:50:50,839 - INFO - Verifying upload for: Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:50:50,840 - INFO - Verifying upload: /home/user/Desktop/torrents/Tag (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:50:53,139 - INFO - Upload verification successful for /home/user/Desktop/torrents/Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:50:53,146 - INFO - Deleting torrent from qBittorrent: Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:50:53,147 - INFO - Deleting torrent with hash 36ca9cd3eda54b8e427dc2d7c5c8b76001f436b8 (delete_files=False)
+2025-04-20 17:50:53,159 - INFO - Successfully deleted torrent with hash 36ca9cd3eda54b8e427dc2d7c5c8b76001f436b8
+2025-04-20 17:50:53,159 - INFO - Deleting content files: Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:50:53,159 - INFO - Deleting content: /home/user/Desktop/torrents/Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:50:53,160 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:50:53,161 - INFO - Successfully processed torrent: Tag (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:50:53,161 - INFO - Processing torrent: Pulp Fiction (1994) [1080p]
+2025-04-20 17:50:53,161 - INFO - Attempting to upload torrent: Pulp Fiction (1994) [1080p]
+2025-04-20 17:50:53,161 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Tag (2018) [BluRay] [1080p] [YTS.AM]'}
+2025-04-20 17:50:53,161 - INFO - Content path: /home/user/Desktop/torrents/Pulp Fiction (1994) [1080p]
+2025-04-20 17:50:53,161 - INFO - Remote path: onedrive:Torrents/Pulp Fiction (1994) [1080p]
+2025-04-20 17:50:53,161 - INFO - Uploading torrent: Pulp Fiction (1994) [1080p]
+2025-04-20 17:50:53,161 - INFO - Directory /home/user/Desktop/torrents/Pulp Fiction (1994) [1080p] is readable, contains 4 files/dirs
+2025-04-20 17:50:53,162 - INFO - Starting upload: /home/user/Desktop/torrents/Pulp Fiction (1994) [1080p] -> onedrive:Torrents/Pulp Fiction (1994) [1080p]
+2025-04-20 17:50:53,162 - INFO - Uploading directory of size 1437.10 MB
