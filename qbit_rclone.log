@@ -2896,3 +2896,123 @@
 2025-04-20 17:15:36,161 - INFO - Directory /home/user/Desktop/torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
 2025-04-20 17:15:36,161 - INFO - Starting upload: /home/user/Desktop/torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-20 17:15:36,161 - INFO - Uploading directory of size 2120.86 MB
+2025-04-20 17:16:07,329 - INFO - Successfully uploaded to onedrive:Torrents/Top Gun (1986) [1080p]
+2025-04-20 17:16:07,330 - INFO - Verifying upload for: Top Gun (1986) [1080p]
+2025-04-20 17:16:07,330 - INFO - Verifying upload: /home/user/Desktop/torrents/Top Gun (1986) [1080p] -> onedrive:Torrents/Top Gun (1986) [1080p]
+2025-04-20 17:16:09,971 - INFO - Upload verification successful for /home/user/Desktop/torrents/Top Gun (1986) [1080p]
+2025-04-20 17:16:09,979 - INFO - Deleting torrent from qBittorrent: Top Gun (1986) [1080p]
+2025-04-20 17:16:09,979 - INFO - Deleting torrent with hash fffd5c4a4a8e232df41197fd0bce50ae474ef14e (delete_files=False)
+2025-04-20 17:16:09,989 - INFO - Successfully deleted torrent with hash fffd5c4a4a8e232df41197fd0bce50ae474ef14e
+2025-04-20 17:16:09,989 - INFO - Deleting content files: Top Gun (1986) [1080p]
+2025-04-20 17:16:09,989 - INFO - Deleting content: /home/user/Desktop/torrents/Top Gun (1986) [1080p]
+2025-04-20 17:16:09,990 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Top Gun (1986) [1080p]
+2025-04-20 17:16:09,990 - INFO - Successfully processed torrent: Top Gun (1986) [1080p]
+2025-04-20 17:16:09,990 - INFO - Processing torrent: WALL-E (2008) [1080p]
+2025-04-20 17:16:09,990 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Top Gun (1986) [1080p]'}
+2025-04-20 17:16:09,991 - INFO - Attempting to upload torrent: WALL-E (2008) [1080p]
+2025-04-20 17:16:09,991 - INFO - Content path: /home/user/Desktop/torrents/WALL-E (2008) [1080p]
+2025-04-20 17:16:09,991 - INFO - Remote path: onedrive:Torrents/WALL-E (2008) [1080p]
+2025-04-20 17:16:09,991 - INFO - Uploading torrent: WALL-E (2008) [1080p]
+2025-04-20 17:16:09,991 - INFO - Directory /home/user/Desktop/torrents/WALL-E (2008) [1080p] is readable, contains 4 files/dirs
+2025-04-20 17:16:09,991 - INFO - Starting upload: /home/user/Desktop/torrents/WALL-E (2008) [1080p] -> onedrive:Torrents/WALL-E (2008) [1080p]
+2025-04-20 17:16:09,991 - INFO - Uploading directory of size 1233.80 MB
+2025-04-20 17:16:17,145 - INFO - Successfully uploaded to onedrive:Torrents/Into the Woods (2014) [1080p]
+2025-04-20 17:16:17,146 - INFO - Verifying upload for: Into the Woods (2014) [1080p]
+2025-04-20 17:16:17,146 - INFO - Verifying upload: /home/user/Desktop/torrents/Into the Woods (2014) [1080p] -> onedrive:Torrents/Into the Woods (2014) [1080p]
+2025-04-20 17:16:19,398 - INFO - Upload verification successful for /home/user/Desktop/torrents/Into the Woods (2014) [1080p]
+2025-04-20 17:16:19,409 - INFO - Deleting torrent from qBittorrent: Into the Woods (2014) [1080p]
+2025-04-20 17:16:19,410 - INFO - Deleting torrent with hash 4e660f05ad95f61950985c3a6702ae605e41b649 (delete_files=False)
+2025-04-20 17:16:19,417 - INFO - Successfully deleted torrent with hash 4e660f05ad95f61950985c3a6702ae605e41b649
+2025-04-20 17:16:19,417 - INFO - Deleting content files: Into the Woods (2014) [1080p]
+2025-04-20 17:16:19,418 - INFO - Deleting content: /home/user/Desktop/torrents/Into the Woods (2014) [1080p]
+2025-04-20 17:16:19,418 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Into the Woods (2014) [1080p]
+2025-04-20 17:16:19,419 - INFO - Successfully processed torrent: Into the Woods (2014) [1080p]
+2025-04-20 17:16:19,419 - INFO - Processing torrent: Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:16:19,419 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Into the Woods (2014) [1080p]'}
+2025-04-20 17:16:19,419 - INFO - Attempting to upload torrent: Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:16:19,419 - INFO - Content path: /home/user/Desktop/torrents/Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:16:19,419 - INFO - Remote path: onedrive:Torrents/Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:16:19,419 - INFO - Uploading torrent: Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:16:19,419 - INFO - Directory /home/user/Desktop/torrents/Allied (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 17:16:19,419 - INFO - Starting upload: /home/user/Desktop/torrents/Allied (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:16:19,420 - INFO - Uploading directory of size 1939.56 MB
+2025-04-20 17:17:54,598 - INFO - Successfully uploaded to onedrive:Torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:17:54,598 - INFO - Verifying upload for: Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:17:54,599 - INFO - Verifying upload: /home/user/Desktop/torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:17:56,939 - INFO - Upload verification successful for /home/user/Desktop/torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:17:56,949 - INFO - Deleting torrent from qBittorrent: Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:17:56,950 - INFO - Deleting torrent with hash c4cf33a4f4827c1a1e1cccceb04ce01a8a115473 (delete_files=False)
+2025-04-20 17:17:56,960 - INFO - Successfully deleted torrent with hash c4cf33a4f4827c1a1e1cccceb04ce01a8a115473
+2025-04-20 17:17:56,960 - INFO - Deleting content files: Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:17:56,960 - INFO - Deleting content: /home/user/Desktop/torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:17:56,962 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:17:56,963 - INFO - Successfully processed torrent: Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:17:56,963 - INFO - Processing torrent: Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:17:56,963 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]'}
+2025-04-20 17:17:56,963 - INFO - Attempting to upload torrent: Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:17:56,964 - INFO - Content path: /home/user/Desktop/torrents/Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:17:56,964 - INFO - Remote path: onedrive:Torrents/Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:17:56,964 - INFO - Uploading torrent: Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:17:56,964 - INFO - Directory /home/user/Desktop/torrents/Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 17:17:56,964 - INFO - Starting upload: /home/user/Desktop/torrents/Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:17:56,964 - INFO - Uploading directory of size 1764.93 MB
+2025-04-20 17:19:04,751 - INFO - Successfully uploaded to onedrive:Torrents/WALL-E (2008) [1080p]
+2025-04-20 17:19:04,751 - INFO - Verifying upload for: WALL-E (2008) [1080p]
+2025-04-20 17:19:04,751 - INFO - Verifying upload: /home/user/Desktop/torrents/WALL-E (2008) [1080p] -> onedrive:Torrents/WALL-E (2008) [1080p]
+2025-04-20 17:19:07,281 - INFO - Upload verification successful for /home/user/Desktop/torrents/WALL-E (2008) [1080p]
+2025-04-20 17:19:07,296 - INFO - Deleting torrent from qBittorrent: WALL-E (2008) [1080p]
+2025-04-20 17:19:07,296 - INFO - Deleting torrent with hash 6687a51bb38802620e13542d9c50235039f939d1 (delete_files=False)
+2025-04-20 17:19:07,313 - INFO - Successfully deleted torrent with hash 6687a51bb38802620e13542d9c50235039f939d1
+2025-04-20 17:19:07,314 - INFO - Deleting content files: WALL-E (2008) [1080p]
+2025-04-20 17:19:07,314 - INFO - Deleting content: /home/user/Desktop/torrents/WALL-E (2008) [1080p]
+2025-04-20 17:19:07,315 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/WALL-E (2008) [1080p]
+2025-04-20 17:19:07,315 - INFO - Successfully processed torrent: WALL-E (2008) [1080p]
+2025-04-20 17:19:07,315 - INFO - Processing torrent: I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:19:07,315 - INFO - Attempting to upload torrent: I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:19:07,315 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'WALL-E (2008) [1080p]'}
+2025-04-20 17:19:07,316 - INFO - Content path: /home/user/Desktop/torrents/I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:19:07,316 - INFO - Remote path: onedrive:Torrents/I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:19:07,316 - INFO - Uploading torrent: I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:19:07,316 - INFO - Directory /home/user/Desktop/torrents/I Am Legend AlTERNATE ENDING (2007) [1080p] is readable, contains 3 files/dirs
+2025-04-20 17:19:07,316 - INFO - Starting upload: /home/user/Desktop/torrents/I Am Legend AlTERNATE ENDING (2007) [1080p] -> onedrive:Torrents/I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:19:07,316 - INFO - Uploading directory of size 1436.62 MB
+2025-04-20 17:19:59,509 - INFO - Successfully uploaded to onedrive:Torrents/Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:19:59,509 - INFO - Verifying upload for: Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:19:59,509 - INFO - Verifying upload: /home/user/Desktop/torrents/Bright (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,834 - INFO - Upload verification successful for /home/user/Desktop/torrents/Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,842 - INFO - Deleting torrent from qBittorrent: Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,842 - INFO - Deleting torrent with hash 6dce82dc63e8911b7458666ce3ab491418684649 (delete_files=False)
+2025-04-20 17:20:01,852 - INFO - Successfully deleted torrent with hash 6dce82dc63e8911b7458666ce3ab491418684649
+2025-04-20 17:20:01,852 - INFO - Deleting content files: Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,852 - INFO - Deleting content: /home/user/Desktop/torrents/Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,853 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,854 - INFO - Successfully processed torrent: Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,854 - INFO - Processing torrent: Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,854 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Bright (2017) [1080p] [YTS.AG]'}
+2025-04-20 17:20:01,854 - INFO - Attempting to upload torrent: Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,854 - INFO - Content path: /home/user/Desktop/torrents/Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,854 - INFO - Remote path: onedrive:Torrents/Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,854 - INFO - Uploading torrent: Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,855 - INFO - Directory /home/user/Desktop/torrents/Wind River (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 17:20:01,855 - INFO - Starting upload: /home/user/Desktop/torrents/Wind River (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:20:01,855 - INFO - Uploading directory of size 1661.55 MB
+2025-04-20 17:20:28,615 - INFO - Successfully uploaded to onedrive:Torrents/Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:20:28,615 - INFO - Verifying upload for: Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:20:28,615 - INFO - Verifying upload: /home/user/Desktop/torrents/Allied (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:20:31,732 - INFO - Upload verification successful for /home/user/Desktop/torrents/Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:20:31,768 - INFO - Deleting torrent from qBittorrent: Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:20:31,769 - INFO - Deleting torrent with hash c4205f4b2b707cd3c8cff6f1b2dad41a0fcf0e3d (delete_files=False)
+2025-04-20 17:20:31,778 - INFO - Successfully deleted torrent with hash c4205f4b2b707cd3c8cff6f1b2dad41a0fcf0e3d
+2025-04-20 17:20:31,778 - INFO - Deleting content files: Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:20:31,779 - INFO - Deleting content: /home/user/Desktop/torrents/Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:20:31,780 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:20:31,781 - INFO - Successfully processed torrent: Allied (2016) [1080p] [YTS.AG]
+2025-04-20 17:20:31,781 - INFO - Processing torrent: Pacific Rim (2013) [1080p]
+2025-04-20 17:20:31,781 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Allied (2016) [1080p] [YTS.AG]'}
+2025-04-20 17:20:31,781 - INFO - Attempting to upload torrent: Pacific Rim (2013) [1080p]
+2025-04-20 17:20:31,781 - INFO - Content path: /home/user/Desktop/torrents/Pacific Rim (2013) [1080p]
+2025-04-20 17:20:31,781 - INFO - Remote path: onedrive:Torrents/Pacific Rim (2013) [1080p]
+2025-04-20 17:20:31,781 - INFO - Uploading torrent: Pacific Rim (2013) [1080p]
+2025-04-20 17:20:31,781 - INFO - Directory /home/user/Desktop/torrents/Pacific Rim (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-20 17:20:31,781 - INFO - Starting upload: /home/user/Desktop/torrents/Pacific Rim (2013) [1080p] -> onedrive:Torrents/Pacific Rim (2013) [1080p]
+2025-04-20 17:20:31,782 - INFO - Uploading directory of size 1995.67 MB
