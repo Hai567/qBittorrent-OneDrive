@@ -2096,3 +2096,71 @@
 2025-04-20 16:06:06,794 - INFO - Directory /home/user/Desktop/torrents/Train To Busan (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-20 16:06:06,794 - INFO - Starting upload: /home/user/Desktop/torrents/Train To Busan (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Train To Busan (2016) [1080p] [YTS.AG]
 2025-04-20 16:06:06,794 - INFO - Uploading directory of size 1839.93 MB
+2025-04-20 16:10:37,731 - INFO - Successfully uploaded to onedrive:Torrents/The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:37,731 - INFO - Verifying upload for: The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:37,731 - INFO - Verifying upload: /home/user/Desktop/torrents/The Lost City Of Z (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,295 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,301 - INFO - Deleting torrent from qBittorrent: The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,301 - INFO - Deleting torrent with hash 43711f859699e7cd529a1c9ff67b2ffea1172605 (delete_files=False)
+2025-04-20 16:10:40,310 - INFO - Successfully deleted torrent with hash 43711f859699e7cd529a1c9ff67b2ffea1172605
+2025-04-20 16:10:40,311 - INFO - Deleting content files: The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,311 - INFO - Deleting content: /home/user/Desktop/torrents/The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,312 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,312 - INFO - Successfully processed torrent: The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,312 - INFO - Processing torrent: Patriots Day (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,313 - INFO - Attempting to upload torrent: Patriots Day (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,313 - INFO - Content path: /home/user/Desktop/torrents/Patriots Day (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,313 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Lost City Of Z (2016) [1080p] [YTS.AG]'}
+2025-04-20 16:10:40,313 - INFO - Remote path: onedrive:Torrents/Patriots Day (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,313 - INFO - Uploading torrent: Patriots Day (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,313 - INFO - Directory /home/user/Desktop/torrents/Patriots Day (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 16:10:40,313 - INFO - Starting upload: /home/user/Desktop/torrents/Patriots Day (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Patriots Day (2016) [1080p] [YTS.AG]
+2025-04-20 16:10:40,314 - INFO - Uploading directory of size 2062.06 MB
+2025-04-20 16:11:04,883 - INFO - Successfully uploaded to onedrive:Torrents/1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:11:04,883 - INFO - Verifying upload for: 1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:11:04,883 - INFO - Verifying upload: /home/user/Desktop/torrents/1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:11:07,146 - INFO - Upload verification successful for /home/user/Desktop/torrents/1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:11:07,152 - INFO - Deleting torrent from qBittorrent: 1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:11:07,152 - INFO - Deleting torrent with hash bca973373ebde35c3887d026c7929b8017a3572b (delete_files=False)
+2025-04-20 16:11:07,160 - INFO - Successfully deleted torrent with hash bca973373ebde35c3887d026c7929b8017a3572b
+2025-04-20 16:11:07,161 - INFO - Deleting content files: 1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:11:07,161 - INFO - Deleting content: /home/user/Desktop/torrents/1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:11:07,162 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:11:07,162 - INFO - Successfully processed torrent: 1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:11:07,162 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': '1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-20 16:11:12,665 - INFO - Successfully uploaded to onedrive:Torrents/The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:12,665 - INFO - Verifying upload for: The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:12,665 - INFO - Verifying upload: /home/user/Desktop/torrents/The 5th Wave (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:15,010 - INFO - Upload verification successful for /home/user/Desktop/torrents/The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:15,016 - INFO - Deleting torrent from qBittorrent: The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:15,016 - INFO - Deleting torrent with hash f6188fc124c0b613c3fb4e2d0a462b6322372a3d (delete_files=False)
+2025-04-20 16:11:15,023 - INFO - Successfully deleted torrent with hash f6188fc124c0b613c3fb4e2d0a462b6322372a3d
+2025-04-20 16:11:15,024 - INFO - Deleting content files: The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:15,024 - INFO - Deleting content: /home/user/Desktop/torrents/The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:15,025 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:15,025 - INFO - Successfully processed torrent: The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:15,025 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The 5th Wave (2016) [1080p] [YTS.AG]'}
+2025-04-20 16:11:53,074 - INFO - Successfully uploaded to onedrive:Torrents/Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:53,074 - INFO - Verifying upload for: Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:53,074 - INFO - Verifying upload: /home/user/Desktop/torrents/Train To Busan (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:55,343 - INFO - Upload verification successful for /home/user/Desktop/torrents/Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:55,349 - INFO - Deleting torrent from qBittorrent: Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:55,349 - INFO - Deleting torrent with hash 168637b7a074323f92b4d233383df90e7eb88ce0 (delete_files=False)
+2025-04-20 16:11:55,358 - INFO - Successfully deleted torrent with hash 168637b7a074323f92b4d233383df90e7eb88ce0
+2025-04-20 16:11:55,358 - INFO - Deleting content files: Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:55,358 - INFO - Deleting content: /home/user/Desktop/torrents/Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:55,359 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:55,359 - INFO - Successfully processed torrent: Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:11:55,359 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Train To Busan (2016) [1080p] [YTS.AG]'}
+2025-04-20 16:12:03,890 - INFO - Successfully uploaded to onedrive:Torrents/Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:12:03,890 - INFO - Verifying upload for: Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:12:03,891 - INFO - Verifying upload: /home/user/Desktop/torrents/Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:12:06,438 - INFO - Upload verification successful for /home/user/Desktop/torrents/Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:12:06,444 - INFO - Deleting torrent from qBittorrent: Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:12:06,444 - INFO - Deleting torrent with hash 8de70c2c9e2838c9a11f3a4a54899f46dd27f413 (delete_files=False)
+2025-04-20 16:12:06,451 - INFO - Successfully deleted torrent with hash 8de70c2c9e2838c9a11f3a4a54899f46dd27f413
+2025-04-20 16:12:06,452 - INFO - Deleting content files: Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:12:06,452 - INFO - Deleting content: /home/user/Desktop/torrents/Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:12:06,453 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:12:06,453 - INFO - Successfully processed torrent: Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:12:06,454 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]'}
