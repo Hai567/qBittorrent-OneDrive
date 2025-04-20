@@ -3286,3 +3286,143 @@
 2025-04-20 17:39:27,191 - INFO - Directory /home/user/Desktop/torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
 2025-04-20 17:39:27,191 - INFO - Starting upload: /home/user/Desktop/torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-20 17:39:27,191 - INFO - Uploading directory of size 2041.22 MB
+2025-04-20 17:41:36,558 - INFO - Successfully uploaded to onedrive:Torrents/Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:41:36,559 - INFO - Verifying upload for: Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:41:36,559 - INFO - Verifying upload: /home/user/Desktop/torrents/Smurfs The Lost Village (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:41:38,938 - INFO - Upload verification successful for /home/user/Desktop/torrents/Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:41:38,945 - INFO - Deleting torrent from qBittorrent: Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:41:38,946 - INFO - Deleting torrent with hash d5de0d6bdc7de45d4fc82782183a701c995e176a (delete_files=False)
+2025-04-20 17:41:38,957 - INFO - Successfully deleted torrent with hash d5de0d6bdc7de45d4fc82782183a701c995e176a
+2025-04-20 17:41:38,957 - INFO - Deleting content files: Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:41:38,957 - INFO - Deleting content: /home/user/Desktop/torrents/Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:41:38,959 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:41:38,959 - INFO - Successfully processed torrent: Smurfs The Lost Village (2017) [1080p] [YTS.AG]
+2025-04-20 17:41:38,959 - INFO - Processing torrent: Home Alone (1990) [1080p]
+2025-04-20 17:41:38,959 - INFO - Attempting to upload torrent: Home Alone (1990) [1080p]
+2025-04-20 17:41:38,959 - INFO - Content path: /home/user/Desktop/torrents/Home Alone (1990) [1080p]
+2025-04-20 17:41:38,959 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Smurfs The Lost Village (2017) [1080p] [YTS.AG]'}
+2025-04-20 17:41:38,959 - INFO - Remote path: onedrive:Torrents/Home Alone (1990) [1080p]
+2025-04-20 17:41:38,960 - INFO - Uploading torrent: Home Alone (1990) [1080p]
+2025-04-20 17:41:38,960 - INFO - Directory /home/user/Desktop/torrents/Home Alone (1990) [1080p] is readable, contains 2 files/dirs
+2025-04-20 17:41:38,960 - INFO - Starting upload: /home/user/Desktop/torrents/Home Alone (1990) [1080p] -> onedrive:Torrents/Home Alone (1990) [1080p]
+2025-04-20 17:41:38,960 - INFO - Uploading directory of size 1685.85 MB
+2025-04-20 17:42:12,335 - INFO - Successfully uploaded to onedrive:Torrents/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:12,336 - INFO - Verifying upload for: Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:12,336 - INFO - Verifying upload: /home/user/Desktop/torrents/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:14,880 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:14,887 - INFO - Deleting torrent from qBittorrent: Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:14,888 - INFO - Deleting torrent with hash 99995788f7810f02a29e79c558410674e107b54e (delete_files=False)
+2025-04-20 17:42:14,900 - INFO - Successfully deleted torrent with hash 99995788f7810f02a29e79c558410674e107b54e
+2025-04-20 17:42:14,900 - INFO - Deleting content files: Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:14,900 - INFO - Deleting content: /home/user/Desktop/torrents/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:14,902 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:14,902 - INFO - Successfully processed torrent: Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:14,902 - INFO - Processing torrent: Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:42:14,902 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 17:42:14,902 - INFO - Attempting to upload torrent: Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:42:14,903 - INFO - Content path: /home/user/Desktop/torrents/Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:42:14,903 - INFO - Remote path: onedrive:Torrents/Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:42:14,903 - INFO - Uploading torrent: Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:42:14,903 - INFO - Directory /home/user/Desktop/torrents/Kung Fu Panda (2008) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 17:42:14,903 - INFO - Starting upload: /home/user/Desktop/torrents/Kung Fu Panda (2008) [1080p] [YTS.AG] -> onedrive:Torrents/Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:42:14,903 - INFO - Uploading directory of size 1434.17 MB
+2025-04-20 17:42:16,381 - INFO - Successfully uploaded to onedrive:Torrents/Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:16,381 - INFO - Verifying upload for: Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:16,381 - INFO - Verifying upload: /home/user/Desktop/torrents/Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:18,636 - INFO - Upload verification successful for /home/user/Desktop/torrents/Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:18,646 - INFO - Deleting torrent from qBittorrent: Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:18,646 - INFO - Deleting torrent with hash 5b075d0a44aa4b8bfb90a36af99eee80ab3d24de (delete_files=False)
+2025-04-20 17:42:18,655 - INFO - Successfully deleted torrent with hash 5b075d0a44aa4b8bfb90a36af99eee80ab3d24de
+2025-04-20 17:42:18,655 - INFO - Deleting content files: Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:18,655 - INFO - Deleting content: /home/user/Desktop/torrents/Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:18,656 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:18,656 - INFO - Successfully processed torrent: Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:42:18,656 - INFO - Processing torrent: The Longest Ride (2015) [1080p]
+2025-04-20 17:42:18,656 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 17:42:18,656 - INFO - Attempting to upload torrent: The Longest Ride (2015) [1080p]
+2025-04-20 17:42:18,657 - INFO - Content path: /home/user/Desktop/torrents/The Longest Ride (2015) [1080p]
+2025-04-20 17:42:18,657 - INFO - Remote path: onedrive:Torrents/The Longest Ride (2015) [1080p]
+2025-04-20 17:42:18,657 - INFO - Uploading torrent: The Longest Ride (2015) [1080p]
+2025-04-20 17:42:18,657 - INFO - Directory /home/user/Desktop/torrents/The Longest Ride (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-20 17:42:18,657 - INFO - Starting upload: /home/user/Desktop/torrents/The Longest Ride (2015) [1080p] -> onedrive:Torrents/The Longest Ride (2015) [1080p]
+2025-04-20 17:42:18,657 - INFO - Uploading directory of size 1993.65 MB
+2025-04-20 17:42:43,805 - INFO - Successfully uploaded to onedrive:Torrents/Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:42:43,805 - INFO - Verifying upload for: Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:42:43,805 - INFO - Verifying upload: /home/user/Desktop/torrents/Ferdinand (2017) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:42:45,634 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:42:45,642 - INFO - Deleting torrent from qBittorrent: Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:42:45,643 - INFO - Deleting torrent with hash a8af76f1ddeb839887570d01cccfb7f632a488eb (delete_files=False)
+2025-04-20 17:42:45,652 - INFO - Successfully deleted torrent with hash a8af76f1ddeb839887570d01cccfb7f632a488eb
+2025-04-20 17:42:45,653 - INFO - Deleting content files: Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:42:45,653 - INFO - Deleting content: /home/user/Desktop/torrents/Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:42:45,654 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:42:45,654 - INFO - Successfully processed torrent: Ferdinand (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:42:45,654 - INFO - Processing torrent: The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:42:45,654 - INFO - Attempting to upload torrent: The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:42:45,654 - INFO - Content path: /home/user/Desktop/torrents/The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:42:45,655 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ferdinand (2017) [BluRay] [1080p] [YTS.AM]'}
+2025-04-20 17:42:45,655 - INFO - Remote path: onedrive:Torrents/The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:42:45,655 - INFO - Uploading torrent: The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:42:45,655 - INFO - Directory /home/user/Desktop/torrents/The Grand Budapest Hotel (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 17:42:45,655 - INFO - Starting upload: /home/user/Desktop/torrents/The Grand Budapest Hotel (2014) [1080p] -> onedrive:Torrents/The Grand Budapest Hotel (2014) [1080p]
+2025-04-20 17:42:45,655 - INFO - Uploading directory of size 1482.92 MB
+2025-04-20 17:43:47,949 - INFO - Successfully uploaded to onedrive:Torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:43:47,949 - INFO - Verifying upload for: Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:43:47,949 - INFO - Verifying upload: /home/user/Desktop/torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:43:50,287 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:43:50,295 - INFO - Deleting torrent from qBittorrent: Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:43:50,295 - INFO - Deleting torrent with hash 73dcb393e8a07d3c87f55f8d16b4d327f17618cf (delete_files=False)
+2025-04-20 17:43:50,305 - INFO - Successfully deleted torrent with hash 73dcb393e8a07d3c87f55f8d16b4d327f17618cf
+2025-04-20 17:43:50,305 - INFO - Deleting content files: Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:43:50,305 - INFO - Deleting content: /home/user/Desktop/torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:43:50,306 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:43:50,306 - INFO - Successfully processed torrent: Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:43:50,307 - INFO - Processing torrent: The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:43:50,307 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 17:43:50,307 - INFO - Attempting to upload torrent: The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:43:50,307 - INFO - Content path: /home/user/Desktop/torrents/The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:43:50,307 - INFO - Remote path: onedrive:Torrents/The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:43:50,307 - INFO - Uploading torrent: The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:43:50,307 - INFO - Directory /home/user/Desktop/torrents/The Founder (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 17:43:50,307 - INFO - Starting upload: /home/user/Desktop/torrents/The Founder (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Founder (2016) [1080p] [YTS.AG]
+2025-04-20 17:43:50,307 - INFO - Uploading directory of size 1792.15 MB
+2025-04-20 17:45:13,156 - INFO - Successfully uploaded to onedrive:Torrents/Home Alone (1990) [1080p]
+2025-04-20 17:45:13,156 - INFO - Verifying upload for: Home Alone (1990) [1080p]
+2025-04-20 17:45:13,156 - INFO - Verifying upload: /home/user/Desktop/torrents/Home Alone (1990) [1080p] -> onedrive:Torrents/Home Alone (1990) [1080p]
+2025-04-20 17:45:15,457 - INFO - Upload verification successful for /home/user/Desktop/torrents/Home Alone (1990) [1080p]
+2025-04-20 17:45:15,464 - INFO - Deleting torrent from qBittorrent: Home Alone (1990) [1080p]
+2025-04-20 17:45:15,464 - INFO - Deleting torrent with hash 5fefac61c0f42ffc43946b3379a540d1a38f6480 (delete_files=False)
+2025-04-20 17:45:15,476 - INFO - Successfully deleted torrent with hash 5fefac61c0f42ffc43946b3379a540d1a38f6480
+2025-04-20 17:45:15,476 - INFO - Deleting content files: Home Alone (1990) [1080p]
+2025-04-20 17:45:15,476 - INFO - Deleting content: /home/user/Desktop/torrents/Home Alone (1990) [1080p]
+2025-04-20 17:45:15,477 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Home Alone (1990) [1080p]
+2025-04-20 17:45:15,477 - INFO - Successfully processed torrent: Home Alone (1990) [1080p]
+2025-04-20 17:45:15,477 - INFO - Processing torrent: Pixels (2015) [1080p]
+2025-04-20 17:45:15,477 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Home Alone (1990) [1080p]'}
+2025-04-20 17:45:15,478 - INFO - Attempting to upload torrent: Pixels (2015) [1080p]
+2025-04-20 17:45:15,478 - INFO - Content path: /home/user/Desktop/torrents/Pixels (2015) [1080p]
+2025-04-20 17:45:15,478 - INFO - Remote path: onedrive:Torrents/Pixels (2015) [1080p]
+2025-04-20 17:45:15,478 - INFO - Uploading torrent: Pixels (2015) [1080p]
+2025-04-20 17:45:15,478 - INFO - Directory /home/user/Desktop/torrents/Pixels (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-20 17:45:15,478 - INFO - Starting upload: /home/user/Desktop/torrents/Pixels (2015) [1080p] -> onedrive:Torrents/Pixels (2015) [1080p]
+2025-04-20 17:45:15,478 - INFO - Uploading directory of size 1685.06 MB
+2025-04-20 17:45:51,545 - INFO - Successfully uploaded to onedrive:Torrents/Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:45:51,545 - INFO - Verifying upload for: Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:45:51,545 - INFO - Verifying upload: /home/user/Desktop/torrents/Kung Fu Panda (2008) [1080p] [YTS.AG] -> onedrive:Torrents/Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:45:53,835 - INFO - Upload verification successful for /home/user/Desktop/torrents/Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:45:53,842 - INFO - Deleting torrent from qBittorrent: Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:45:53,842 - INFO - Deleting torrent with hash deafb8761ddbc8f4287858a43c669e0bfd017cb7 (delete_files=False)
+2025-04-20 17:45:53,853 - INFO - Successfully deleted torrent with hash deafb8761ddbc8f4287858a43c669e0bfd017cb7
+2025-04-20 17:45:53,853 - INFO - Deleting content files: Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:45:53,853 - INFO - Deleting content: /home/user/Desktop/torrents/Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:45:53,854 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:45:53,854 - INFO - Successfully processed torrent: Kung Fu Panda (2008) [1080p] [YTS.AG]
+2025-04-20 17:45:53,854 - INFO - Processing torrent: Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:45:53,855 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Kung Fu Panda (2008) [1080p] [YTS.AG]'}
+2025-04-20 17:45:53,855 - INFO - Attempting to upload torrent: Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:45:53,855 - INFO - Content path: /home/user/Desktop/torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:45:53,855 - INFO - Remote path: onedrive:Torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:45:53,855 - INFO - Uploading torrent: Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:45:53,855 - INFO - Directory /home/user/Desktop/torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-20 17:45:53,855 - INFO - Starting upload: /home/user/Desktop/torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:45:53,855 - INFO - Uploading directory of size 1991.38 MB
