@@ -1609,3 +1609,35 @@
 2025-04-20 15:27:36,828 - INFO - Directory /home/user/Desktop/torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] is readable, contains 2 files/dirs
 2025-04-20 15:27:36,828 - INFO - Starting upload: /home/user/Desktop/torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-20 15:27:36,829 - INFO - Uploading directory of size 1435.87 MB
+2025-04-20 15:27:49,436 - INFO - Successfully uploaded to onedrive:Torrents/American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:27:49,436 - INFO - Verifying upload for: American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:27:49,436 - INFO - Verifying upload: /home/user/Desktop/torrents/American Made (2017) [1080p] [YTS.AG] -> onedrive:Torrents/American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:27:51,758 - INFO - Upload verification successful for /home/user/Desktop/torrents/American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:27:51,764 - INFO - Deleting torrent from qBittorrent: American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:27:51,764 - INFO - Deleting torrent with hash 791c6a8e1627cd275f3e48c3fffb9068f7e5274f (delete_files=False)
+2025-04-20 15:27:51,774 - INFO - Successfully deleted torrent with hash 791c6a8e1627cd275f3e48c3fffb9068f7e5274f
+2025-04-20 15:27:51,774 - INFO - Deleting content files: American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:27:51,774 - INFO - Deleting content: /home/user/Desktop/torrents/American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:27:51,775 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:27:51,776 - INFO - Successfully processed torrent: American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:27:51,776 - INFO - Processing torrent: The Imitation Game (2014) [1080p]
+2025-04-20 15:27:51,776 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'American Made (2017) [1080p] [YTS.AG]'}
+2025-04-20 15:27:51,776 - INFO - Attempting to upload torrent: The Imitation Game (2014) [1080p]
+2025-04-20 15:27:51,776 - INFO - Content path: /home/user/Desktop/torrents/The Imitation Game (2014) [1080p]
+2025-04-20 15:27:51,776 - INFO - Remote path: onedrive:Torrents/The Imitation Game (2014) [1080p]
+2025-04-20 15:27:51,776 - INFO - Uploading torrent: The Imitation Game (2014) [1080p]
+2025-04-20 15:27:51,776 - INFO - Directory /home/user/Desktop/torrents/The Imitation Game (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 15:27:51,776 - INFO - Starting upload: /home/user/Desktop/torrents/The Imitation Game (2014) [1080p] -> onedrive:Torrents/The Imitation Game (2014) [1080p]
+2025-04-20 15:27:51,776 - INFO - Uploading directory of size 1884.13 MB
+2025-04-20 15:30:25,021 - INFO - Successfully uploaded to onedrive:Torrents/The Wolverine (2013) [1080p]
+2025-04-20 15:30:25,021 - INFO - Verifying upload for: The Wolverine (2013) [1080p]
+2025-04-20 15:30:25,021 - INFO - Verifying upload: /home/user/Desktop/torrents/The Wolverine (2013) [1080p] -> onedrive:Torrents/The Wolverine (2013) [1080p]
+2025-04-20 15:30:27,715 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Wolverine (2013) [1080p]
+2025-04-20 15:30:27,724 - INFO - Deleting torrent from qBittorrent: The Wolverine (2013) [1080p]
+2025-04-20 15:30:27,724 - INFO - Deleting torrent with hash d91fbb667d8f7e9cc653123aabf37bb4851b2270 (delete_files=False)
+2025-04-20 15:30:27,734 - INFO - Successfully deleted torrent with hash d91fbb667d8f7e9cc653123aabf37bb4851b2270
+2025-04-20 15:30:27,734 - INFO - Deleting content files: The Wolverine (2013) [1080p]
+2025-04-20 15:30:27,734 - INFO - Deleting content: /home/user/Desktop/torrents/The Wolverine (2013) [1080p]
+2025-04-20 15:30:27,735 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Wolverine (2013) [1080p]
+2025-04-20 15:30:27,735 - INFO - Successfully processed torrent: The Wolverine (2013) [1080p]
+2025-04-20 15:30:27,736 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Wolverine (2013) [1080p]'}
