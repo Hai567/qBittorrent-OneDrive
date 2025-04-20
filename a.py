@@ -11,6 +11,7 @@ Features:
 - Automatically deletes content files/folders from filesystem after upload
 - Handles category-based organization
 - Retry mechanism for failed uploads
+- Supports multithreaded uploads for improved performance
 """
 
 import os
@@ -25,6 +26,8 @@ import requests
 import shutil
 import socket
 import traceback
+import concurrent.futures
+import threading
 from functools import wraps
 from typing import Any, Callable, Dict, List, Optional, Tuple, Union
 
@@ -498,6 +501,25 @@ class QBittorrentRcloneManager:
         self.max_failures = config.get("max_upload_failures", 3)
         self.auto_delete = config.get("auto_delete", {})
         
+        # Multithreading settings
+        self.multithreading_config = config.get("multithreading", {})
+        self.multithreading_enabled = self.multithreading_config.get("enabled", False)
+        self.max_workers = self.multithreading_config.get("max_workers", 3)
+        
+        # Thread management
+        self.thread_pool = None
+        self.thread_lock = threading.Lock()  # For thread-safe access to shared resources
+        
+        # Initialize thread pool if multithreading is enabled
+        if self.multithreading_enabled:
+            self.thread_pool = concurrent.futures.ThreadPoolExecutor(
+                max_workers=self.max_workers,
+                thread_name_prefix="rclone_upload"
+            )
+            logger.info(f"Multithreaded uploading enabled with {self.max_workers} workers")
+        else:
+            logger.info("Multithreaded uploading disabled - using sequential processing")
+        
     def _load_processed_torrents(self) -> Dict:
         """Load list of already processed torrents"""
         processed = self._load_json_file("processed_torrents.json")
@@ -591,6 +613,9 @@ class QBittorrentRcloneManager:
             # Check for any failed uploads to retry
             self._retry_failed_uploads()
             
+            # Torrents to process
+            torrents_to_process = []
+            
             for torrent in completed_torrents:
                 try:
                     torrent_hash = torrent.get("hash")
@@ -617,69 +642,138 @@ class QBittorrentRcloneManager:
                     if not content_path or not os.path.exists(content_path):
                         logger.warning(f"Cannot find content path for torrent: {torrent_name}")
                         continue
-                        
-                    # Use torrent name as the subpath to preserve folder structure
-                    remote_subpath = torrent_name
                     
-                    # Add debugging information
-                    logger.info(f"Attempting to upload torrent: {torrent_name}")
-                    logger.info(f"Content path: {content_path}")
-                    logger.info(f"Remote path: {self.rclone.remote_name}:{self.rclone.remote_path}/{remote_subpath}")
+                    # Add to processing list
+                    torrents_to_process.append({
+                        "torrent": torrent,
+                        "torrent_hash": torrent_hash,
+                        "torrent_name": torrent_name,
+                        "content_path": content_path
+                    })
                     
-                    # Upload the completed download
-                    logger.info(f"Uploading torrent: {torrent_name}")
-                    upload_success = self.rclone.upload_file(content_path, remote_subpath)
-                    
-                    if upload_success:
-                        # Verify the upload was successful
-                        logger.info(f"Verifying upload for: {torrent_name}")
-                        verify_success = self.rclone.verify_upload(content_path, remote_subpath)
-                        
-                        if verify_success:
-                            # Mark as processed
-                            self.processed_torrents[torrent_hash] = {
-                                "name": torrent_name,
-                                "uploaded_at": datetime.now().isoformat(),
-                                "path": content_path
-                            }
-                            self._save_processed_torrents()
-                            
-                            # Remove from failed uploads if it was there
-                            if torrent_hash in self.failed_uploads:
-                                del self.failed_uploads[torrent_hash]
-                                self._save_failed_uploads()
-                            
-                            # Delete the torrent from qBittorrent (but not its files, as we handle that separately)
-                            delete_from_client = self.config.get("auto_delete", {}).get("delete_from_client", True)
-                            if delete_from_client:
-                                logger.info(f"Deleting torrent from qBittorrent: {torrent_name}")
-                                delete_success = self.qbit_client.delete_torrent(torrent_hash, delete_files=False)
-                                if not delete_success:
-                                    logger.error(f"Failed to delete torrent from qBittorrent: {torrent_name}")
-                            
-                            # Delete the content files from filesystem
-                            delete_content = self.config.get("auto_delete", {}).get("delete_content", True)
-                            if delete_content:
-                                logger.info(f"Deleting content files: {torrent_name}")
-                                self._delete_content(content_path)
-                            
-                            logger.info(f"Successfully processed torrent: {torrent_name}")
-                        else:
-                            # Verification failed, record as a failure
-                            error_msg = f"Upload verification failed for: {torrent_name}"
-                            self._record_upload_failure(torrent_hash, torrent_name, content_path, error_msg)
-                            logger.error(error_msg)
-                    else:
-                        # Track failure
-                        self._record_upload_failure(torrent_hash, torrent_name, content_path, 
-                                                   self.rclone.last_error)
-                        logger.error(f"Failed to upload torrent: {torrent_name}")
                 except Exception as e:
-                    logger.error(f"Error processing torrent: {e}")
+                    logger.error(f"Error preprocessing torrent: {e}")
                     logger.error(traceback.format_exc())
+            
+            # Process torrents (either concurrently or sequentially)
+            if self.multithreading_enabled and self.thread_pool and torrents_to_process:
+                logger.info(f"Submitting {len(torrents_to_process)} torrents for parallel upload")
+                
+                # Create a list to store futures for parallel uploads
+                futures = []
+                
+                # Submit each torrent to thread pool
+                for torrent_data in torrents_to_process:
+                    future = self.thread_pool.submit(
+                        self._process_single_torrent,
+                        torrent_data["torrent"],
+                        torrent_data["torrent_hash"],
+                        torrent_data["torrent_name"],
+                        torrent_data["content_path"]
+                    )
+                    futures.append(future)
+                
+                # Wait for all uploads to complete
+                for future in concurrent.futures.as_completed(futures):
+                    try:
+                        # Get the result (will raise any exceptions from thread)
+                        result = future.result()
+                        if result:
+                            logger.info(f"Thread completed successfully with result: {result}")
+                    except Exception as e:
+                        logger.error(f"Error in upload thread: {e}")
+                        logger.error(traceback.format_exc())
+            else:
+                # Process sequentially
+                for torrent_data in torrents_to_process:
+                    self._process_single_torrent(
+                        torrent_data["torrent"],
+                        torrent_data["torrent_hash"],
+                        torrent_data["torrent_name"],
+                        torrent_data["content_path"]
+                    )
+                    
         except Exception as e:
             logger.error(f"Error in check_and_upload_completed: {e}")
             logger.error(traceback.format_exc())
+    
+    def _process_single_torrent(self, torrent: Dict, torrent_hash: str, 
+                               torrent_name: str, content_path: str) -> Dict:
+        """Process a single torrent upload (thread-safe method for parallel execution)"""
+        try:
+            logger.info(f"Processing torrent: {torrent_name}")
+            
+            # Use torrent name as the subpath to preserve folder structure
+            remote_subpath = torrent_name
+            
+            # Add debugging information
+            logger.info(f"Attempting to upload torrent: {torrent_name}")
+            logger.info(f"Content path: {content_path}")
+            logger.info(f"Remote path: {self.rclone.remote_name}:{self.rclone.remote_path}/{remote_subpath}")
+            
+            # Upload the completed download
+            logger.info(f"Uploading torrent: {torrent_name}")
+            upload_success = self.rclone.upload_file(content_path, remote_subpath)
+            
+            if upload_success:
+                # Verify the upload was successful
+                logger.info(f"Verifying upload for: {torrent_name}")
+                verify_success = self.rclone.verify_upload(content_path, remote_subpath)
+                
+                if verify_success:
+                    # Thread-safe update of shared state
+                    with self.thread_lock:
+                        # Mark as processed
+                        self.processed_torrents[torrent_hash] = {
+                            "name": torrent_name,
+                            "uploaded_at": datetime.now().isoformat(),
+                            "path": content_path
+                        }
+                        self._save_processed_torrents()
+                        
+                        # Remove from failed uploads if it was there
+                        if torrent_hash in self.failed_uploads:
+                            del self.failed_uploads[torrent_hash]
+                            self._save_failed_uploads()
+                    
+                    # Delete the torrent from qBittorrent (but not its files, as we handle that separately)
+                    delete_from_client = self.config.get("auto_delete", {}).get("delete_from_client", True)
+                    if delete_from_client:
+                        logger.info(f"Deleting torrent from qBittorrent: {torrent_name}")
+                        delete_success = self.qbit_client.delete_torrent(torrent_hash, delete_files=False)
+                        if not delete_success:
+                            logger.error(f"Failed to delete torrent from qBittorrent: {torrent_name}")
+                    
+                    # Delete the content files from filesystem
+                    delete_content = self.config.get("auto_delete", {}).get("delete_content", True)
+                    if delete_content:
+                        logger.info(f"Deleting content files: {torrent_name}")
+                        self._delete_content(content_path)
+                    
+                    logger.info(f"Successfully processed torrent: {torrent_name}")
+                    return {"status": "success", "torrent_name": torrent_name}
+                else:
+                    # Verification failed, record as a failure
+                    error_msg = f"Upload verification failed for: {torrent_name}"
+                    # Thread-safe update
+                    with self.thread_lock:
+                        self._record_upload_failure(torrent_hash, torrent_name, content_path, error_msg)
+                    logger.error(error_msg)
+                    return {"status": "verification_failed", "torrent_name": torrent_name}
+            else:
+                # Track failure
+                with self.thread_lock:
+                    self._record_upload_failure(torrent_hash, torrent_name, content_path, 
+                                              self.rclone.last_error)
+                logger.error(f"Failed to upload torrent: {torrent_name}")
+                return {"status": "upload_failed", "torrent_name": torrent_name}
+        except Exception as e:
+            logger.error(f"Error processing torrent {torrent_name}: {e}")
+            logger.error(traceback.format_exc())
+            # Thread-safe update
+            with self.thread_lock:
+                self._record_upload_failure(torrent_hash, torrent_name, content_path, str(e))
+            return {"status": "error", "torrent_name": torrent_name, "error": str(e)}
     
     def _get_torrent_content_path(self, torrent: Dict) -> Optional[str]:
         """Determine the content path for a torrent with fallback methods"""
@@ -751,6 +845,9 @@ class QBittorrentRcloneManager:
         # Create a copy of the keys since we might modify the dictionary
         failed_hashes = list(self.failed_uploads.keys())
         
+        # Collect torrents to retry
+        torrents_to_retry = []
+        
         for torrent_hash in failed_hashes:
             failed_info = self.failed_uploads[torrent_hash]
             
@@ -763,12 +860,65 @@ class QBittorrentRcloneManager:
             content_path = failed_info.get("path")
             if not content_path or not os.path.exists(content_path):
                 logger.warning(f"Content no longer exists for failed upload: {failed_info['name']}")
-                del self.failed_uploads[torrent_hash]
-                self._save_failed_uploads()
+                with self.thread_lock:
+                    del self.failed_uploads[torrent_hash]
+                    self._save_failed_uploads()
                 continue
             
+            # Add to retry list
+            torrents_to_retry.append({
+                "torrent_hash": torrent_hash,
+                "torrent_name": failed_info.get("name", ""),
+                "content_path": content_path,
+                "failures": failed_info.get("failures", 0)
+            })
+            
+        if not torrents_to_retry:
+            return
+            
+        # Process retries (either concurrently or sequentially)
+        if self.multithreading_enabled and self.thread_pool and torrents_to_retry:
+            logger.info(f"Submitting {len(torrents_to_retry)} failed torrents for parallel retry")
+            
+            # Create a list to store futures for parallel retries
+            futures = []
+            
+            # Submit each retry to thread pool
+            for retry_data in torrents_to_retry:
+                future = self.thread_pool.submit(
+                    self._retry_single_upload,
+                    retry_data["torrent_hash"],
+                    retry_data["torrent_name"],
+                    retry_data["content_path"],
+                    retry_data["failures"]
+                )
+                futures.append(future)
+            
+            # Wait for all retries to complete
+            for future in concurrent.futures.as_completed(futures):
+                try:
+                    # Get the result (will raise any exceptions from thread)
+                    result = future.result()
+                    if result:
+                        logger.info(f"Retry thread completed with result: {result}")
+                except Exception as e:
+                    logger.error(f"Error in retry thread: {e}")
+                    logger.error(traceback.format_exc())
+        else:
+            # Process sequentially
+            for retry_data in torrents_to_retry:
+                self._retry_single_upload(
+                    retry_data["torrent_hash"],
+                    retry_data["torrent_name"],
+                    retry_data["content_path"],
+                    retry_data["failures"]
+                )
+    
+    def _retry_single_upload(self, torrent_hash: str, torrent_name: str, 
+                            content_path: str, failures: int) -> Dict:
+        """Retry a single failed upload (thread-safe method for parallel execution)"""
+        try:
             # Use torrent name as the subpath to preserve folder structure
-            torrent_name = failed_info.get("name", "")
             remote_subpath = torrent_name
                 
             # Attempt to upload
@@ -781,17 +931,19 @@ class QBittorrentRcloneManager:
                 verify_success = self.rclone.verify_upload(content_path, remote_subpath)
                 
                 if verify_success:
-                    # Mark as processed and remove from failures
-                    self.processed_torrents[torrent_hash] = {
-                        "name": torrent_name,
-                        "uploaded_at": datetime.now().isoformat(),
-                        "path": content_path,
-                        "retries": failed_info.get("failures", 0)
-                    }
-                    self._save_processed_torrents()
-                    
-                    del self.failed_uploads[torrent_hash]
-                    self._save_failed_uploads()
+                    # Thread-safe update of shared state
+                    with self.thread_lock:
+                        # Mark as processed and remove from failures
+                        self.processed_torrents[torrent_hash] = {
+                            "name": torrent_name,
+                            "uploaded_at": datetime.now().isoformat(),
+                            "path": content_path,
+                            "retries": failures
+                        }
+                        self._save_processed_torrents()
+                        
+                        del self.failed_uploads[torrent_hash]
+                        self._save_failed_uploads()
                     
                     # Delete the torrent from qBittorrent (but not its files, as we handle that separately)
                     delete_from_client = self.config.get("auto_delete", {}).get("delete_from_client", True)
@@ -808,18 +960,29 @@ class QBittorrentRcloneManager:
                         self._delete_content(content_path)
                     
                     logger.info(f"Successfully uploaded previously failed torrent: {torrent_name}")
+                    return {"status": "success", "torrent_name": torrent_name}
                 else:
                     # Verification failed, update failure count
                     error_msg = "Upload verification failed"
-                    self._record_upload_failure(torrent_hash, failed_info["name"], 
-                                              content_path, error_msg)
+                    with self.thread_lock:
+                        self._record_upload_failure(torrent_hash, torrent_name, 
+                                                  content_path, error_msg)
                     logger.error(f"Upload verification failed for: {torrent_name}")
+                    return {"status": "verification_failed", "torrent_name": torrent_name}
             else:
                 # Update failure count
-                self._record_upload_failure(torrent_hash, failed_info["name"], 
-                                          content_path, self.rclone.last_error)
+                with self.thread_lock:
+                    self._record_upload_failure(torrent_hash, torrent_name, 
+                                              content_path, self.rclone.last_error)
                 logger.error(f"Retry failed for torrent: {torrent_name}")
-    
+                return {"status": "upload_failed", "torrent_name": torrent_name}
+        except Exception as e:
+            logger.error(f"Error retrying upload for {torrent_name}: {e}")
+            logger.error(traceback.format_exc())
+            with self.thread_lock:
+                self._record_upload_failure(torrent_hash, torrent_name, content_path, str(e))
+            return {"status": "error", "torrent_name": torrent_name, "error": str(e)}
+
     def run(self) -> bool:
         """Run the main manager loop"""
         # Health checks
@@ -843,10 +1006,21 @@ class QBittorrentRcloneManager:
             
         logger.info("Starting qBittorrent to OneDrive uploader service")
         
+        # Log thread mode
+        if self.multithreading_enabled and self.thread_pool:
+            logger.info(f"Running in multithreaded mode with {self.max_workers} upload workers")
+        else:
+            logger.info("Running in single-threaded mode")
+        
         # Main loop
         try:
             while True:
                 try:
+                    # Show active threads if multithreaded
+                    if self.multithreading_enabled and self.thread_pool:
+                        active_threads = len([t for t in threading.enumerate() if t.name.startswith('rclone_upload')])
+                        logger.info(f"Active upload threads: {active_threads}/{self.max_workers}")
+                    
                     self.check_and_upload_completed()
                 except Exception as e:
                     logger.error(f"Error in check_and_upload_completed cycle: {e}")
@@ -862,6 +1036,12 @@ class QBittorrentRcloneManager:
             logger.error(f"Fatal error in main loop: {e}")
             logger.error(traceback.format_exc())
             return False
+        finally:
+            # Clean up thread pool if it exists
+            if self.multithreading_enabled and self.thread_pool:
+                logger.info("Shutting down thread pool...")
+                self.thread_pool.shutdown(wait=True)
+                logger.info("Thread pool shutdown complete")
             
         return True
 
@@ -891,6 +1071,11 @@ def create_default_config() -> Dict:
             "verify_uploads": True,      # Verify uploads before deletion
             "use_full_hash": False,      # Use full hash checking (slower but more accurate) instead of size-only
             "verification_timeout": 300  # Timeout for verification in seconds
+        },
+        "multithreading": {
+            "enabled": True,              # Enable multithreaded uploads
+            "max_workers": 3,             # Maximum number of concurrent uploads
+            "per_worker_memory_gb": 1,    # Estimated memory usage per worker in GB
         }
     }
     
