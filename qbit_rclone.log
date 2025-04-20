@@ -1641,3 +1641,51 @@
 2025-04-20 15:30:27,735 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Wolverine (2013) [1080p]
 2025-04-20 15:30:27,735 - INFO - Successfully processed torrent: The Wolverine (2013) [1080p]
 2025-04-20 15:30:27,736 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Wolverine (2013) [1080p]'}
+2025-04-20 15:32:51,930 - INFO - Successfully uploaded to onedrive:Torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:32:51,930 - INFO - Verifying upload for: Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:32:51,930 - INFO - Verifying upload: /home/user/Desktop/torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:32:54,252 - INFO - Upload verification successful for /home/user/Desktop/torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:32:54,259 - INFO - Deleting torrent from qBittorrent: Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:32:54,259 - INFO - Deleting torrent with hash 25e83b00ac301886e96790a2913ab5a6029af501 (delete_files=False)
+2025-04-20 15:32:54,272 - INFO - Successfully deleted torrent with hash 25e83b00ac301886e96790a2913ab5a6029af501
+2025-04-20 15:32:54,272 - INFO - Deleting content files: Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:32:54,272 - INFO - Deleting content: /home/user/Desktop/torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:32:54,273 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:32:54,273 - INFO - Successfully processed torrent: Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:32:54,274 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]'}
+2025-04-20 15:32:59,470 - INFO - Successfully uploaded to onedrive:Torrents/Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:32:59,470 - INFO - Verifying upload for: Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:32:59,471 - INFO - Verifying upload: /home/user/Desktop/torrents/Insidious Chapter 3 (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:33:01,243 - INFO - Upload verification successful for /home/user/Desktop/torrents/Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:33:01,250 - INFO - Deleting torrent from qBittorrent: Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:33:01,250 - INFO - Deleting torrent with hash 3eb3f89adbd69867f82e3a1de98cc801b66099e2 (delete_files=False)
+2025-04-20 15:33:01,259 - INFO - Successfully deleted torrent with hash 3eb3f89adbd69867f82e3a1de98cc801b66099e2
+2025-04-20 15:33:01,259 - INFO - Deleting content files: Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:33:01,259 - INFO - Deleting content: /home/user/Desktop/torrents/Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:33:01,260 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:33:01,260 - INFO - Successfully processed torrent: Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:33:01,261 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Insidious Chapter 3 (2015) [1080p] [YTS.AG]'}
+2025-04-20 15:34:29,174 - INFO - Successfully uploaded to onedrive:Torrents/The Imitation Game (2014) [1080p]
+2025-04-20 15:34:29,175 - INFO - Verifying upload for: The Imitation Game (2014) [1080p]
+2025-04-20 15:34:29,175 - INFO - Verifying upload: /home/user/Desktop/torrents/The Imitation Game (2014) [1080p] -> onedrive:Torrents/The Imitation Game (2014) [1080p]
+2025-04-20 15:34:30,535 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Imitation Game (2014) [1080p]
+2025-04-20 15:34:30,543 - INFO - Deleting torrent from qBittorrent: The Imitation Game (2014) [1080p]
+2025-04-20 15:34:30,543 - INFO - Deleting torrent with hash b9a19040c3fccc5f8ad963f43b4ac8ea3097af9b (delete_files=False)
+2025-04-20 15:34:30,554 - INFO - Successfully deleted torrent with hash b9a19040c3fccc5f8ad963f43b4ac8ea3097af9b
+2025-04-20 15:34:30,554 - INFO - Deleting content files: The Imitation Game (2014) [1080p]
+2025-04-20 15:34:30,555 - INFO - Deleting content: /home/user/Desktop/torrents/The Imitation Game (2014) [1080p]
+2025-04-20 15:34:30,555 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Imitation Game (2014) [1080p]
+2025-04-20 15:34:30,556 - INFO - Successfully processed torrent: The Imitation Game (2014) [1080p]
+2025-04-20 15:34:30,556 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Imitation Game (2014) [1080p]'}
+2025-04-20 15:34:48,510 - INFO - Successfully uploaded to onedrive:Torrents/The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:34:48,510 - INFO - Verifying upload for: The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:34:48,510 - INFO - Verifying upload: /home/user/Desktop/torrents/The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:34:51,085 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:34:51,099 - INFO - Deleting torrent from qBittorrent: The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:34:51,100 - INFO - Deleting torrent with hash d6a10249af71820760f1e2144db2eb48a8d2bded (delete_files=False)
+2025-04-20 15:34:51,120 - INFO - Successfully deleted torrent with hash d6a10249af71820760f1e2144db2eb48a8d2bded
+2025-04-20 15:34:51,120 - INFO - Deleting content files: The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:34:51,121 - INFO - Deleting content: /home/user/Desktop/torrents/The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:34:51,124 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:34:51,124 - INFO - Successfully processed torrent: The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:34:51,125 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
