@@ -1836,3 +1836,83 @@
 2025-04-20 15:51:39,400 - INFO - Directory /home/user/Desktop/torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] is readable, contains 2 files/dirs
 2025-04-20 15:51:39,400 - INFO - Starting upload: /home/user/Desktop/torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-20 15:51:39,400 - INFO - Uploading directory of size 1641.36 MB
+2025-04-20 15:53:56,656 - INFO - Successfully uploaded to onedrive:Torrents/Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:53:56,656 - INFO - Verifying upload for: Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:53:56,657 - INFO - Verifying upload: /home/user/Desktop/torrents/Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:53:59,491 - INFO - Upload verification successful for /home/user/Desktop/torrents/Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:53:59,497 - INFO - Deleting torrent from qBittorrent: Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:53:59,497 - INFO - Deleting torrent with hash 1dd8a9c6686b25b4717a2a885f40b2e03b990af2 (delete_files=False)
+2025-04-20 15:53:59,508 - INFO - Successfully deleted torrent with hash 1dd8a9c6686b25b4717a2a885f40b2e03b990af2
+2025-04-20 15:53:59,508 - INFO - Deleting content files: Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:53:59,508 - INFO - Deleting content: /home/user/Desktop/torrents/Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:53:59,509 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:53:59,509 - INFO - Successfully processed torrent: Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:53:59,509 - INFO - Processing torrent: Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:53:59,510 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]'}
+2025-04-20 15:53:59,510 - INFO - Attempting to upload torrent: Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:53:59,510 - INFO - Content path: /home/user/Desktop/torrents/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:53:59,510 - INFO - Remote path: onedrive:Torrents/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:53:59,510 - INFO - Uploading torrent: Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:53:59,510 - INFO - Directory /home/user/Desktop/torrents/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] is readable, contains 3 files/dirs
+2025-04-20 15:53:59,510 - INFO - Starting upload: /home/user/Desktop/torrents/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:53:59,510 - INFO - Uploading directory of size 1643.87 MB
+2025-04-20 15:54:38,692 - INFO - Successfully uploaded to onedrive:Torrents/Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:54:38,692 - INFO - Verifying upload for: Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:54:38,692 - INFO - Verifying upload: /home/user/Desktop/torrents/Red Sparrow (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:54:41,047 - INFO - Upload verification successful for /home/user/Desktop/torrents/Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:54:41,053 - INFO - Deleting torrent from qBittorrent: Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:54:41,053 - INFO - Deleting torrent with hash be4a79d8aea954e3061e1a2d538f7cb7bd8bcbd1 (delete_files=False)
+2025-04-20 15:54:41,064 - INFO - Successfully deleted torrent with hash be4a79d8aea954e3061e1a2d538f7cb7bd8bcbd1
+2025-04-20 15:54:41,064 - INFO - Deleting content files: Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:54:41,064 - INFO - Deleting content: /home/user/Desktop/torrents/Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:54:41,066 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:54:41,066 - INFO - Successfully processed torrent: Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:54:41,066 - INFO - Processing torrent: The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:54:41,066 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]'}
+2025-04-20 15:54:41,067 - INFO - Attempting to upload torrent: The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:54:41,067 - INFO - Content path: /home/user/Desktop/torrents/The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:54:41,067 - INFO - Remote path: onedrive:Torrents/The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:54:41,067 - INFO - Uploading torrent: The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:54:41,067 - INFO - Directory /home/user/Desktop/torrents/The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 15:54:41,067 - INFO - Starting upload: /home/user/Desktop/torrents/The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:54:41,068 - INFO - Uploading directory of size 1725.30 MB
+2025-04-20 15:54:45,567 - INFO - Successfully uploaded to onedrive:Torrents/Now You See Me (2013) [1080p]
+2025-04-20 15:54:45,567 - INFO - Verifying upload for: Now You See Me (2013) [1080p]
+2025-04-20 15:54:45,567 - INFO - Verifying upload: /home/user/Desktop/torrents/Now You See Me (2013) [1080p] -> onedrive:Torrents/Now You See Me (2013) [1080p]
+2025-04-20 15:54:47,959 - INFO - Upload verification successful for /home/user/Desktop/torrents/Now You See Me (2013) [1080p]
+2025-04-20 15:54:47,967 - INFO - Deleting torrent from qBittorrent: Now You See Me (2013) [1080p]
+2025-04-20 15:54:47,967 - INFO - Deleting torrent with hash 781ad3adbd9b81b64e4c530712ae9199b1dfbae5 (delete_files=False)
+2025-04-20 15:54:47,975 - INFO - Successfully deleted torrent with hash 781ad3adbd9b81b64e4c530712ae9199b1dfbae5
+2025-04-20 15:54:47,975 - INFO - Deleting content files: Now You See Me (2013) [1080p]
+2025-04-20 15:54:47,975 - INFO - Deleting content: /home/user/Desktop/torrents/Now You See Me (2013) [1080p]
+2025-04-20 15:54:47,976 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Now You See Me (2013) [1080p]
+2025-04-20 15:54:47,977 - INFO - Successfully processed torrent: Now You See Me (2013) [1080p]
+2025-04-20 15:54:47,977 - INFO - Processing torrent: Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 15:54:47,977 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Now You See Me (2013) [1080p]'}
+2025-04-20 15:54:47,977 - INFO - Attempting to upload torrent: Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 15:54:47,977 - INFO - Content path: /home/user/Desktop/torrents/Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 15:54:47,977 - INFO - Remote path: onedrive:Torrents/Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 15:54:47,977 - INFO - Uploading torrent: Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 15:54:47,978 - INFO - Directory /home/user/Desktop/torrents/Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT] is readable, contains 3 files/dirs
+2025-04-20 15:54:47,978 - INFO - Starting upload: /home/user/Desktop/torrents/Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 15:54:47,978 - INFO - Uploading directory of size 1588.85 MB
+2025-04-20 15:56:47,148 - INFO - Successfully uploaded to onedrive:Torrents/Lucy (2014) [1080p]
+2025-04-20 15:56:47,148 - INFO - Verifying upload for: Lucy (2014) [1080p]
+2025-04-20 15:56:47,148 - INFO - Verifying upload: /home/user/Desktop/torrents/Lucy (2014) [1080p] -> onedrive:Torrents/Lucy (2014) [1080p]
+2025-04-20 15:56:49,385 - INFO - Upload verification successful for /home/user/Desktop/torrents/Lucy (2014) [1080p]
+2025-04-20 15:56:49,391 - INFO - Deleting torrent from qBittorrent: Lucy (2014) [1080p]
+2025-04-20 15:56:49,391 - INFO - Deleting torrent with hash d421a1efa2a8231f4fc1eabc69c5b64f8e823f71 (delete_files=False)
+2025-04-20 15:56:49,399 - INFO - Successfully deleted torrent with hash d421a1efa2a8231f4fc1eabc69c5b64f8e823f71
+2025-04-20 15:56:49,400 - INFO - Deleting content files: Lucy (2014) [1080p]
+2025-04-20 15:56:49,400 - INFO - Deleting content: /home/user/Desktop/torrents/Lucy (2014) [1080p]
+2025-04-20 15:56:49,400 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Lucy (2014) [1080p]
+2025-04-20 15:56:49,401 - INFO - Successfully processed torrent: Lucy (2014) [1080p]
+2025-04-20 15:56:49,401 - INFO - Processing torrent: First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:56:49,401 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Lucy (2014) [1080p]'}
+2025-04-20 15:56:49,401 - INFO - Attempting to upload torrent: First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:56:49,401 - INFO - Content path: /home/user/Desktop/torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:56:49,401 - INFO - Remote path: onedrive:Torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:56:49,401 - INFO - Uploading torrent: First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:56:49,401 - INFO - Directory /home/user/Desktop/torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 15:56:49,401 - INFO - Starting upload: /home/user/Desktop/torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:56:49,401 - INFO - Uploading directory of size 2303.16 MB
