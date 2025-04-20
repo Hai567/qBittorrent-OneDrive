@@ -3016,3 +3016,79 @@
 2025-04-20 17:20:31,781 - INFO - Directory /home/user/Desktop/torrents/Pacific Rim (2013) [1080p] is readable, contains 2 files/dirs
 2025-04-20 17:20:31,781 - INFO - Starting upload: /home/user/Desktop/torrents/Pacific Rim (2013) [1080p] -> onedrive:Torrents/Pacific Rim (2013) [1080p]
 2025-04-20 17:20:31,782 - INFO - Uploading directory of size 1995.67 MB
+2025-04-20 17:22:02,332 - INFO - Successfully uploaded to onedrive:Torrents/Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:22:02,332 - INFO - Verifying upload for: Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:22:02,332 - INFO - Verifying upload: /home/user/Desktop/torrents/Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:22:04,606 - INFO - Upload verification successful for /home/user/Desktop/torrents/Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:22:04,708 - INFO - Deleting torrent from qBittorrent: Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:22:04,708 - INFO - Deleting torrent with hash c835e67f816896e49b03caab7ca0721edf5e3223 (delete_files=False)
+2025-04-20 17:22:04,719 - INFO - Successfully deleted torrent with hash c835e67f816896e49b03caab7ca0721edf5e3223
+2025-04-20 17:22:04,719 - INFO - Deleting content files: Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:22:04,719 - INFO - Deleting content: /home/user/Desktop/torrents/Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:22:04,720 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:22:04,720 - INFO - Successfully processed torrent: Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:22:04,721 - INFO - Processing torrent: The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:22:04,721 - INFO - Attempting to upload torrent: The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:22:04,721 - INFO - Content path: /home/user/Desktop/torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:22:04,721 - INFO - Remote path: onedrive:Torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:22:04,721 - INFO - Uploading torrent: The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:22:04,721 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]'}
+2025-04-20 17:22:04,721 - INFO - Directory /home/user/Desktop/torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 17:22:04,722 - INFO - Starting upload: /home/user/Desktop/torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:22:04,722 - INFO - Uploading directory of size 1708.99 MB
+2025-04-20 17:22:11,982 - INFO - Successfully uploaded to onedrive:Torrents/I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:22:11,982 - INFO - Verifying upload for: I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:22:11,982 - INFO - Verifying upload: /home/user/Desktop/torrents/I Am Legend AlTERNATE ENDING (2007) [1080p] -> onedrive:Torrents/I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:22:14,213 - INFO - Upload verification successful for /home/user/Desktop/torrents/I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:22:14,222 - INFO - Deleting torrent from qBittorrent: I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:22:14,222 - INFO - Deleting torrent with hash 86a06cdd072e34f2220d9fbaf587d635a4767ad7 (delete_files=False)
+2025-04-20 17:22:14,236 - INFO - Successfully deleted torrent with hash 86a06cdd072e34f2220d9fbaf587d635a4767ad7
+2025-04-20 17:22:14,236 - INFO - Deleting content files: I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:22:14,236 - INFO - Deleting content: /home/user/Desktop/torrents/I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:22:14,237 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:22:14,237 - INFO - Successfully processed torrent: I Am Legend AlTERNATE ENDING (2007) [1080p]
+2025-04-20 17:22:14,237 - INFO - Processing torrent: Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:22:14,238 - INFO - Attempting to upload torrent: Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:22:14,238 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'I Am Legend AlTERNATE ENDING (2007) [1080p]'}
+2025-04-20 17:22:14,238 - INFO - Content path: /home/user/Desktop/torrents/Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:22:14,238 - INFO - Remote path: onedrive:Torrents/Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:22:14,238 - INFO - Uploading torrent: Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:22:14,238 - INFO - Directory /home/user/Desktop/torrents/Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 17:22:14,238 - INFO - Starting upload: /home/user/Desktop/torrents/Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:22:14,238 - INFO - Uploading directory of size 2028.16 MB
+2025-04-20 17:23:41,016 - INFO - Successfully uploaded to onedrive:Torrents/Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:23:41,016 - INFO - Verifying upload for: Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:23:41,016 - INFO - Verifying upload: /home/user/Desktop/torrents/Wind River (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:23:43,216 - INFO - Upload verification successful for /home/user/Desktop/torrents/Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:23:43,224 - INFO - Deleting torrent from qBittorrent: Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:23:43,224 - INFO - Deleting torrent with hash f28f254e61f2d98d40ad1578c6b5318931647304 (delete_files=False)
+2025-04-20 17:23:43,234 - INFO - Successfully deleted torrent with hash f28f254e61f2d98d40ad1578c6b5318931647304
+2025-04-20 17:23:43,234 - INFO - Deleting content files: Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:23:43,234 - INFO - Deleting content: /home/user/Desktop/torrents/Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:23:43,235 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:23:43,235 - INFO - Successfully processed torrent: Wind River (2017) [1080p] [YTS.AG]
+2025-04-20 17:23:43,236 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Wind River (2017) [1080p] [YTS.AG]'}
+2025-04-20 17:24:46,776 - INFO - Successfully uploaded to onedrive:Torrents/Pacific Rim (2013) [1080p]
+2025-04-20 17:24:46,777 - INFO - Verifying upload for: Pacific Rim (2013) [1080p]
+2025-04-20 17:24:46,778 - INFO - Verifying upload: /home/user/Desktop/torrents/Pacific Rim (2013) [1080p] -> onedrive:Torrents/Pacific Rim (2013) [1080p]
+2025-04-20 17:24:48,165 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pacific Rim (2013) [1080p]
+2025-04-20 17:24:48,264 - INFO - Deleting torrent from qBittorrent: Pacific Rim (2013) [1080p]
+2025-04-20 17:24:48,265 - INFO - Deleting torrent with hash 4f178d9782845f20714e5d8b5e05ef68a77e54f9 (delete_files=False)
+2025-04-20 17:24:48,288 - INFO - Successfully deleted torrent with hash 4f178d9782845f20714e5d8b5e05ef68a77e54f9
+2025-04-20 17:24:48,288 - INFO - Deleting content files: Pacific Rim (2013) [1080p]
+2025-04-20 17:24:48,288 - INFO - Deleting content: /home/user/Desktop/torrents/Pacific Rim (2013) [1080p]
+2025-04-20 17:24:48,290 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pacific Rim (2013) [1080p]
+2025-04-20 17:24:48,290 - INFO - Successfully processed torrent: Pacific Rim (2013) [1080p]
+2025-04-20 17:24:48,290 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Pacific Rim (2013) [1080p]'}
+2025-04-20 17:25:52,314 - INFO - Successfully uploaded to onedrive:Torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:25:52,314 - INFO - Verifying upload for: The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:25:52,314 - INFO - Verifying upload: /home/user/Desktop/torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:25:54,633 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:25:54,641 - INFO - Deleting torrent from qBittorrent: The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:25:54,642 - INFO - Deleting torrent with hash 1c531deefd07f29bfc00efd43a823f0e6072a458 (delete_files=False)
+2025-04-20 17:25:54,657 - INFO - Successfully deleted torrent with hash 1c531deefd07f29bfc00efd43a823f0e6072a458
+2025-04-20 17:25:54,657 - INFO - Deleting content files: The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:25:54,657 - INFO - Deleting content: /home/user/Desktop/torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:25:54,658 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:25:54,659 - INFO - Successfully processed torrent: The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:25:54,659 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]'}
