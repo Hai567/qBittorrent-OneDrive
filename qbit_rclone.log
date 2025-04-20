@@ -2692,3 +2692,87 @@
 2025-04-20 17:01:43,638 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pitch Perfect 2 (2015) [1080p]
 2025-04-20 17:01:43,638 - INFO - Successfully processed torrent: Pitch Perfect 2 (2015) [1080p]
 2025-04-20 17:01:43,638 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Pitch Perfect 2 (2015) [1080p]'}
+2025-04-20 17:06:43,738 - INFO - Active upload threads: 5/5
+2025-04-20 17:06:43,739 - INFO - Checking for completed torrents...
+2025-04-20 17:06:43,748 - INFO - Found 20 completed torrents
+2025-04-20 17:06:43,748 - INFO - Torrent Zootopia (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Zootopia (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent Murder On The Orient Express (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Murder On The Orient Express (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent The Fast and the Furious (2001) [1080p]: content_path = /home/user/Desktop/torrents/The Fast and the Furious (2001) [1080p], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent Dumb and Dumber To (2014) [1080p]: content_path = /home/user/Desktop/torrents/Dumb and Dumber To (2014) [1080p], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent Into the Woods (2014) [1080p]: content_path = /home/user/Desktop/torrents/Into the Woods (2014) [1080p], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent Puss in Boots (2011) [1080p] [3D] [HSBS]: content_path = /home/user/Desktop/torrents/Puss in Boots (2011) [1080p] [3D] [HSBS], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent Top Gun (1986) [1080p]: content_path = /home/user/Desktop/torrents/Top Gun (1986) [1080p], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent Bright (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Bright (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent WALL-E (2008) [1080p]: content_path = /home/user/Desktop/torrents/WALL-E (2008) [1080p], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent Allied (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Allied (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Master Z Ip Man Legacy (2018) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-20 17:06:43,749 - INFO - Torrent I Am Legend AlTERNATE ENDING (2007) [1080p]: content_path = /home/user/Desktop/torrents/I Am Legend AlTERNATE ENDING (2007) [1080p], exists: True
+2025-04-20 17:06:43,750 - INFO - Torrent Wind River (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Wind River (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 17:06:43,750 - INFO - Torrent Pacific Rim (2013) [1080p]: content_path = /home/user/Desktop/torrents/Pacific Rim (2013) [1080p], exists: True
+2025-04-20 17:06:43,750 - INFO - Torrent The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 17:06:43,750 - INFO - Torrent Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-20 17:06:43,750 - INFO - Submitting 20 torrents for parallel upload
+2025-04-20 17:06:43,750 - INFO - Processing torrent: Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:06:43,750 - INFO - Processing torrent: The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:06:43,751 - INFO - Attempting to upload torrent: Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:06:43,751 - INFO - Processing torrent: Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:06:43,751 - INFO - Attempting to upload torrent: The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:06:43,751 - INFO - Processing torrent: Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:06:43,751 - INFO - Processing torrent: The Fast and the Furious (2001) [1080p]
+2025-04-20 17:06:43,752 - INFO - Content path: /home/user/Desktop/torrents/Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:06:43,752 - INFO - Attempting to upload torrent: Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:06:43,752 - INFO - Content path: /home/user/Desktop/torrents/The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:06:43,752 - INFO - Attempting to upload torrent: Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:06:43,752 - INFO - Attempting to upload torrent: The Fast and the Furious (2001) [1080p]
+2025-04-20 17:06:43,752 - INFO - Remote path: onedrive:Torrents/Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:06:43,753 - INFO - Content path: /home/user/Desktop/torrents/Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:06:43,753 - INFO - Remote path: onedrive:Torrents/The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:06:43,753 - INFO - Content path: /home/user/Desktop/torrents/Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:06:43,753 - INFO - Content path: /home/user/Desktop/torrents/The Fast and the Furious (2001) [1080p]
+2025-04-20 17:06:43,753 - INFO - Uploading torrent: Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:06:43,754 - INFO - Remote path: onedrive:Torrents/Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:06:43,754 - INFO - Uploading torrent: The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:06:43,754 - INFO - Remote path: onedrive:Torrents/Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:06:43,754 - INFO - Remote path: onedrive:Torrents/The Fast and the Furious (2001) [1080p]
+2025-04-20 17:06:43,755 - INFO - Uploading torrent: Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:06:43,755 - INFO - Directory /home/user/Desktop/torrents/Zootopia (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 17:06:43,756 - INFO - Directory /home/user/Desktop/torrents/The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-20 17:06:43,756 - INFO - Starting upload: /home/user/Desktop/torrents/The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:06:43,756 - INFO - Uploading directory of size 1796.86 MB
+2025-04-20 17:06:43,758 - INFO - Uploading torrent: Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:06:43,758 - INFO - Directory /home/user/Desktop/torrents/Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 17:06:43,758 - INFO - Starting upload: /home/user/Desktop/torrents/Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:06:43,758 - INFO - Uploading directory of size 1719.87 MB
+2025-04-20 17:06:43,760 - INFO - Uploading torrent: The Fast and the Furious (2001) [1080p]
+2025-04-20 17:06:43,761 - INFO - Starting upload: /home/user/Desktop/torrents/Zootopia (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:06:43,761 - INFO - Directory /home/user/Desktop/torrents/Murder On The Orient Express (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 17:06:43,762 - INFO - Directory /home/user/Desktop/torrents/The Fast and the Furious (2001) [1080p] is readable, contains 3 files/dirs
+2025-04-20 17:06:43,762 - INFO - Starting upload: /home/user/Desktop/torrents/Murder On The Orient Express (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:06:43,762 - INFO - Uploading directory of size 1692.75 MB
+2025-04-20 17:06:43,763 - INFO - Starting upload: /home/user/Desktop/torrents/The Fast and the Furious (2001) [1080p] -> onedrive:Torrents/The Fast and the Furious (2001) [1080p]
+2025-04-20 17:06:43,763 - INFO - Uploading directory of size 1768.70 MB
+2025-04-20 17:06:43,765 - INFO - Uploading directory of size 1437.98 MB
+2025-04-20 17:10:17,080 - INFO - Successfully uploaded to onedrive:Torrents/The Fast and the Furious (2001) [1080p]
+2025-04-20 17:10:17,081 - INFO - Verifying upload for: The Fast and the Furious (2001) [1080p]
+2025-04-20 17:10:17,081 - INFO - Verifying upload: /home/user/Desktop/torrents/The Fast and the Furious (2001) [1080p] -> onedrive:Torrents/The Fast and the Furious (2001) [1080p]
+2025-04-20 17:10:19,055 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Fast and the Furious (2001) [1080p]
+2025-04-20 17:10:19,119 - INFO - Deleting torrent from qBittorrent: The Fast and the Furious (2001) [1080p]
+2025-04-20 17:10:19,119 - INFO - Deleting torrent with hash f6156a11aa8594553a63edcd5ac337d9a667e402 (delete_files=False)
+2025-04-20 17:10:19,130 - INFO - Successfully deleted torrent with hash f6156a11aa8594553a63edcd5ac337d9a667e402
+2025-04-20 17:10:19,130 - INFO - Deleting content files: The Fast and the Furious (2001) [1080p]
+2025-04-20 17:10:19,130 - INFO - Deleting content: /home/user/Desktop/torrents/The Fast and the Furious (2001) [1080p]
+2025-04-20 17:10:19,132 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Fast and the Furious (2001) [1080p]
+2025-04-20 17:10:19,132 - INFO - Successfully processed torrent: The Fast and the Furious (2001) [1080p]
+2025-04-20 17:10:19,132 - INFO - Processing torrent: Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:10:19,132 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Fast and the Furious (2001) [1080p]'}
+2025-04-20 17:10:19,132 - INFO - Attempting to upload torrent: Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:10:19,132 - INFO - Content path: /home/user/Desktop/torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:10:19,132 - INFO - Remote path: onedrive:Torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:10:19,133 - INFO - Uploading torrent: Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:10:19,133 - INFO - Directory /home/user/Desktop/torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 17:10:19,133 - INFO - Starting upload: /home/user/Desktop/torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
+2025-04-20 17:10:19,133 - INFO - Uploading directory of size 2859.96 MB
