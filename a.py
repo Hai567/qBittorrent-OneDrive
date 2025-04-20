@@ -303,11 +303,21 @@ class RcloneUploader:
         try:
             if os.path.isdir(local_path):
                 # Check if directory is readable
-                os.listdir(local_path)
+                try:
+                    files = os.listdir(local_path)
+                    logger.info(f"Directory {local_path} is readable, contains {len(files)} files/dirs")
+                except Exception as e:
+                    logger.error(f"Cannot list directory {local_path}: {e}")
+                    raise
             else:
                 # Check if file is readable
-                with open(local_path, 'rb') as f:
-                    f.read(1)  # Just read 1 byte to test access
+                try:
+                    with open(local_path, 'rb') as f:
+                        f.read(1)  # Just read 1 byte to test access
+                    logger.info(f"File {local_path} is readable")
+                except Exception as e:
+                    logger.error(f"Cannot read file {local_path}: {e}")
+                    raise
         except (PermissionError, IOError) as e:
             error_msg = f"Cannot access local path {local_path}: {e}"
             self.last_error = error_msg
@@ -490,7 +500,9 @@ class QBittorrentRcloneManager:
         
     def _load_processed_torrents(self) -> Dict:
         """Load list of already processed torrents"""
-        return self._load_json_file("processed_torrents.json")
+        processed = self._load_json_file("processed_torrents.json")
+        logger.info(f"Loaded {len(processed)} previously processed torrents")
+        return processed
             
     def _load_failed_uploads(self) -> Dict:
         """Load list of failed uploads to manage retries"""
@@ -590,7 +602,7 @@ class QBittorrentRcloneManager:
                     
                     # Skip if already processed
                     if torrent_hash in self.processed_torrents:
-                        logger.debug(f"Skipping already processed torrent: {torrent_name}")
+                        logger.info(f"Skipping already processed torrent: {torrent_name}")
                         continue
                         
                     # Check if this torrent has failed too many times
@@ -608,6 +620,11 @@ class QBittorrentRcloneManager:
                         
                     # Use torrent name as the subpath to preserve folder structure
                     remote_subpath = torrent_name
+                    
+                    # Add debugging information
+                    logger.info(f"Attempting to upload torrent: {torrent_name}")
+                    logger.info(f"Content path: {content_path}")
+                    logger.info(f"Remote path: {self.rclone.remote_name}:{self.rclone.remote_path}/{remote_subpath}")
                     
                     # Upload the completed download
                     logger.info(f"Uploading torrent: {torrent_name}")
@@ -666,11 +683,14 @@ class QBittorrentRcloneManager:
     
     def _get_torrent_content_path(self, torrent: Dict) -> Optional[str]:
         """Determine the content path for a torrent with fallback methods"""
+        torrent_name = torrent.get("name", "[unnamed]")
         content_path = torrent.get("content_path", "")
         
         # First try the content_path if available
-        if content_path and os.path.exists(content_path):
-            return content_path
+        if content_path:
+            logger.info(f"Torrent {torrent_name}: content_path = {content_path}, exists: {os.path.exists(content_path)}")
+            if os.path.exists(content_path):
+                return content_path
             
         # Next, try to construct from save_path and name
         save_path = torrent.get("save_path", "")
@@ -678,6 +698,7 @@ class QBittorrentRcloneManager:
         
         if save_path and name:
             constructed_path = os.path.join(save_path, name)
+            logger.info(f"Torrent {torrent_name}: constructed_path = {constructed_path}, exists: {os.path.exists(constructed_path)}")
             if os.path.exists(constructed_path):
                 return constructed_path
                 
