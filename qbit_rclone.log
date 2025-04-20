@@ -679,3 +679,63 @@
 2025-04-20 13:51:50,949 - INFO - Directory /home/user/Desktop/torrents/Predestination (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-20 13:51:50,949 - INFO - Starting upload: /home/user/Desktop/torrents/Predestination (2014) [1080p] -> onedrive:Torrents/Predestination (2014) [1080p]
 2025-04-20 13:51:50,950 - INFO - Uploading directory of size 1478.32 MB
+2025-04-20 13:55:32,600 - INFO - Successfully uploaded to onedrive:Torrents/Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:55:32,601 - INFO - Verifying upload for: Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:55:32,601 - INFO - Verifying upload: /home/user/Desktop/torrents/Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:55:35,144 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:55:35,150 - INFO - Deleting torrent from qBittorrent: Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:55:35,150 - INFO - Deleting torrent with hash bd550dbe373c2344927a49d8f83be4f44d40c400 (delete_files=False)
+2025-04-20 13:55:35,161 - INFO - Successfully deleted torrent with hash bd550dbe373c2344927a49d8f83be4f44d40c400
+2025-04-20 13:55:35,161 - INFO - Deleting content files: Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:55:35,161 - INFO - Deleting content: /home/user/Desktop/torrents/Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:55:35,162 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:55:35,162 - INFO - Successfully processed torrent: Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:55:35,162 - INFO - Processing torrent: The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:55:35,163 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]'}
+2025-04-20 13:55:35,163 - INFO - Attempting to upload torrent: The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:55:35,163 - INFO - Content path: /home/user/Desktop/torrents/The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:55:35,163 - INFO - Remote path: onedrive:Torrents/The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:55:35,163 - INFO - Uploading torrent: The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:55:35,163 - INFO - Directory /home/user/Desktop/torrents/The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-20 13:55:35,163 - INFO - Starting upload: /home/user/Desktop/torrents/The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:55:35,164 - INFO - Uploading directory of size 2610.06 MB
+2025-04-20 13:56:34,459 - INFO - Successfully uploaded to onedrive:Torrents/Predestination (2014) [1080p]
+2025-04-20 13:56:34,459 - INFO - Verifying upload for: Predestination (2014) [1080p]
+2025-04-20 13:56:34,460 - INFO - Verifying upload: /home/user/Desktop/torrents/Predestination (2014) [1080p] -> onedrive:Torrents/Predestination (2014) [1080p]
+2025-04-20 13:56:36,755 - INFO - Upload verification successful for /home/user/Desktop/torrents/Predestination (2014) [1080p]
+2025-04-20 13:56:36,760 - INFO - Deleting torrent from qBittorrent: Predestination (2014) [1080p]
+2025-04-20 13:56:36,760 - INFO - Deleting torrent with hash 02a5ad1a8af7a8b7bff49c8fae39d84a0a25c96a (delete_files=False)
+2025-04-20 13:56:36,776 - INFO - Successfully deleted torrent with hash 02a5ad1a8af7a8b7bff49c8fae39d84a0a25c96a
+2025-04-20 13:56:36,776 - INFO - Deleting content files: Predestination (2014) [1080p]
+2025-04-20 13:56:36,776 - INFO - Deleting content: /home/user/Desktop/torrents/Predestination (2014) [1080p]
+2025-04-20 13:56:36,777 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Predestination (2014) [1080p]
+2025-04-20 13:56:36,777 - INFO - Successfully processed torrent: Predestination (2014) [1080p]
+2025-04-20 13:56:36,777 - INFO - Processing torrent: The Fault in Our Stars (2014) [1080p]
+2025-04-20 13:56:36,777 - INFO - Attempting to upload torrent: The Fault in Our Stars (2014) [1080p]
+2025-04-20 13:56:36,778 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Predestination (2014) [1080p]'}
+2025-04-20 13:56:36,778 - INFO - Content path: /home/user/Desktop/torrents/The Fault in Our Stars (2014) [1080p]
+2025-04-20 13:56:36,778 - INFO - Remote path: onedrive:Torrents/The Fault in Our Stars (2014) [1080p]
+2025-04-20 13:56:36,778 - INFO - Uploading torrent: The Fault in Our Stars (2014) [1080p]
+2025-04-20 13:56:36,778 - INFO - Directory /home/user/Desktop/torrents/The Fault in Our Stars (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 13:56:36,779 - INFO - Starting upload: /home/user/Desktop/torrents/The Fault in Our Stars (2014) [1080p] -> onedrive:Torrents/The Fault in Our Stars (2014) [1080p]
+2025-04-20 13:56:36,779 - INFO - Uploading directory of size 2005.67 MB
+2025-04-20 13:56:40,539 - INFO - Successfully uploaded to onedrive:Torrents/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:56:40,540 - INFO - Verifying upload for: Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:56:40,540 - INFO - Verifying upload: /home/user/Desktop/torrents/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:56:42,808 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:56:42,813 - INFO - Deleting torrent from qBittorrent: Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:56:42,814 - INFO - Deleting torrent with hash 6ea404fed653baed4ec2f0fc66554a68d831e2b1 (delete_files=False)
+2025-04-20 13:56:42,821 - INFO - Successfully deleted torrent with hash 6ea404fed653baed4ec2f0fc66554a68d831e2b1
+2025-04-20 13:56:42,821 - INFO - Deleting content files: Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:56:42,821 - INFO - Deleting content: /home/user/Desktop/torrents/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:56:42,822 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:56:42,823 - INFO - Successfully processed torrent: Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:56:42,823 - INFO - Processing torrent: American Sniper (2014) [1080p]
+2025-04-20 13:56:42,823 - INFO - Attempting to upload torrent: American Sniper (2014) [1080p]
+2025-04-20 13:56:42,823 - INFO - Content path: /home/user/Desktop/torrents/American Sniper (2014) [1080p]
+2025-04-20 13:56:42,823 - INFO - Remote path: onedrive:Torrents/American Sniper (2014) [1080p]
+2025-04-20 13:56:42,823 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 13:56:42,823 - INFO - Uploading torrent: American Sniper (2014) [1080p]
+2025-04-20 13:56:42,823 - INFO - Directory /home/user/Desktop/torrents/American Sniper (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 13:56:42,824 - INFO - Starting upload: /home/user/Desktop/torrents/American Sniper (2014) [1080p] -> onedrive:Torrents/American Sniper (2014) [1080p]
+2025-04-20 13:56:42,824 - INFO - Uploading directory of size 2001.99 MB
