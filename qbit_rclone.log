@@ -859,3 +859,46 @@
 2025-04-20 14:06:35,273 - INFO - Directory /home/user/Desktop/torrents/Batman Begins (2005) [1080p] is readable, contains 4 files/dirs
 2025-04-20 14:06:35,273 - INFO - Starting upload: /home/user/Desktop/torrents/Batman Begins (2005) [1080p] -> onedrive:Torrents/Batman Begins (2005) [1080p]
 2025-04-20 14:06:35,274 - INFO - Uploading directory of size 1644.40 MB
+2025-04-20 14:09:02,479 - INFO - Successfully uploaded to onedrive:Torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:09:02,480 - INFO - Verifying upload for: Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:09:02,480 - INFO - Verifying upload: /home/user/Desktop/torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:09:04,305 - INFO - Upload verification successful for /home/user/Desktop/torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:09:04,310 - INFO - Deleting torrent from qBittorrent: Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:09:04,310 - INFO - Deleting torrent with hash 733d2c7dce3516bc34100c6822aafa8da818d06c (delete_files=False)
+2025-04-20 14:09:04,320 - INFO - Successfully deleted torrent with hash 733d2c7dce3516bc34100c6822aafa8da818d06c
+2025-04-20 14:09:04,320 - INFO - Deleting content files: Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:09:04,320 - INFO - Deleting content: /home/user/Desktop/torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:09:04,321 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:09:04,321 - INFO - Successfully processed torrent: Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:09:04,321 - INFO - Processing torrent: Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:09:04,321 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 14:09:04,322 - INFO - Attempting to upload torrent: Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:09:04,322 - INFO - Content path: /home/user/Desktop/torrents/Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:09:04,322 - INFO - Remote path: onedrive:Torrents/Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:09:04,322 - INFO - Uploading torrent: Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:09:04,322 - INFO - Directory /home/user/Desktop/torrents/Us (2019) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 14:09:04,322 - INFO - Starting upload: /home/user/Desktop/torrents/Us (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:09:04,322 - INFO - Uploading directory of size 1912.21 MB
+2025-04-20 14:11:51,242 - INFO - Successfully uploaded to onedrive:Torrents/Batman Begins (2005) [1080p]
+2025-04-20 14:11:51,242 - INFO - Verifying upload for: Batman Begins (2005) [1080p]
+2025-04-20 14:11:51,242 - INFO - Verifying upload: /home/user/Desktop/torrents/Batman Begins (2005) [1080p] -> onedrive:Torrents/Batman Begins (2005) [1080p]
+2025-04-20 14:11:54,242 - INFO - Upload verification successful for /home/user/Desktop/torrents/Batman Begins (2005) [1080p]
+2025-04-20 14:11:54,248 - INFO - Deleting torrent from qBittorrent: Batman Begins (2005) [1080p]
+2025-04-20 14:11:54,248 - INFO - Deleting torrent with hash 52fd58172c296021f2e351b8a12bbc8be7c88f8d (delete_files=False)
+2025-04-20 14:11:54,258 - INFO - Successfully deleted torrent with hash 52fd58172c296021f2e351b8a12bbc8be7c88f8d
+2025-04-20 14:11:54,258 - INFO - Deleting content files: Batman Begins (2005) [1080p]
+2025-04-20 14:11:54,259 - INFO - Deleting content: /home/user/Desktop/torrents/Batman Begins (2005) [1080p]
+2025-04-20 14:11:54,259 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Batman Begins (2005) [1080p]
+2025-04-20 14:11:54,259 - INFO - Successfully processed torrent: Batman Begins (2005) [1080p]
+2025-04-20 14:11:54,260 - INFO - Processing torrent: Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:11:54,260 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Batman Begins (2005) [1080p]'}
+2025-04-20 14:11:54,260 - INFO - Attempting to upload torrent: Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:11:54,260 - INFO - Content path: /home/user/Desktop/torrents/Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:11:54,260 - INFO - Remote path: onedrive:Torrents/Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:11:54,260 - INFO - Uploading torrent: Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:11:54,260 - INFO - Directory /home/user/Desktop/torrents/Life (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 14:11:54,260 - INFO - Starting upload: /home/user/Desktop/torrents/Life (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:11:54,260 - INFO - Uploading directory of size 1625.35 MB
+2025-04-20 14:12:14,327 - INFO - Successfully uploaded to onedrive:Torrents/Jupiter Ascending (2015) [1080p]
+2025-04-20 14:12:14,328 - INFO - Verifying upload for: Jupiter Ascending (2015) [1080p]
+2025-04-20 14:12:14,328 - INFO - Verifying upload: /home/user/Desktop/torrents/Jupiter Ascending (2015) [1080p] -> onedrive:Torrents/Jupiter Ascending (2015) [1080p]
