@@ -1315,3 +1315,27 @@
 2025-04-20 14:42:15,651 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Dark Tower (2017) [1080p] [YTS.AG]
 2025-04-20 14:42:15,651 - INFO - Successfully processed torrent: The Dark Tower (2017) [1080p] [YTS.AG]
 2025-04-20 14:42:15,652 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Dark Tower (2017) [1080p] [YTS.AG]'}
+2025-04-20 14:42:59,971 - INFO - Successfully uploaded to onedrive:Torrents/The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:42:59,972 - INFO - Verifying upload for: The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:42:59,972 - INFO - Verifying upload: /home/user/Desktop/torrents/The Girl On The Train (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:43:02,285 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:43:02,290 - INFO - Deleting torrent from qBittorrent: The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:43:02,290 - INFO - Deleting torrent with hash 1d123a02a30767f44eb8d2fb12bf5e0d5bb09373 (delete_files=False)
+2025-04-20 14:43:02,300 - INFO - Successfully deleted torrent with hash 1d123a02a30767f44eb8d2fb12bf5e0d5bb09373
+2025-04-20 14:43:02,300 - INFO - Deleting content files: The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:43:02,300 - INFO - Deleting content: /home/user/Desktop/torrents/The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:43:02,301 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:43:02,301 - INFO - Successfully processed torrent: The Girl On The Train (2016) [1080p] [YTS.AG]
+2025-04-20 14:43:02,301 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Girl On The Train (2016) [1080p] [YTS.AG]'}
+2025-04-20 14:43:19,741 - INFO - Successfully uploaded to onedrive:Torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:43:19,741 - INFO - Verifying upload for: Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:43:19,741 - INFO - Verifying upload: /home/user/Desktop/torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:43:22,118 - INFO - Upload verification successful for /home/user/Desktop/torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:43:22,124 - INFO - Deleting torrent from qBittorrent: Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:43:22,124 - INFO - Deleting torrent with hash 9858be06b3db166ace914230c5b5dba23afe4414 (delete_files=False)
+2025-04-20 14:43:22,133 - INFO - Successfully deleted torrent with hash 9858be06b3db166ace914230c5b5dba23afe4414
+2025-04-20 14:43:22,133 - INFO - Deleting content files: Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:43:22,133 - INFO - Deleting content: /home/user/Desktop/torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:43:22,134 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:43:22,135 - INFO - Successfully processed torrent: Men In Black International (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 14:43:22,135 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Men In Black International (2019) [BluRay] [1080p] [YTS.LT]'}
