@@ -902,3 +902,60 @@
 2025-04-20 14:12:14,327 - INFO - Successfully uploaded to onedrive:Torrents/Jupiter Ascending (2015) [1080p]
 2025-04-20 14:12:14,328 - INFO - Verifying upload for: Jupiter Ascending (2015) [1080p]
 2025-04-20 14:12:14,328 - INFO - Verifying upload: /home/user/Desktop/torrents/Jupiter Ascending (2015) [1080p] -> onedrive:Torrents/Jupiter Ascending (2015) [1080p]
+2025-04-20 14:12:16,983 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jupiter Ascending (2015) [1080p]
+2025-04-20 14:12:16,989 - INFO - Deleting torrent from qBittorrent: Jupiter Ascending (2015) [1080p]
+2025-04-20 14:12:16,989 - INFO - Deleting torrent with hash 832cb0f2c09076d5688cea5ab82e6ea6ac066aa1 (delete_files=False)
+2025-04-20 14:12:16,998 - INFO - Successfully deleted torrent with hash 832cb0f2c09076d5688cea5ab82e6ea6ac066aa1
+2025-04-20 14:12:16,999 - INFO - Deleting content files: Jupiter Ascending (2015) [1080p]
+2025-04-20 14:12:16,999 - INFO - Deleting content: /home/user/Desktop/torrents/Jupiter Ascending (2015) [1080p]
+2025-04-20 14:12:16,999 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jupiter Ascending (2015) [1080p]
+2025-04-20 14:12:16,999 - INFO - Successfully processed torrent: Jupiter Ascending (2015) [1080p]
+2025-04-20 14:12:16,999 - INFO - Processing torrent: Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:17,000 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Jupiter Ascending (2015) [1080p]'}
+2025-04-20 14:12:17,000 - INFO - Attempting to upload torrent: Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:17,000 - INFO - Content path: /home/user/Desktop/torrents/Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:17,000 - INFO - Remote path: onedrive:Torrents/Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:17,000 - INFO - Uploading torrent: Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:17,000 - INFO - Directory /home/user/Desktop/torrents/Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-20 14:12:17,000 - INFO - Starting upload: /home/user/Desktop/torrents/Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:17,000 - INFO - Uploading directory of size 2527.76 MB
+2025-04-20 14:12:20,064 - INFO - Successfully uploaded to onedrive:Torrents/A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:20,064 - INFO - Verifying upload for: A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:20,064 - INFO - Verifying upload: /home/user/Desktop/torrents/A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:22,666 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:22,671 - INFO - Deleting torrent from qBittorrent: A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:22,671 - INFO - Deleting torrent with hash b85998208f58a7f0eec98e61bb6916c66ab3da72 (delete_files=False)
+2025-04-20 14:12:22,680 - INFO - Successfully deleted torrent with hash b85998208f58a7f0eec98e61bb6916c66ab3da72
+2025-04-20 14:12:22,680 - INFO - Deleting content files: A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:22,680 - INFO - Deleting content: /home/user/Desktop/torrents/A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:22,681 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:22,681 - INFO - Successfully processed torrent: A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:12:22,681 - INFO - Processing torrent: 12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:12:22,682 - INFO - Attempting to upload torrent: 12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:12:22,682 - INFO - Content path: /home/user/Desktop/torrents/12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:12:22,682 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-20 14:12:22,682 - INFO - Remote path: onedrive:Torrents/12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:12:22,682 - INFO - Uploading torrent: 12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:12:22,682 - INFO - Directory /home/user/Desktop/torrents/12 Strong (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 14:12:22,682 - INFO - Starting upload: /home/user/Desktop/torrents/12 Strong (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:12:22,682 - INFO - Uploading directory of size 2131.87 MB
+2025-04-20 14:14:32,105 - INFO - Successfully uploaded to onedrive:Torrents/Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:14:32,105 - INFO - Verifying upload for: Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:14:32,106 - INFO - Verifying upload: /home/user/Desktop/torrents/Deepwater Horizon (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:14:34,727 - INFO - Upload verification successful for /home/user/Desktop/torrents/Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:14:34,733 - INFO - Deleting torrent from qBittorrent: Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:14:34,733 - INFO - Deleting torrent with hash 59abd803baa1651f575d1fbe9abefaaea9253a0d (delete_files=False)
+2025-04-20 14:14:34,742 - INFO - Successfully deleted torrent with hash 59abd803baa1651f575d1fbe9abefaaea9253a0d
+2025-04-20 14:14:34,742 - INFO - Deleting content files: Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:14:34,742 - INFO - Deleting content: /home/user/Desktop/torrents/Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:14:34,743 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:14:34,743 - INFO - Successfully processed torrent: Deepwater Horizon (2016) [1080p] [YTS.AG]
+2025-04-20 14:14:34,743 - INFO - Processing torrent: Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:14:34,743 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Deepwater Horizon (2016) [1080p] [YTS.AG]'}
+2025-04-20 14:14:34,744 - INFO - Attempting to upload torrent: Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:14:34,744 - INFO - Content path: /home/user/Desktop/torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:14:34,744 - INFO - Remote path: onedrive:Torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:14:34,744 - INFO - Uploading torrent: Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:14:34,744 - INFO - Directory /home/user/Desktop/torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-20 14:14:34,744 - INFO - Starting upload: /home/user/Desktop/torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:14:34,744 - INFO - Uploading directory of size 1872.14 MB
