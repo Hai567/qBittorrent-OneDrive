@@ -2271,3 +2271,56 @@
 2025-04-20 16:28:01,918 - INFO - Successfully uploaded to onedrive:Torrents/Furious 6 (2013) [1080p]
 2025-04-20 16:28:01,918 - INFO - Verifying upload for: Furious 6 (2013) [1080p]
 2025-04-20 16:28:01,919 - INFO - Verifying upload: /home/user/Desktop/torrents/Furious 6 (2013) [1080p] -> onedrive:Torrents/Furious 6 (2013) [1080p]
+2025-04-20 16:28:04,170 - INFO - Upload verification successful for /home/user/Desktop/torrents/Furious 6 (2013) [1080p]
+2025-04-20 16:28:04,176 - INFO - Deleting torrent from qBittorrent: Furious 6 (2013) [1080p]
+2025-04-20 16:28:04,176 - INFO - Deleting torrent with hash 99d461c4746d590e8d91b43da17c53c7b435db2e (delete_files=False)
+2025-04-20 16:28:04,185 - INFO - Successfully deleted torrent with hash 99d461c4746d590e8d91b43da17c53c7b435db2e
+2025-04-20 16:28:04,186 - INFO - Deleting content files: Furious 6 (2013) [1080p]
+2025-04-20 16:28:04,186 - INFO - Deleting content: /home/user/Desktop/torrents/Furious 6 (2013) [1080p]
+2025-04-20 16:28:04,187 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Furious 6 (2013) [1080p]
+2025-04-20 16:28:04,187 - INFO - Successfully processed torrent: Furious 6 (2013) [1080p]
+2025-04-20 16:28:04,187 - INFO - Processing torrent: Alien Covenant (2017) [1080p] [YTS.AG]
+2025-04-20 16:28:04,187 - INFO - Attempting to upload torrent: Alien Covenant (2017) [1080p] [YTS.AG]
+2025-04-20 16:28:04,187 - INFO - Content path: /home/user/Desktop/torrents/Alien Covenant (2017) [1080p] [YTS.AG]
+2025-04-20 16:28:04,187 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Furious 6 (2013) [1080p]'}
+2025-04-20 16:28:04,187 - INFO - Remote path: onedrive:Torrents/Alien Covenant (2017) [1080p] [YTS.AG]
+2025-04-20 16:28:04,188 - INFO - Uploading torrent: Alien Covenant (2017) [1080p] [YTS.AG]
+2025-04-20 16:28:04,188 - INFO - Directory /home/user/Desktop/torrents/Alien Covenant (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 16:28:04,188 - INFO - Starting upload: /home/user/Desktop/torrents/Alien Covenant (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Alien Covenant (2017) [1080p] [YTS.AG]
+2025-04-20 16:28:04,188 - INFO - Uploading directory of size 1920.21 MB
+2025-04-20 16:28:40,796 - INFO - Successfully uploaded to onedrive:Torrents/Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:28:40,796 - INFO - Verifying upload for: Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:28:40,796 - INFO - Verifying upload: /home/user/Desktop/torrents/Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:28:43,154 - INFO - Upload verification successful for /home/user/Desktop/torrents/Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:28:43,160 - INFO - Deleting torrent from qBittorrent: Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:28:43,160 - INFO - Deleting torrent with hash addf9521a781a51bc162dc7b9c2801c6e800aeb4 (delete_files=False)
+2025-04-20 16:28:43,170 - INFO - Successfully deleted torrent with hash addf9521a781a51bc162dc7b9c2801c6e800aeb4
+2025-04-20 16:28:43,170 - INFO - Deleting content files: Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:28:43,170 - INFO - Deleting content: /home/user/Desktop/torrents/Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:28:43,171 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:28:43,171 - INFO - Successfully processed torrent: Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:28:43,171 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-20 16:30:23,049 - INFO - Successfully uploaded to onedrive:Torrents/Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:30:23,050 - INFO - Verifying upload for: Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:30:23,050 - INFO - Verifying upload: /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:30:25,722 - INFO - Upload verification successful for /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:30:25,728 - INFO - Deleting torrent from qBittorrent: Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:30:25,728 - INFO - Deleting torrent with hash e8b85085fc5f8ffc69a40f280af9cf92fd75e9b6 (delete_files=False)
+2025-04-20 16:30:25,737 - INFO - Successfully deleted torrent with hash e8b85085fc5f8ffc69a40f280af9cf92fd75e9b6
+2025-04-20 16:30:25,737 - INFO - Deleting content files: Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:30:25,738 - INFO - Deleting content: /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:30:25,739 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:30:25,739 - INFO - Successfully processed torrent: Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:30:25,739 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 16:32:13,711 - INFO - Successfully uploaded to onedrive:Torrents/Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:32:13,711 - INFO - Verifying upload for: Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:32:13,711 - INFO - Verifying upload: /home/user/Desktop/torrents/Upgrade (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:32:16,026 - INFO - Upload verification successful for /home/user/Desktop/torrents/Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:32:16,032 - INFO - Deleting torrent from qBittorrent: Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:32:16,033 - INFO - Deleting torrent with hash 1f08adfa3b277f9ad8585fcd32035a13dda0f50b (delete_files=False)
+2025-04-20 16:32:16,042 - INFO - Successfully deleted torrent with hash 1f08adfa3b277f9ad8585fcd32035a13dda0f50b
+2025-04-20 16:32:16,042 - INFO - Deleting content files: Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:32:16,042 - INFO - Deleting content: /home/user/Desktop/torrents/Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:32:16,043 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:32:16,043 - INFO - Successfully processed torrent: Upgrade (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:32:16,043 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Upgrade (2018) [WEBRip] [1080p] [YTS.AM]'}
