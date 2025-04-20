@@ -2176,3 +2176,55 @@
 2025-04-20 16:15:23,332 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Patriots Day (2016) [1080p] [YTS.AG]
 2025-04-20 16:15:23,332 - INFO - Successfully processed torrent: Patriots Day (2016) [1080p] [YTS.AG]
 2025-04-20 16:15:23,333 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Patriots Day (2016) [1080p] [YTS.AG]'}
+2025-04-20 16:20:23,433 - INFO - Active upload threads: 5/5
+2025-04-20 16:20:23,434 - INFO - Checking for completed torrents...
+2025-04-20 16:20:23,440 - INFO - Found 8 completed torrents
+2025-04-20 16:20:23,440 - INFO - Torrent Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-20 16:20:23,440 - INFO - Torrent Blockers (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Blockers (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 16:20:23,440 - INFO - Torrent Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 16:20:23,440 - INFO - Torrent Horrible Bosses 2 (2014) [1080p]: content_path = /home/user/Desktop/torrents/Horrible Bosses 2 (2014) [1080p], exists: True
+2025-04-20 16:20:23,440 - INFO - Torrent Furious 6 (2013) [1080p]: content_path = /home/user/Desktop/torrents/Furious 6 (2013) [1080p], exists: True
+2025-04-20 16:20:23,440 - INFO - Torrent Jason Bourne (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Jason Bourne (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 16:20:23,440 - INFO - Torrent Upgrade (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Upgrade (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 16:20:23,440 - INFO - Torrent Alien Covenant (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Alien Covenant (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 16:20:23,440 - INFO - Submitting 8 torrents for parallel upload
+2025-04-20 16:20:23,441 - INFO - Processing torrent: Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:20:23,441 - INFO - Processing torrent: Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:20:23,441 - INFO - Attempting to upload torrent: Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:20:23,441 - INFO - Processing torrent: Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:20:23,441 - INFO - Attempting to upload torrent: Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:20:23,441 - INFO - Processing torrent: Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:20:23,442 - INFO - Content path: /home/user/Desktop/torrents/Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:20:23,442 - INFO - Attempting to upload torrent: Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:20:23,442 - INFO - Processing torrent: Furious 6 (2013) [1080p]
+2025-04-20 16:20:23,442 - INFO - Content path: /home/user/Desktop/torrents/Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:20:23,442 - INFO - Attempting to upload torrent: Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:20:23,442 - INFO - Remote path: onedrive:Torrents/Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:20:23,442 - INFO - Content path: /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:20:23,443 - INFO - Attempting to upload torrent: Furious 6 (2013) [1080p]
+2025-04-20 16:20:23,443 - INFO - Remote path: onedrive:Torrents/Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:20:23,443 - INFO - Content path: /home/user/Desktop/torrents/Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:20:23,443 - INFO - Uploading torrent: Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:20:23,443 - INFO - Remote path: onedrive:Torrents/Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:20:23,444 - INFO - Content path: /home/user/Desktop/torrents/Furious 6 (2013) [1080p]
+2025-04-20 16:20:23,444 - INFO - Uploading torrent: Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:20:23,444 - INFO - Remote path: onedrive:Torrents/Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:20:23,444 - INFO - Uploading torrent: Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:20:23,444 - INFO - Remote path: onedrive:Torrents/Furious 6 (2013) [1080p]
+2025-04-20 16:20:23,444 - INFO - Directory /home/user/Desktop/torrents/Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-20 16:20:23,444 - INFO - Uploading torrent: Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:20:23,445 - INFO - Directory /home/user/Desktop/torrents/Blockers (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 16:20:23,445 - INFO - Uploading torrent: Furious 6 (2013) [1080p]
+2025-04-20 16:20:23,445 - INFO - Directory /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 16:20:23,445 - INFO - Starting upload: /home/user/Desktop/torrents/Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Monster Hunter (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:20:23,445 - INFO - Starting upload: /home/user/Desktop/torrents/Blockers (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Blockers (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:20:23,445 - INFO - Directory /home/user/Desktop/torrents/Horrible Bosses 2 (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 16:20:23,446 - INFO - Starting upload: /home/user/Desktop/torrents/Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Shazam Fury Of The Gods (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:20:23,446 - INFO - Directory /home/user/Desktop/torrents/Furious 6 (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-20 16:20:23,446 - INFO - Starting upload: /home/user/Desktop/torrents/Horrible Bosses 2 (2014) [1080p] -> onedrive:Torrents/Horrible Bosses 2 (2014) [1080p]
+2025-04-20 16:20:23,446 - INFO - Uploading directory of size 1945.68 MB
+2025-04-20 16:20:23,447 - INFO - Starting upload: /home/user/Desktop/torrents/Furious 6 (2013) [1080p] -> onedrive:Torrents/Furious 6 (2013) [1080p]
+2025-04-20 16:20:23,447 - INFO - Uploading directory of size 2459.05 MB
+2025-04-20 16:20:23,447 - INFO - Uploading directory of size 1663.92 MB
+2025-04-20 16:20:23,449 - INFO - Uploading directory of size 1893.43 MB
+2025-04-20 16:20:23,449 - INFO - Uploading directory of size 1992.76 MB
