@@ -2436,3 +2436,59 @@
 2025-04-20 16:43:26,619 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-20 16:43:26,620 - INFO - Successfully processed torrent: Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-20 16:43:26,620 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 16:48:26,719 - INFO - Active upload threads: 5/5
+2025-04-20 16:48:26,720 - INFO - Checking for completed torrents...
+2025-04-20 16:48:26,727 - INFO - Found 12 completed torrents
+2025-04-20 16:48:26,727 - INFO - Torrent Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]: content_path = /home/user/Desktop/torrents/Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX], exists: True
+2025-04-20 16:48:26,727 - INFO - Torrent Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 16:48:26,727 - INFO - Torrent Cinderella (2015) [1080p]: content_path = /home/user/Desktop/torrents/Cinderella (2015) [1080p], exists: True
+2025-04-20 16:48:26,727 - INFO - Torrent Central Intelligence (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Central Intelligence (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 16:48:26,727 - INFO - Torrent The Fast and the Furious Tokyo Drift (2006) [1080p]: content_path = /home/user/Desktop/torrents/The Fast and the Furious Tokyo Drift (2006) [1080p], exists: True
+2025-04-20 16:48:26,728 - INFO - Torrent Dawn of the Planet of the Apes (2014) [1080p]: content_path = /home/user/Desktop/torrents/Dawn of the Planet of the Apes (2014) [1080p], exists: True
+2025-04-20 16:48:26,728 - INFO - Torrent Gladiator (2000): content_path = /home/user/Desktop/torrents/Gladiator (2000), exists: True
+2025-04-20 16:48:26,728 - INFO - Torrent The Commuter (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/The Commuter (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 16:48:26,728 - INFO - Torrent Knives Out (2019) [1080p] [BluRay] [YTS.MX]: content_path = /home/user/Desktop/torrents/Knives Out (2019) [1080p] [BluRay] [YTS.MX], exists: True
+2025-04-20 16:48:26,728 - INFO - Torrent Ad Astra (2019) [BluRay] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT], exists: True
+2025-04-20 16:48:26,728 - INFO - Torrent Pitch Perfect 2 (2015) [1080p]: content_path = /home/user/Desktop/torrents/Pitch Perfect 2 (2015) [1080p], exists: True
+2025-04-20 16:48:26,728 - INFO - Torrent Focus (2015) [1080p]: content_path = /home/user/Desktop/torrents/Focus (2015) [1080p], exists: True
+2025-04-20 16:48:26,728 - INFO - Submitting 12 torrents for parallel upload
+2025-04-20 16:48:26,728 - INFO - Processing torrent: Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:48:26,729 - INFO - Processing torrent: Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:48:26,729 - INFO - Processing torrent: Cinderella (2015) [1080p]
+2025-04-20 16:48:26,729 - INFO - Attempting to upload torrent: Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:48:26,729 - INFO - Processing torrent: Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:48:26,730 - INFO - Processing torrent: The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:48:26,730 - INFO - Attempting to upload torrent: Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:48:26,730 - INFO - Attempting to upload torrent: Cinderella (2015) [1080p]
+2025-04-20 16:48:26,730 - INFO - Content path: /home/user/Desktop/torrents/Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:48:26,731 - INFO - Attempting to upload torrent: Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:48:26,731 - INFO - Attempting to upload torrent: The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:48:26,731 - INFO - Content path: /home/user/Desktop/torrents/Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:48:26,731 - INFO - Content path: /home/user/Desktop/torrents/Cinderella (2015) [1080p]
+2025-04-20 16:48:26,731 - INFO - Remote path: onedrive:Torrents/Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:48:26,732 - INFO - Content path: /home/user/Desktop/torrents/Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:48:26,732 - INFO - Content path: /home/user/Desktop/torrents/The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:48:26,732 - INFO - Remote path: onedrive:Torrents/Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:48:26,732 - INFO - Remote path: onedrive:Torrents/Cinderella (2015) [1080p]
+2025-04-20 16:48:26,732 - INFO - Uploading torrent: Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:48:26,732 - INFO - Remote path: onedrive:Torrents/Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:48:26,732 - INFO - Remote path: onedrive:Torrents/The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:48:26,733 - INFO - Uploading torrent: Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:48:26,733 - INFO - Uploading torrent: Cinderella (2015) [1080p]
+2025-04-20 16:48:26,733 - INFO - Uploading torrent: Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:48:26,733 - INFO - Uploading torrent: The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:48:26,734 - INFO - Directory /home/user/Desktop/torrents/Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-20 16:48:26,734 - INFO - Directory /home/user/Desktop/torrents/Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 16:48:26,734 - INFO - Starting upload: /home/user/Desktop/torrents/Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:48:26,734 - INFO - Directory /home/user/Desktop/torrents/Cinderella (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-20 16:48:26,735 - INFO - Starting upload: /home/user/Desktop/torrents/Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:48:26,735 - INFO - Directory /home/user/Desktop/torrents/Central Intelligence (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 16:48:26,735 - INFO - Directory /home/user/Desktop/torrents/The Fast and the Furious Tokyo Drift (2006) [1080p] is readable, contains 3 files/dirs
+2025-04-20 16:48:26,735 - INFO - Starting upload: /home/user/Desktop/torrents/Cinderella (2015) [1080p] -> onedrive:Torrents/Cinderella (2015) [1080p]
+2025-04-20 16:48:26,736 - INFO - Starting upload: /home/user/Desktop/torrents/Central Intelligence (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:48:26,736 - INFO - Starting upload: /home/user/Desktop/torrents/The Fast and the Furious Tokyo Drift (2006) [1080p] -> onedrive:Torrents/The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:48:26,737 - INFO - Uploading directory of size 1811.18 MB
+2025-04-20 16:48:26,737 - INFO - Uploading directory of size 2239.73 MB
+2025-04-20 16:48:26,737 - INFO - Uploading directory of size 1678.41 MB
+2025-04-20 16:48:26,737 - INFO - Uploading directory of size 1657.23 MB
+2025-04-20 16:48:26,740 - INFO - Uploading directory of size 1436.05 MB
