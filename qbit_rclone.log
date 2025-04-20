@@ -3092,3 +3092,27 @@
 2025-04-20 17:25:54,658 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-20 17:25:54,659 - INFO - Successfully processed torrent: The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-20 17:25:54,659 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Kissing Booth (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 17:26:14,539 - INFO - Successfully uploaded to onedrive:Torrents/Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:26:14,540 - INFO - Verifying upload for: Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:26:14,540 - INFO - Verifying upload: /home/user/Desktop/torrents/Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:26:16,795 - INFO - Upload verification successful for /home/user/Desktop/torrents/Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:26:16,902 - INFO - Deleting torrent from qBittorrent: Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:26:16,902 - INFO - Deleting torrent with hash 2a33747949972ada14221de60f97ba17b858ad27 (delete_files=False)
+2025-04-20 17:26:16,914 - INFO - Successfully deleted torrent with hash 2a33747949972ada14221de60f97ba17b858ad27
+2025-04-20 17:26:16,914 - INFO - Deleting content files: Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:26:16,914 - INFO - Deleting content: /home/user/Desktop/torrents/Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:26:16,915 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:26:16,915 - INFO - Successfully processed torrent: Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:26:16,916 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Plane (2023) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-20 17:29:27,306 - INFO - Successfully uploaded to onedrive:Torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:29:27,307 - INFO - Verifying upload for: Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:29:27,307 - INFO - Verifying upload: /home/user/Desktop/torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:29:29,565 - INFO - Upload verification successful for /home/user/Desktop/torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:29:29,574 - INFO - Deleting torrent from qBittorrent: Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:29:29,574 - INFO - Deleting torrent with hash 18e1a0e916062de140c35c9ef8dac5a1eb826332 (delete_files=False)
+2025-04-20 17:29:29,587 - INFO - Successfully deleted torrent with hash 18e1a0e916062de140c35c9ef8dac5a1eb826332
+2025-04-20 17:29:29,588 - INFO - Deleting content files: Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:29:29,588 - INFO - Deleting content: /home/user/Desktop/torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:29:29,590 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:29:29,590 - INFO - Successfully processed torrent: Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:29:29,590 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]'}
