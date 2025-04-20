@@ -959,3 +959,63 @@
 2025-04-20 14:14:34,744 - INFO - Directory /home/user/Desktop/torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
 2025-04-20 14:14:34,744 - INFO - Starting upload: /home/user/Desktop/torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-20 14:14:34,744 - INFO - Uploading directory of size 1872.14 MB
+2025-04-20 14:17:45,960 - INFO - Successfully uploaded to onedrive:Torrents/Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:45,961 - INFO - Verifying upload for: Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:45,961 - INFO - Verifying upload: /home/user/Desktop/torrents/Life (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,271 - INFO - Upload verification successful for /home/user/Desktop/torrents/Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,277 - INFO - Deleting torrent from qBittorrent: Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,277 - INFO - Deleting torrent with hash 4b814dc29235e4f9c0c7e1ac34f0a45c7c23109b (delete_files=False)
+2025-04-20 14:17:48,286 - INFO - Successfully deleted torrent with hash 4b814dc29235e4f9c0c7e1ac34f0a45c7c23109b
+2025-04-20 14:17:48,286 - INFO - Deleting content files: Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,286 - INFO - Deleting content: /home/user/Desktop/torrents/Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,287 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,287 - INFO - Successfully processed torrent: Life (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,287 - INFO - Processing torrent: King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,287 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Life (2017) [1080p] [YTS.AG]'}
+2025-04-20 14:17:48,287 - INFO - Attempting to upload torrent: King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,288 - INFO - Content path: /home/user/Desktop/torrents/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,288 - INFO - Remote path: onedrive:Torrents/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,288 - INFO - Uploading torrent: King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,288 - INFO - Directory /home/user/Desktop/torrents/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 14:17:48,288 - INFO - Starting upload: /home/user/Desktop/torrents/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG] -> onedrive:Torrents/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:17:48,288 - INFO - Uploading directory of size 1969.95 MB
+2025-04-20 14:17:59,359 - INFO - Successfully uploaded to onedrive:Torrents/Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:17:59,359 - INFO - Verifying upload for: Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:17:59,359 - INFO - Verifying upload: /home/user/Desktop/torrents/Us (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:18:01,588 - INFO - Upload verification successful for /home/user/Desktop/torrents/Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:18:01,593 - INFO - Deleting torrent from qBittorrent: Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:18:01,593 - INFO - Deleting torrent with hash 9f1bad7be934a423ea53832aa498903f0ad5ef20 (delete_files=False)
+2025-04-20 14:18:01,603 - INFO - Successfully deleted torrent with hash 9f1bad7be934a423ea53832aa498903f0ad5ef20
+2025-04-20 14:18:01,603 - INFO - Deleting content files: Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:18:01,603 - INFO - Deleting content: /home/user/Desktop/torrents/Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:18:01,604 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:18:01,604 - INFO - Successfully processed torrent: Us (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:18:01,604 - INFO - Processing torrent: Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:18:01,604 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Us (2019) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 14:18:01,604 - INFO - Attempting to upload torrent: Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:18:01,605 - INFO - Content path: /home/user/Desktop/torrents/Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:18:01,605 - INFO - Remote path: onedrive:Torrents/Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:18:01,605 - INFO - Uploading torrent: Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:18:01,605 - INFO - Directory /home/user/Desktop/torrents/Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 14:18:01,605 - INFO - Starting upload: /home/user/Desktop/torrents/Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:18:01,605 - INFO - Uploading directory of size 1932.00 MB
+2025-04-20 14:20:35,524 - INFO - Successfully uploaded to onedrive:Torrents/12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:20:35,524 - INFO - Verifying upload for: 12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:20:35,524 - INFO - Verifying upload: /home/user/Desktop/torrents/12 Strong (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:20:37,899 - INFO - Upload verification successful for /home/user/Desktop/torrents/12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:20:37,905 - INFO - Deleting torrent from qBittorrent: 12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:20:37,905 - INFO - Deleting torrent with hash fc00329b245400d32e37de98bb425085f2b656e6 (delete_files=False)
+2025-04-20 14:20:37,916 - INFO - Successfully deleted torrent with hash fc00329b245400d32e37de98bb425085f2b656e6
+2025-04-20 14:20:37,916 - INFO - Deleting content files: 12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:20:37,916 - INFO - Deleting content: /home/user/Desktop/torrents/12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:20:37,917 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:20:37,917 - INFO - Successfully processed torrent: 12 Strong (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 14:20:37,918 - INFO - Processing torrent: Birdman (2014) [1080p]
+2025-04-20 14:20:37,918 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': '12 Strong (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 14:20:37,918 - INFO - Attempting to upload torrent: Birdman (2014) [1080p]
+2025-04-20 14:20:37,918 - INFO - Content path: /home/user/Desktop/torrents/Birdman (2014) [1080p]
+2025-04-20 14:20:37,918 - INFO - Remote path: onedrive:Torrents/Birdman (2014) [1080p]
+2025-04-20 14:20:37,918 - INFO - Uploading torrent: Birdman (2014) [1080p]
+2025-04-20 14:20:37,918 - INFO - Directory /home/user/Desktop/torrents/Birdman (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 14:20:37,918 - INFO - Starting upload: /home/user/Desktop/torrents/Birdman (2014) [1080p] -> onedrive:Torrents/Birdman (2014) [1080p]
+2025-04-20 14:20:37,918 - INFO - Uploading directory of size 1887.47 MB
