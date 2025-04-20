@@ -2492,3 +2492,103 @@
 2025-04-20 16:48:26,737 - INFO - Uploading directory of size 1678.41 MB
 2025-04-20 16:48:26,737 - INFO - Uploading directory of size 1657.23 MB
 2025-04-20 16:48:26,740 - INFO - Uploading directory of size 1436.05 MB
+2025-04-20 16:52:28,396 - INFO - Successfully uploaded to onedrive:Torrents/The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:52:28,396 - INFO - Verifying upload for: The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:52:28,396 - INFO - Verifying upload: /home/user/Desktop/torrents/The Fast and the Furious Tokyo Drift (2006) [1080p] -> onedrive:Torrents/The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:52:30,644 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:52:30,652 - INFO - Deleting torrent from qBittorrent: The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:52:30,652 - INFO - Deleting torrent with hash 60c3a40bef2cb10a3068430692815ae122ecc892 (delete_files=False)
+2025-04-20 16:52:30,663 - INFO - Successfully deleted torrent with hash 60c3a40bef2cb10a3068430692815ae122ecc892
+2025-04-20 16:52:30,663 - INFO - Deleting content files: The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:52:30,663 - INFO - Deleting content: /home/user/Desktop/torrents/The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:52:30,664 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:52:30,664 - INFO - Successfully processed torrent: The Fast and the Furious Tokyo Drift (2006) [1080p]
+2025-04-20 16:52:30,664 - INFO - Processing torrent: Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:52:30,664 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Fast and the Furious Tokyo Drift (2006) [1080p]'}
+2025-04-20 16:52:30,664 - INFO - Attempting to upload torrent: Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:52:30,664 - INFO - Content path: /home/user/Desktop/torrents/Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:52:30,664 - INFO - Remote path: onedrive:Torrents/Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:52:30,665 - INFO - Uploading torrent: Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:52:30,665 - INFO - Directory /home/user/Desktop/torrents/Dawn of the Planet of the Apes (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 16:52:30,665 - INFO - Starting upload: /home/user/Desktop/torrents/Dawn of the Planet of the Apes (2014) [1080p] -> onedrive:Torrents/Dawn of the Planet of the Apes (2014) [1080p]
+2025-04-20 16:52:30,665 - INFO - Uploading directory of size 1996.83 MB
+2025-04-20 16:52:41,900 - INFO - Successfully uploaded to onedrive:Torrents/Cinderella (2015) [1080p]
+2025-04-20 16:52:41,900 - INFO - Verifying upload for: Cinderella (2015) [1080p]
+2025-04-20 16:52:41,900 - INFO - Verifying upload: /home/user/Desktop/torrents/Cinderella (2015) [1080p] -> onedrive:Torrents/Cinderella (2015) [1080p]
+2025-04-20 16:52:44,252 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cinderella (2015) [1080p]
+2025-04-20 16:52:44,261 - INFO - Deleting torrent from qBittorrent: Cinderella (2015) [1080p]
+2025-04-20 16:52:44,261 - INFO - Deleting torrent with hash 93e545f95354d90539c51bc3a59ac685b613c75c (delete_files=False)
+2025-04-20 16:52:44,273 - INFO - Successfully deleted torrent with hash 93e545f95354d90539c51bc3a59ac685b613c75c
+2025-04-20 16:52:44,273 - INFO - Deleting content files: Cinderella (2015) [1080p]
+2025-04-20 16:52:44,273 - INFO - Deleting content: /home/user/Desktop/torrents/Cinderella (2015) [1080p]
+2025-04-20 16:52:44,274 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cinderella (2015) [1080p]
+2025-04-20 16:52:44,274 - INFO - Successfully processed torrent: Cinderella (2015) [1080p]
+2025-04-20 16:52:44,274 - INFO - Processing torrent: Gladiator (2000)
+2025-04-20 16:52:44,274 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Cinderella (2015) [1080p]'}
+2025-04-20 16:52:44,275 - INFO - Attempting to upload torrent: Gladiator (2000)
+2025-04-20 16:52:44,275 - INFO - Content path: /home/user/Desktop/torrents/Gladiator (2000)
+2025-04-20 16:52:44,275 - INFO - Remote path: onedrive:Torrents/Gladiator (2000)
+2025-04-20 16:52:44,275 - INFO - Uploading torrent: Gladiator (2000)
+2025-04-20 16:52:44,275 - INFO - Directory /home/user/Desktop/torrents/Gladiator (2000) is readable, contains 4 files/dirs
+2025-04-20 16:52:44,275 - INFO - Starting upload: /home/user/Desktop/torrents/Gladiator (2000) -> onedrive:Torrents/Gladiator (2000)
+2025-04-20 16:52:44,275 - INFO - Uploading directory of size 1642.33 MB
+2025-04-20 16:53:31,884 - INFO - Successfully uploaded to onedrive:Torrents/Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:53:31,884 - INFO - Verifying upload for: Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:53:31,884 - INFO - Verifying upload: /home/user/Desktop/torrents/Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:53:34,218 - INFO - Upload verification successful for /home/user/Desktop/torrents/Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:53:34,228 - INFO - Deleting torrent from qBittorrent: Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:53:34,228 - INFO - Deleting torrent with hash 4919a164b1896a12a220745b390001065c5f0684 (delete_files=False)
+2025-04-20 16:53:34,239 - INFO - Successfully deleted torrent with hash 4919a164b1896a12a220745b390001065c5f0684
+2025-04-20 16:53:34,239 - INFO - Deleting content files: Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:53:34,239 - INFO - Deleting content: /home/user/Desktop/torrents/Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:53:34,241 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:53:34,241 - INFO - Successfully processed torrent: Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-20 16:53:34,242 - INFO - Processing torrent: The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:53:34,242 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Insidious Inferno (2023) [1080p] [WEBRip] [YTS.MX]'}
+2025-04-20 16:53:34,242 - INFO - Attempting to upload torrent: The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:53:34,242 - INFO - Content path: /home/user/Desktop/torrents/The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:53:34,242 - INFO - Remote path: onedrive:Torrents/The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:53:34,242 - INFO - Uploading torrent: The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:53:34,242 - INFO - Directory /home/user/Desktop/torrents/The Commuter (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 16:53:34,243 - INFO - Starting upload: /home/user/Desktop/torrents/The Commuter (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Commuter (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:53:34,243 - INFO - Uploading directory of size 1731.07 MB
+2025-04-20 16:53:46,016 - INFO - Successfully uploaded to onedrive:Torrents/Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:53:46,017 - INFO - Verifying upload for: Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:53:46,017 - INFO - Verifying upload: /home/user/Desktop/torrents/Central Intelligence (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:53:47,831 - INFO - Upload verification successful for /home/user/Desktop/torrents/Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:53:47,839 - INFO - Deleting torrent from qBittorrent: Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:53:47,839 - INFO - Deleting torrent with hash bb6a70468dbc07c93b14c6a5f7c8d02fcd79b68f (delete_files=False)
+2025-04-20 16:53:47,848 - INFO - Successfully deleted torrent with hash bb6a70468dbc07c93b14c6a5f7c8d02fcd79b68f
+2025-04-20 16:53:47,849 - INFO - Deleting content files: Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:53:47,849 - INFO - Deleting content: /home/user/Desktop/torrents/Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:53:47,850 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:53:47,850 - INFO - Successfully processed torrent: Central Intelligence (2016) [1080p] [YTS.AG]
+2025-04-20 16:53:47,850 - INFO - Processing torrent: Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:53:47,850 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Central Intelligence (2016) [1080p] [YTS.AG]'}
+2025-04-20 16:53:47,850 - INFO - Attempting to upload torrent: Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:53:47,851 - INFO - Content path: /home/user/Desktop/torrents/Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:53:47,851 - INFO - Remote path: onedrive:Torrents/Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:53:47,851 - INFO - Uploading torrent: Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:53:47,851 - INFO - Directory /home/user/Desktop/torrents/Knives Out (2019) [1080p] [BluRay] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 16:53:47,851 - INFO - Starting upload: /home/user/Desktop/torrents/Knives Out (2019) [1080p] [BluRay] [YTS.MX] -> onedrive:Torrents/Knives Out (2019) [1080p] [BluRay] [YTS.MX]
+2025-04-20 16:53:47,851 - INFO - Uploading directory of size 2220.12 MB
+2025-04-20 16:54:42,368 - INFO - Successfully uploaded to onedrive:Torrents/Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:54:42,368 - INFO - Verifying upload for: Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:54:42,368 - INFO - Verifying upload: /home/user/Desktop/torrents/Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:54:44,219 - INFO - Upload verification successful for /home/user/Desktop/torrents/Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:54:44,226 - INFO - Deleting torrent from qBittorrent: Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:54:44,226 - INFO - Deleting torrent with hash c62315b7e811b35e247aa47404e4129a7c93d584 (delete_files=False)
+2025-04-20 16:54:44,237 - INFO - Successfully deleted torrent with hash c62315b7e811b35e247aa47404e4129a7c93d584
+2025-04-20 16:54:44,238 - INFO - Deleting content files: Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:54:44,238 - INFO - Deleting content: /home/user/Desktop/torrents/Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:54:44,239 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:54:44,239 - INFO - Successfully processed torrent: Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:54:44,239 - INFO - Processing torrent: Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:54:44,239 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Superbad (2007) [UNRATED] [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 16:54:44,239 - INFO - Attempting to upload torrent: Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:54:44,240 - INFO - Content path: /home/user/Desktop/torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:54:44,240 - INFO - Remote path: onedrive:Torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:54:44,240 - INFO - Uploading torrent: Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:54:44,240 - INFO - Directory /home/user/Desktop/torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT] is readable, contains 3 files/dirs
+2025-04-20 16:54:44,240 - INFO - Starting upload: /home/user/Desktop/torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:54:44,240 - INFO - Uploading directory of size 1981.89 MB
