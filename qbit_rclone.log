@@ -3526,3 +3526,111 @@
 2025-04-20 17:50:53,161 - INFO - Directory /home/user/Desktop/torrents/Pulp Fiction (1994) [1080p] is readable, contains 4 files/dirs
 2025-04-20 17:50:53,162 - INFO - Starting upload: /home/user/Desktop/torrents/Pulp Fiction (1994) [1080p] -> onedrive:Torrents/Pulp Fiction (1994) [1080p]
 2025-04-20 17:50:53,162 - INFO - Uploading directory of size 1437.10 MB
+2025-04-20 17:51:33,398 - INFO - Successfully uploaded to onedrive:Torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:51:33,398 - INFO - Verifying upload for: Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:51:33,398 - INFO - Verifying upload: /home/user/Desktop/torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:51:35,801 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:51:35,808 - INFO - Deleting torrent from qBittorrent: Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:51:35,809 - INFO - Deleting torrent with hash 16ce26d6cddca3ed073d1eb410e5f32151e23137 (delete_files=False)
+2025-04-20 17:51:35,820 - INFO - Successfully deleted torrent with hash 16ce26d6cddca3ed073d1eb410e5f32151e23137
+2025-04-20 17:51:35,820 - INFO - Deleting content files: Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:51:35,820 - INFO - Deleting content: /home/user/Desktop/torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:51:35,822 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:51:35,822 - INFO - Successfully processed torrent: Hellboy (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 17:51:35,822 - INFO - Processing torrent: Annabelle (2014) [1080p]
+2025-04-20 17:51:35,822 - INFO - Attempting to upload torrent: Annabelle (2014) [1080p]
+2025-04-20 17:51:35,823 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Hellboy (2019) [BluRay] [1080p] [YTS.LT]'}
+2025-04-20 17:51:35,823 - INFO - Content path: /home/user/Desktop/torrents/Annabelle (2014) [1080p]
+2025-04-20 17:51:35,823 - INFO - Remote path: onedrive:Torrents/Annabelle (2014) [1080p]
+2025-04-20 17:51:35,823 - INFO - Uploading torrent: Annabelle (2014) [1080p]
+2025-04-20 17:51:35,823 - INFO - Directory /home/user/Desktop/torrents/Annabelle (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 17:51:35,823 - INFO - Starting upload: /home/user/Desktop/torrents/Annabelle (2014) [1080p] -> onedrive:Torrents/Annabelle (2014) [1080p]
+2025-04-20 17:51:35,824 - INFO - Uploading directory of size 1479.98 MB
+2025-04-20 17:52:19,190 - INFO - Successfully uploaded to onedrive:Torrents/Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:52:19,191 - INFO - Verifying upload for: Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:52:19,191 - INFO - Verifying upload: /home/user/Desktop/torrents/Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:52:21,427 - INFO - Upload verification successful for /home/user/Desktop/torrents/Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:52:21,434 - INFO - Deleting torrent from qBittorrent: Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:52:21,434 - INFO - Deleting torrent with hash a0490cc45758777ed61142ae4e557efabdd1580e (delete_files=False)
+2025-04-20 17:52:21,444 - INFO - Successfully deleted torrent with hash a0490cc45758777ed61142ae4e557efabdd1580e
+2025-04-20 17:52:21,444 - INFO - Deleting content files: Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:52:21,445 - INFO - Deleting content: /home/user/Desktop/torrents/Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:52:21,446 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:52:21,446 - INFO - Successfully processed torrent: Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:52:21,446 - INFO - Processing torrent: Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:52:21,447 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 17:52:21,447 - INFO - Attempting to upload torrent: Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:52:21,447 - INFO - Content path: /home/user/Desktop/torrents/Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:52:21,447 - INFO - Remote path: onedrive:Torrents/Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:52:21,447 - INFO - Uploading torrent: Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:52:21,447 - INFO - Directory /home/user/Desktop/torrents/Penguins of Madagascar (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 17:52:21,447 - INFO - Starting upload: /home/user/Desktop/torrents/Penguins of Madagascar (2014) [1080p] -> onedrive:Torrents/Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:52:21,447 - INFO - Uploading directory of size 1469.74 MB
+2025-04-20 17:52:54,579 - INFO - Successfully uploaded to onedrive:Torrents/The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:52:54,580 - INFO - Verifying upload for: The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:52:54,580 - INFO - Verifying upload: /home/user/Desktop/torrents/The Addams Family (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:52:56,929 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:52:56,936 - INFO - Deleting torrent from qBittorrent: The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:52:56,936 - INFO - Deleting torrent with hash 2fc728a586d1c05ee5ed1ce1c7054d991df92aa4 (delete_files=False)
+2025-04-20 17:52:56,945 - INFO - Successfully deleted torrent with hash 2fc728a586d1c05ee5ed1ce1c7054d991df92aa4
+2025-04-20 17:52:56,945 - INFO - Deleting content files: The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:52:56,945 - INFO - Deleting content: /home/user/Desktop/torrents/The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:52:56,947 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:52:56,947 - INFO - Successfully processed torrent: The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 17:52:56,947 - INFO - Processing torrent: Inglourious Bastards (2009) [1080p]
+2025-04-20 17:52:56,948 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-20 17:52:56,948 - INFO - Attempting to upload torrent: Inglourious Bastards (2009) [1080p]
+2025-04-20 17:52:56,948 - INFO - Content path: /home/user/Desktop/torrents/Inglourious Bastards (2009) [1080p]
+2025-04-20 17:52:56,948 - INFO - Remote path: onedrive:Torrents/Inglourious Bastards (2009) [1080p]
+2025-04-20 17:52:56,948 - INFO - Uploading torrent: Inglourious Bastards (2009) [1080p]
+2025-04-20 17:52:56,948 - INFO - Directory /home/user/Desktop/torrents/Inglourious Bastards (2009) [1080p] is readable, contains 4 files/dirs
+2025-04-20 17:52:56,948 - INFO - Starting upload: /home/user/Desktop/torrents/Inglourious Bastards (2009) [1080p] -> onedrive:Torrents/Inglourious Bastards (2009) [1080p]
+2025-04-20 17:52:56,948 - INFO - Uploading directory of size 1534.48 MB
+2025-04-20 17:54:40,692 - INFO - Successfully uploaded to onedrive:Torrents/Pulp Fiction (1994) [1080p]
+2025-04-20 17:54:40,693 - INFO - Verifying upload for: Pulp Fiction (1994) [1080p]
+2025-04-20 17:54:40,693 - INFO - Verifying upload: /home/user/Desktop/torrents/Pulp Fiction (1994) [1080p] -> onedrive:Torrents/Pulp Fiction (1994) [1080p]
+2025-04-20 17:54:43,240 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pulp Fiction (1994) [1080p]
+2025-04-20 17:54:43,247 - INFO - Deleting torrent from qBittorrent: Pulp Fiction (1994) [1080p]
+2025-04-20 17:54:43,248 - INFO - Deleting torrent with hash 3f8f219568b8b229581dddd7bc5a5e889e906a9b (delete_files=False)
+2025-04-20 17:54:43,261 - INFO - Successfully deleted torrent with hash 3f8f219568b8b229581dddd7bc5a5e889e906a9b
+2025-04-20 17:54:43,261 - INFO - Deleting content files: Pulp Fiction (1994) [1080p]
+2025-04-20 17:54:43,262 - INFO - Deleting content: /home/user/Desktop/torrents/Pulp Fiction (1994) [1080p]
+2025-04-20 17:54:43,263 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pulp Fiction (1994) [1080p]
+2025-04-20 17:54:43,263 - INFO - Successfully processed torrent: Pulp Fiction (1994) [1080p]
+2025-04-20 17:54:43,263 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Pulp Fiction (1994) [1080p]'}
+2025-04-20 17:54:59,017 - INFO - Successfully uploaded to onedrive:Torrents/Annabelle (2014) [1080p]
+2025-04-20 17:54:59,017 - INFO - Verifying upload for: Annabelle (2014) [1080p]
+2025-04-20 17:54:59,017 - INFO - Verifying upload: /home/user/Desktop/torrents/Annabelle (2014) [1080p] -> onedrive:Torrents/Annabelle (2014) [1080p]
+2025-04-20 17:55:00,393 - INFO - Successfully uploaded to onedrive:Torrents/G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:55:00,394 - INFO - Verifying upload for: G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:55:00,394 - INFO - Verifying upload: /home/user/Desktop/torrents/G.I. Joe Rise of Cobra (2009) [1080p] -> onedrive:Torrents/G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:55:01,288 - INFO - Upload verification successful for /home/user/Desktop/torrents/Annabelle (2014) [1080p]
+2025-04-20 17:55:01,296 - INFO - Deleting torrent from qBittorrent: Annabelle (2014) [1080p]
+2025-04-20 17:55:01,296 - INFO - Deleting torrent with hash 43f5521be773815ef2365f6b9beafeace6a61a8b (delete_files=False)
+2025-04-20 17:55:01,304 - INFO - Successfully deleted torrent with hash 43f5521be773815ef2365f6b9beafeace6a61a8b
+2025-04-20 17:55:01,304 - INFO - Deleting content files: Annabelle (2014) [1080p]
+2025-04-20 17:55:01,304 - INFO - Deleting content: /home/user/Desktop/torrents/Annabelle (2014) [1080p]
+2025-04-20 17:55:01,305 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Annabelle (2014) [1080p]
+2025-04-20 17:55:01,305 - INFO - Successfully processed torrent: Annabelle (2014) [1080p]
+2025-04-20 17:55:01,306 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Annabelle (2014) [1080p]'}
+2025-04-20 17:55:02,932 - INFO - Upload verification successful for /home/user/Desktop/torrents/G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:55:02,939 - INFO - Deleting torrent from qBittorrent: G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:55:02,939 - INFO - Deleting torrent with hash 25e69e8a89223e745a2582b57ae8229d31cb45dd (delete_files=False)
+2025-04-20 17:55:02,961 - INFO - Successfully deleted torrent with hash 25e69e8a89223e745a2582b57ae8229d31cb45dd
+2025-04-20 17:55:02,961 - INFO - Deleting content files: G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:55:02,961 - INFO - Deleting content: /home/user/Desktop/torrents/G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:55:02,962 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:55:02,962 - INFO - Successfully processed torrent: G.I. Joe Rise of Cobra (2009) [1080p]
+2025-04-20 17:55:02,962 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'G.I. Joe Rise of Cobra (2009) [1080p]'}
+2025-04-20 17:56:02,172 - INFO - Successfully uploaded to onedrive:Torrents/Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:56:02,173 - INFO - Verifying upload for: Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:56:02,173 - INFO - Verifying upload: /home/user/Desktop/torrents/Penguins of Madagascar (2014) [1080p] -> onedrive:Torrents/Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:56:04,785 - INFO - Upload verification successful for /home/user/Desktop/torrents/Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:56:04,792 - INFO - Deleting torrent from qBittorrent: Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:56:04,792 - INFO - Deleting torrent with hash b15e844d0a35915d8d401f91c469cbb9d65215f0 (delete_files=False)
+2025-04-20 17:56:04,802 - INFO - Successfully deleted torrent with hash b15e844d0a35915d8d401f91c469cbb9d65215f0
+2025-04-20 17:56:04,802 - INFO - Deleting content files: Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:56:04,802 - INFO - Deleting content: /home/user/Desktop/torrents/Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:56:04,803 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:56:04,803 - INFO - Successfully processed torrent: Penguins of Madagascar (2014) [1080p]
+2025-04-20 17:56:04,803 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Penguins of Madagascar (2014) [1080p]'}
