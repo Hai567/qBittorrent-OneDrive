@@ -1367,3 +1367,27 @@
 2025-04-20 14:58:22,254 - INFO - Directory /home/user/Desktop/torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT] is readable, contains 3 files/dirs
 2025-04-20 14:58:22,255 - INFO - Starting upload: /home/user/Desktop/torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT] -> onedrive:Torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
 2025-04-20 14:58:22,255 - INFO - Uploading directory of size 2775.35 MB
+2025-04-20 15:04:29,332 - INFO - Successfully uploaded to onedrive:Torrents/A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:04:29,333 - INFO - Verifying upload for: A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:04:29,333 - INFO - Verifying upload: /home/user/Desktop/torrents/A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:04:31,833 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:04:31,839 - INFO - Deleting torrent from qBittorrent: A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:04:31,839 - INFO - Deleting torrent with hash fc0cce628dbe7eea0cf655a6a13336791021f25f (delete_files=False)
+2025-04-20 15:04:31,849 - INFO - Successfully deleted torrent with hash fc0cce628dbe7eea0cf655a6a13336791021f25f
+2025-04-20 15:04:31,849 - INFO - Deleting content files: A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:04:31,849 - INFO - Deleting content: /home/user/Desktop/torrents/A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:04:31,851 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:04:31,851 - INFO - Successfully processed torrent: A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:04:31,851 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A Star Is Born (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 15:06:05,203 - INFO - Successfully uploaded to onedrive:Torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 15:06:05,203 - INFO - Verifying upload for: Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 15:06:05,204 - INFO - Verifying upload: /home/user/Desktop/torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT] -> onedrive:Torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 15:06:06,584 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 15:06:06,590 - INFO - Deleting torrent from qBittorrent: Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 15:06:06,590 - INFO - Deleting torrent with hash e765e336baa0bfbb22ed6a9b84884fbc344842f9 (delete_files=False)
+2025-04-20 15:06:06,600 - INFO - Successfully deleted torrent with hash e765e336baa0bfbb22ed6a9b84884fbc344842f9
+2025-04-20 15:06:06,601 - INFO - Deleting content files: Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 15:06:06,601 - INFO - Deleting content: /home/user/Desktop/torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 15:06:06,603 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 15:06:06,603 - INFO - Successfully processed torrent: Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]
+2025-04-20 15:06:06,603 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ford V Ferrari (2019) [1080p] [WEBRip] [5.1] [YTS.LT]'}
