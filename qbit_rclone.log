@@ -2668,3 +2668,27 @@
 2025-04-20 17:00:31,109 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-20 17:00:31,109 - INFO - Successfully processed torrent: Ad Astra (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-20 17:00:31,109 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ad Astra (2019) [BluRay] [1080p] [YTS.LT]'}
+2025-04-20 17:01:39,115 - INFO - Successfully uploaded to onedrive:Torrents/Focus (2015) [1080p]
+2025-04-20 17:01:39,116 - INFO - Verifying upload for: Focus (2015) [1080p]
+2025-04-20 17:01:39,116 - INFO - Verifying upload: /home/user/Desktop/torrents/Focus (2015) [1080p] -> onedrive:Torrents/Focus (2015) [1080p]
+2025-04-20 17:01:41,328 - INFO - Successfully uploaded to onedrive:Torrents/Pitch Perfect 2 (2015) [1080p]
+2025-04-20 17:01:41,328 - INFO - Verifying upload for: Pitch Perfect 2 (2015) [1080p]
+2025-04-20 17:01:41,328 - INFO - Verifying upload: /home/user/Desktop/torrents/Pitch Perfect 2 (2015) [1080p] -> onedrive:Torrents/Pitch Perfect 2 (2015) [1080p]
+2025-04-20 17:01:41,405 - INFO - Upload verification successful for /home/user/Desktop/torrents/Focus (2015) [1080p]
+2025-04-20 17:01:41,413 - INFO - Deleting torrent from qBittorrent: Focus (2015) [1080p]
+2025-04-20 17:01:41,413 - INFO - Deleting torrent with hash 63666c575cbebbf5dfc3d69f1cdbda66c02f87cb (delete_files=False)
+2025-04-20 17:01:41,425 - INFO - Successfully deleted torrent with hash 63666c575cbebbf5dfc3d69f1cdbda66c02f87cb
+2025-04-20 17:01:41,425 - INFO - Deleting content files: Focus (2015) [1080p]
+2025-04-20 17:01:41,426 - INFO - Deleting content: /home/user/Desktop/torrents/Focus (2015) [1080p]
+2025-04-20 17:01:41,426 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Focus (2015) [1080p]
+2025-04-20 17:01:41,427 - INFO - Successfully processed torrent: Focus (2015) [1080p]
+2025-04-20 17:01:41,427 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Focus (2015) [1080p]'}
+2025-04-20 17:01:43,619 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pitch Perfect 2 (2015) [1080p]
+2025-04-20 17:01:43,625 - INFO - Deleting torrent from qBittorrent: Pitch Perfect 2 (2015) [1080p]
+2025-04-20 17:01:43,626 - INFO - Deleting torrent with hash f777147438e22c15c8e16ef61133f97bd58e09cf (delete_files=False)
+2025-04-20 17:01:43,636 - INFO - Successfully deleted torrent with hash f777147438e22c15c8e16ef61133f97bd58e09cf
+2025-04-20 17:01:43,636 - INFO - Deleting content files: Pitch Perfect 2 (2015) [1080p]
+2025-04-20 17:01:43,637 - INFO - Deleting content: /home/user/Desktop/torrents/Pitch Perfect 2 (2015) [1080p]
+2025-04-20 17:01:43,638 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pitch Perfect 2 (2015) [1080p]
+2025-04-20 17:01:43,638 - INFO - Successfully processed torrent: Pitch Perfect 2 (2015) [1080p]
+2025-04-20 17:01:43,638 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Pitch Perfect 2 (2015) [1080p]'}
