@@ -579,3 +579,103 @@
 2025-04-20 13:42:19,010 - INFO - Uploading directory of size 1595.16 MB
 2025-04-20 13:42:19,010 - INFO - Uploading directory of size 1573.03 MB
 2025-04-20 13:42:19,010 - INFO - Uploading directory of size 2204.51 MB
+2025-04-20 13:49:21,353 - INFO - Successfully uploaded to onedrive:Torrents/Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:49:21,353 - INFO - Verifying upload for: Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:49:21,354 - INFO - Verifying upload: /home/user/Desktop/torrents/Escape Room (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:49:23,386 - INFO - Upload verification successful for /home/user/Desktop/torrents/Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:49:23,391 - INFO - Deleting torrent from qBittorrent: Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:49:23,391 - INFO - Deleting torrent with hash 5240e3972f352a558e8785872393110631fa7507 (delete_files=False)
+2025-04-20 13:49:23,402 - INFO - Successfully deleted torrent with hash 5240e3972f352a558e8785872393110631fa7507
+2025-04-20 13:49:23,402 - INFO - Deleting content files: Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:49:23,402 - INFO - Deleting content: /home/user/Desktop/torrents/Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:49:23,403 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:49:23,403 - INFO - Successfully processed torrent: Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:49:23,403 - INFO - Processing torrent: Taken 3 (2014) [1080p]
+2025-04-20 13:49:23,403 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Escape Room (2019) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 13:49:23,403 - INFO - Attempting to upload torrent: Taken 3 (2014) [1080p]
+2025-04-20 13:49:23,404 - INFO - Content path: /home/user/Desktop/torrents/Taken 3 (2014) [1080p]
+2025-04-20 13:49:23,404 - INFO - Remote path: onedrive:Torrents/Taken 3 (2014) [1080p]
+2025-04-20 13:49:23,404 - INFO - Uploading torrent: Taken 3 (2014) [1080p]
+2025-04-20 13:49:23,405 - INFO - Directory /home/user/Desktop/torrents/Taken 3 (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 13:49:23,405 - INFO - Starting upload: /home/user/Desktop/torrents/Taken 3 (2014) [1080p] -> onedrive:Torrents/Taken 3 (2014) [1080p]
+2025-04-20 13:49:23,405 - INFO - Uploading directory of size 1885.02 MB
+2025-04-20 13:49:32,136 - INFO - Successfully uploaded to onedrive:Torrents/Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:49:32,136 - INFO - Verifying upload for: Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:49:32,136 - INFO - Verifying upload: /home/user/Desktop/torrents/Gifted (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:49:34,425 - INFO - Upload verification successful for /home/user/Desktop/torrents/Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:49:34,430 - INFO - Deleting torrent from qBittorrent: Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:49:34,431 - INFO - Deleting torrent with hash f6f9545e93d91ecae4728964ef5cef54a6f98609 (delete_files=False)
+2025-04-20 13:49:34,440 - INFO - Successfully deleted torrent with hash f6f9545e93d91ecae4728964ef5cef54a6f98609
+2025-04-20 13:49:34,441 - INFO - Deleting content files: Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:49:34,441 - INFO - Deleting content: /home/user/Desktop/torrents/Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:49:34,442 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:49:34,442 - INFO - Successfully processed torrent: Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:49:34,442 - INFO - Processing torrent: Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:49:34,442 - INFO - Attempting to upload torrent: Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:49:34,442 - INFO - Content path: /home/user/Desktop/torrents/Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:49:34,442 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Gifted (2017) [1080p] [YTS.AG]'}
+2025-04-20 13:49:34,443 - INFO - Remote path: onedrive:Torrents/Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:49:34,443 - INFO - Uploading torrent: Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:49:34,443 - INFO - Directory /home/user/Desktop/torrents/Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-20 13:49:34,443 - INFO - Starting upload: /home/user/Desktop/torrents/Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 13:49:34,443 - INFO - Uploading directory of size 1709.01 MB
+2025-04-20 13:50:41,713 - INFO - Successfully uploaded to onedrive:Torrents/The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:41,713 - INFO - Verifying upload for: The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:41,713 - INFO - Verifying upload: /home/user/Desktop/torrents/The Predator (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,085 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,091 - INFO - Deleting torrent from qBittorrent: The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,091 - INFO - Deleting torrent with hash 449f4ddf1fb79c63f59243fd8dbfd843a92ee5ce (delete_files=False)
+2025-04-20 13:50:44,101 - INFO - Successfully deleted torrent with hash 449f4ddf1fb79c63f59243fd8dbfd843a92ee5ce
+2025-04-20 13:50:44,102 - INFO - Deleting content files: The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,102 - INFO - Deleting content: /home/user/Desktop/torrents/The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,103 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,103 - INFO - Successfully processed torrent: The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,103 - INFO - Processing torrent: Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,103 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Predator (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 13:50:44,103 - INFO - Attempting to upload torrent: Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,103 - INFO - Content path: /home/user/Desktop/torrents/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,103 - INFO - Remote path: onedrive:Torrents/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,103 - INFO - Uploading torrent: Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,104 - INFO - Directory /home/user/Desktop/torrents/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 13:50:44,104 - INFO - Starting upload: /home/user/Desktop/torrents/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:50:44,104 - INFO - Uploading directory of size 1554.82 MB
+2025-04-20 13:51:21,087 - INFO - Successfully uploaded to onedrive:Torrents/Gone Girl (2014) [1080p]
+2025-04-20 13:51:21,087 - INFO - Verifying upload for: Gone Girl (2014) [1080p]
+2025-04-20 13:51:21,087 - INFO - Verifying upload: /home/user/Desktop/torrents/Gone Girl (2014) [1080p] -> onedrive:Torrents/Gone Girl (2014) [1080p]
+2025-04-20 13:51:22,515 - INFO - Upload verification successful for /home/user/Desktop/torrents/Gone Girl (2014) [1080p]
+2025-04-20 13:51:22,520 - INFO - Deleting torrent from qBittorrent: Gone Girl (2014) [1080p]
+2025-04-20 13:51:22,521 - INFO - Deleting torrent with hash d2310f718eb02f98665266786f7d00b42a20f055 (delete_files=False)
+2025-04-20 13:51:22,531 - INFO - Successfully deleted torrent with hash d2310f718eb02f98665266786f7d00b42a20f055
+2025-04-20 13:51:22,531 - INFO - Deleting content files: Gone Girl (2014) [1080p]
+2025-04-20 13:51:22,531 - INFO - Deleting content: /home/user/Desktop/torrents/Gone Girl (2014) [1080p]
+2025-04-20 13:51:22,532 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Gone Girl (2014) [1080p]
+2025-04-20 13:51:22,532 - INFO - Successfully processed torrent: Gone Girl (2014) [1080p]
+2025-04-20 13:51:22,532 - INFO - Processing torrent: Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:51:22,533 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Gone Girl (2014) [1080p]'}
+2025-04-20 13:51:22,533 - INFO - Attempting to upload torrent: Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:51:22,533 - INFO - Content path: /home/user/Desktop/torrents/Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:51:22,533 - INFO - Remote path: onedrive:Torrents/Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:51:22,533 - INFO - Uploading torrent: Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:51:22,533 - INFO - Directory /home/user/Desktop/torrents/Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-20 13:51:22,533 - INFO - Starting upload: /home/user/Desktop/torrents/Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 13:51:22,533 - INFO - Uploading directory of size 2218.04 MB
+2025-04-20 13:51:48,483 - INFO - Successfully uploaded to onedrive:Torrents/Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:51:48,483 - INFO - Verifying upload for: Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:51:48,483 - INFO - Verifying upload: /home/user/Desktop/torrents/Snowden (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:51:50,930 - INFO - Upload verification successful for /home/user/Desktop/torrents/Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:51:50,936 - INFO - Deleting torrent from qBittorrent: Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:51:50,936 - INFO - Deleting torrent with hash ec341bbc6f228ad669c9b5397de7904e496a5eb9 (delete_files=False)
+2025-04-20 13:51:50,947 - INFO - Successfully deleted torrent with hash ec341bbc6f228ad669c9b5397de7904e496a5eb9
+2025-04-20 13:51:50,947 - INFO - Deleting content files: Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:51:50,947 - INFO - Deleting content: /home/user/Desktop/torrents/Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:51:50,948 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:51:50,948 - INFO - Successfully processed torrent: Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:51:50,948 - INFO - Processing torrent: Predestination (2014) [1080p]
+2025-04-20 13:51:50,949 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Snowden (2016) [1080p] [YTS.AG]'}
+2025-04-20 13:51:50,949 - INFO - Attempting to upload torrent: Predestination (2014) [1080p]
+2025-04-20 13:51:50,949 - INFO - Content path: /home/user/Desktop/torrents/Predestination (2014) [1080p]
+2025-04-20 13:51:50,949 - INFO - Remote path: onedrive:Torrents/Predestination (2014) [1080p]
+2025-04-20 13:51:50,949 - INFO - Uploading torrent: Predestination (2014) [1080p]
+2025-04-20 13:51:50,949 - INFO - Directory /home/user/Desktop/torrents/Predestination (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 13:51:50,949 - INFO - Starting upload: /home/user/Desktop/torrents/Predestination (2014) [1080p] -> onedrive:Torrents/Predestination (2014) [1080p]
+2025-04-20 13:51:50,950 - INFO - Uploading directory of size 1478.32 MB
