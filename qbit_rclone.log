@@ -1469,3 +1469,83 @@
 2025-04-20 15:16:59,374 - INFO - Directory /home/user/Desktop/torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 2 files/dirs
 2025-04-20 15:16:59,374 - INFO - Starting upload: /home/user/Desktop/torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-20 15:16:59,374 - INFO - Uploading directory of size 1730.14 MB
+2025-04-20 15:18:02,766 - INFO - Successfully uploaded to onedrive:Torrents/Home (2015) [1080p]
+2025-04-20 15:18:02,766 - INFO - Verifying upload for: Home (2015) [1080p]
+2025-04-20 15:18:02,767 - INFO - Verifying upload: /home/user/Desktop/torrents/Home (2015) [1080p] -> onedrive:Torrents/Home (2015) [1080p]
+2025-04-20 15:18:05,593 - INFO - Upload verification successful for /home/user/Desktop/torrents/Home (2015) [1080p]
+2025-04-20 15:18:05,599 - INFO - Deleting torrent from qBittorrent: Home (2015) [1080p]
+2025-04-20 15:18:05,599 - INFO - Deleting torrent with hash f07c2a0b3ce09acb4c72611cf108b77c7d967949 (delete_files=False)
+2025-04-20 15:18:05,611 - INFO - Successfully deleted torrent with hash f07c2a0b3ce09acb4c72611cf108b77c7d967949
+2025-04-20 15:18:05,611 - INFO - Deleting content files: Home (2015) [1080p]
+2025-04-20 15:18:05,611 - INFO - Deleting content: /home/user/Desktop/torrents/Home (2015) [1080p]
+2025-04-20 15:18:05,612 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Home (2015) [1080p]
+2025-04-20 15:18:05,612 - INFO - Successfully processed torrent: Home (2015) [1080p]
+2025-04-20 15:18:05,612 - INFO - Processing torrent: Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:18:05,613 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Home (2015) [1080p]'}
+2025-04-20 15:18:05,613 - INFO - Attempting to upload torrent: Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:18:05,613 - INFO - Content path: /home/user/Desktop/torrents/Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:18:05,613 - INFO - Remote path: onedrive:Torrents/Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:18:05,613 - INFO - Uploading torrent: Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:18:05,613 - INFO - Directory /home/user/Desktop/torrents/Why Him (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 15:18:05,613 - INFO - Starting upload: /home/user/Desktop/torrents/Why Him (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:18:05,614 - INFO - Uploading directory of size 1720.23 MB
+2025-04-20 15:19:20,451 - INFO - Successfully uploaded to onedrive:Torrents/American Assassin (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:20,452 - INFO - Verifying upload for: American Assassin (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:20,452 - INFO - Verifying upload: /home/user/Desktop/torrents/American Assassin (2017) [1080p] [YTS.AG] -> onedrive:Torrents/American Assassin (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,880 - INFO - Upload verification successful for /home/user/Desktop/torrents/American Assassin (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,887 - INFO - Deleting torrent from qBittorrent: American Assassin (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,887 - INFO - Deleting torrent with hash dcd16a31ffa808ac3fbaf77ea0bcb71114122a97 (delete_files=False)
+2025-04-20 15:19:22,899 - INFO - Successfully deleted torrent with hash dcd16a31ffa808ac3fbaf77ea0bcb71114122a97
+2025-04-20 15:19:22,899 - INFO - Deleting content files: American Assassin (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,899 - INFO - Deleting content: /home/user/Desktop/torrents/American Assassin (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,901 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/American Assassin (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,901 - INFO - Successfully processed torrent: American Assassin (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,901 - INFO - Processing torrent: American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,901 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'American Assassin (2017) [1080p] [YTS.AG]'}
+2025-04-20 15:19:22,901 - INFO - Attempting to upload torrent: American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,901 - INFO - Content path: /home/user/Desktop/torrents/American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,901 - INFO - Remote path: onedrive:Torrents/American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,902 - INFO - Uploading torrent: American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,902 - INFO - Directory /home/user/Desktop/torrents/American Made (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 15:19:22,902 - INFO - Starting upload: /home/user/Desktop/torrents/American Made (2017) [1080p] [YTS.AG] -> onedrive:Torrents/American Made (2017) [1080p] [YTS.AG]
+2025-04-20 15:19:22,902 - INFO - Uploading directory of size 1787.45 MB
+2025-04-20 15:20:02,768 - INFO - Successfully uploaded to onedrive:Torrents/Insidious Chapter 2 (2013) [1080p]
+2025-04-20 15:20:02,769 - INFO - Verifying upload for: Insidious Chapter 2 (2013) [1080p]
+2025-04-20 15:20:02,769 - INFO - Verifying upload: /home/user/Desktop/torrents/Insidious Chapter 2 (2013) [1080p] -> onedrive:Torrents/Insidious Chapter 2 (2013) [1080p]
+2025-04-20 15:20:05,031 - INFO - Upload verification successful for /home/user/Desktop/torrents/Insidious Chapter 2 (2013) [1080p]
+2025-04-20 15:20:05,056 - INFO - Deleting torrent from qBittorrent: Insidious Chapter 2 (2013) [1080p]
+2025-04-20 15:20:05,056 - INFO - Deleting torrent with hash 64fb492a59b41f148e0a8126132fe7ff8e0826ed (delete_files=False)
+2025-04-20 15:20:05,064 - INFO - Successfully deleted torrent with hash 64fb492a59b41f148e0a8126132fe7ff8e0826ed
+2025-04-20 15:20:05,064 - INFO - Deleting content files: Insidious Chapter 2 (2013) [1080p]
+2025-04-20 15:20:05,064 - INFO - Deleting content: /home/user/Desktop/torrents/Insidious Chapter 2 (2013) [1080p]
+2025-04-20 15:20:05,065 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Insidious Chapter 2 (2013) [1080p]
+2025-04-20 15:20:05,065 - INFO - Successfully processed torrent: Insidious Chapter 2 (2013) [1080p]
+2025-04-20 15:20:05,065 - INFO - Processing torrent: The Wolverine (2013) [1080p]
+2025-04-20 15:20:05,065 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Insidious Chapter 2 (2013) [1080p]'}
+2025-04-20 15:20:05,065 - INFO - Attempting to upload torrent: The Wolverine (2013) [1080p]
+2025-04-20 15:20:05,065 - INFO - Content path: /home/user/Desktop/torrents/The Wolverine (2013) [1080p]
+2025-04-20 15:20:05,066 - INFO - Remote path: onedrive:Torrents/The Wolverine (2013) [1080p]
+2025-04-20 15:20:05,066 - INFO - Uploading torrent: The Wolverine (2013) [1080p]
+2025-04-20 15:20:05,066 - INFO - Directory /home/user/Desktop/torrents/The Wolverine (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-20 15:20:05,066 - INFO - Starting upload: /home/user/Desktop/torrents/The Wolverine (2013) [1080p] -> onedrive:Torrents/The Wolverine (2013) [1080p]
+2025-04-20 15:20:05,066 - INFO - Uploading directory of size 2090.32 MB
+2025-04-20 15:20:09,901 - INFO - Successfully uploaded to onedrive:Torrents/Man of Steel (2013) [1080p]
+2025-04-20 15:20:09,901 - INFO - Verifying upload for: Man of Steel (2013) [1080p]
+2025-04-20 15:20:09,901 - INFO - Verifying upload: /home/user/Desktop/torrents/Man of Steel (2013) [1080p] -> onedrive:Torrents/Man of Steel (2013) [1080p]
+2025-04-20 15:20:12,191 - INFO - Upload verification successful for /home/user/Desktop/torrents/Man of Steel (2013) [1080p]
+2025-04-20 15:20:12,197 - INFO - Deleting torrent from qBittorrent: Man of Steel (2013) [1080p]
+2025-04-20 15:20:12,197 - INFO - Deleting torrent with hash 6a450b7f275d5b777b2a8d29c92febe26d654909 (delete_files=False)
+2025-04-20 15:20:12,205 - INFO - Successfully deleted torrent with hash 6a450b7f275d5b777b2a8d29c92febe26d654909
+2025-04-20 15:20:12,206 - INFO - Deleting content files: Man of Steel (2013) [1080p]
+2025-04-20 15:20:12,206 - INFO - Deleting content: /home/user/Desktop/torrents/Man of Steel (2013) [1080p]
+2025-04-20 15:20:12,206 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Man of Steel (2013) [1080p]
+2025-04-20 15:20:12,207 - INFO - Successfully processed torrent: Man of Steel (2013) [1080p]
+2025-04-20 15:20:12,207 - INFO - Processing torrent: The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:20:12,207 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Man of Steel (2013) [1080p]'}
+2025-04-20 15:20:12,207 - INFO - Attempting to upload torrent: The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:20:12,207 - INFO - Content path: /home/user/Desktop/torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:20:12,207 - INFO - Remote path: onedrive:Torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:20:12,207 - INFO - Uploading torrent: The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:20:12,207 - INFO - Directory /home/user/Desktop/torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 15:20:12,208 - INFO - Starting upload: /home/user/Desktop/torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:20:12,208 - INFO - Uploading directory of size 1602.98 MB
