@@ -2388,3 +2388,51 @@
 2025-04-20 16:38:35,979 - INFO - Uploading directory of size 1783.07 MB
 2025-04-20 16:38:35,981 - INFO - Uploading directory of size 1703.93 MB
 2025-04-20 16:38:35,982 - INFO - Uploading directory of size 2084.52 MB
+2025-04-20 16:42:26,752 - INFO - Successfully uploaded to onedrive:Torrents/Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:26,752 - INFO - Verifying upload for: Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:26,752 - INFO - Verifying upload: /home/user/Desktop/torrents/Annabelle Creation (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:29,047 - INFO - Upload verification successful for /home/user/Desktop/torrents/Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:29,055 - INFO - Deleting torrent from qBittorrent: Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:29,055 - INFO - Deleting torrent with hash 2375dd151e5e851a48a7766157b67aa4b4da99ee (delete_files=False)
+2025-04-20 16:42:29,071 - INFO - Successfully deleted torrent with hash 2375dd151e5e851a48a7766157b67aa4b4da99ee
+2025-04-20 16:42:29,072 - INFO - Deleting content files: Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:29,072 - INFO - Deleting content: /home/user/Desktop/torrents/Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:29,073 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:29,073 - INFO - Successfully processed torrent: Annabelle Creation (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:29,074 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Annabelle Creation (2017) [1080p] [YTS.AG]'}
+2025-04-20 16:42:32,807 - INFO - Successfully uploaded to onedrive:Torrents/Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:32,808 - INFO - Verifying upload for: Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:32,808 - INFO - Verifying upload: /home/user/Desktop/torrents/Atomic Blonde (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:35,195 - INFO - Upload verification successful for /home/user/Desktop/torrents/Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:35,202 - INFO - Deleting torrent from qBittorrent: Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:35,202 - INFO - Deleting torrent with hash d81c7c13feecdf16bea544ff128992235c27238c (delete_files=False)
+2025-04-20 16:42:35,211 - INFO - Successfully deleted torrent with hash d81c7c13feecdf16bea544ff128992235c27238c
+2025-04-20 16:42:35,211 - INFO - Deleting content files: Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:35,211 - INFO - Deleting content: /home/user/Desktop/torrents/Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:35,212 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:35,212 - INFO - Successfully processed torrent: Atomic Blonde (2017) [1080p] [YTS.AG]
+2025-04-20 16:42:35,213 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Atomic Blonde (2017) [1080p] [YTS.AG]'}
+2025-04-20 16:43:08,196 - INFO - Successfully uploaded to onedrive:Torrents/Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:08,197 - INFO - Verifying upload for: Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:08,197 - INFO - Verifying upload: /home/user/Desktop/torrents/Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:10,591 - INFO - Upload verification successful for /home/user/Desktop/torrents/Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:10,599 - INFO - Deleting torrent from qBittorrent: Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:10,599 - INFO - Deleting torrent with hash b250c29cb0edabf43a33355258e2f0b614585fc9 (delete_files=False)
+2025-04-20 16:43:10,612 - INFO - Successfully deleted torrent with hash b250c29cb0edabf43a33355258e2f0b614585fc9
+2025-04-20 16:43:10,612 - INFO - Deleting content files: Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:10,612 - INFO - Deleting content: /home/user/Desktop/torrents/Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:10,614 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:10,614 - INFO - Successfully processed torrent: Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:10,615 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Lupin III Vs. Detective Conan The Movie (2013) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 16:43:23,935 - INFO - Successfully uploaded to onedrive:Torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:23,936 - INFO - Verifying upload for: Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:23,936 - INFO - Verifying upload: /home/user/Desktop/torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:26,601 - INFO - Upload verification successful for /home/user/Desktop/torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:26,608 - INFO - Deleting torrent from qBittorrent: Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:26,608 - INFO - Deleting torrent with hash bfb661fd15ed89c6ff41a1aa5a8cf90c9b915218 (delete_files=False)
+2025-04-20 16:43:26,617 - INFO - Successfully deleted torrent with hash bfb661fd15ed89c6ff41a1aa5a8cf90c9b915218
+2025-04-20 16:43:26,617 - INFO - Deleting content files: Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:26,617 - INFO - Deleting content: /home/user/Desktop/torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:26,619 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:26,620 - INFO - Successfully processed torrent: Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:43:26,620 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Meitantei Conan Hiiro No Dangan (2021) [1080p] [BluRay] [5.1] [YTS.MX]'}
