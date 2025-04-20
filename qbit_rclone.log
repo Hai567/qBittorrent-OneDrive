@@ -1019,3 +1019,83 @@
 2025-04-20 14:20:37,918 - INFO - Directory /home/user/Desktop/torrents/Birdman (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-20 14:20:37,918 - INFO - Starting upload: /home/user/Desktop/torrents/Birdman (2014) [1080p] -> onedrive:Torrents/Birdman (2014) [1080p]
 2025-04-20 14:20:37,918 - INFO - Uploading directory of size 1887.47 MB
+2025-04-20 14:23:47,652 - INFO - Successfully uploaded to onedrive:Torrents/Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:23:47,653 - INFO - Verifying upload for: Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:23:47,653 - INFO - Verifying upload: /home/user/Desktop/torrents/Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:23:50,054 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:23:50,060 - INFO - Deleting torrent from qBittorrent: Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:23:50,060 - INFO - Deleting torrent with hash 90753442658d029007d8d745abe820752878f866 (delete_files=False)
+2025-04-20 14:23:50,070 - INFO - Successfully deleted torrent with hash 90753442658d029007d8d745abe820752878f866
+2025-04-20 14:23:50,070 - INFO - Deleting content files: Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:23:50,070 - INFO - Deleting content: /home/user/Desktop/torrents/Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:23:50,071 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:23:50,071 - INFO - Successfully processed torrent: Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:23:50,071 - INFO - Processing torrent: Shutter Island (2010) [1080p]
+2025-04-20 14:23:50,071 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-20 14:23:50,071 - INFO - Attempting to upload torrent: Shutter Island (2010) [1080p]
+2025-04-20 14:23:50,072 - INFO - Content path: /home/user/Desktop/torrents/Shutter Island (2010) [1080p]
+2025-04-20 14:23:50,072 - INFO - Remote path: onedrive:Torrents/Shutter Island (2010) [1080p]
+2025-04-20 14:23:50,072 - INFO - Uploading torrent: Shutter Island (2010) [1080p]
+2025-04-20 14:23:50,072 - INFO - Directory /home/user/Desktop/torrents/Shutter Island (2010) [1080p] is readable, contains 3 files/dirs
+2025-04-20 14:23:50,072 - INFO - Starting upload: /home/user/Desktop/torrents/Shutter Island (2010) [1080p] -> onedrive:Torrents/Shutter Island (2010) [1080p]
+2025-04-20 14:23:50,072 - INFO - Uploading directory of size 1947.79 MB
+2025-04-20 14:24:14,856 - INFO - Successfully uploaded to onedrive:Torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:24:14,857 - INFO - Verifying upload for: Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:24:14,857 - INFO - Verifying upload: /home/user/Desktop/torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:24:17,272 - INFO - Upload verification successful for /home/user/Desktop/torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:24:17,279 - INFO - Deleting torrent from qBittorrent: Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:24:17,279 - INFO - Deleting torrent with hash 671e6d130005810236c19f2b706ab5552ca1472a (delete_files=False)
+2025-04-20 14:24:17,288 - INFO - Successfully deleted torrent with hash 671e6d130005810236c19f2b706ab5552ca1472a
+2025-04-20 14:24:17,288 - INFO - Deleting content files: Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:24:17,288 - INFO - Deleting content: /home/user/Desktop/torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:24:17,289 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:24:17,290 - INFO - Successfully processed torrent: Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-20 14:24:17,290 - INFO - Processing torrent: Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:24:17,290 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-20 14:24:17,290 - INFO - Attempting to upload torrent: Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:24:17,290 - INFO - Content path: /home/user/Desktop/torrents/Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Onward.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+2025-04-20 14:24:17,290 - INFO - Remote path: onedrive:Torrents/Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:24:17,290 - INFO - Uploading torrent: Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:24:17,291 - INFO - File /home/user/Desktop/torrents/Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Onward.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4 is readable
+2025-04-20 14:24:17,291 - INFO - Starting upload: /home/user/Desktop/torrents/Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Onward.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4 -> onedrive:Torrents/Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 14:24:17,291 - INFO - Uploading file of size 1932.29 MB
+2025-04-20 14:24:37,352 - INFO - Successfully uploaded to onedrive:Torrents/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:24:37,352 - INFO - Verifying upload for: King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:24:37,352 - INFO - Verifying upload: /home/user/Desktop/torrents/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG] -> onedrive:Torrents/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:24:38,737 - INFO - Upload verification successful for /home/user/Desktop/torrents/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:24:38,743 - INFO - Deleting torrent from qBittorrent: King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:24:38,743 - INFO - Deleting torrent with hash 08e3ee133b1516e6807a5928bd78c8138dda3626 (delete_files=False)
+2025-04-20 14:24:38,752 - INFO - Successfully deleted torrent with hash 08e3ee133b1516e6807a5928bd78c8138dda3626
+2025-04-20 14:24:38,752 - INFO - Deleting content files: King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:24:38,752 - INFO - Deleting content: /home/user/Desktop/torrents/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:24:38,753 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:24:38,753 - INFO - Successfully processed torrent: King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+2025-04-20 14:24:38,754 - INFO - Processing torrent: Sicario (2015) [1080p]
+2025-04-20 14:24:38,754 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]'}
+2025-04-20 14:24:38,754 - INFO - Attempting to upload torrent: Sicario (2015) [1080p]
+2025-04-20 14:24:38,754 - INFO - Content path: /home/user/Desktop/torrents/Sicario (2015) [1080p]
+2025-04-20 14:24:38,754 - INFO - Remote path: onedrive:Torrents/Sicario (2015) [1080p]
+2025-04-20 14:24:38,754 - INFO - Uploading torrent: Sicario (2015) [1080p]
+2025-04-20 14:24:38,754 - INFO - Directory /home/user/Desktop/torrents/Sicario (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-20 14:24:38,754 - INFO - Starting upload: /home/user/Desktop/torrents/Sicario (2015) [1080p] -> onedrive:Torrents/Sicario (2015) [1080p]
+2025-04-20 14:24:38,754 - INFO - Uploading directory of size 1868.19 MB
+2025-04-20 14:26:32,166 - INFO - Successfully uploaded to onedrive:Torrents/Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:26:32,166 - INFO - Verifying upload for: Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:26:32,166 - INFO - Verifying upload: /home/user/Desktop/torrents/Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:26:34,746 - INFO - Upload verification successful for /home/user/Desktop/torrents/Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:26:34,751 - INFO - Deleting torrent from qBittorrent: Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:26:34,752 - INFO - Deleting torrent with hash d930e98bd46f6e20dc1ba7574c7ef6167ea18bea (delete_files=False)
+2025-04-20 14:26:34,763 - INFO - Successfully deleted torrent with hash d930e98bd46f6e20dc1ba7574c7ef6167ea18bea
+2025-04-20 14:26:34,764 - INFO - Deleting content files: Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:26:34,764 - INFO - Deleting content: /home/user/Desktop/torrents/Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:26:34,765 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:26:34,765 - INFO - Successfully processed torrent: Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 14:26:34,765 - INFO - Processing torrent: The Incredible Hulk (2008) [1080p]
+2025-04-20 14:26:34,765 - INFO - Attempting to upload torrent: The Incredible Hulk (2008) [1080p]
+2025-04-20 14:26:34,765 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 14:26:34,766 - INFO - Content path: /home/user/Desktop/torrents/The Incredible Hulk (2008) [1080p]
+2025-04-20 14:26:34,766 - INFO - Remote path: onedrive:Torrents/The Incredible Hulk (2008) [1080p]
+2025-04-20 14:26:34,766 - INFO - Uploading torrent: The Incredible Hulk (2008) [1080p]
+2025-04-20 14:26:34,766 - INFO - Directory /home/user/Desktop/torrents/The Incredible Hulk (2008) [1080p] is readable, contains 2 files/dirs
+2025-04-20 14:26:34,766 - INFO - Starting upload: /home/user/Desktop/torrents/The Incredible Hulk (2008) [1080p] -> onedrive:Torrents/The Incredible Hulk (2008) [1080p]
+2025-04-20 14:26:34,766 - INFO - Uploading directory of size 1681.16 MB
