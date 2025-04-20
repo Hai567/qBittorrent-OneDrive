@@ -483,3 +483,15 @@
 2025-04-20 13:36:26,504 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Edge of Tomorrow (2014) [1080p]
 2025-04-20 13:36:26,504 - INFO - Successfully processed torrent: Edge of Tomorrow (2014) [1080p]
 2025-04-20 13:36:26,504 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Edge of Tomorrow (2014) [1080p]'}
+2025-04-20 13:37:16,686 - INFO - Successfully uploaded to onedrive:Torrents/The Theory of Everything (2014) [1080p]
+2025-04-20 13:37:16,687 - INFO - Verifying upload for: The Theory of Everything (2014) [1080p]
+2025-04-20 13:37:16,687 - INFO - Verifying upload: /home/user/Desktop/torrents/The Theory of Everything (2014) [1080p] -> onedrive:Torrents/The Theory of Everything (2014) [1080p]
+2025-04-20 13:37:18,956 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Theory of Everything (2014) [1080p]
+2025-04-20 13:37:18,961 - INFO - Deleting torrent from qBittorrent: The Theory of Everything (2014) [1080p]
+2025-04-20 13:37:18,961 - INFO - Deleting torrent with hash 236f0d62c2dcfddeffa383d7f93bd21eeca63fb9 (delete_files=False)
+2025-04-20 13:37:18,971 - INFO - Successfully deleted torrent with hash 236f0d62c2dcfddeffa383d7f93bd21eeca63fb9
+2025-04-20 13:37:18,971 - INFO - Deleting content files: The Theory of Everything (2014) [1080p]
+2025-04-20 13:37:18,971 - INFO - Deleting content: /home/user/Desktop/torrents/The Theory of Everything (2014) [1080p]
+2025-04-20 13:37:18,972 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Theory of Everything (2014) [1080p]
+2025-04-20 13:37:18,972 - INFO - Successfully processed torrent: The Theory of Everything (2014) [1080p]
+2025-04-20 13:37:18,973 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Theory of Everything (2014) [1080p]'}
