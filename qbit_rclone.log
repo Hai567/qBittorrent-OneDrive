@@ -1549,3 +1549,63 @@
 2025-04-20 15:20:12,207 - INFO - Directory /home/user/Desktop/torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-20 15:20:12,208 - INFO - Starting upload: /home/user/Desktop/torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-20 15:20:12,208 - INFO - Uploading directory of size 1602.98 MB
+2025-04-20 15:26:13,709 - INFO - Successfully uploaded to onedrive:Torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:13,709 - INFO - Verifying upload for: Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:13,710 - INFO - Verifying upload: /home/user/Desktop/torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,041 - INFO - Upload verification successful for /home/user/Desktop/torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,048 - INFO - Deleting torrent from qBittorrent: Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,048 - INFO - Deleting torrent with hash 135e2be1f525d30aac80e413f371ad171e81c68d (delete_files=False)
+2025-04-20 15:26:16,059 - INFO - Successfully deleted torrent with hash 135e2be1f525d30aac80e413f371ad171e81c68d
+2025-04-20 15:26:16,059 - INFO - Deleting content files: Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,059 - INFO - Deleting content: /home/user/Desktop/torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,060 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,060 - INFO - Successfully processed torrent: Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,060 - INFO - Processing torrent: The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,060 - INFO - Attempting to upload torrent: The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,060 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Nobody (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-20 15:26:16,061 - INFO - Content path: /home/user/Desktop/torrents/The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,061 - INFO - Remote path: onedrive:Torrents/The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,061 - INFO - Uploading torrent: The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,061 - INFO - Directory /home/user/Desktop/torrents/The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-20 15:26:16,061 - INFO - Starting upload: /home/user/Desktop/torrents/The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 15:26:16,061 - INFO - Uploading directory of size 2346.19 MB
+2025-04-20 15:26:33,642 - INFO - Successfully uploaded to onedrive:Torrents/Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:26:33,642 - INFO - Verifying upload for: Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:26:33,642 - INFO - Verifying upload: /home/user/Desktop/torrents/Why Him (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:26:35,971 - INFO - Upload verification successful for /home/user/Desktop/torrents/Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:26:35,977 - INFO - Deleting torrent from qBittorrent: Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:26:35,977 - INFO - Deleting torrent with hash 1248332c0f3486ea3c1b38b8adc7edd5fb88c590 (delete_files=False)
+2025-04-20 15:26:35,987 - INFO - Successfully deleted torrent with hash 1248332c0f3486ea3c1b38b8adc7edd5fb88c590
+2025-04-20 15:26:35,987 - INFO - Deleting content files: Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:26:35,987 - INFO - Deleting content: /home/user/Desktop/torrents/Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:26:35,988 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:26:35,989 - INFO - Successfully processed torrent: Why Him (2016) [1080p] [YTS.AG]
+2025-04-20 15:26:35,989 - INFO - Processing torrent: Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:26:35,989 - INFO - Attempting to upload torrent: Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:26:35,989 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Why Him (2016) [1080p] [YTS.AG]'}
+2025-04-20 15:26:35,989 - INFO - Content path: /home/user/Desktop/torrents/Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:26:35,989 - INFO - Remote path: onedrive:Torrents/Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:26:35,989 - INFO - Uploading torrent: Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:26:35,989 - INFO - Directory /home/user/Desktop/torrents/Insidious Chapter 3 (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 15:26:35,989 - INFO - Starting upload: /home/user/Desktop/torrents/Insidious Chapter 3 (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Insidious Chapter 3 (2015) [1080p] [YTS.AG]
+2025-04-20 15:26:35,989 - INFO - Uploading directory of size 1512.84 MB
+2025-04-20 15:27:34,342 - INFO - Successfully uploaded to onedrive:Torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:27:34,342 - INFO - Verifying upload for: The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:27:34,342 - INFO - Verifying upload: /home/user/Desktop/torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:27:36,808 - INFO - Upload verification successful for /home/user/Desktop/torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:27:36,815 - INFO - Deleting torrent from qBittorrent: The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:27:36,815 - INFO - Deleting torrent with hash eb3e9fd111a73462c9a50fd38c8934c13027b77e (delete_files=False)
+2025-04-20 15:27:36,825 - INFO - Successfully deleted torrent with hash eb3e9fd111a73462c9a50fd38c8934c13027b77e
+2025-04-20 15:27:36,825 - INFO - Deleting content files: The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:27:36,825 - INFO - Deleting content: /home/user/Desktop/torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:27:36,827 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:27:36,827 - INFO - Successfully processed torrent: The First Purge (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 15:27:36,827 - INFO - Processing torrent: Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:27:36,827 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The First Purge (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 15:27:36,828 - INFO - Attempting to upload torrent: Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:27:36,828 - INFO - Content path: /home/user/Desktop/torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:27:36,828 - INFO - Remote path: onedrive:Torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:27:36,828 - INFO - Uploading torrent: Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:27:36,828 - INFO - Directory /home/user/Desktop/torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] is readable, contains 2 files/dirs
+2025-04-20 15:27:36,828 - INFO - Starting upload: /home/user/Desktop/torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Encanto.2021.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:27:36,829 - INFO - Uploading directory of size 1435.87 MB
