@@ -3116,3 +3116,73 @@
 2025-04-20 17:29:29,590 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-20 17:29:29,590 - INFO - Successfully processed torrent: Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-20 17:29:29,590 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-20 17:34:29,597 - INFO - Active upload threads: 5/5
+2025-04-20 17:34:29,598 - INFO - Checking for completed torrents...
+2025-04-20 17:34:29,607 - INFO - Found 26 completed torrents
+2025-04-20 17:34:29,608 - INFO - Torrent Non Stop (2014) [1080p]: content_path = /home/user/Desktop/torrents/Non Stop (2014) [1080p], exists: True
+2025-04-20 17:34:29,608 - INFO - Torrent Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 17:34:29,608 - INFO - Torrent A Dog's Purpose (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/A Dog's Purpose (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 17:34:29,608 - INFO - Torrent Django Unchained (2012) [1080p]: content_path = /home/user/Desktop/torrents/Django Unchained (2012) [1080p], exists: True
+2025-04-20 17:34:29,608 - INFO - Torrent Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-20 17:34:29,608 - INFO - Torrent Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Contagion (2011) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 17:34:29,608 - INFO - Torrent Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 17:34:29,608 - INFO - Torrent Smurfs The Lost Village (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Smurfs The Lost Village (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 17:34:29,608 - INFO - Torrent Ferdinand (2017) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Ferdinand (2017) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-20 17:34:29,608 - INFO - Torrent Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Ip Man 2 (2010) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 17:34:29,608 - INFO - Torrent Home Alone (1990) [1080p]: content_path = /home/user/Desktop/torrents/Home Alone (1990) [1080p], exists: True
+2025-04-20 17:34:29,608 - INFO - Torrent Kung Fu Panda (2008) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Kung Fu Panda (2008) [1080p] [YTS.AG], exists: True
+2025-04-20 17:34:29,608 - INFO - Torrent The Longest Ride (2015) [1080p]: content_path = /home/user/Desktop/torrents/The Longest Ride (2015) [1080p], exists: True
+2025-04-20 17:34:29,609 - INFO - Torrent The Grand Budapest Hotel (2014) [1080p]: content_path = /home/user/Desktop/torrents/The Grand Budapest Hotel (2014) [1080p], exists: True
+2025-04-20 17:34:29,609 - INFO - Torrent The Founder (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Founder (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 17:34:29,609 - INFO - Torrent Pixels (2015) [1080p]: content_path = /home/user/Desktop/torrents/Pixels (2015) [1080p], exists: True
+2025-04-20 17:34:29,609 - INFO - Torrent Hellboy (2019) [BluRay] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Hellboy (2019) [BluRay] [1080p] [YTS.LT], exists: True
+2025-04-20 17:34:29,609 - INFO - Torrent Tag (2018) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Tag (2018) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-20 17:34:29,609 - INFO - Torrent Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Detective Conan Sunflowers Of Inferno (2015) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 17:34:29,609 - INFO - Torrent G.I. Joe Rise of Cobra (2009) [1080p]: content_path = /home/user/Desktop/torrents/G.I. Joe Rise of Cobra (2009) [1080p], exists: True
+2025-04-20 17:34:29,609 - INFO - Torrent The Addams Family (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/The Addams Family (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-20 17:34:29,609 - INFO - Torrent Pulp Fiction (1994) [1080p]: content_path = /home/user/Desktop/torrents/Pulp Fiction (1994) [1080p], exists: True
+2025-04-20 17:34:29,609 - INFO - Torrent Annabelle (2014) [1080p]: content_path = /home/user/Desktop/torrents/Annabelle (2014) [1080p], exists: True
+2025-04-20 17:34:29,609 - INFO - Torrent Penguins of Madagascar (2014) [1080p]: content_path = /home/user/Desktop/torrents/Penguins of Madagascar (2014) [1080p], exists: True
+2025-04-20 17:34:29,609 - INFO - Torrent Inglourious Bastards (2009) [1080p]: content_path = /home/user/Desktop/torrents/Inglourious Bastards (2009) [1080p], exists: True
+2025-04-20 17:34:29,609 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-20 17:34:29,609 - INFO - Submitting 25 torrents for parallel upload
+2025-04-20 17:34:29,610 - INFO - Processing torrent: Non Stop (2014) [1080p]
+2025-04-20 17:34:29,610 - INFO - Processing torrent: Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:34:29,610 - INFO - Attempting to upload torrent: Non Stop (2014) [1080p]
+2025-04-20 17:34:29,610 - INFO - Processing torrent: A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:34:29,610 - INFO - Attempting to upload torrent: Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:34:29,611 - INFO - Content path: /home/user/Desktop/torrents/Non Stop (2014) [1080p]
+2025-04-20 17:34:29,611 - INFO - Processing torrent: Django Unchained (2012) [1080p]
+2025-04-20 17:34:29,611 - INFO - Attempting to upload torrent: A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:34:29,612 - INFO - Processing torrent: Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:34:29,612 - INFO - Content path: /home/user/Desktop/torrents/Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:34:29,612 - INFO - Remote path: onedrive:Torrents/Non Stop (2014) [1080p]
+2025-04-20 17:34:29,612 - INFO - Attempting to upload torrent: Django Unchained (2012) [1080p]
+2025-04-20 17:34:29,612 - INFO - Content path: /home/user/Desktop/torrents/A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:34:29,612 - INFO - Attempting to upload torrent: Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:34:29,613 - INFO - Remote path: onedrive:Torrents/Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:34:29,613 - INFO - Uploading torrent: Non Stop (2014) [1080p]
+2025-04-20 17:34:29,613 - INFO - Content path: /home/user/Desktop/torrents/Django Unchained (2012) [1080p]
+2025-04-20 17:34:29,613 - INFO - Remote path: onedrive:Torrents/A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:34:29,613 - INFO - Content path: /home/user/Desktop/torrents/Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:34:29,613 - INFO - Uploading torrent: Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:34:29,613 - INFO - Remote path: onedrive:Torrents/Django Unchained (2012) [1080p]
+2025-04-20 17:34:29,614 - INFO - Uploading torrent: A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:34:29,614 - INFO - Remote path: onedrive:Torrents/Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:34:29,614 - INFO - Directory /home/user/Desktop/torrents/Non Stop (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 17:34:29,614 - INFO - Uploading torrent: Django Unchained (2012) [1080p]
+2025-04-20 17:34:29,614 - INFO - Directory /home/user/Desktop/torrents/Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 17:34:29,615 - INFO - Uploading torrent: Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:34:29,615 - INFO - Directory /home/user/Desktop/torrents/A Dog's Purpose (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 17:34:29,615 - INFO - Starting upload: /home/user/Desktop/torrents/Non Stop (2014) [1080p] -> onedrive:Torrents/Non Stop (2014) [1080p]
+2025-04-20 17:34:29,615 - INFO - Starting upload: /home/user/Desktop/torrents/Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Hunter Killer (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 17:34:29,615 - INFO - Directory /home/user/Desktop/torrents/Django Unchained (2012) [1080p] is readable, contains 3 files/dirs
+2025-04-20 17:34:29,616 - INFO - Starting upload: /home/user/Desktop/torrents/A Dog's Purpose (2017) [1080p] [YTS.AG] -> onedrive:Torrents/A Dog's Purpose (2017) [1080p] [YTS.AG]
+2025-04-20 17:34:29,616 - INFO - Directory /home/user/Desktop/torrents/Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-20 17:34:29,616 - INFO - Uploading directory of size 1683.11 MB
+2025-04-20 17:34:29,616 - INFO - Uploading directory of size 1996.22 MB
+2025-04-20 17:34:29,616 - INFO - Starting upload: /home/user/Desktop/torrents/Django Unchained (2012) [1080p] -> onedrive:Torrents/Django Unchained (2012) [1080p]
+2025-04-20 17:34:29,617 - INFO - Starting upload: /home/user/Desktop/torrents/Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Luca (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:34:29,617 - INFO - Uploading directory of size 1557.01 MB
+2025-04-20 17:34:29,620 - INFO - Uploading directory of size 2255.85 MB
+2025-04-20 17:34:29,621 - INFO - Uploading directory of size 1799.71 MB
