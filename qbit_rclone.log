@@ -1816,3 +1816,23 @@
 2025-04-20 15:47:39,929 - INFO - Directory /home/user/Desktop/torrents/Lucy (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-20 15:47:39,929 - INFO - Starting upload: /home/user/Desktop/torrents/Lucy (2014) [1080p] -> onedrive:Torrents/Lucy (2014) [1080p]
 2025-04-20 15:47:39,929 - INFO - Uploading directory of size 1266.98 MB
+2025-04-20 15:51:36,360 - INFO - Successfully uploaded to onedrive:Torrents/The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:51:36,361 - INFO - Verifying upload for: The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:51:36,361 - INFO - Verifying upload: /home/user/Desktop/torrents/The LEGO Batman Movie (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:51:39,379 - INFO - Upload verification successful for /home/user/Desktop/torrents/The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:51:39,385 - INFO - Deleting torrent from qBittorrent: The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:51:39,385 - INFO - Deleting torrent with hash 9c00fd587a73f9f79010c9c9809fb63010a73076 (delete_files=False)
+2025-04-20 15:51:39,397 - INFO - Successfully deleted torrent with hash 9c00fd587a73f9f79010c9c9809fb63010a73076
+2025-04-20 15:51:39,397 - INFO - Deleting content files: The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:51:39,397 - INFO - Deleting content: /home/user/Desktop/torrents/The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:51:39,398 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:51:39,398 - INFO - Successfully processed torrent: The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:51:39,398 - INFO - Processing torrent: Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:51:39,399 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The LEGO Batman Movie (2017) [1080p] [YTS.AG]'}
+2025-04-20 15:51:39,399 - INFO - Attempting to upload torrent: Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:51:39,399 - INFO - Content path: /home/user/Desktop/torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:51:39,399 - INFO - Remote path: onedrive:Torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:51:39,399 - INFO - Uploading torrent: Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:51:39,400 - INFO - Directory /home/user/Desktop/torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] is readable, contains 2 files/dirs
+2025-04-20 15:51:39,400 - INFO - Starting upload: /home/user/Desktop/torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:51:39,400 - INFO - Uploading directory of size 1641.36 MB
