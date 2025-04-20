@@ -1916,3 +1916,83 @@
 2025-04-20 15:56:49,401 - INFO - Directory /home/user/Desktop/torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-20 15:56:49,401 - INFO - Starting upload: /home/user/Desktop/torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-20 15:56:49,401 - INFO - Uploading directory of size 2303.16 MB
+2025-04-20 15:59:48,455 - INFO - Successfully uploaded to onedrive:Torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:59:48,455 - INFO - Verifying upload for: Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:59:48,455 - INFO - Verifying upload: /home/user/Desktop/torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:59:49,783 - INFO - Upload verification successful for /home/user/Desktop/torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:59:49,788 - INFO - Deleting torrent from qBittorrent: Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:59:49,789 - INFO - Deleting torrent with hash 631b554e016f62977a72c6623af74957becce82f (delete_files=False)
+2025-04-20 15:59:49,802 - INFO - Successfully deleted torrent with hash 631b554e016f62977a72c6623af74957becce82f
+2025-04-20 15:59:49,802 - INFO - Deleting content files: Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:59:49,802 - INFO - Deleting content: /home/user/Desktop/torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:59:49,803 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:59:49,804 - INFO - Successfully processed torrent: Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 15:59:49,804 - INFO - Processing torrent: Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 15:59:49,804 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]'}
+2025-04-20 15:59:49,804 - INFO - Attempting to upload torrent: Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 15:59:49,804 - INFO - Content path: /home/user/Desktop/torrents/Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 15:59:49,804 - INFO - Remote path: onedrive:Torrents/Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 15:59:49,804 - INFO - Uploading torrent: Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 15:59:49,804 - INFO - Directory /home/user/Desktop/torrents/Twilight (2008) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 15:59:49,804 - INFO - Starting upload: /home/user/Desktop/torrents/Twilight (2008) [1080p] [YTS.AG] -> onedrive:Torrents/Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 15:59:49,805 - INFO - Uploading directory of size 1897.40 MB
+2025-04-20 16:00:06,482 - INFO - Successfully uploaded to onedrive:Torrents/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 16:00:06,483 - INFO - Verifying upload for: Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 16:00:06,483 - INFO - Verifying upload: /home/user/Desktop/torrents/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 16:00:08,583 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 16:00:08,590 - INFO - Deleting torrent from qBittorrent: Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 16:00:08,590 - INFO - Deleting torrent with hash 21d0fbbc5e249a509c3e5d356a29fffbae17357a (delete_files=False)
+2025-04-20 16:00:08,597 - INFO - Successfully deleted torrent with hash 21d0fbbc5e249a509c3e5d356a29fffbae17357a
+2025-04-20 16:00:08,598 - INFO - Deleting content files: Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 16:00:08,598 - INFO - Deleting content: /home/user/Desktop/torrents/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 16:00:08,599 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 16:00:08,599 - INFO - Successfully processed torrent: Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-20 16:00:08,599 - INFO - Processing torrent: Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:08,599 - INFO - Attempting to upload torrent: Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:08,599 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]'}
+2025-04-20 16:00:08,599 - INFO - Content path: /home/user/Desktop/torrents/Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:08,599 - INFO - Remote path: onedrive:Torrents/Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:08,599 - INFO - Uploading torrent: Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:08,599 - INFO - Directory /home/user/Desktop/torrents/Annihilation (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 16:00:08,599 - INFO - Starting upload: /home/user/Desktop/torrents/Annihilation (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:08,599 - INFO - Uploading directory of size 1902.65 MB
+2025-04-20 16:00:16,384 - INFO - Successfully uploaded to onedrive:Torrents/The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:16,384 - INFO - Verifying upload for: The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:16,384 - INFO - Verifying upload: /home/user/Desktop/torrents/The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:18,829 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:18,840 - INFO - Deleting torrent from qBittorrent: The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:18,840 - INFO - Deleting torrent with hash 7152c976b51b42efcd751fbd4e1e003b4c38da41 (delete_files=False)
+2025-04-20 16:00:18,848 - INFO - Successfully deleted torrent with hash 7152c976b51b42efcd751fbd4e1e003b4c38da41
+2025-04-20 16:00:18,849 - INFO - Deleting content files: The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:18,849 - INFO - Deleting content: /home/user/Desktop/torrents/The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:18,850 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:18,850 - INFO - Successfully processed torrent: The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:00:18,850 - INFO - Processing torrent: Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:18,850 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 16:00:18,850 - INFO - Attempting to upload torrent: Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:18,850 - INFO - Content path: /home/user/Desktop/torrents/Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:18,850 - INFO - Remote path: onedrive:Torrents/Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:18,850 - INFO - Uploading torrent: Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:18,850 - INFO - Directory /home/user/Desktop/torrents/Dumbo (2019) [BluRay] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-20 16:00:18,850 - INFO - Starting upload: /home/user/Desktop/torrents/Dumbo (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:18,851 - INFO - Uploading directory of size 1834.36 MB
+2025-04-20 16:00:23,464 - INFO - Successfully uploaded to onedrive:Torrents/Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:23,464 - INFO - Verifying upload for: Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:23,464 - INFO - Verifying upload: /home/user/Desktop/torrents/Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:25,770 - INFO - Upload verification successful for /home/user/Desktop/torrents/Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:25,776 - INFO - Deleting torrent from qBittorrent: Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:25,776 - INFO - Deleting torrent with hash dd50a4d73c1000a995b43c27205d073886a38c8a (delete_files=False)
+2025-04-20 16:00:25,783 - INFO - Successfully deleted torrent with hash dd50a4d73c1000a995b43c27205d073886a38c8a
+2025-04-20 16:00:25,783 - INFO - Deleting content files: Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:25,783 - INFO - Deleting content: /home/user/Desktop/torrents/Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:25,784 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:25,784 - INFO - Successfully processed torrent: Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:00:25,784 - INFO - Processing torrent: Maleficent (2014) [1080p]
+2025-04-20 16:00:25,784 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]'}
+2025-04-20 16:00:25,785 - INFO - Attempting to upload torrent: Maleficent (2014) [1080p]
+2025-04-20 16:00:25,785 - INFO - Content path: /home/user/Desktop/torrents/Maleficent (2014) [1080p]
+2025-04-20 16:00:25,785 - INFO - Remote path: onedrive:Torrents/Maleficent (2014) [1080p]
+2025-04-20 16:00:25,785 - INFO - Uploading torrent: Maleficent (2014) [1080p]
+2025-04-20 16:00:25,785 - INFO - Directory /home/user/Desktop/torrents/Maleficent (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 16:00:25,785 - INFO - Starting upload: /home/user/Desktop/torrents/Maleficent (2014) [1080p] -> onedrive:Torrents/Maleficent (2014) [1080p]
+2025-04-20 16:00:25,785 - INFO - Uploading directory of size 1474.35 MB
