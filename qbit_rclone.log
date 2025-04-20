@@ -495,3 +495,87 @@
 2025-04-20 13:37:18,972 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Theory of Everything (2014) [1080p]
 2025-04-20 13:37:18,972 - INFO - Successfully processed torrent: The Theory of Everything (2014) [1080p]
 2025-04-20 13:37:18,973 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Theory of Everything (2014) [1080p]'}
+2025-04-20 13:42:18,985 - INFO - Active upload threads: 5/5
+2025-04-20 13:42:18,986 - INFO - Checking for completed torrents...
+2025-04-20 13:42:18,999 - INFO - Found 40 completed torrents
+2025-04-20 13:42:18,999 - INFO - Torrent Snowden (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Snowden (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 13:42:18,999 - INFO - Torrent The Predator (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/The Predator (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 13:42:18,999 - INFO - Torrent Escape Room (2019) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Escape Room (2019) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 13:42:18,999 - INFO - Torrent Gone Girl (2014) [1080p]: content_path = /home/user/Desktop/torrents/Gone Girl (2014) [1080p], exists: True
+2025-04-20 13:42:18,999 - INFO - Torrent Gifted (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Gifted (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 13:42:18,999 - INFO - Torrent Taken 3 (2014) [1080p]: content_path = /home/user/Desktop/torrents/Taken 3 (2014) [1080p], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Pokémon Detective Pikachu (2019) [BluRay] [1080p] [YTS.LT], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Extraction (2020) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent Predestination (2014) [1080p]: content_path = /home/user/Desktop/torrents/Predestination (2014) [1080p], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent The Fault in Our Stars (2014) [1080p]: content_path = /home/user/Desktop/torrents/The Fault in Our Stars (2014) [1080p], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent American Sniper (2014) [1080p]: content_path = /home/user/Desktop/torrents/American Sniper (2014) [1080p], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent Hereditary (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Hereditary (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Bullet Train (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent Deepwater Horizon (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Deepwater Horizon (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/A Quiet Place Part II (2020) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent Jupiter Ascending (2015) [1080p]: content_path = /home/user/Desktop/torrents/Jupiter Ascending (2015) [1080p], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent Batman Begins (2005) [1080p]: content_path = /home/user/Desktop/torrents/Batman Begins (2005) [1080p], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent Us (2019) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Us (2019) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent Life (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Life (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 13:42:19,000 - INFO - Torrent Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Cruella (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent 12 Strong (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/12 Strong (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent Gemini Man (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Gemini Man (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Puss In Boots The Last Wish (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent Birdman (2014) [1080p]: content_path = /home/user/Desktop/torrents/Birdman (2014) [1080p], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent Shutter Island (2010) [1080p]: content_path = /home/user/Desktop/torrents/Shutter Island (2010) [1080p], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Onward (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Onward.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4, exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent Sicario (2015) [1080p]: content_path = /home/user/Desktop/torrents/Sicario (2015) [1080p], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent The Incredible Hulk (2008) [1080p]: content_path = /home/user/Desktop/torrents/The Incredible Hulk (2008) [1080p], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent The Lion King 1 1.2 (2004) [1080p]: content_path = /home/user/Desktop/torrents/The Lion King 1 1.2 (2004) [1080p], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent The Dark Knight Rises (2012) [1080p]: content_path = /home/user/Desktop/torrents/The Dark Knight Rises (2012) [1080p], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent Geostorm (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Geostorm (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent Prisoners (2013) [1080p]: content_path = /home/user/Desktop/torrents/Prisoners (2013) [1080p], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Hitmans Wifes Bodyguard (2021) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Detective Conan The Darkest Nightmare (2016) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent The Dark Tower (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Dark Tower (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent Men In Black International (2019) [BluRay] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Men In Black International (2019) [BluRay] [1080p] [YTS.LT], exists: True
+2025-04-20 13:42:19,001 - INFO - Torrent The Girl On The Train (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Girl On The Train (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 13:42:19,002 - INFO - Submitting 40 torrents for parallel upload
+2025-04-20 13:42:19,002 - INFO - Processing torrent: Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:42:19,002 - INFO - Processing torrent: The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:42:19,002 - INFO - Attempting to upload torrent: Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:42:19,003 - INFO - Processing torrent: Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:42:19,003 - INFO - Processing torrent: Gone Girl (2014) [1080p]
+2025-04-20 13:42:19,003 - INFO - Processing torrent: Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:42:19,003 - INFO - Attempting to upload torrent: The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:42:19,003 - INFO - Content path: /home/user/Desktop/torrents/Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:42:19,003 - INFO - Attempting to upload torrent: Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:42:19,003 - INFO - Attempting to upload torrent: Gone Girl (2014) [1080p]
+2025-04-20 13:42:19,004 - INFO - Attempting to upload torrent: Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:42:19,004 - INFO - Content path: /home/user/Desktop/torrents/The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:42:19,004 - INFO - Remote path: onedrive:Torrents/Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:42:19,004 - INFO - Content path: /home/user/Desktop/torrents/Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:42:19,004 - INFO - Content path: /home/user/Desktop/torrents/Gone Girl (2014) [1080p]
+2025-04-20 13:42:19,004 - INFO - Content path: /home/user/Desktop/torrents/Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:42:19,004 - INFO - Remote path: onedrive:Torrents/The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:42:19,004 - INFO - Uploading torrent: Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:42:19,005 - INFO - Remote path: onedrive:Torrents/Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:42:19,005 - INFO - Remote path: onedrive:Torrents/Gone Girl (2014) [1080p]
+2025-04-20 13:42:19,005 - INFO - Remote path: onedrive:Torrents/Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:42:19,005 - INFO - Uploading torrent: The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:42:19,005 - INFO - Uploading torrent: Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:42:19,005 - INFO - Uploading torrent: Gone Girl (2014) [1080p]
+2025-04-20 13:42:19,005 - INFO - Uploading torrent: Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:42:19,006 - INFO - Directory /home/user/Desktop/torrents/Snowden (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 13:42:19,006 - INFO - Directory /home/user/Desktop/torrents/The Predator (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 13:42:19,006 - INFO - Directory /home/user/Desktop/torrents/Escape Room (2019) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 13:42:19,007 - INFO - Starting upload: /home/user/Desktop/torrents/Snowden (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Snowden (2016) [1080p] [YTS.AG]
+2025-04-20 13:42:19,007 - INFO - Starting upload: /home/user/Desktop/torrents/The Predator (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Predator (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:42:19,007 - INFO - Directory /home/user/Desktop/torrents/Gifted (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 13:42:19,007 - INFO - Directory /home/user/Desktop/torrents/Gone Girl (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 13:42:19,008 - INFO - Starting upload: /home/user/Desktop/torrents/Escape Room (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Escape Room (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 13:42:19,009 - INFO - Starting upload: /home/user/Desktop/torrents/Gifted (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Gifted (2017) [1080p] [YTS.AG]
+2025-04-20 13:42:19,009 - INFO - Starting upload: /home/user/Desktop/torrents/Gone Girl (2014) [1080p] -> onedrive:Torrents/Gone Girl (2014) [1080p]
+2025-04-20 13:42:19,009 - INFO - Uploading directory of size 2104.09 MB
+2025-04-20 13:42:19,010 - INFO - Uploading directory of size 1762.38 MB
+2025-04-20 13:42:19,010 - INFO - Uploading directory of size 1595.16 MB
+2025-04-20 13:42:19,010 - INFO - Uploading directory of size 1573.03 MB
+2025-04-20 13:42:19,010 - INFO - Uploading directory of size 2204.51 MB
