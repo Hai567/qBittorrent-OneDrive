@@ -2776,3 +2776,123 @@
 2025-04-20 17:10:19,133 - INFO - Directory /home/user/Desktop/torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-20 17:10:19,133 - INFO - Starting upload: /home/user/Desktop/torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]
 2025-04-20 17:10:19,133 - INFO - Uploading directory of size 2859.96 MB
+2025-04-20 17:11:11,207 - INFO - Successfully uploaded to onedrive:Torrents/Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:11:11,208 - INFO - Verifying upload for: Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:11:11,208 - INFO - Verifying upload: /home/user/Desktop/torrents/Murder On The Orient Express (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:11:12,578 - INFO - Upload verification successful for /home/user/Desktop/torrents/Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:11:12,700 - INFO - Deleting torrent from qBittorrent: Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:11:12,700 - INFO - Deleting torrent with hash 2bf96fecc677f07e1316139a0bc52afac6a6417e (delete_files=False)
+2025-04-20 17:11:12,710 - INFO - Successfully deleted torrent with hash 2bf96fecc677f07e1316139a0bc52afac6a6417e
+2025-04-20 17:11:12,710 - INFO - Deleting content files: Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:11:12,711 - INFO - Deleting content: /home/user/Desktop/torrents/Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:11:12,712 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:11:12,712 - INFO - Successfully processed torrent: Murder On The Orient Express (2017) [1080p] [YTS.AG]
+2025-04-20 17:11:12,712 - INFO - Processing torrent: Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:11:12,713 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Murder On The Orient Express (2017) [1080p] [YTS.AG]'}
+2025-04-20 17:11:12,713 - INFO - Attempting to upload torrent: Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:11:12,713 - INFO - Content path: /home/user/Desktop/torrents/Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:11:12,713 - INFO - Remote path: onedrive:Torrents/Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:11:12,713 - INFO - Uploading torrent: Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:11:12,714 - INFO - Directory /home/user/Desktop/torrents/Dumb and Dumber To (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 17:11:12,714 - INFO - Starting upload: /home/user/Desktop/torrents/Dumb and Dumber To (2014) [1080p] -> onedrive:Torrents/Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:11:12,714 - INFO - Uploading directory of size 1684.08 MB
+2025-04-20 17:11:14,042 - INFO - Successfully uploaded to onedrive:Torrents/Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:11:14,042 - INFO - Verifying upload for: Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:11:14,042 - INFO - Verifying upload: /home/user/Desktop/torrents/Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:11:16,332 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:11:16,363 - INFO - Deleting torrent from qBittorrent: Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:11:16,363 - INFO - Deleting torrent with hash e9454ae042c9c5530cebf55e31f3034aa43e4bbb (delete_files=False)
+2025-04-20 17:11:16,374 - INFO - Successfully deleted torrent with hash e9454ae042c9c5530cebf55e31f3034aa43e4bbb
+2025-04-20 17:11:16,374 - INFO - Deleting content files: Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:11:16,374 - INFO - Deleting content: /home/user/Desktop/torrents/Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:11:16,375 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:11:16,375 - INFO - Successfully processed torrent: Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]
+2025-04-20 17:11:16,375 - INFO - Processing torrent: Into the Woods (2014) [1080p]
+2025-04-20 17:11:16,375 - INFO - Attempting to upload torrent: Into the Woods (2014) [1080p]
+2025-04-20 17:11:16,375 - INFO - Content path: /home/user/Desktop/torrents/Into the Woods (2014) [1080p]
+2025-04-20 17:11:16,375 - INFO - Remote path: onedrive:Torrents/Into the Woods (2014) [1080p]
+2025-04-20 17:11:16,375 - INFO - Uploading torrent: Into the Woods (2014) [1080p]
+2025-04-20 17:11:16,375 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ip Man 3 (2015) [BluRay] [1080p] [YTS.AM]'}
+2025-04-20 17:11:16,376 - INFO - Directory /home/user/Desktop/torrents/Into the Woods (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 17:11:16,376 - INFO - Starting upload: /home/user/Desktop/torrents/Into the Woods (2014) [1080p] -> onedrive:Torrents/Into the Woods (2014) [1080p]
+2025-04-20 17:11:16,376 - INFO - Uploading directory of size 1898.16 MB
+2025-04-20 17:11:45,811 - INFO - Successfully uploaded to onedrive:Torrents/The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:11:45,811 - INFO - Verifying upload for: The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:11:45,811 - INFO - Verifying upload: /home/user/Desktop/torrents/The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:11:48,110 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:11:48,118 - INFO - Deleting torrent from qBittorrent: The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:11:48,118 - INFO - Deleting torrent with hash c5eb9fd0f279fa0984b23141e29e1818a7d0cc6d (delete_files=False)
+2025-04-20 17:11:48,128 - INFO - Successfully deleted torrent with hash c5eb9fd0f279fa0984b23141e29e1818a7d0cc6d
+2025-04-20 17:11:48,128 - INFO - Deleting content files: The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:11:48,129 - INFO - Deleting content: /home/user/Desktop/torrents/The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:11:48,129 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:11:48,129 - INFO - Successfully processed torrent: The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 17:11:48,129 - INFO - Processing torrent: Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:11:48,129 - INFO - Attempting to upload torrent: Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:11:48,130 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Croods A New Age (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-20 17:11:48,130 - INFO - Content path: /home/user/Desktop/torrents/Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:11:48,130 - INFO - Remote path: onedrive:Torrents/Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:11:48,130 - INFO - Uploading torrent: Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:11:48,130 - INFO - Directory /home/user/Desktop/torrents/Puss in Boots (2011) [1080p] [3D] [HSBS] is readable, contains 4 files/dirs
+2025-04-20 17:11:48,130 - INFO - Starting upload: /home/user/Desktop/torrents/Puss in Boots (2011) [1080p] [3D] [HSBS] -> onedrive:Torrents/Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:11:48,131 - INFO - Uploading directory of size 1330.82 MB
+2025-04-20 17:12:45,609 - INFO - Successfully uploaded to onedrive:Torrents/Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:12:45,610 - INFO - Verifying upload for: Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:12:45,610 - INFO - Verifying upload: /home/user/Desktop/torrents/Zootopia (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:12:47,433 - INFO - Upload verification successful for /home/user/Desktop/torrents/Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:12:47,542 - INFO - Deleting torrent from qBittorrent: Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:12:47,542 - INFO - Deleting torrent with hash ae6c7870e48d1f7e1f03cbcb4bbcdea70ce8af9d (delete_files=False)
+2025-04-20 17:12:47,554 - INFO - Successfully deleted torrent with hash ae6c7870e48d1f7e1f03cbcb4bbcdea70ce8af9d
+2025-04-20 17:12:47,554 - INFO - Deleting content files: Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:12:47,554 - INFO - Deleting content: /home/user/Desktop/torrents/Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:12:47,555 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:12:47,555 - INFO - Successfully processed torrent: Zootopia (2016) [1080p] [YTS.AG]
+2025-04-20 17:12:47,555 - INFO - Processing torrent: Top Gun (1986) [1080p]
+2025-04-20 17:12:47,556 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Zootopia (2016) [1080p] [YTS.AG]'}
+2025-04-20 17:12:47,556 - INFO - Attempting to upload torrent: Top Gun (1986) [1080p]
+2025-04-20 17:12:47,556 - INFO - Content path: /home/user/Desktop/torrents/Top Gun (1986) [1080p]
+2025-04-20 17:12:47,556 - INFO - Remote path: onedrive:Torrents/Top Gun (1986) [1080p]
+2025-04-20 17:12:47,556 - INFO - Uploading torrent: Top Gun (1986) [1080p]
+2025-04-20 17:12:47,556 - INFO - Directory /home/user/Desktop/torrents/Top Gun (1986) [1080p] is readable, contains 4 files/dirs
+2025-04-20 17:12:47,556 - INFO - Starting upload: /home/user/Desktop/torrents/Top Gun (1986) [1080p] -> onedrive:Torrents/Top Gun (1986) [1080p]
+2025-04-20 17:12:47,556 - INFO - Uploading directory of size 1330.28 MB
+2025-04-20 17:15:17,459 - INFO - Successfully uploaded to onedrive:Torrents/Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:15:17,460 - INFO - Verifying upload for: Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:15:17,460 - INFO - Verifying upload: /home/user/Desktop/torrents/Dumb and Dumber To (2014) [1080p] -> onedrive:Torrents/Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:15:19,731 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:15:19,739 - INFO - Deleting torrent from qBittorrent: Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:15:19,740 - INFO - Deleting torrent with hash 604e8eabe10b23bbd6a5f74463d1a026e3a05904 (delete_files=False)
+2025-04-20 17:15:19,753 - INFO - Successfully deleted torrent with hash 604e8eabe10b23bbd6a5f74463d1a026e3a05904
+2025-04-20 17:15:19,753 - INFO - Deleting content files: Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:15:19,753 - INFO - Deleting content: /home/user/Desktop/torrents/Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:15:19,754 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:15:19,754 - INFO - Successfully processed torrent: Dumb and Dumber To (2014) [1080p]
+2025-04-20 17:15:19,754 - INFO - Processing torrent: Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:15:19,755 - INFO - Attempting to upload torrent: Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:15:19,755 - INFO - Content path: /home/user/Desktop/torrents/Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:15:19,755 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Dumb and Dumber To (2014) [1080p]'}
+2025-04-20 17:15:19,755 - INFO - Remote path: onedrive:Torrents/Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:15:19,755 - INFO - Uploading torrent: Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:15:19,755 - INFO - Directory /home/user/Desktop/torrents/Bright (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 17:15:19,755 - INFO - Starting upload: /home/user/Desktop/torrents/Bright (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Bright (2017) [1080p] [YTS.AG]
+2025-04-20 17:15:19,755 - INFO - Uploading directory of size 1836.83 MB
+2025-04-20 17:15:33,551 - INFO - Successfully uploaded to onedrive:Torrents/Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:15:33,551 - INFO - Verifying upload for: Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:15:33,552 - INFO - Verifying upload: /home/user/Desktop/torrents/Puss in Boots (2011) [1080p] [3D] [HSBS] -> onedrive:Torrents/Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:15:36,138 - INFO - Upload verification successful for /home/user/Desktop/torrents/Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:15:36,147 - INFO - Deleting torrent from qBittorrent: Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:15:36,147 - INFO - Deleting torrent with hash ce383d9d414282d4c5580e2fecf5b508e3e8f91c (delete_files=False)
+2025-04-20 17:15:36,158 - INFO - Successfully deleted torrent with hash ce383d9d414282d4c5580e2fecf5b508e3e8f91c
+2025-04-20 17:15:36,158 - INFO - Deleting content files: Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:15:36,158 - INFO - Deleting content: /home/user/Desktop/torrents/Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:15:36,160 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:15:36,160 - INFO - Successfully processed torrent: Puss in Boots (2011) [1080p] [3D] [HSBS]
+2025-04-20 17:15:36,160 - INFO - Processing torrent: Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:15:36,160 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Puss in Boots (2011) [1080p] [3D] [HSBS]'}
+2025-04-20 17:15:36,160 - INFO - Attempting to upload torrent: Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:15:36,161 - INFO - Content path: /home/user/Desktop/torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:15:36,161 - INFO - Remote path: onedrive:Torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:15:36,161 - INFO - Uploading torrent: Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:15:36,161 - INFO - Directory /home/user/Desktop/torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 17:15:36,161 - INFO - Starting upload: /home/user/Desktop/torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Detective Conan Crimson Love Letter (2017) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 17:15:36,161 - INFO - Uploading directory of size 2120.86 MB
