@@ -1075,7 +1075,6 @@ def create_default_config() -> Dict:
         "multithreading": {
             "enabled": True,              # Enable multithreaded uploads
             "max_workers": 3,             # Maximum number of concurrent uploads
-            "per_worker_memory_gb": 1,    # Estimated memory usage per worker in GB
         }
     }
     

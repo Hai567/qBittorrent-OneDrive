@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da373c28-b6c5-400a-843d-044ba6b899b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/conjob.log" beforeDir="false" afterPath="$PROJECT_DIR$/conjob.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qbit_rclone.log" beforeDir="false" afterPath="$PROJECT_DIR$/qbit_rclone.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -21,5 +21,9 @@
         "verify_uploads": true,
         "use_full_hash": false,
         "verification_timeout": 300
+    },
+    "multithreading": {
+        "enabled": true,              
+        "max_workers": 5
     }
 }
