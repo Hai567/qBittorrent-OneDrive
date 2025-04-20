@@ -1996,3 +1996,103 @@
 2025-04-20 16:00:25,785 - INFO - Directory /home/user/Desktop/torrents/Maleficent (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-20 16:00:25,785 - INFO - Starting upload: /home/user/Desktop/torrents/Maleficent (2014) [1080p] -> onedrive:Torrents/Maleficent (2014) [1080p]
 2025-04-20 16:00:25,785 - INFO - Uploading directory of size 1474.35 MB
+2025-04-20 16:04:25,807 - INFO - Successfully uploaded to onedrive:Torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:04:25,807 - INFO - Verifying upload for: First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:04:25,807 - INFO - Verifying upload: /home/user/Desktop/torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:04:28,374 - INFO - Upload verification successful for /home/user/Desktop/torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:04:28,380 - INFO - Deleting torrent from qBittorrent: First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:04:28,380 - INFO - Deleting torrent with hash eb7b7a3089b3ca734f52f14294adca3d47bc0a39 (delete_files=False)
+2025-04-20 16:04:28,392 - INFO - Successfully deleted torrent with hash eb7b7a3089b3ca734f52f14294adca3d47bc0a39
+2025-04-20 16:04:28,392 - INFO - Deleting content files: First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:04:28,392 - INFO - Deleting content: /home/user/Desktop/torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:04:28,393 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:04:28,394 - INFO - Successfully processed torrent: First Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:04:28,394 - INFO - Processing torrent: The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:04:28,394 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'First Man (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 16:04:28,394 - INFO - Attempting to upload torrent: The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:04:28,394 - INFO - Content path: /home/user/Desktop/torrents/The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:04:28,394 - INFO - Remote path: onedrive:Torrents/The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:04:28,394 - INFO - Uploading torrent: The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:04:28,394 - INFO - Directory /home/user/Desktop/torrents/The Lost City Of Z (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 16:04:28,394 - INFO - Starting upload: /home/user/Desktop/torrents/The Lost City Of Z (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Lost City Of Z (2016) [1080p] [YTS.AG]
+2025-04-20 16:04:28,395 - INFO - Uploading directory of size 2208.58 MB
+2025-04-20 16:05:10,955 - INFO - Successfully uploaded to onedrive:Torrents/Maleficent (2014) [1080p]
+2025-04-20 16:05:10,955 - INFO - Verifying upload for: Maleficent (2014) [1080p]
+2025-04-20 16:05:10,955 - INFO - Verifying upload: /home/user/Desktop/torrents/Maleficent (2014) [1080p] -> onedrive:Torrents/Maleficent (2014) [1080p]
+2025-04-20 16:05:12,293 - INFO - Upload verification successful for /home/user/Desktop/torrents/Maleficent (2014) [1080p]
+2025-04-20 16:05:12,300 - INFO - Deleting torrent from qBittorrent: Maleficent (2014) [1080p]
+2025-04-20 16:05:12,300 - INFO - Deleting torrent with hash 1a097cc231756ae06c3a2bc1e39780765d5fbaf3 (delete_files=False)
+2025-04-20 16:05:12,310 - INFO - Successfully deleted torrent with hash 1a097cc231756ae06c3a2bc1e39780765d5fbaf3
+2025-04-20 16:05:12,310 - INFO - Deleting content files: Maleficent (2014) [1080p]
+2025-04-20 16:05:12,310 - INFO - Deleting content: /home/user/Desktop/torrents/Maleficent (2014) [1080p]
+2025-04-20 16:05:12,311 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Maleficent (2014) [1080p]
+2025-04-20 16:05:12,311 - INFO - Successfully processed torrent: Maleficent (2014) [1080p]
+2025-04-20 16:05:12,311 - INFO - Processing torrent: 1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:05:12,312 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Maleficent (2014) [1080p]'}
+2025-04-20 16:05:12,312 - INFO - Attempting to upload torrent: 1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:05:12,312 - INFO - Content path: /home/user/Desktop/torrents/1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:05:12,312 - INFO - Remote path: onedrive:Torrents/1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:05:12,312 - INFO - Uploading torrent: 1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:05:12,312 - INFO - Directory /home/user/Desktop/torrents/1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 16:05:12,312 - INFO - Starting upload: /home/user/Desktop/torrents/1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 16:05:12,313 - INFO - Uploading directory of size 2163.65 MB
+2025-04-20 16:05:25,771 - INFO - Successfully uploaded to onedrive:Torrents/Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 16:05:25,771 - INFO - Verifying upload for: Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 16:05:25,772 - INFO - Verifying upload: /home/user/Desktop/torrents/Twilight (2008) [1080p] [YTS.AG] -> onedrive:Torrents/Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 16:05:28,257 - INFO - Upload verification successful for /home/user/Desktop/torrents/Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 16:05:28,267 - INFO - Deleting torrent from qBittorrent: Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 16:05:28,267 - INFO - Deleting torrent with hash e4ef339c1a0196733de25a93b983250f47dfb3f5 (delete_files=False)
+2025-04-20 16:05:28,274 - INFO - Successfully deleted torrent with hash e4ef339c1a0196733de25a93b983250f47dfb3f5
+2025-04-20 16:05:28,274 - INFO - Deleting content files: Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 16:05:28,274 - INFO - Deleting content: /home/user/Desktop/torrents/Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 16:05:28,276 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 16:05:28,276 - INFO - Successfully processed torrent: Twilight (2008) [1080p] [YTS.AG]
+2025-04-20 16:05:28,276 - INFO - Processing torrent: Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:05:28,276 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Twilight (2008) [1080p] [YTS.AG]'}
+2025-04-20 16:05:28,276 - INFO - Attempting to upload torrent: Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:05:28,276 - INFO - Content path: /home/user/Desktop/torrents/Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:05:28,276 - INFO - Remote path: onedrive:Torrents/Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:05:28,276 - INFO - Uploading torrent: Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:05:28,277 - INFO - Directory /home/user/Desktop/torrents/Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-20 16:05:28,277 - INFO - Starting upload: /home/user/Desktop/torrents/Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 16:05:28,277 - INFO - Uploading directory of size 2235.29 MB
+2025-04-20 16:05:54,142 - INFO - Successfully uploaded to onedrive:Torrents/Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:05:54,142 - INFO - Verifying upload for: Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:05:54,142 - INFO - Verifying upload: /home/user/Desktop/torrents/Dumbo (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:05:56,361 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:05:56,367 - INFO - Deleting torrent from qBittorrent: Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:05:56,367 - INFO - Deleting torrent with hash 542aff6b01a9132d8ec7da14382a8f429e62f77f (delete_files=False)
+2025-04-20 16:05:56,375 - INFO - Successfully deleted torrent with hash 542aff6b01a9132d8ec7da14382a8f429e62f77f
+2025-04-20 16:05:56,375 - INFO - Deleting content files: Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:05:56,375 - INFO - Deleting content: /home/user/Desktop/torrents/Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:05:56,377 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:05:56,377 - INFO - Successfully processed torrent: Dumbo (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-20 16:05:56,377 - INFO - Processing torrent: The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:05:56,377 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Dumbo (2019) [BluRay] [1080p] [YTS.LT]'}
+2025-04-20 16:05:56,377 - INFO - Attempting to upload torrent: The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:05:56,378 - INFO - Content path: /home/user/Desktop/torrents/The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:05:56,378 - INFO - Remote path: onedrive:Torrents/The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:05:56,378 - INFO - Uploading torrent: The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:05:56,378 - INFO - Directory /home/user/Desktop/torrents/The 5th Wave (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 16:05:56,378 - INFO - Starting upload: /home/user/Desktop/torrents/The 5th Wave (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The 5th Wave (2016) [1080p] [YTS.AG]
+2025-04-20 16:05:56,378 - INFO - Uploading directory of size 1756.14 MB
+2025-04-20 16:06:04,260 - INFO - Successfully uploaded to onedrive:Torrents/Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:06:04,260 - INFO - Verifying upload for: Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:06:04,260 - INFO - Verifying upload: /home/user/Desktop/torrents/Annihilation (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:06:06,771 - INFO - Upload verification successful for /home/user/Desktop/torrents/Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:06:06,778 - INFO - Deleting torrent from qBittorrent: Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:06:06,778 - INFO - Deleting torrent with hash 7c45f993586383e3f1221e40061f9355bd90f3a0 (delete_files=False)
+2025-04-20 16:06:06,789 - INFO - Successfully deleted torrent with hash 7c45f993586383e3f1221e40061f9355bd90f3a0
+2025-04-20 16:06:06,790 - INFO - Deleting content files: Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:06:06,790 - INFO - Deleting content: /home/user/Desktop/torrents/Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:06:06,792 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:06:06,792 - INFO - Successfully processed torrent: Annihilation (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-20 16:06:06,793 - INFO - Processing torrent: Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:06:06,793 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Annihilation (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-20 16:06:06,793 - INFO - Attempting to upload torrent: Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:06:06,793 - INFO - Content path: /home/user/Desktop/torrents/Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:06:06,793 - INFO - Remote path: onedrive:Torrents/Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:06:06,793 - INFO - Uploading torrent: Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:06:06,794 - INFO - Directory /home/user/Desktop/torrents/Train To Busan (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 16:06:06,794 - INFO - Starting upload: /home/user/Desktop/torrents/Train To Busan (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Train To Busan (2016) [1080p] [YTS.AG]
+2025-04-20 16:06:06,794 - INFO - Uploading directory of size 1839.93 MB
