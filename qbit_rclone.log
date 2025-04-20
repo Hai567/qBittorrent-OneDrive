@@ -3730,3 +3730,17 @@
 2025-04-20 18:25:18,306 - INFO - Checking for completed torrents...
 2025-04-20 18:25:18,310 - INFO - Found 1 completed torrents
 2025-04-20 18:25:18,311 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-20 18:30:18,331 - INFO - Active upload threads: 5/5
+2025-04-20 18:30:18,332 - INFO - Checking for completed torrents...
+2025-04-20 18:30:18,336 - INFO - Found 2 completed torrents
+2025-04-20 18:30:18,336 - INFO - Torrent Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-20 18:30:18,337 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-20 18:30:18,337 - INFO - Submitting 1 torrents for parallel upload
+2025-04-20 18:30:18,337 - INFO - Processing torrent: Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:30:18,337 - INFO - Attempting to upload torrent: Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:30:18,337 - INFO - Content path: /home/user/Desktop/torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:30:18,337 - INFO - Remote path: onedrive:Torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:30:18,337 - INFO - Uploading torrent: Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:30:18,338 - INFO - Directory /home/user/Desktop/torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-20 18:30:18,338 - INFO - Starting upload: /home/user/Desktop/torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Tom And Jerry (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-20 18:30:18,338 - INFO - Uploading directory of size 1906.76 MB
