@@ -1689,3 +1689,70 @@
 2025-04-20 15:34:51,124 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-20 15:34:51,124 - INFO - Successfully processed torrent: The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-20 15:34:51,125 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Invisible Man (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-20 15:39:51,225 - INFO - Active upload threads: 5/5
+2025-04-20 15:39:51,226 - INFO - Checking for completed torrents...
+2025-04-20 15:39:51,235 - INFO - Found 23 completed torrents
+2025-04-20 15:39:51,235 - INFO - Torrent The LEGO Batman Movie (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The LEGO Batman Movie (2017) [1080p] [YTS.AG], exists: True
+2025-04-20 15:39:51,235 - INFO - Torrent Fury (2014) [1080p]: content_path = /home/user/Desktop/torrents/Fury (2014) [1080p], exists: True
+2025-04-20 15:39:51,235 - INFO - Torrent Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 15:39:51,236 - INFO - Torrent Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Red Sparrow (2018) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-20 15:39:51,236 - INFO - Torrent The Prestige (2006) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/The Prestige (2006) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-20 15:39:51,236 - INFO - Torrent Now You See Me (2013) [1080p]: content_path = /home/user/Desktop/torrents/Now You See Me (2013) [1080p], exists: True
+2025-04-20 15:39:51,236 - INFO - Torrent Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Escape Plan 2 Hades (2018) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-20 15:39:51,236 - INFO - Torrent Lucy (2014) [1080p]: content_path = /home/user/Desktop/torrents/Lucy (2014) [1080p], exists: True
+2025-04-20 15:39:51,236 - INFO - Torrent Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]: content_path = /home/user/Desktop/torrents/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx], exists: True
+2025-04-20 15:39:51,236 - INFO - Torrent Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]: content_path = /home/user/Desktop/torrents/Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx], exists: True
+2025-04-20 15:39:51,236 - INFO - Torrent The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/The Lego Movie 2 The Second Part (2019) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 15:39:51,236 - INFO - Torrent Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT], exists: True
+2025-04-20 15:39:51,236 - INFO - Torrent First Man (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/First Man (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 15:39:51,237 - INFO - Torrent Twilight (2008) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Twilight (2008) [1080p] [YTS.AG], exists: True
+2025-04-20 15:39:51,237 - INFO - Torrent Annihilation (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Annihilation (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-20 15:39:51,237 - INFO - Torrent Dumbo (2019) [BluRay] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Dumbo (2019) [BluRay] [1080p] [YTS.LT], exists: True
+2025-04-20 15:39:51,237 - INFO - Torrent Maleficent (2014) [1080p]: content_path = /home/user/Desktop/torrents/Maleficent (2014) [1080p], exists: True
+2025-04-20 15:39:51,237 - INFO - Torrent The Lost City Of Z (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Lost City Of Z (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 15:39:51,238 - INFO - Torrent 1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/1917 (2019) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-20 15:39:51,238 - INFO - Torrent Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Wrath Of Man (2021) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-20 15:39:51,238 - INFO - Torrent The 5th Wave (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The 5th Wave (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 15:39:51,238 - INFO - Torrent Train To Busan (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Train To Busan (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 15:39:51,238 - INFO - Torrent Patriots Day (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Patriots Day (2016) [1080p] [YTS.AG], exists: True
+2025-04-20 15:39:51,238 - INFO - Submitting 23 torrents for parallel upload
+2025-04-20 15:39:51,240 - INFO - Processing torrent: The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:39:51,240 - INFO - Processing torrent: Fury (2014) [1080p]
+2025-04-20 15:39:51,240 - INFO - Attempting to upload torrent: The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:39:51,241 - INFO - Processing torrent: Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:39:51,241 - INFO - Attempting to upload torrent: Fury (2014) [1080p]
+2025-04-20 15:39:51,241 - INFO - Content path: /home/user/Desktop/torrents/The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:39:51,242 - INFO - Processing torrent: Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:39:51,243 - INFO - Processing torrent: The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:39:51,243 - INFO - Attempting to upload torrent: Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:39:51,244 - INFO - Content path: /home/user/Desktop/torrents/Fury (2014) [1080p]
+2025-04-20 15:39:51,244 - INFO - Remote path: onedrive:Torrents/The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:39:51,245 - INFO - Attempting to upload torrent: Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:39:51,245 - INFO - Attempting to upload torrent: The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:39:51,246 - INFO - Content path: /home/user/Desktop/torrents/Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:39:51,246 - INFO - Remote path: onedrive:Torrents/Fury (2014) [1080p]
+2025-04-20 15:39:51,247 - INFO - Uploading torrent: The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:39:51,247 - INFO - Content path: /home/user/Desktop/torrents/Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:39:51,247 - INFO - Content path: /home/user/Desktop/torrents/The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:39:51,248 - INFO - Remote path: onedrive:Torrents/Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:39:51,248 - INFO - Uploading torrent: Fury (2014) [1080p]
+2025-04-20 15:39:51,249 - INFO - Remote path: onedrive:Torrents/Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:39:51,249 - INFO - Remote path: onedrive:Torrents/The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:39:51,249 - INFO - Directory /home/user/Desktop/torrents/The LEGO Batman Movie (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-20 15:39:51,250 - INFO - Uploading torrent: Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:39:51,251 - INFO - Uploading torrent: Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:39:51,251 - INFO - Uploading torrent: The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:39:51,251 - INFO - Starting upload: /home/user/Desktop/torrents/The LEGO Batman Movie (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The LEGO Batman Movie (2017) [1080p] [YTS.AG]
+2025-04-20 15:39:51,252 - INFO - Directory /home/user/Desktop/torrents/Fury (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-20 15:39:51,252 - INFO - Directory /home/user/Desktop/torrents/Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-20 15:39:51,255 - INFO - Directory /home/user/Desktop/torrents/Red Sparrow (2018) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 15:39:51,255 - INFO - Directory /home/user/Desktop/torrents/The Prestige (2006) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-20 15:39:51,256 - INFO - Starting upload: /home/user/Desktop/torrents/Fury (2014) [1080p] -> onedrive:Torrents/Fury (2014) [1080p]
+2025-04-20 15:39:51,256 - INFO - Starting upload: /home/user/Desktop/torrents/Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Meitantei Conan Zero No Shikkonin (2018) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-20 15:39:51,257 - INFO - Starting upload: /home/user/Desktop/torrents/Red Sparrow (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Red Sparrow (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:39:51,257 - INFO - Starting upload: /home/user/Desktop/torrents/The Prestige (2006) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/The Prestige (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-20 15:39:51,259 - INFO - Uploading directory of size 2001.96 MB
+2025-04-20 15:39:51,260 - INFO - Uploading directory of size 1623.71 MB
+2025-04-20 15:39:51,261 - INFO - Uploading directory of size 2095.90 MB
+2025-04-20 15:39:51,262 - INFO - Uploading directory of size 2140.70 MB
+2025-04-20 15:39:51,263 - INFO - Uploading directory of size 2297.60 MB
