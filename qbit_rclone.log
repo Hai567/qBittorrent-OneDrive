@@ -8548,3 +8548,40 @@
 2025-04-21 16:40:43,045 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Snowpiercer (2013) [1080p]
 2025-04-21 16:40:43,045 - INFO - Successfully processed torrent: Snowpiercer (2013) [1080p]
 2025-04-21 16:40:43,045 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Snowpiercer (2013) [1080p]'}
+2025-04-21 16:45:43,115 - INFO - Active upload threads: 5/5
+2025-04-21 16:45:43,116 - INFO - Checking for completed torrents...
+2025-04-21 16:45:43,121 - INFO - Found 9 completed torrents
+2025-04-21 16:45:43,122 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-21 16:45:43,122 - INFO - Torrent A-X-L (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/A-X-L (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-21 16:45:43,122 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-21 16:45:43,122 - INFO - Torrent Project Almanac (2014) [1080p]: content_path = /home/user/Desktop/torrents/Project Almanac (2014) [1080p], exists: True
+2025-04-21 16:45:43,122 - INFO - Torrent What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-21 16:45:43,122 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-21 16:45:43,122 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-21 16:45:43,122 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-21 16:45:43,122 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-21 16:45:43,122 - INFO - Submitting 3 torrents for parallel upload
+2025-04-21 16:45:43,122 - INFO - Processing torrent: A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:45:43,123 - INFO - Processing torrent: Project Almanac (2014) [1080p]
+2025-04-21 16:45:43,123 - INFO - Attempting to upload torrent: A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:45:43,123 - INFO - Processing torrent: What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:45:43,123 - INFO - Attempting to upload torrent: Project Almanac (2014) [1080p]
+2025-04-21 16:45:43,123 - INFO - Content path: /home/user/Desktop/torrents/A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:45:43,123 - INFO - Attempting to upload torrent: What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:45:43,124 - INFO - Content path: /home/user/Desktop/torrents/Project Almanac (2014) [1080p]
+2025-04-21 16:45:43,124 - INFO - Remote path: onedrive:Torrents/A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:45:43,124 - INFO - Content path: /home/user/Desktop/torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:45:43,124 - INFO - Remote path: onedrive:Torrents/Project Almanac (2014) [1080p]
+2025-04-21 16:45:43,124 - INFO - Uploading torrent: A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:45:43,124 - INFO - Remote path: onedrive:Torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:45:43,124 - INFO - Uploading torrent: Project Almanac (2014) [1080p]
+2025-04-21 16:45:43,125 - INFO - Uploading torrent: What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:45:43,125 - INFO - Directory /home/user/Desktop/torrents/A-X-L (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-21 16:45:43,125 - INFO - Starting upload: /home/user/Desktop/torrents/A-X-L (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:45:43,125 - INFO - Directory /home/user/Desktop/torrents/Project Almanac (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-21 16:45:43,125 - INFO - Directory /home/user/Desktop/torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-21 16:45:43,125 - INFO - Starting upload: /home/user/Desktop/torrents/Project Almanac (2014) [1080p] -> onedrive:Torrents/Project Almanac (2014) [1080p]
+2025-04-21 16:45:43,126 - INFO - Starting upload: /home/user/Desktop/torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:45:43,126 - INFO - Uploading directory of size 1621.98 MB
+2025-04-21 16:45:43,126 - INFO - Uploading directory of size 2035.40 MB
+2025-04-21 16:45:43,126 - INFO - Uploading directory of size 1676.88 MB
