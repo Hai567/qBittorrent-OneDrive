@@ -8585,3 +8585,39 @@
 2025-04-21 16:45:43,126 - INFO - Uploading directory of size 1621.98 MB
 2025-04-21 16:45:43,126 - INFO - Uploading directory of size 2035.40 MB
 2025-04-21 16:45:43,126 - INFO - Uploading directory of size 1676.88 MB
+2025-04-21 16:51:29,044 - INFO - Successfully uploaded to onedrive:Torrents/A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:51:29,044 - INFO - Verifying upload for: A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:51:29,044 - INFO - Verifying upload: /home/user/Desktop/torrents/A-X-L (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:51:30,569 - INFO - Successfully uploaded to onedrive:Torrents/Project Almanac (2014) [1080p]
+2025-04-21 16:51:30,569 - INFO - Verifying upload for: Project Almanac (2014) [1080p]
+2025-04-21 16:51:30,569 - INFO - Verifying upload: /home/user/Desktop/torrents/Project Almanac (2014) [1080p] -> onedrive:Torrents/Project Almanac (2014) [1080p]
+2025-04-21 16:51:31,028 - INFO - Upload verification successful for /home/user/Desktop/torrents/A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:51:31,038 - INFO - Deleting torrent from qBittorrent: A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:51:31,038 - INFO - Deleting torrent with hash f0d14fee13fec3e49af80997db90725e2063bf47 (delete_files=False)
+2025-04-21 16:51:31,050 - INFO - Successfully deleted torrent with hash f0d14fee13fec3e49af80997db90725e2063bf47
+2025-04-21 16:51:31,050 - INFO - Deleting content files: A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:51:31,050 - INFO - Deleting content: /home/user/Desktop/torrents/A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:51:31,051 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:51:31,052 - INFO - Successfully processed torrent: A-X-L (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:51:31,052 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A-X-L (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-21 16:51:32,999 - INFO - Upload verification successful for /home/user/Desktop/torrents/Project Almanac (2014) [1080p]
+2025-04-21 16:51:33,008 - INFO - Deleting torrent from qBittorrent: Project Almanac (2014) [1080p]
+2025-04-21 16:51:33,008 - INFO - Deleting torrent with hash f42b13271db2bab941ee0d49f2558399ed6d963b (delete_files=False)
+2025-04-21 16:51:33,017 - INFO - Successfully deleted torrent with hash f42b13271db2bab941ee0d49f2558399ed6d963b
+2025-04-21 16:51:33,017 - INFO - Deleting content files: Project Almanac (2014) [1080p]
+2025-04-21 16:51:33,017 - INFO - Deleting content: /home/user/Desktop/torrents/Project Almanac (2014) [1080p]
+2025-04-21 16:51:33,018 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Project Almanac (2014) [1080p]
+2025-04-21 16:51:33,018 - INFO - Successfully processed torrent: Project Almanac (2014) [1080p]
+2025-04-21 16:51:33,018 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Project Almanac (2014) [1080p]'}
+2025-04-21 16:52:10,565 - INFO - Successfully uploaded to onedrive:Torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:52:10,565 - INFO - Verifying upload for: What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:52:10,565 - INFO - Verifying upload: /home/user/Desktop/torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:52:12,861 - INFO - Upload verification successful for /home/user/Desktop/torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:52:12,871 - INFO - Deleting torrent from qBittorrent: What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:52:12,871 - INFO - Deleting torrent with hash d53e940ff6c92105e9e734fbd4175b1c075e4432 (delete_files=False)
+2025-04-21 16:52:12,884 - INFO - Successfully deleted torrent with hash d53e940ff6c92105e9e734fbd4175b1c075e4432
+2025-04-21 16:52:12,885 - INFO - Deleting content files: What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:52:12,885 - INFO - Deleting content: /home/user/Desktop/torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:52:12,887 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:52:12,888 - INFO - Successfully processed torrent: What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:52:12,888 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]'}
