@@ -8195,3 +8195,43 @@
 2025-04-21 15:56:23,576 - INFO - Directory /home/user/Desktop/torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-21 15:56:23,576 - INFO - Starting upload: /home/user/Desktop/torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
 2025-04-21 15:56:23,577 - INFO - Uploading directory of size 1694.19 MB
+2025-04-21 15:58:00,609 - INFO - Successfully uploaded to onedrive:Torrents/Neighbors (2014) [1080p]
+2025-04-21 15:58:00,610 - INFO - Verifying upload for: Neighbors (2014) [1080p]
+2025-04-21 15:58:00,610 - INFO - Verifying upload: /home/user/Desktop/torrents/Neighbors (2014) [1080p] -> onedrive:Torrents/Neighbors (2014) [1080p]
+2025-04-21 15:58:03,634 - INFO - Upload verification successful for /home/user/Desktop/torrents/Neighbors (2014) [1080p]
+2025-04-21 15:58:03,643 - INFO - Deleting torrent from qBittorrent: Neighbors (2014) [1080p]
+2025-04-21 15:58:03,643 - INFO - Deleting torrent with hash e807f27ab22487f56581e9eae72885a20f382c7a (delete_files=False)
+2025-04-21 15:58:03,651 - INFO - Successfully deleted torrent with hash e807f27ab22487f56581e9eae72885a20f382c7a
+2025-04-21 15:58:03,652 - INFO - Deleting content files: Neighbors (2014) [1080p]
+2025-04-21 15:58:03,652 - INFO - Deleting content: /home/user/Desktop/torrents/Neighbors (2014) [1080p]
+2025-04-21 15:58:03,655 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Neighbors (2014) [1080p]
+2025-04-21 15:58:03,655 - INFO - Successfully processed torrent: Neighbors (2014) [1080p]
+2025-04-21 15:58:03,655 - INFO - Processing torrent: The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:58:03,655 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Neighbors (2014) [1080p]'}
+2025-04-21 15:58:03,655 - INFO - Attempting to upload torrent: The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:58:03,656 - INFO - Content path: /home/user/Desktop/torrents/The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:58:03,656 - INFO - Remote path: onedrive:Torrents/The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:58:03,656 - INFO - Uploading torrent: The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:58:03,656 - INFO - Directory /home/user/Desktop/torrents/The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-21 15:58:03,656 - INFO - Starting upload: /home/user/Desktop/torrents/The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:58:03,656 - INFO - Uploading directory of size 1460.53 MB
+2025-04-21 15:59:33,416 - INFO - Successfully uploaded to onedrive:Torrents/The Silence Of The Lambs (1991)
+2025-04-21 15:59:33,416 - INFO - Verifying upload for: The Silence Of The Lambs (1991)
+2025-04-21 15:59:33,416 - INFO - Verifying upload: /home/user/Desktop/torrents/The Silence Of The Lambs (1991) -> onedrive:Torrents/The Silence Of The Lambs (1991)
+2025-04-21 15:59:35,873 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Silence Of The Lambs (1991)
+2025-04-21 15:59:35,882 - INFO - Deleting torrent from qBittorrent: The Silence Of The Lambs (1991)
+2025-04-21 15:59:35,882 - INFO - Deleting torrent with hash 78a97e995741ad23f9364d3a52ba0a9182453c38 (delete_files=False)
+2025-04-21 15:59:35,891 - INFO - Successfully deleted torrent with hash 78a97e995741ad23f9364d3a52ba0a9182453c38
+2025-04-21 15:59:35,891 - INFO - Deleting content files: The Silence Of The Lambs (1991)
+2025-04-21 15:59:35,891 - INFO - Deleting content: /home/user/Desktop/torrents/The Silence Of The Lambs (1991)
+2025-04-21 15:59:35,892 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Silence Of The Lambs (1991)
+2025-04-21 15:59:35,893 - INFO - Successfully processed torrent: The Silence Of The Lambs (1991)
+2025-04-21 15:59:35,893 - INFO - Processing torrent: The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 15:59:35,893 - INFO - Attempting to upload torrent: The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 15:59:35,893 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Silence Of The Lambs (1991)'}
+2025-04-21 15:59:35,893 - INFO - Content path: /home/user/Desktop/torrents/The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 15:59:35,894 - INFO - Remote path: onedrive:Torrents/The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 15:59:35,894 - INFO - Uploading torrent: The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 15:59:35,894 - INFO - Directory /home/user/Desktop/torrents/The Hallow (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-21 15:59:35,894 - INFO - Starting upload: /home/user/Desktop/torrents/The Hallow (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 15:59:35,894 - INFO - Uploading directory of size 1522.62 MB
