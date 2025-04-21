@@ -8003,3 +8003,75 @@
 2025-04-21 15:38:26,218 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]
 2025-04-21 15:38:26,219 - INFO - Successfully processed torrent: Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]
 2025-04-21 15:38:26,219 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]'}
+2025-04-21 15:43:26,320 - INFO - Active upload threads: 5/5
+2025-04-21 15:43:26,321 - INFO - Checking for completed torrents...
+2025-04-21 15:43:26,349 - INFO - Found 28 completed torrents
+2025-04-21 15:43:26,349 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-21 15:43:26,349 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-21 15:43:26,350 - INFO - Torrent Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-21 15:43:26,350 - INFO - Torrent Taken 2 (2012) [1080p]: content_path = /home/user/Desktop/torrents/Taken 2 (2012) [1080p], exists: True
+2025-04-21 15:43:26,350 - INFO - Torrent Limitless (2011) 1080p: content_path = /home/user/Desktop/torrents/Limitless (2011) 1080p, exists: True
+2025-04-21 15:43:26,350 - INFO - Torrent Finding Nemo (2003) [1080p]: content_path = /home/user/Desktop/torrents/Finding Nemo (2003) [1080p], exists: True
+2025-04-21 15:43:26,351 - INFO - Torrent Brave (2012) [1080p]: content_path = /home/user/Desktop/torrents/Brave (2012) [1080p], exists: True
+2025-04-21 15:43:26,351 - INFO - Torrent Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-21 15:43:26,351 - INFO - Torrent The Silence Of The Lambs (1991) [1080p]: content_path = /home/user/Desktop/torrents/The Silence Of The Lambs (1991) [1080p], exists: True
+2025-04-21 15:43:26,352 - INFO - Torrent Neighbors (2014) [1080p]: content_path = /home/user/Desktop/torrents/Neighbors (2014) [1080p], exists: True
+2025-04-21 15:43:26,352 - INFO - Torrent The Silence Of The Lambs (1991): content_path = /home/user/Desktop/torrents/The Silence Of The Lambs (1991), exists: True
+2025-04-21 15:43:26,352 - INFO - Torrent Keeping Up With The Joneses (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Keeping Up With The Joneses (2016) [1080p] [YTS.AG], exists: True
+2025-04-21 15:43:26,352 - INFO - Torrent Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-21 15:43:26,353 - INFO - Torrent The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-21 15:43:26,353 - INFO - Torrent The Hallow (2015) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Hallow (2015) [1080p] [YTS.AG], exists: True
+2025-04-21 15:43:26,353 - INFO - Torrent Christopher Robin (2018) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Christopher Robin (2018) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-21 15:43:26,353 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-21 15:43:26,354 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-21 15:43:26,354 - INFO - Torrent Mulan (1998) [1080p]: content_path = /home/user/Desktop/torrents/Mulan (1998) [1080p], exists: True
+2025-04-21 15:43:26,354 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-21 15:43:26,354 - INFO - Torrent The Edge Of Seventeen (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Edge Of Seventeen (2016) [1080p] [YTS.AG], exists: True
+2025-04-21 15:43:26,355 - INFO - Torrent Die Hard (1988) [1080p]: content_path = /home/user/Desktop/torrents/Die Hard (1988) [1080p], exists: True
+2025-04-21 15:43:26,355 - INFO - Torrent 21 Bridges (2019) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/21 Bridges (2019) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-21 15:43:26,355 - INFO - Torrent Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Taxi Driver (1976) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-21 15:43:26,355 - INFO - Torrent Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-21 15:43:26,356 - INFO - Torrent Happy Death Day (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Happy Death Day (2017) [1080p] [YTS.AG], exists: True
+2025-04-21 15:43:26,356 - INFO - Torrent Dracula Untold (2014) [1080p]: content_path = /home/user/Desktop/torrents/Dracula Untold (2014) [1080p], exists: True
+2025-04-21 15:43:26,356 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-21 15:43:26,356 - INFO - Submitting 22 torrents for parallel upload
+2025-04-21 15:43:26,358 - INFO - Processing torrent: Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:43:26,358 - INFO - Attempting to upload torrent: Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:43:26,359 - INFO - Processing torrent: Taken 2 (2012) [1080p]
+2025-04-21 15:43:26,359 - INFO - Content path: /home/user/Desktop/torrents/Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:43:26,360 - INFO - Processing torrent: Limitless (2011) 1080p
+2025-04-21 15:43:26,360 - INFO - Attempting to upload torrent: Taken 2 (2012) [1080p]
+2025-04-21 15:43:26,360 - INFO - Processing torrent: Finding Nemo (2003) [1080p]
+2025-04-21 15:43:26,361 - INFO - Remote path: onedrive:Torrents/Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:43:26,361 - INFO - Processing torrent: Brave (2012) [1080p]
+2025-04-21 15:43:26,362 - INFO - Attempting to upload torrent: Limitless (2011) 1080p
+2025-04-21 15:43:26,362 - INFO - Content path: /home/user/Desktop/torrents/Taken 2 (2012) [1080p]
+2025-04-21 15:43:26,363 - INFO - Attempting to upload torrent: Finding Nemo (2003) [1080p]
+2025-04-21 15:43:26,363 - INFO - Uploading torrent: Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:43:26,363 - INFO - Attempting to upload torrent: Brave (2012) [1080p]
+2025-04-21 15:43:26,364 - INFO - Content path: /home/user/Desktop/torrents/Limitless (2011) 1080p
+2025-04-21 15:43:26,364 - INFO - Remote path: onedrive:Torrents/Taken 2 (2012) [1080p]
+2025-04-21 15:43:26,364 - INFO - Content path: /home/user/Desktop/torrents/Finding Nemo (2003) [1080p]
+2025-04-21 15:43:26,365 - INFO - Content path: /home/user/Desktop/torrents/Brave (2012) [1080p]
+2025-04-21 15:43:26,365 - INFO - Remote path: onedrive:Torrents/Limitless (2011) 1080p
+2025-04-21 15:43:26,365 - INFO - Uploading torrent: Taken 2 (2012) [1080p]
+2025-04-21 15:43:26,365 - INFO - Directory /home/user/Desktop/torrents/Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-21 15:43:26,366 - INFO - Remote path: onedrive:Torrents/Finding Nemo (2003) [1080p]
+2025-04-21 15:43:26,366 - INFO - Remote path: onedrive:Torrents/Brave (2012) [1080p]
+2025-04-21 15:43:26,367 - INFO - Uploading torrent: Limitless (2011) 1080p
+2025-04-21 15:43:26,367 - INFO - Starting upload: /home/user/Desktop/torrents/Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:43:26,368 - INFO - Uploading torrent: Finding Nemo (2003) [1080p]
+2025-04-21 15:43:26,368 - INFO - Directory /home/user/Desktop/torrents/Taken 2 (2012) [1080p] is readable, contains 2 files/dirs
+2025-04-21 15:43:26,369 - INFO - Uploading torrent: Brave (2012) [1080p]
+2025-04-21 15:43:26,369 - INFO - Starting upload: /home/user/Desktop/torrents/Taken 2 (2012) [1080p] -> onedrive:Torrents/Taken 2 (2012) [1080p]
+2025-04-21 15:43:26,370 - INFO - Directory /home/user/Desktop/torrents/Limitless (2011) 1080p is readable, contains 3 files/dirs
+2025-04-21 15:43:26,370 - INFO - Starting upload: /home/user/Desktop/torrents/Limitless (2011) 1080p -> onedrive:Torrents/Limitless (2011) 1080p
+2025-04-21 15:43:26,371 - INFO - Uploading directory of size 1650.84 MB
+2025-04-21 15:43:26,372 - INFO - Directory /home/user/Desktop/torrents/Brave (2012) [1080p] is readable, contains 3 files/dirs
+2025-04-21 15:43:26,372 - INFO - Uploading directory of size 1582.84 MB
+2025-04-21 15:43:26,375 - INFO - Starting upload: /home/user/Desktop/torrents/Brave (2012) [1080p] -> onedrive:Torrents/Brave (2012) [1080p]
+2025-04-21 15:43:26,377 - INFO - Directory /home/user/Desktop/torrents/Finding Nemo (2003) [1080p] is readable, contains 2 files/dirs
+2025-04-21 15:43:26,377 - INFO - Uploading directory of size 1436.56 MB
+2025-04-21 15:43:26,378 - INFO - Starting upload: /home/user/Desktop/torrents/Finding Nemo (2003) [1080p] -> onedrive:Torrents/Finding Nemo (2003) [1080p]
+2025-04-21 15:43:26,379 - INFO - Uploading directory of size 1433.95 MB
+2025-04-21 15:43:26,382 - INFO - Uploading directory of size 1430.03 MB
