@@ -8475,3 +8475,40 @@
 2025-04-21 16:27:56,212 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-21 16:27:56,212 - INFO - Successfully processed torrent: Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-21 16:27:56,212 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-21 16:32:56,249 - INFO - Active upload threads: 5/5
+2025-04-21 16:32:56,249 - INFO - Checking for completed torrents...
+2025-04-21 16:32:56,257 - INFO - Found 9 completed torrents
+2025-04-21 16:32:56,258 - INFO - Torrent Snatch (2000) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Snatch (2000) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-21 16:32:56,258 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-21 16:32:56,258 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-21 16:32:56,258 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-21 16:32:56,258 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-21 16:32:56,258 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-21 16:32:56,258 - INFO - Torrent The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-21 16:32:56,258 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-21 16:32:56,258 - INFO - Torrent Snowpiercer (2013) [1080p]: content_path = /home/user/Desktop/torrents/Snowpiercer (2013) [1080p], exists: True
+2025-04-21 16:32:56,258 - INFO - Submitting 3 torrents for parallel upload
+2025-04-21 16:32:56,259 - INFO - Processing torrent: Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:32:56,259 - INFO - Processing torrent: The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:32:56,259 - INFO - Processing torrent: Snowpiercer (2013) [1080p]
+2025-04-21 16:32:56,259 - INFO - Attempting to upload torrent: Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:32:56,259 - INFO - Attempting to upload torrent: The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:32:56,260 - INFO - Attempting to upload torrent: Snowpiercer (2013) [1080p]
+2025-04-21 16:32:56,260 - INFO - Content path: /home/user/Desktop/torrents/Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:32:56,260 - INFO - Content path: /home/user/Desktop/torrents/The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:32:56,260 - INFO - Content path: /home/user/Desktop/torrents/Snowpiercer (2013) [1080p]
+2025-04-21 16:32:56,260 - INFO - Remote path: onedrive:Torrents/Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:32:56,260 - INFO - Remote path: onedrive:Torrents/The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:32:56,260 - INFO - Remote path: onedrive:Torrents/Snowpiercer (2013) [1080p]
+2025-04-21 16:32:56,261 - INFO - Uploading torrent: Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:32:56,261 - INFO - Uploading torrent: The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:32:56,261 - INFO - Uploading torrent: Snowpiercer (2013) [1080p]
+2025-04-21 16:32:56,261 - INFO - Directory /home/user/Desktop/torrents/The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-21 16:32:56,261 - INFO - Directory /home/user/Desktop/torrents/Snatch (2000) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-21 16:32:56,261 - INFO - Directory /home/user/Desktop/torrents/Snowpiercer (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-21 16:32:56,262 - INFO - Starting upload: /home/user/Desktop/torrents/The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:32:56,262 - INFO - Starting upload: /home/user/Desktop/torrents/Snatch (2000) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:32:56,262 - INFO - Starting upload: /home/user/Desktop/torrents/Snowpiercer (2013) [1080p] -> onedrive:Torrents/Snowpiercer (2013) [1080p]
+2025-04-21 16:32:56,262 - INFO - Uploading directory of size 1734.13 MB
+2025-04-21 16:32:56,263 - INFO - Uploading directory of size 1991.27 MB
+2025-04-21 16:32:56,264 - INFO - Uploading directory of size 1676.96 MB
