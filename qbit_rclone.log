@@ -7543,3 +7543,23 @@
 2025-04-21 14:46:55,289 - INFO - Directory /home/user/Desktop/torrents/The Dictator (2012) [1080p] is readable, contains 4 files/dirs
 2025-04-21 14:46:55,289 - INFO - Starting upload: /home/user/Desktop/torrents/The Dictator (2012) [1080p] -> onedrive:Torrents/The Dictator (2012) [1080p]
 2025-04-21 14:46:55,289 - INFO - Uploading directory of size 1541.45 MB
+2025-04-21 14:51:31,953 - INFO - Successfully uploaded to onedrive:Torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:51:31,953 - INFO - Verifying upload for: Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:51:31,953 - INFO - Verifying upload: /home/user/Desktop/torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:51:34,943 - INFO - Upload verification successful for /home/user/Desktop/torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:51:34,952 - INFO - Deleting torrent from qBittorrent: Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:51:34,952 - INFO - Deleting torrent with hash 46378ea47454427d4d2b7a7a0d903f1e3b5732f2 (delete_files=False)
+2025-04-21 14:51:34,965 - INFO - Successfully deleted torrent with hash 46378ea47454427d4d2b7a7a0d903f1e3b5732f2
+2025-04-21 14:51:34,965 - INFO - Deleting content files: Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:51:34,965 - INFO - Deleting content: /home/user/Desktop/torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:51:34,968 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:51:34,968 - INFO - Successfully processed torrent: Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:51:34,968 - INFO - Processing torrent: The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 14:51:34,968 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Blade Runner (1982) [BluRay] [1080p] [YTS.AM]'}
+2025-04-21 14:51:34,969 - INFO - Attempting to upload torrent: The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 14:51:34,969 - INFO - Content path: /home/user/Desktop/torrents/The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 14:51:34,969 - INFO - Remote path: onedrive:Torrents/The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 14:51:34,969 - INFO - Uploading torrent: The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 14:51:34,969 - INFO - Directory /home/user/Desktop/torrents/The Intern (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-21 14:51:34,969 - INFO - Starting upload: /home/user/Desktop/torrents/The Intern (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 14:51:34,969 - INFO - Uploading directory of size 1900.76 MB
