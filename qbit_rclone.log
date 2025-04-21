@@ -7503,3 +7503,43 @@
 2025-04-21 14:42:25,616 - INFO - Directory /home/user/Desktop/torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
 2025-04-21 14:42:25,616 - INFO - Starting upload: /home/user/Desktop/torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-21 14:42:25,616 - INFO - Uploading directory of size 2869.26 MB
+2025-04-21 14:44:20,634 - INFO - Successfully uploaded to onedrive:Torrents/The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:44:20,634 - INFO - Verifying upload for: The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:44:20,634 - INFO - Verifying upload: /home/user/Desktop/torrents/The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:44:23,541 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:44:23,550 - INFO - Deleting torrent from qBittorrent: The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:44:23,550 - INFO - Deleting torrent with hash b735b8eafaa32f8ce9206db25da827f08e463a15 (delete_files=False)
+2025-04-21 14:44:23,559 - INFO - Successfully deleted torrent with hash b735b8eafaa32f8ce9206db25da827f08e463a15
+2025-04-21 14:44:23,559 - INFO - Deleting content files: The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:44:23,559 - INFO - Deleting content: /home/user/Desktop/torrents/The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:44:23,563 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:44:23,563 - INFO - Successfully processed torrent: The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:44:23,563 - INFO - Processing torrent: Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:44:23,563 - INFO - Attempting to upload torrent: Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:44:23,563 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-21 14:44:23,564 - INFO - Content path: /home/user/Desktop/torrents/Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:44:23,564 - INFO - Remote path: onedrive:Torrents/Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:44:23,564 - INFO - Uploading torrent: Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:44:23,564 - INFO - Directory /home/user/Desktop/torrents/Nymphomaniac Vol. II (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-21 14:44:23,564 - INFO - Starting upload: /home/user/Desktop/torrents/Nymphomaniac Vol. II (2013) [1080p] -> onedrive:Torrents/Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:44:23,564 - INFO - Uploading directory of size 2428.04 MB
+2025-04-21 14:46:52,724 - INFO - Successfully uploaded to onedrive:Torrents/Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:46:52,724 - INFO - Verifying upload for: Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:46:52,725 - INFO - Verifying upload: /home/user/Desktop/torrents/Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:46:55,265 - INFO - Upload verification successful for /home/user/Desktop/torrents/Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:46:55,274 - INFO - Deleting torrent from qBittorrent: Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:46:55,274 - INFO - Deleting torrent with hash 6574301363ca02e7683f588183b500383b2081b8 (delete_files=False)
+2025-04-21 14:46:55,283 - INFO - Successfully deleted torrent with hash 6574301363ca02e7683f588183b500383b2081b8
+2025-04-21 14:46:55,283 - INFO - Deleting content files: Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:46:55,283 - INFO - Deleting content: /home/user/Desktop/torrents/Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:46:55,287 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:46:55,288 - INFO - Successfully processed torrent: Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:46:55,288 - INFO - Processing torrent: The Dictator (2012) [1080p]
+2025-04-21 14:46:55,288 - INFO - Attempting to upload torrent: The Dictator (2012) [1080p]
+2025-04-21 14:46:55,288 - INFO - Content path: /home/user/Desktop/torrents/The Dictator (2012) [1080p]
+2025-04-21 14:46:55,288 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-21 14:46:55,288 - INFO - Remote path: onedrive:Torrents/The Dictator (2012) [1080p]
+2025-04-21 14:46:55,289 - INFO - Uploading torrent: The Dictator (2012) [1080p]
+2025-04-21 14:46:55,289 - INFO - Directory /home/user/Desktop/torrents/The Dictator (2012) [1080p] is readable, contains 4 files/dirs
+2025-04-21 14:46:55,289 - INFO - Starting upload: /home/user/Desktop/torrents/The Dictator (2012) [1080p] -> onedrive:Torrents/The Dictator (2012) [1080p]
+2025-04-21 14:46:55,289 - INFO - Uploading directory of size 1541.45 MB
