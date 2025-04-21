@@ -7723,3 +7723,83 @@
 2025-04-21 15:12:56,610 - INFO - Directory /home/user/Desktop/torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
 2025-04-21 15:12:56,610 - INFO - Starting upload: /home/user/Desktop/torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-21 15:12:56,610 - INFO - Uploading directory of size 1510.15 MB
+2025-04-21 15:17:17,010 - INFO - Successfully uploaded to onedrive:Torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:17:17,011 - INFO - Verifying upload for: Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:17:17,011 - INFO - Verifying upload: /home/user/Desktop/torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:17:19,351 - INFO - Upload verification successful for /home/user/Desktop/torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:17:19,361 - INFO - Deleting torrent from qBittorrent: Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:17:19,361 - INFO - Deleting torrent with hash 560d5711063e493f6cad5a48700644014475f412 (delete_files=False)
+2025-04-21 15:17:19,371 - INFO - Successfully deleted torrent with hash 560d5711063e493f6cad5a48700644014475f412
+2025-04-21 15:17:19,371 - INFO - Deleting content files: Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:17:19,371 - INFO - Deleting content: /home/user/Desktop/torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:17:19,373 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:17:19,373 - INFO - Successfully processed torrent: Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:17:19,373 - INFO - Processing torrent: The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:17:19,373 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-21 15:17:19,373 - INFO - Attempting to upload torrent: The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:17:19,374 - INFO - Content path: /home/user/Desktop/torrents/The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:17:19,374 - INFO - Remote path: onedrive:Torrents/The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:17:19,374 - INFO - Uploading torrent: The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:17:19,374 - INFO - Directory /home/user/Desktop/torrents/The SpongeBob Movie Sponge Out of Water (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-21 15:17:19,374 - INFO - Starting upload: /home/user/Desktop/torrents/The SpongeBob Movie Sponge Out of Water (2015) [1080p] -> onedrive:Torrents/The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:17:19,374 - INFO - Uploading directory of size 1472.99 MB
+2025-04-21 15:19:45,285 - INFO - Successfully uploaded to onedrive:Torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:45,286 - INFO - Verifying upload for: Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:45,286 - INFO - Verifying upload: /home/user/Desktop/torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:47,514 - INFO - Upload verification successful for /home/user/Desktop/torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:47,523 - INFO - Deleting torrent from qBittorrent: Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:47,523 - INFO - Deleting torrent with hash e6f65851597e196c9653ef66f45f4be83495499d (delete_files=False)
+2025-04-21 15:19:47,533 - INFO - Successfully deleted torrent with hash e6f65851597e196c9653ef66f45f4be83495499d
+2025-04-21 15:19:47,533 - INFO - Deleting content files: Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:47,533 - INFO - Deleting content: /home/user/Desktop/torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:47,535 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:47,535 - INFO - Successfully processed torrent: Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:47,535 - INFO - Processing torrent: Don Jon (2013) [1080p]
+2025-04-21 15:19:47,535 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Papillon (2017) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-21 15:19:47,536 - INFO - Attempting to upload torrent: Don Jon (2013) [1080p]
+2025-04-21 15:19:47,536 - INFO - Content path: /home/user/Desktop/torrents/Don Jon (2013) [1080p]
+2025-04-21 15:19:47,536 - INFO - Remote path: onedrive:Torrents/Don Jon (2013) [1080p]
+2025-04-21 15:19:47,536 - INFO - Uploading torrent: Don Jon (2013) [1080p]
+2025-04-21 15:19:47,536 - INFO - Directory /home/user/Desktop/torrents/Don Jon (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-21 15:19:47,536 - INFO - Starting upload: /home/user/Desktop/torrents/Don Jon (2013) [1080p] -> onedrive:Torrents/Don Jon (2013) [1080p]
+2025-04-21 15:19:47,536 - INFO - Uploading directory of size 1266.67 MB
+2025-04-21 15:19:51,363 - INFO - Successfully uploaded to onedrive:Torrents/The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:51,363 - INFO - Verifying upload for: The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:51,363 - INFO - Verifying upload: /home/user/Desktop/torrents/The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:52,670 - INFO - Upload verification successful for /home/user/Desktop/torrents/The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:52,679 - INFO - Deleting torrent from qBittorrent: The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:52,679 - INFO - Deleting torrent with hash e2cd16074a7c8fb08fd02b384aa324ce2ded81bd (delete_files=False)
+2025-04-21 15:19:52,686 - INFO - Successfully deleted torrent with hash e2cd16074a7c8fb08fd02b384aa324ce2ded81bd
+2025-04-21 15:19:52,686 - INFO - Deleting content files: The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:52,687 - INFO - Deleting content: /home/user/Desktop/torrents/The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:52,688 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:52,688 - INFO - Successfully processed torrent: The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:19:52,688 - INFO - Processing torrent: Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:19:52,688 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-21 15:19:52,689 - INFO - Attempting to upload torrent: Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:19:52,689 - INFO - Content path: /home/user/Desktop/torrents/Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:19:52,689 - INFO - Remote path: onedrive:Torrents/Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:19:52,689 - INFO - Uploading torrent: Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:19:52,689 - INFO - Directory /home/user/Desktop/torrents/Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-21 15:19:52,689 - INFO - Starting upload: /home/user/Desktop/torrents/Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:19:52,690 - INFO - Uploading directory of size 1864.09 MB
+2025-04-21 15:20:24,558 - INFO - Successfully uploaded to onedrive:Torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:20:24,558 - INFO - Verifying upload for: Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:20:24,558 - INFO - Verifying upload: /home/user/Desktop/torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:20:27,717 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:20:27,725 - INFO - Deleting torrent from qBittorrent: Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:20:27,725 - INFO - Deleting torrent with hash 5b018ba0bd100c3e2560f11930dd69c20cd3ea7a (delete_files=False)
+2025-04-21 15:20:27,733 - INFO - Successfully deleted torrent with hash 5b018ba0bd100c3e2560f11930dd69c20cd3ea7a
+2025-04-21 15:20:27,734 - INFO - Deleting content files: Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:20:27,734 - INFO - Deleting content: /home/user/Desktop/torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:20:27,735 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:20:27,735 - INFO - Successfully processed torrent: Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:20:27,735 - INFO - Processing torrent: The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:20:27,735 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]"}
+2025-04-21 15:20:27,735 - INFO - Attempting to upload torrent: The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:20:27,736 - INFO - Content path: /home/user/Desktop/torrents/The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:20:27,736 - INFO - Remote path: onedrive:Torrents/The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:20:27,736 - INFO - Uploading torrent: The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:20:27,736 - INFO - Directory /home/user/Desktop/torrents/The Big Sick (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-21 15:20:27,736 - INFO - Starting upload: /home/user/Desktop/torrents/The Big Sick (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:20:27,736 - INFO - Uploading directory of size 1876.28 MB
