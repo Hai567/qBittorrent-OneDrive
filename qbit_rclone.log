@@ -8512,3 +8512,39 @@
 2025-04-21 16:32:56,262 - INFO - Uploading directory of size 1734.13 MB
 2025-04-21 16:32:56,263 - INFO - Uploading directory of size 1991.27 MB
 2025-04-21 16:32:56,264 - INFO - Uploading directory of size 1676.96 MB
+2025-04-21 16:40:03,930 - INFO - Successfully uploaded to onedrive:Torrents/The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:03,931 - INFO - Verifying upload for: The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:03,931 - INFO - Verifying upload: /home/user/Desktop/torrents/The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:06,149 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:06,159 - INFO - Deleting torrent from qBittorrent: The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:06,159 - INFO - Deleting torrent with hash 9d004a95228f7a66078a4fb3d8a47626767ce67b (delete_files=False)
+2025-04-21 16:40:06,171 - INFO - Successfully deleted torrent with hash 9d004a95228f7a66078a4fb3d8a47626767ce67b
+2025-04-21 16:40:06,171 - INFO - Deleting content files: The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:06,172 - INFO - Deleting content: /home/user/Desktop/torrents/The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:06,173 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:06,173 - INFO - Successfully processed torrent: The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:06,174 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Usual Suspects (1995) [BluRay] [1080p] [YTS.AM]'}
+2025-04-21 16:40:37,778 - INFO - Successfully uploaded to onedrive:Torrents/Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:37,779 - INFO - Verifying upload for: Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:37,779 - INFO - Verifying upload: /home/user/Desktop/torrents/Snatch (2000) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:39,984 - INFO - Upload verification successful for /home/user/Desktop/torrents/Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:39,994 - INFO - Deleting torrent from qBittorrent: Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:39,994 - INFO - Deleting torrent with hash 723fa4fd2edcf499b5211e17940811260afebeec (delete_files=False)
+2025-04-21 16:40:40,006 - INFO - Successfully deleted torrent with hash 723fa4fd2edcf499b5211e17940811260afebeec
+2025-04-21 16:40:40,007 - INFO - Deleting content files: Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:40,007 - INFO - Deleting content: /home/user/Desktop/torrents/Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:40,008 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:40,008 - INFO - Successfully processed torrent: Snatch (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:40:40,009 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Snatch (2000) [BluRay] [1080p] [YTS.AM]'}
+2025-04-21 16:40:40,791 - INFO - Successfully uploaded to onedrive:Torrents/Snowpiercer (2013) [1080p]
+2025-04-21 16:40:40,792 - INFO - Verifying upload for: Snowpiercer (2013) [1080p]
+2025-04-21 16:40:40,792 - INFO - Verifying upload: /home/user/Desktop/torrents/Snowpiercer (2013) [1080p] -> onedrive:Torrents/Snowpiercer (2013) [1080p]
+2025-04-21 16:40:43,026 - INFO - Upload verification successful for /home/user/Desktop/torrents/Snowpiercer (2013) [1080p]
+2025-04-21 16:40:43,035 - INFO - Deleting torrent from qBittorrent: Snowpiercer (2013) [1080p]
+2025-04-21 16:40:43,035 - INFO - Deleting torrent with hash fe305724b1ea9f0fb142a6a46d425160f3c458e8 (delete_files=False)
+2025-04-21 16:40:43,043 - INFO - Successfully deleted torrent with hash fe305724b1ea9f0fb142a6a46d425160f3c458e8
+2025-04-21 16:40:43,043 - INFO - Deleting content files: Snowpiercer (2013) [1080p]
+2025-04-21 16:40:43,043 - INFO - Deleting content: /home/user/Desktop/torrents/Snowpiercer (2013) [1080p]
+2025-04-21 16:40:43,045 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Snowpiercer (2013) [1080p]
+2025-04-21 16:40:43,045 - INFO - Successfully processed torrent: Snowpiercer (2013) [1080p]
+2025-04-21 16:40:43,045 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Snowpiercer (2013) [1080p]'}
