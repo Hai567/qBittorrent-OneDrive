@@ -8075,3 +8075,63 @@
 2025-04-21 15:43:26,378 - INFO - Starting upload: /home/user/Desktop/torrents/Finding Nemo (2003) [1080p] -> onedrive:Torrents/Finding Nemo (2003) [1080p]
 2025-04-21 15:43:26,379 - INFO - Uploading directory of size 1433.95 MB
 2025-04-21 15:43:26,382 - INFO - Uploading directory of size 1430.03 MB
+2025-04-21 15:50:51,059 - INFO - Successfully uploaded to onedrive:Torrents/Finding Nemo (2003) [1080p]
+2025-04-21 15:50:51,060 - INFO - Verifying upload for: Finding Nemo (2003) [1080p]
+2025-04-21 15:50:51,060 - INFO - Verifying upload: /home/user/Desktop/torrents/Finding Nemo (2003) [1080p] -> onedrive:Torrents/Finding Nemo (2003) [1080p]
+2025-04-21 15:50:53,654 - INFO - Upload verification successful for /home/user/Desktop/torrents/Finding Nemo (2003) [1080p]
+2025-04-21 15:50:53,665 - INFO - Deleting torrent from qBittorrent: Finding Nemo (2003) [1080p]
+2025-04-21 15:50:53,665 - INFO - Deleting torrent with hash fd0ec08e1f56bf538cb65548eda4320e46b06e9c (delete_files=False)
+2025-04-21 15:50:53,682 - INFO - Successfully deleted torrent with hash fd0ec08e1f56bf538cb65548eda4320e46b06e9c
+2025-04-21 15:50:53,682 - INFO - Deleting content files: Finding Nemo (2003) [1080p]
+2025-04-21 15:50:53,682 - INFO - Deleting content: /home/user/Desktop/torrents/Finding Nemo (2003) [1080p]
+2025-04-21 15:50:53,685 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Finding Nemo (2003) [1080p]
+2025-04-21 15:50:53,685 - INFO - Successfully processed torrent: Finding Nemo (2003) [1080p]
+2025-04-21 15:50:53,686 - INFO - Processing torrent: Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:50:53,686 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Finding Nemo (2003) [1080p]'}
+2025-04-21 15:50:53,686 - INFO - Attempting to upload torrent: Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:50:53,686 - INFO - Content path: /home/user/Desktop/torrents/Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:50:53,686 - INFO - Remote path: onedrive:Torrents/Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:50:53,686 - INFO - Uploading torrent: Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:50:53,686 - INFO - Directory /home/user/Desktop/torrents/Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-21 15:50:53,687 - INFO - Starting upload: /home/user/Desktop/torrents/Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:50:53,687 - INFO - Uploading directory of size 2803.86 MB
+2025-04-21 15:51:09,078 - INFO - Successfully uploaded to onedrive:Torrents/Limitless (2011) 1080p
+2025-04-21 15:51:09,078 - INFO - Verifying upload for: Limitless (2011) 1080p
+2025-04-21 15:51:09,078 - INFO - Verifying upload: /home/user/Desktop/torrents/Limitless (2011) 1080p -> onedrive:Torrents/Limitless (2011) 1080p
+2025-04-21 15:51:11,317 - INFO - Upload verification successful for /home/user/Desktop/torrents/Limitless (2011) 1080p
+2025-04-21 15:51:11,335 - INFO - Deleting torrent from qBittorrent: Limitless (2011) 1080p
+2025-04-21 15:51:11,335 - INFO - Deleting torrent with hash 9b637c7763a5320f401586c86c530997f591c117 (delete_files=False)
+2025-04-21 15:51:11,344 - INFO - Successfully deleted torrent with hash 9b637c7763a5320f401586c86c530997f591c117
+2025-04-21 15:51:11,344 - INFO - Deleting content files: Limitless (2011) 1080p
+2025-04-21 15:51:11,344 - INFO - Deleting content: /home/user/Desktop/torrents/Limitless (2011) 1080p
+2025-04-21 15:51:11,347 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Limitless (2011) 1080p
+2025-04-21 15:51:11,347 - INFO - Successfully processed torrent: Limitless (2011) 1080p
+2025-04-21 15:51:11,347 - INFO - Processing torrent: The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:51:11,347 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Limitless (2011) 1080p'}
+2025-04-21 15:51:11,347 - INFO - Attempting to upload torrent: The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:51:11,348 - INFO - Content path: /home/user/Desktop/torrents/The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:51:11,348 - INFO - Remote path: onedrive:Torrents/The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:51:11,348 - INFO - Uploading torrent: The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:51:11,348 - INFO - Directory /home/user/Desktop/torrents/The Silence Of The Lambs (1991) [1080p] is readable, contains 3 files/dirs
+2025-04-21 15:51:11,348 - INFO - Starting upload: /home/user/Desktop/torrents/The Silence Of The Lambs (1991) [1080p] -> onedrive:Torrents/The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:51:11,348 - INFO - Uploading directory of size 1536.58 MB
+2025-04-21 15:51:24,378 - INFO - Successfully uploaded to onedrive:Torrents/Brave (2012) [1080p]
+2025-04-21 15:51:24,379 - INFO - Verifying upload for: Brave (2012) [1080p]
+2025-04-21 15:51:24,379 - INFO - Verifying upload: /home/user/Desktop/torrents/Brave (2012) [1080p] -> onedrive:Torrents/Brave (2012) [1080p]
+2025-04-21 15:51:26,636 - INFO - Upload verification successful for /home/user/Desktop/torrents/Brave (2012) [1080p]
+2025-04-21 15:51:26,644 - INFO - Deleting torrent from qBittorrent: Brave (2012) [1080p]
+2025-04-21 15:51:26,644 - INFO - Deleting torrent with hash 4ffa45ce7350e7aa19c90a432089662dcd2621d5 (delete_files=False)
+2025-04-21 15:51:26,653 - INFO - Successfully deleted torrent with hash 4ffa45ce7350e7aa19c90a432089662dcd2621d5
+2025-04-21 15:51:26,653 - INFO - Deleting content files: Brave (2012) [1080p]
+2025-04-21 15:51:26,653 - INFO - Deleting content: /home/user/Desktop/torrents/Brave (2012) [1080p]
+2025-04-21 15:51:26,654 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Brave (2012) [1080p]
+2025-04-21 15:51:26,654 - INFO - Successfully processed torrent: Brave (2012) [1080p]
+2025-04-21 15:51:26,654 - INFO - Processing torrent: Neighbors (2014) [1080p]
+2025-04-21 15:51:26,654 - INFO - Attempting to upload torrent: Neighbors (2014) [1080p]
+2025-04-21 15:51:26,655 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Brave (2012) [1080p]'}
+2025-04-21 15:51:26,655 - INFO - Content path: /home/user/Desktop/torrents/Neighbors (2014) [1080p]
+2025-04-21 15:51:26,655 - INFO - Remote path: onedrive:Torrents/Neighbors (2014) [1080p]
+2025-04-21 15:51:26,655 - INFO - Uploading torrent: Neighbors (2014) [1080p]
+2025-04-21 15:51:26,655 - INFO - Directory /home/user/Desktop/torrents/Neighbors (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-21 15:51:26,655 - INFO - Starting upload: /home/user/Desktop/torrents/Neighbors (2014) [1080p] -> onedrive:Torrents/Neighbors (2014) [1080p]
+2025-04-21 15:51:26,655 - INFO - Uploading directory of size 1477.94 MB
