@@ -7403,3 +7403,63 @@
 2025-04-21 14:31:45,760 - INFO - Starting upload: /home/user/Desktop/torrents/Lone Survivor (2013) [1080p] -> onedrive:Torrents/Lone Survivor (2013) [1080p]
 2025-04-21 14:31:45,760 - INFO - Uploading directory of size 1887.77 MB
 2025-04-21 14:31:45,761 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Wild Card (2015) [1080p]'}
+2025-04-21 14:34:06,359 - INFO - Successfully uploaded to onedrive:Torrents/Concussion (2015) [1080p] [YTS.AG]
+2025-04-21 14:34:06,359 - INFO - Verifying upload for: Concussion (2015) [1080p] [YTS.AG]
+2025-04-21 14:34:06,360 - INFO - Verifying upload: /home/user/Desktop/torrents/Concussion (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Concussion (2015) [1080p] [YTS.AG]
+2025-04-21 14:34:08,834 - INFO - Upload verification successful for /home/user/Desktop/torrents/Concussion (2015) [1080p] [YTS.AG]
+2025-04-21 14:34:08,845 - INFO - Deleting torrent from qBittorrent: Concussion (2015) [1080p] [YTS.AG]
+2025-04-21 14:34:08,845 - INFO - Deleting torrent with hash 1528894d713312a825e17a0f079c1b53b51c29e2 (delete_files=False)
+2025-04-21 14:34:08,853 - INFO - Successfully deleted torrent with hash 1528894d713312a825e17a0f079c1b53b51c29e2
+2025-04-21 14:34:08,854 - INFO - Deleting content files: Concussion (2015) [1080p] [YTS.AG]
+2025-04-21 14:34:08,854 - INFO - Deleting content: /home/user/Desktop/torrents/Concussion (2015) [1080p] [YTS.AG]
+2025-04-21 14:34:08,856 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Concussion (2015) [1080p] [YTS.AG]
+2025-04-21 14:34:08,856 - INFO - Successfully processed torrent: Concussion (2015) [1080p] [YTS.AG]
+2025-04-21 14:34:08,856 - INFO - Processing torrent: Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:34:08,857 - INFO - Attempting to upload torrent: Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:34:08,857 - INFO - Content path: /home/user/Desktop/torrents/Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:34:08,857 - INFO - Remote path: onedrive:Torrents/Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:34:08,857 - INFO - Uploading torrent: Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:34:08,857 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Concussion (2015) [1080p] [YTS.AG]'}
+2025-04-21 14:34:08,857 - INFO - Directory /home/user/Desktop/torrents/Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-21 14:34:08,857 - INFO - Starting upload: /home/user/Desktop/torrents/Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Operation Fortune Ruse De Guerre (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:34:08,858 - INFO - Uploading directory of size 2143.98 MB
+2025-04-21 14:34:43,033 - INFO - Successfully uploaded to onedrive:Torrents/Oceans Eleven (2001) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:43,034 - INFO - Verifying upload for: Oceans Eleven (2001) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:43,034 - INFO - Verifying upload: /home/user/Desktop/torrents/Oceans Eleven (2001) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Oceans Eleven (2001) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,345 - INFO - Upload verification successful for /home/user/Desktop/torrents/Oceans Eleven (2001) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,354 - INFO - Deleting torrent from qBittorrent: Oceans Eleven (2001) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,354 - INFO - Deleting torrent with hash 4760e13b5dacf35fe607d6acc31b2b451eea3ee6 (delete_files=False)
+2025-04-21 14:34:46,369 - INFO - Successfully deleted torrent with hash 4760e13b5dacf35fe607d6acc31b2b451eea3ee6
+2025-04-21 14:34:46,369 - INFO - Deleting content files: Oceans Eleven (2001) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,369 - INFO - Deleting content: /home/user/Desktop/torrents/Oceans Eleven (2001) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,372 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Oceans Eleven (2001) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,372 - INFO - Successfully processed torrent: Oceans Eleven (2001) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,372 - INFO - Processing torrent: The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,372 - INFO - Attempting to upload torrent: The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,372 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Oceans Eleven (2001) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-21 14:34:46,372 - INFO - Content path: /home/user/Desktop/torrents/The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,372 - INFO - Remote path: onedrive:Torrents/The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,373 - INFO - Uploading torrent: The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,373 - INFO - Directory /home/user/Desktop/torrents/The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-21 14:34:46,373 - INFO - Starting upload: /home/user/Desktop/torrents/The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Little Mermaid (1989) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:34:46,373 - INFO - Uploading directory of size 1563.74 MB
+2025-04-21 14:37:34,261 - INFO - Successfully uploaded to onedrive:Torrents/The Emoji Movie (2017) [1080p] [YTS.AG]
+2025-04-21 14:37:34,262 - INFO - Verifying upload for: The Emoji Movie (2017) [1080p] [YTS.AG]
+2025-04-21 14:37:34,262 - INFO - Verifying upload: /home/user/Desktop/torrents/The Emoji Movie (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Emoji Movie (2017) [1080p] [YTS.AG]
+2025-04-21 14:37:36,722 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Emoji Movie (2017) [1080p] [YTS.AG]
+2025-04-21 14:37:36,737 - INFO - Deleting torrent from qBittorrent: The Emoji Movie (2017) [1080p] [YTS.AG]
+2025-04-21 14:37:36,737 - INFO - Deleting torrent with hash 6b7214e229bccadc1c1016da659f2dc3d972470b (delete_files=False)
+2025-04-21 14:37:36,748 - INFO - Successfully deleted torrent with hash 6b7214e229bccadc1c1016da659f2dc3d972470b
+2025-04-21 14:37:36,748 - INFO - Deleting content files: The Emoji Movie (2017) [1080p] [YTS.AG]
+2025-04-21 14:37:36,748 - INFO - Deleting content: /home/user/Desktop/torrents/The Emoji Movie (2017) [1080p] [YTS.AG]
+2025-04-21 14:37:36,749 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Emoji Movie (2017) [1080p] [YTS.AG]
+2025-04-21 14:37:36,750 - INFO - Successfully processed torrent: The Emoji Movie (2017) [1080p] [YTS.AG]
+2025-04-21 14:37:36,750 - INFO - Processing torrent: Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:37:36,750 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Emoji Movie (2017) [1080p] [YTS.AG]'}
+2025-04-21 14:37:36,750 - INFO - Attempting to upload torrent: Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:37:36,750 - INFO - Content path: /home/user/Desktop/torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:37:36,751 - INFO - Remote path: onedrive:Torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:37:36,751 - INFO - Uploading torrent: Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:37:36,751 - INFO - Directory /home/user/Desktop/torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-21 14:37:36,751 - INFO - Starting upload: /home/user/Desktop/torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
+2025-04-21 14:37:36,751 - INFO - Uploading directory of size 1956.33 MB
