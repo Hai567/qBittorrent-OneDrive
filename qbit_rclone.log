@@ -7623,3 +7623,23 @@
 2025-04-21 15:01:19,765 - INFO - Directory /home/user/Desktop/torrents/Pete's Dragon (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-21 15:01:19,765 - INFO - Starting upload: /home/user/Desktop/torrents/Pete's Dragon (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Pete's Dragon (2016) [1080p] [YTS.AG]
 2025-04-21 15:01:19,765 - INFO - Uploading directory of size 1603.90 MB
+2025-04-21 15:05:22,736 - INFO - Successfully uploaded to onedrive:Torrents/Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 15:05:22,737 - INFO - Verifying upload for: Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 15:05:22,737 - INFO - Verifying upload: /home/user/Desktop/torrents/Now You See Me 2 (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 15:05:25,902 - INFO - Upload verification successful for /home/user/Desktop/torrents/Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 15:05:25,910 - INFO - Deleting torrent from qBittorrent: Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 15:05:25,910 - INFO - Deleting torrent with hash ec8d03a62dcb4b0f96f0eedb05c5ce02a53a3f44 (delete_files=False)
+2025-04-21 15:05:25,924 - INFO - Successfully deleted torrent with hash ec8d03a62dcb4b0f96f0eedb05c5ce02a53a3f44
+2025-04-21 15:05:25,925 - INFO - Deleting content files: Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 15:05:25,925 - INFO - Deleting content: /home/user/Desktop/torrents/Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 15:05:25,927 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 15:05:25,927 - INFO - Successfully processed torrent: Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 15:05:25,927 - INFO - Processing torrent: Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:05:25,927 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Now You See Me 2 (2016) [1080p] [YTS.AG]'}
+2025-04-21 15:05:25,927 - INFO - Attempting to upload torrent: Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:05:25,928 - INFO - Content path: /home/user/Desktop/torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:05:25,928 - INFO - Remote path: onedrive:Torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:05:25,928 - INFO - Uploading torrent: Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:05:25,928 - INFO - Directory /home/user/Desktop/torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-21 15:05:25,928 - INFO - Starting upload: /home/user/Desktop/torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:05:25,928 - INFO - Uploading directory of size 2029.08 MB
