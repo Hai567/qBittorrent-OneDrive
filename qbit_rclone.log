@@ -8135,3 +8135,63 @@
 2025-04-21 15:51:26,655 - INFO - Directory /home/user/Desktop/torrents/Neighbors (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-21 15:51:26,655 - INFO - Starting upload: /home/user/Desktop/torrents/Neighbors (2014) [1080p] -> onedrive:Torrents/Neighbors (2014) [1080p]
 2025-04-21 15:51:26,655 - INFO - Uploading directory of size 1477.94 MB
+2025-04-21 15:55:21,953 - INFO - Successfully uploaded to onedrive:Torrents/Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:55:21,953 - INFO - Successfully uploaded to onedrive:Torrents/Taken 2 (2012) [1080p]
+2025-04-21 15:55:21,953 - INFO - Verifying upload for: Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:55:21,953 - INFO - Verifying upload for: Taken 2 (2012) [1080p]
+2025-04-21 15:55:21,954 - INFO - Verifying upload: /home/user/Desktop/torrents/Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:55:21,954 - INFO - Verifying upload: /home/user/Desktop/torrents/Taken 2 (2012) [1080p] -> onedrive:Torrents/Taken 2 (2012) [1080p]
+2025-04-21 15:55:23,803 - INFO - Upload verification successful for /home/user/Desktop/torrents/Taken 2 (2012) [1080p]
+2025-04-21 15:55:23,811 - INFO - Deleting torrent from qBittorrent: Taken 2 (2012) [1080p]
+2025-04-21 15:55:23,812 - INFO - Deleting torrent with hash 8c3868b3d1b54bb38ad89df15eb8dd21c0105d47 (delete_files=False)
+2025-04-21 15:55:23,821 - INFO - Successfully deleted torrent with hash 8c3868b3d1b54bb38ad89df15eb8dd21c0105d47
+2025-04-21 15:55:23,821 - INFO - Deleting content files: Taken 2 (2012) [1080p]
+2025-04-21 15:55:23,821 - INFO - Deleting content: /home/user/Desktop/torrents/Taken 2 (2012) [1080p]
+2025-04-21 15:55:23,823 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Taken 2 (2012) [1080p]
+2025-04-21 15:55:23,823 - INFO - Successfully processed torrent: Taken 2 (2012) [1080p]
+2025-04-21 15:55:23,824 - INFO - Processing torrent: The Silence Of The Lambs (1991)
+2025-04-21 15:55:23,824 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Taken 2 (2012) [1080p]'}
+2025-04-21 15:55:23,824 - INFO - Attempting to upload torrent: The Silence Of The Lambs (1991)
+2025-04-21 15:55:23,824 - INFO - Content path: /home/user/Desktop/torrents/The Silence Of The Lambs (1991)
+2025-04-21 15:55:23,824 - INFO - Remote path: onedrive:Torrents/The Silence Of The Lambs (1991)
+2025-04-21 15:55:23,825 - INFO - Uploading torrent: The Silence Of The Lambs (1991)
+2025-04-21 15:55:23,825 - INFO - Directory /home/user/Desktop/torrents/The Silence Of The Lambs (1991) is readable, contains 3 files/dirs
+2025-04-21 15:55:23,825 - INFO - Starting upload: /home/user/Desktop/torrents/The Silence Of The Lambs (1991) -> onedrive:Torrents/The Silence Of The Lambs (1991)
+2025-04-21 15:55:23,825 - INFO - Uploading directory of size 752.05 MB
+2025-04-21 15:55:24,183 - INFO - Upload verification successful for /home/user/Desktop/torrents/Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:55:24,192 - INFO - Deleting torrent from qBittorrent: Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:55:24,192 - INFO - Deleting torrent with hash cb09ed0d11a64f6c2bd12426c649621252ed57ec (delete_files=False)
+2025-04-21 15:55:24,200 - INFO - Successfully deleted torrent with hash cb09ed0d11a64f6c2bd12426c649621252ed57ec
+2025-04-21 15:55:24,200 - INFO - Deleting content files: Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:55:24,200 - INFO - Deleting content: /home/user/Desktop/torrents/Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:55:24,203 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:55:24,203 - INFO - Successfully processed torrent: Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:55:24,203 - INFO - Processing torrent: Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 15:55:24,203 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Truth Or Dare (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-21 15:55:24,203 - INFO - Attempting to upload torrent: Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 15:55:24,203 - INFO - Content path: /home/user/Desktop/torrents/Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 15:55:24,203 - INFO - Remote path: onedrive:Torrents/Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 15:55:24,203 - INFO - Uploading torrent: Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 15:55:24,204 - INFO - Directory /home/user/Desktop/torrents/Keeping Up With The Joneses (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-21 15:55:24,204 - INFO - Starting upload: /home/user/Desktop/torrents/Keeping Up With The Joneses (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 15:55:24,204 - INFO - Uploading directory of size 1641.55 MB
+2025-04-21 15:56:20,618 - INFO - Successfully uploaded to onedrive:Torrents/The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:56:20,618 - INFO - Verifying upload for: The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:56:20,619 - INFO - Verifying upload: /home/user/Desktop/torrents/The Silence Of The Lambs (1991) [1080p] -> onedrive:Torrents/The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:56:23,551 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:56:23,562 - INFO - Deleting torrent from qBittorrent: The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:56:23,562 - INFO - Deleting torrent with hash b6ec2a4507b13ade6bc4a1fac5b39ca25888b326 (delete_files=False)
+2025-04-21 15:56:23,574 - INFO - Successfully deleted torrent with hash b6ec2a4507b13ade6bc4a1fac5b39ca25888b326
+2025-04-21 15:56:23,574 - INFO - Deleting content files: The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:56:23,574 - INFO - Deleting content: /home/user/Desktop/torrents/The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:56:23,575 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:56:23,575 - INFO - Successfully processed torrent: The Silence Of The Lambs (1991) [1080p]
+2025-04-21 15:56:23,575 - INFO - Processing torrent: Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:56:23,576 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Silence Of The Lambs (1991) [1080p]'}
+2025-04-21 15:56:23,576 - INFO - Attempting to upload torrent: Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:56:23,576 - INFO - Content path: /home/user/Desktop/torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:56:23,576 - INFO - Remote path: onedrive:Torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:56:23,576 - INFO - Uploading torrent: Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:56:23,576 - INFO - Directory /home/user/Desktop/torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-21 15:56:23,576 - INFO - Starting upload: /home/user/Desktop/torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:56:23,577 - INFO - Uploading directory of size 1694.19 MB
