@@ -8315,3 +8315,43 @@
 2025-04-21 16:11:41,553 - INFO - Directory /home/user/Desktop/torrents/Die Hard (1988) [1080p] is readable, contains 3 files/dirs
 2025-04-21 16:11:41,553 - INFO - Starting upload: /home/user/Desktop/torrents/Die Hard (1988) [1080p] -> onedrive:Torrents/Die Hard (1988) [1080p]
 2025-04-21 16:11:41,553 - INFO - Uploading directory of size 1846.41 MB
+2025-04-21 16:12:54,248 - INFO - Successfully uploaded to onedrive:Torrents/The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 16:12:54,249 - INFO - Verifying upload for: The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 16:12:54,249 - INFO - Verifying upload: /home/user/Desktop/torrents/The Hallow (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 16:12:55,987 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 16:12:55,995 - INFO - Deleting torrent from qBittorrent: The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 16:12:55,995 - INFO - Deleting torrent with hash 13ff2ae7478078db06457b75452f74fbab427109 (delete_files=False)
+2025-04-21 16:12:56,003 - INFO - Successfully deleted torrent with hash 13ff2ae7478078db06457b75452f74fbab427109
+2025-04-21 16:12:56,004 - INFO - Deleting content files: The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 16:12:56,004 - INFO - Deleting content: /home/user/Desktop/torrents/The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 16:12:56,006 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 16:12:56,006 - INFO - Successfully processed torrent: The Hallow (2015) [1080p] [YTS.AG]
+2025-04-21 16:12:56,006 - INFO - Processing torrent: 21 Bridges (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:12:56,006 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Hallow (2015) [1080p] [YTS.AG]'}
+2025-04-21 16:12:56,006 - INFO - Attempting to upload torrent: 21 Bridges (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:12:56,007 - INFO - Content path: /home/user/Desktop/torrents/21 Bridges (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:12:56,007 - INFO - Remote path: onedrive:Torrents/21 Bridges (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:12:56,007 - INFO - Uploading torrent: 21 Bridges (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:12:56,007 - INFO - Directory /home/user/Desktop/torrents/21 Bridges (2019) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-21 16:12:56,007 - INFO - Starting upload: /home/user/Desktop/torrents/21 Bridges (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/21 Bridges (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:12:56,007 - INFO - Uploading directory of size 1808.03 MB
+2025-04-21 16:16:04,201 - INFO - Successfully uploaded to onedrive:Torrents/Mulan (1998) [1080p]
+2025-04-21 16:16:04,202 - INFO - Verifying upload for: Mulan (1998) [1080p]
+2025-04-21 16:16:04,202 - INFO - Verifying upload: /home/user/Desktop/torrents/Mulan (1998) [1080p] -> onedrive:Torrents/Mulan (1998) [1080p]
+2025-04-21 16:16:06,952 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mulan (1998) [1080p]
+2025-04-21 16:16:06,960 - INFO - Deleting torrent from qBittorrent: Mulan (1998) [1080p]
+2025-04-21 16:16:06,961 - INFO - Deleting torrent with hash 8e80fcbca1ed9bdb332a61f1b0cf2e61af56ee46 (delete_files=False)
+2025-04-21 16:16:06,971 - INFO - Successfully deleted torrent with hash 8e80fcbca1ed9bdb332a61f1b0cf2e61af56ee46
+2025-04-21 16:16:06,971 - INFO - Deleting content files: Mulan (1998) [1080p]
+2025-04-21 16:16:06,971 - INFO - Deleting content: /home/user/Desktop/torrents/Mulan (1998) [1080p]
+2025-04-21 16:16:06,973 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mulan (1998) [1080p]
+2025-04-21 16:16:06,973 - INFO - Successfully processed torrent: Mulan (1998) [1080p]
+2025-04-21 16:16:06,973 - INFO - Processing torrent: Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:16:06,973 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Mulan (1998) [1080p]'}
+2025-04-21 16:16:06,973 - INFO - Attempting to upload torrent: Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:16:06,973 - INFO - Content path: /home/user/Desktop/torrents/Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:16:06,974 - INFO - Remote path: onedrive:Torrents/Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:16:06,974 - INFO - Uploading torrent: Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:16:06,974 - INFO - Directory /home/user/Desktop/torrents/Taxi Driver (1976) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-21 16:16:06,974 - INFO - Starting upload: /home/user/Desktop/torrents/Taxi Driver (1976) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:16:06,974 - INFO - Uploading directory of size 1847.14 MB
