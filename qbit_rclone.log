@@ -8673,3 +8673,34 @@
 2025-04-21 17:03:17,471 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-21 17:03:17,472 - INFO - Successfully processed torrent: Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-21 17:03:17,472 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-21 17:08:17,572 - INFO - Active upload threads: 5/5
+2025-04-21 17:08:17,573 - INFO - Checking for completed torrents...
+2025-04-21 17:08:17,580 - INFO - Found 7 completed torrents
+2025-04-21 17:08:17,580 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-21 17:08:17,580 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-21 17:08:17,580 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-21 17:08:17,580 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-21 17:08:17,580 - INFO - Torrent The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG], exists: True
+2025-04-21 17:08:17,580 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-21 17:08:17,580 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-21 17:08:17,580 - INFO - Submitting 1 torrents for parallel upload
+2025-04-21 17:08:17,580 - INFO - Processing torrent: The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:08:17,581 - INFO - Attempting to upload torrent: The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:08:17,581 - INFO - Content path: /home/user/Desktop/torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:08:17,581 - INFO - Remote path: onedrive:Torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:08:17,581 - INFO - Uploading torrent: The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:08:17,581 - INFO - Directory /home/user/Desktop/torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-21 17:08:17,581 - INFO - Starting upload: /home/user/Desktop/torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:08:17,581 - INFO - Uploading directory of size 1333.81 MB
+2025-04-21 17:11:18,891 - INFO - Successfully uploaded to onedrive:Torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:11:18,891 - INFO - Verifying upload for: The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:11:18,891 - INFO - Verifying upload: /home/user/Desktop/torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:11:21,135 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:11:21,144 - INFO - Deleting torrent from qBittorrent: The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:11:21,144 - INFO - Deleting torrent with hash 060c40c8c7ec772feae0add165eb7072edb083f7 (delete_files=False)
+2025-04-21 17:11:21,153 - INFO - Successfully deleted torrent with hash 060c40c8c7ec772feae0add165eb7072edb083f7
+2025-04-21 17:11:21,154 - INFO - Deleting content files: The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:11:21,154 - INFO - Deleting content: /home/user/Desktop/torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:11:21,155 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:11:21,156 - INFO - Successfully processed torrent: The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
+2025-04-21 17:11:21,156 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]'}
