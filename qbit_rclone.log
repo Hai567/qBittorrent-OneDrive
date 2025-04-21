@@ -7603,3 +7603,23 @@
 2025-04-21 14:58:44,915 - INFO - Directory /home/user/Desktop/torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
 2025-04-21 14:58:44,915 - INFO - Starting upload: /home/user/Desktop/torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-21 14:58:44,915 - INFO - Uploading directory of size 1971.77 MB
+2025-04-21 15:01:17,538 - INFO - Successfully uploaded to onedrive:Torrents/The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 15:01:17,538 - INFO - Verifying upload for: The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 15:01:17,538 - INFO - Verifying upload: /home/user/Desktop/torrents/The Intern (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 15:01:19,742 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 15:01:19,751 - INFO - Deleting torrent from qBittorrent: The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 15:01:19,751 - INFO - Deleting torrent with hash 12ad37d952d5d0446ab07dae6822954fa520eeaf (delete_files=False)
+2025-04-21 15:01:19,760 - INFO - Successfully deleted torrent with hash 12ad37d952d5d0446ab07dae6822954fa520eeaf
+2025-04-21 15:01:19,760 - INFO - Deleting content files: The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 15:01:19,760 - INFO - Deleting content: /home/user/Desktop/torrents/The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 15:01:19,763 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 15:01:19,764 - INFO - Successfully processed torrent: The Intern (2015) [1080p] [YTS.AG]
+2025-04-21 15:01:19,764 - INFO - Processing torrent: Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:01:19,764 - INFO - Attempting to upload torrent: Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:01:19,764 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Intern (2015) [1080p] [YTS.AG]'}
+2025-04-21 15:01:19,764 - INFO - Content path: /home/user/Desktop/torrents/Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:01:19,764 - INFO - Remote path: onedrive:Torrents/Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:01:19,765 - INFO - Uploading torrent: Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:01:19,765 - INFO - Directory /home/user/Desktop/torrents/Pete's Dragon (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-21 15:01:19,765 - INFO - Starting upload: /home/user/Desktop/torrents/Pete's Dragon (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:01:19,765 - INFO - Uploading directory of size 1603.90 MB
