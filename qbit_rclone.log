@@ -7967,3 +7967,39 @@
 2025-04-21 15:35:35,846 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pet Sematary (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-21 15:35:35,846 - INFO - Successfully processed torrent: Pet Sematary (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-21 15:35:35,846 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Pet Sematary (2019) [BluRay] [1080p] [YTS.LT]'}
+2025-04-21 15:37:23,332 - INFO - Successfully uploaded to onedrive:Torrents/Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:37:23,333 - INFO - Verifying upload for: Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:37:23,333 - INFO - Verifying upload: /home/user/Desktop/torrents/Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:37:25,541 - INFO - Upload verification successful for /home/user/Desktop/torrents/Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:37:25,554 - INFO - Deleting torrent from qBittorrent: Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:37:25,554 - INFO - Deleting torrent with hash 0d6a52284578ceffa6f8bbc667149417b3d0781e (delete_files=False)
+2025-04-21 15:37:25,567 - INFO - Successfully deleted torrent with hash 0d6a52284578ceffa6f8bbc667149417b3d0781e
+2025-04-21 15:37:25,567 - INFO - Deleting content files: Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:37:25,567 - INFO - Deleting content: /home/user/Desktop/torrents/Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:37:25,569 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:37:25,570 - INFO - Successfully processed torrent: Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:37:25,570 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-21 15:37:52,596 - INFO - Successfully uploaded to onedrive:Torrents/The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:37:52,597 - INFO - Verifying upload for: The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:37:52,597 - INFO - Verifying upload: /home/user/Desktop/torrents/The BFG (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:37:54,833 - INFO - Upload verification successful for /home/user/Desktop/torrents/The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:37:54,841 - INFO - Deleting torrent from qBittorrent: The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:37:54,841 - INFO - Deleting torrent with hash b47e5ce37ddcae25ed126cf06201c189f069ee08 (delete_files=False)
+2025-04-21 15:37:54,849 - INFO - Successfully deleted torrent with hash b47e5ce37ddcae25ed126cf06201c189f069ee08
+2025-04-21 15:37:54,849 - INFO - Deleting content files: The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:37:54,849 - INFO - Deleting content: /home/user/Desktop/torrents/The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:37:54,851 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:37:54,851 - INFO - Successfully processed torrent: The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:37:54,851 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The BFG (2016) [1080p] [YTS.AG]'}
+2025-04-21 15:38:24,365 - INFO - Successfully uploaded to onedrive:Torrents/Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]
+2025-04-21 15:38:24,365 - INFO - Verifying upload for: Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]
+2025-04-21 15:38:24,365 - INFO - Verifying upload: /home/user/Desktop/torrents/Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM] -> onedrive:Torrents/Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]
+2025-04-21 15:38:26,196 - INFO - Upload verification successful for /home/user/Desktop/torrents/Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]
+2025-04-21 15:38:26,207 - INFO - Deleting torrent from qBittorrent: Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]
+2025-04-21 15:38:26,207 - INFO - Deleting torrent with hash 67a23f568666fb735aed9bf340b520fe72f8bced (delete_files=False)
+2025-04-21 15:38:26,216 - INFO - Successfully deleted torrent with hash 67a23f568666fb735aed9bf340b520fe72f8bced
+2025-04-21 15:38:26,217 - INFO - Deleting content files: Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]
+2025-04-21 15:38:26,217 - INFO - Deleting content: /home/user/Desktop/torrents/Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]
+2025-04-21 15:38:26,218 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]
+2025-04-21 15:38:26,219 - INFO - Successfully processed torrent: Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]
+2025-04-21 15:38:26,219 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Three Billboards Outside Ebbing, Missouri (2017) [1080p] [YTS.AM]'}
