@@ -8652,3 +8652,24 @@
 2025-04-21 17:02:19,185 - INFO - Successfully uploaded to onedrive:Torrents/Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-21 17:02:19,185 - INFO - Verifying upload for: Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-21 17:02:19,186 - INFO - Verifying upload: /home/user/Desktop/torrents/Black And Blue (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 17:02:21,396 - INFO - Upload verification successful for /home/user/Desktop/torrents/Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 17:02:21,405 - INFO - Deleting torrent from qBittorrent: Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 17:02:21,405 - INFO - Deleting torrent with hash 9bd0184280738d531b4eecddbc38fabab0453050 (delete_files=False)
+2025-04-21 17:02:21,415 - INFO - Successfully deleted torrent with hash 9bd0184280738d531b4eecddbc38fabab0453050
+2025-04-21 17:02:21,415 - INFO - Deleting content files: Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 17:02:21,415 - INFO - Deleting content: /home/user/Desktop/torrents/Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 17:02:21,417 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 17:02:21,417 - INFO - Successfully processed torrent: Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 17:02:21,417 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-21 17:03:15,158 - INFO - Successfully uploaded to onedrive:Torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 17:03:15,159 - INFO - Verifying upload for: Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 17:03:15,159 - INFO - Verifying upload: /home/user/Desktop/torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 17:03:17,450 - INFO - Upload verification successful for /home/user/Desktop/torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 17:03:17,460 - INFO - Deleting torrent from qBittorrent: Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 17:03:17,460 - INFO - Deleting torrent with hash 95143be6a731c139c34805c956bb28004d071f4d (delete_files=False)
+2025-04-21 17:03:17,469 - INFO - Successfully deleted torrent with hash 95143be6a731c139c34805c956bb28004d071f4d
+2025-04-21 17:03:17,469 - INFO - Deleting content files: Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 17:03:17,469 - INFO - Deleting content: /home/user/Desktop/torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 17:03:17,471 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 17:03:17,472 - INFO - Successfully processed torrent: Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 17:03:17,472 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]'}
