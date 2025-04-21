@@ -7643,3 +7643,63 @@
 2025-04-21 15:05:25,928 - INFO - Directory /home/user/Desktop/torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
 2025-04-21 15:05:25,928 - INFO - Starting upload: /home/user/Desktop/torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Resident Evil Welcome To Raccoon City (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-21 15:05:25,928 - INFO - Uploading directory of size 2029.08 MB
+2025-04-21 15:07:54,186 - INFO - Successfully uploaded to onedrive:Torrents/Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:07:54,186 - INFO - Verifying upload for: Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:07:54,186 - INFO - Verifying upload: /home/user/Desktop/torrents/Pete's Dragon (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:07:56,778 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:07:56,787 - INFO - Deleting torrent from qBittorrent: Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:07:56,787 - INFO - Deleting torrent with hash 072cfe8223e313007875a999ea9a15299fdf9c6d (delete_files=False)
+2025-04-21 15:07:56,796 - INFO - Successfully deleted torrent with hash 072cfe8223e313007875a999ea9a15299fdf9c6d
+2025-04-21 15:07:56,796 - INFO - Deleting content files: Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:07:56,797 - INFO - Deleting content: /home/user/Desktop/torrents/Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:07:56,798 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:07:56,798 - INFO - Successfully processed torrent: Pete's Dragon (2016) [1080p] [YTS.AG]
+2025-04-21 15:07:56,799 - INFO - Processing torrent: The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:07:56,799 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "Pete's Dragon (2016) [1080p] [YTS.AG]"}
+2025-04-21 15:07:56,799 - INFO - Attempting to upload torrent: The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:07:56,799 - INFO - Content path: /home/user/Desktop/torrents/The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:07:56,799 - INFO - Remote path: onedrive:Torrents/The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:07:56,800 - INFO - Uploading torrent: The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:07:56,800 - INFO - Directory /home/user/Desktop/torrents/The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-21 15:07:56,800 - INFO - Starting upload: /home/user/Desktop/torrents/The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The House With A Clock In Its Walls (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:07:56,800 - INFO - Uploading directory of size 1723.78 MB
+2025-04-21 15:09:24,228 - INFO - Successfully uploaded to onedrive:Torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:09:24,228 - INFO - Verifying upload for: Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:09:24,228 - INFO - Verifying upload: /home/user/Desktop/torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:09:26,310 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:09:26,318 - INFO - Deleting torrent from qBittorrent: Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:09:26,318 - INFO - Deleting torrent with hash 9764e7c8e879a531ee36db8bd4748a2734916cb8 (delete_files=False)
+2025-04-21 15:09:26,328 - INFO - Successfully deleted torrent with hash 9764e7c8e879a531ee36db8bd4748a2734916cb8
+2025-04-21 15:09:26,328 - INFO - Deleting content files: Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:09:26,328 - INFO - Deleting content: /home/user/Desktop/torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:09:26,331 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:09:26,331 - INFO - Successfully processed torrent: Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:09:26,331 - INFO - Processing torrent: Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:09:26,331 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-21 15:09:26,331 - INFO - Attempting to upload torrent: Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:09:26,332 - INFO - Content path: /home/user/Desktop/torrents/Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:09:26,332 - INFO - Remote path: onedrive:Torrents/Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:09:26,332 - INFO - Uploading torrent: Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:09:26,332 - INFO - Directory /home/user/Desktop/torrents/Manchester By The Sea (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-21 15:09:26,332 - INFO - Starting upload: /home/user/Desktop/torrents/Manchester By The Sea (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:09:26,332 - INFO - Uploading directory of size 2131.23 MB
+2025-04-21 15:09:31,867 - INFO - Successfully uploaded to onedrive:Torrents/Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:09:31,867 - INFO - Verifying upload for: Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:09:31,868 - INFO - Verifying upload: /home/user/Desktop/torrents/Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:09:33,962 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:09:33,970 - INFO - Deleting torrent from qBittorrent: Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:09:33,970 - INFO - Deleting torrent with hash 33ba573ca0b0e1b1566cbca860c1305d49041fe4 (delete_files=False)
+2025-04-21 15:09:33,978 - INFO - Successfully deleted torrent with hash 33ba573ca0b0e1b1566cbca860c1305d49041fe4
+2025-04-21 15:09:33,978 - INFO - Deleting content files: Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:09:33,978 - INFO - Deleting content: /home/user/Desktop/torrents/Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:09:33,980 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:09:33,980 - INFO - Successfully processed torrent: Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:09:33,980 - INFO - Processing torrent: Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:09:33,981 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-21 15:09:33,981 - INFO - Attempting to upload torrent: Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:09:33,981 - INFO - Content path: /home/user/Desktop/torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:09:33,981 - INFO - Remote path: onedrive:Torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:09:33,981 - INFO - Uploading torrent: Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:09:33,981 - INFO - Directory /home/user/Desktop/torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-21 15:09:33,981 - INFO - Starting upload: /home/user/Desktop/torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 15:09:33,981 - INFO - Uploading directory of size 2188.07 MB

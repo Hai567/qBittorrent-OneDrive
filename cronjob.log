@@ -764,3 +764,14 @@
 2025-04-21 15:06:37,111 - git-cronjob - INFO - Checking for changes in repository
 2025-04-21 15:06:37,117 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
 2025-04-21 15:06:37,117 - git-cronjob - INFO - Running command: git add .
+2025-04-21 15:06:37,144 - git-cronjob - INFO - Success: 
+2025-04-21 15:06:37,144 - git-cronjob - INFO - Running command: git commit -m [bot] update crawling data
+2025-04-21 15:06:37,168 - git-cronjob - INFO - Success: [master a560178] [bot] update crawling data
+ 3 files changed, 38 insertions(+)
+2025-04-21 15:06:37,168 - git-cronjob - INFO - Running command: git push origin master
+2025-04-21 15:06:39,997 - git-cronjob - INFO - Success: 
+2025-04-21 15:06:39,997 - git-cronjob - INFO - Git operations completed successfully
+2025-04-21 15:06:39,997 - git-cronjob - INFO - Scheduler running. Press Ctrl+C to stop.
+2025-04-21 15:11:37,320 - git-cronjob - INFO - Checking for changes in repository
+2025-04-21 15:11:37,325 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-21 15:11:37,326 - git-cronjob - INFO - Running command: git add .
