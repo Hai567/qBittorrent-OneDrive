@@ -8463,3 +8463,15 @@
 2025-04-21 16:26:39,954 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dracula Untold (2014) [1080p]
 2025-04-21 16:26:39,955 - INFO - Successfully processed torrent: Dracula Untold (2014) [1080p]
 2025-04-21 16:26:39,955 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Dracula Untold (2014) [1080p]'}
+2025-04-21 16:27:53,878 - INFO - Successfully uploaded to onedrive:Torrents/Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:27:53,878 - INFO - Verifying upload for: Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:27:53,878 - INFO - Verifying upload: /home/user/Desktop/torrents/Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:27:56,180 - INFO - Upload verification successful for /home/user/Desktop/torrents/Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:27:56,197 - INFO - Deleting torrent from qBittorrent: Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:27:56,198 - INFO - Deleting torrent with hash 69594eeefad2ac02535b765018ebbae0fd3e1d12 (delete_files=False)
+2025-04-21 16:27:56,209 - INFO - Successfully deleted torrent with hash 69594eeefad2ac02535b765018ebbae0fd3e1d12
+2025-04-21 16:27:56,209 - INFO - Deleting content files: Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:27:56,209 - INFO - Deleting content: /home/user/Desktop/torrents/Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:27:56,212 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:27:56,212 - INFO - Successfully processed torrent: Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:27:56,212 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Nope (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
