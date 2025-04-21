@@ -8415,3 +8415,51 @@
 2025-04-21 16:21:36,330 - INFO - Directory /home/user/Desktop/torrents/Dracula Untold (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-21 16:21:36,330 - INFO - Starting upload: /home/user/Desktop/torrents/Dracula Untold (2014) [1080p] -> onedrive:Torrents/Dracula Untold (2014) [1080p]
 2025-04-21 16:21:36,330 - INFO - Uploading directory of size 1466.79 MB
+2025-04-21 16:22:28,998 - INFO - Successfully uploaded to onedrive:Torrents/Die Hard (1988) [1080p]
+2025-04-21 16:22:28,998 - INFO - Verifying upload for: Die Hard (1988) [1080p]
+2025-04-21 16:22:28,998 - INFO - Verifying upload: /home/user/Desktop/torrents/Die Hard (1988) [1080p] -> onedrive:Torrents/Die Hard (1988) [1080p]
+2025-04-21 16:22:31,304 - INFO - Upload verification successful for /home/user/Desktop/torrents/Die Hard (1988) [1080p]
+2025-04-21 16:22:31,313 - INFO - Deleting torrent from qBittorrent: Die Hard (1988) [1080p]
+2025-04-21 16:22:31,313 - INFO - Deleting torrent with hash e3cf59ce8c293b43dcc5e6fa183d3d4dc4b60ac7 (delete_files=False)
+2025-04-21 16:22:31,324 - INFO - Successfully deleted torrent with hash e3cf59ce8c293b43dcc5e6fa183d3d4dc4b60ac7
+2025-04-21 16:22:31,324 - INFO - Deleting content files: Die Hard (1988) [1080p]
+2025-04-21 16:22:31,324 - INFO - Deleting content: /home/user/Desktop/torrents/Die Hard (1988) [1080p]
+2025-04-21 16:22:31,326 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Die Hard (1988) [1080p]
+2025-04-21 16:22:31,327 - INFO - Successfully processed torrent: Die Hard (1988) [1080p]
+2025-04-21 16:22:31,327 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Die Hard (1988) [1080p]'}
+2025-04-21 16:23:56,831 - INFO - Successfully uploaded to onedrive:Torrents/Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:23:56,832 - INFO - Verifying upload for: Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:23:56,832 - INFO - Verifying upload: /home/user/Desktop/torrents/Taxi Driver (1976) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:23:59,131 - INFO - Upload verification successful for /home/user/Desktop/torrents/Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:23:59,140 - INFO - Deleting torrent from qBittorrent: Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:23:59,140 - INFO - Deleting torrent with hash fab522907f1faf9d0ed6bcadc6a9e7c84b112ccb (delete_files=False)
+2025-04-21 16:23:59,149 - INFO - Successfully deleted torrent with hash fab522907f1faf9d0ed6bcadc6a9e7c84b112ccb
+2025-04-21 16:23:59,150 - INFO - Deleting content files: Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:23:59,150 - INFO - Deleting content: /home/user/Desktop/torrents/Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:23:59,151 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:23:59,151 - INFO - Successfully processed torrent: Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:23:59,151 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Taxi Driver (1976) [BluRay] [1080p] [YTS.AM]'}
+2025-04-21 16:26:06,605 - INFO - Successfully uploaded to onedrive:Torrents/Happy Death Day (2017) [1080p] [YTS.AG]
+2025-04-21 16:26:06,606 - INFO - Verifying upload for: Happy Death Day (2017) [1080p] [YTS.AG]
+2025-04-21 16:26:06,606 - INFO - Verifying upload: /home/user/Desktop/torrents/Happy Death Day (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Happy Death Day (2017) [1080p] [YTS.AG]
+2025-04-21 16:26:09,102 - INFO - Upload verification successful for /home/user/Desktop/torrents/Happy Death Day (2017) [1080p] [YTS.AG]
+2025-04-21 16:26:09,111 - INFO - Deleting torrent from qBittorrent: Happy Death Day (2017) [1080p] [YTS.AG]
+2025-04-21 16:26:09,111 - INFO - Deleting torrent with hash 1aa2c761656224b92463475e66a9efdd30de4232 (delete_files=False)
+2025-04-21 16:26:09,121 - INFO - Successfully deleted torrent with hash 1aa2c761656224b92463475e66a9efdd30de4232
+2025-04-21 16:26:09,122 - INFO - Deleting content files: Happy Death Day (2017) [1080p] [YTS.AG]
+2025-04-21 16:26:09,122 - INFO - Deleting content: /home/user/Desktop/torrents/Happy Death Day (2017) [1080p] [YTS.AG]
+2025-04-21 16:26:09,125 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Happy Death Day (2017) [1080p] [YTS.AG]
+2025-04-21 16:26:09,125 - INFO - Successfully processed torrent: Happy Death Day (2017) [1080p] [YTS.AG]
+2025-04-21 16:26:09,125 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Happy Death Day (2017) [1080p] [YTS.AG]'}
+2025-04-21 16:26:37,436 - INFO - Successfully uploaded to onedrive:Torrents/Dracula Untold (2014) [1080p]
+2025-04-21 16:26:37,436 - INFO - Verifying upload for: Dracula Untold (2014) [1080p]
+2025-04-21 16:26:37,436 - INFO - Verifying upload: /home/user/Desktop/torrents/Dracula Untold (2014) [1080p] -> onedrive:Torrents/Dracula Untold (2014) [1080p]
+2025-04-21 16:26:39,933 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dracula Untold (2014) [1080p]
+2025-04-21 16:26:39,942 - INFO - Deleting torrent from qBittorrent: Dracula Untold (2014) [1080p]
+2025-04-21 16:26:39,942 - INFO - Deleting torrent with hash a38d67908b2c31614228de4c688fda16eae859c4 (delete_files=False)
+2025-04-21 16:26:39,952 - INFO - Successfully deleted torrent with hash a38d67908b2c31614228de4c688fda16eae859c4
+2025-04-21 16:26:39,952 - INFO - Deleting content files: Dracula Untold (2014) [1080p]
+2025-04-21 16:26:39,952 - INFO - Deleting content: /home/user/Desktop/torrents/Dracula Untold (2014) [1080p]
+2025-04-21 16:26:39,954 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dracula Untold (2014) [1080p]
+2025-04-21 16:26:39,955 - INFO - Successfully processed torrent: Dracula Untold (2014) [1080p]
+2025-04-21 16:26:39,955 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Dracula Untold (2014) [1080p]'}
