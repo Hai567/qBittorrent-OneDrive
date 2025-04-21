@@ -7863,3 +7863,63 @@
 2025-04-21 15:26:02,676 - INFO - Directory /home/user/Desktop/torrents/Monsters Inc (2001) [1080p] is readable, contains 3 files/dirs
 2025-04-21 15:26:02,676 - INFO - Starting upload: /home/user/Desktop/torrents/Monsters Inc (2001) [1080p] -> onedrive:Torrents/Monsters Inc (2001) [1080p]
 2025-04-21 15:26:02,676 - INFO - Uploading directory of size 1484.88 MB
+2025-04-21 15:28:53,178 - INFO - Successfully uploaded to onedrive:Torrents/Don Jon (2013) [1080p]
+2025-04-21 15:28:53,178 - INFO - Verifying upload for: Don Jon (2013) [1080p]
+2025-04-21 15:28:53,178 - INFO - Verifying upload: /home/user/Desktop/torrents/Don Jon (2013) [1080p] -> onedrive:Torrents/Don Jon (2013) [1080p]
+2025-04-21 15:28:55,533 - INFO - Upload verification successful for /home/user/Desktop/torrents/Don Jon (2013) [1080p]
+2025-04-21 15:28:55,543 - INFO - Deleting torrent from qBittorrent: Don Jon (2013) [1080p]
+2025-04-21 15:28:55,544 - INFO - Deleting torrent with hash b4658ccf0c2947ed8cf3e602e02c4f9e092e2ec4 (delete_files=False)
+2025-04-21 15:28:55,553 - INFO - Successfully deleted torrent with hash b4658ccf0c2947ed8cf3e602e02c4f9e092e2ec4
+2025-04-21 15:28:55,553 - INFO - Deleting content files: Don Jon (2013) [1080p]
+2025-04-21 15:28:55,553 - INFO - Deleting content: /home/user/Desktop/torrents/Don Jon (2013) [1080p]
+2025-04-21 15:28:55,554 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Don Jon (2013) [1080p]
+2025-04-21 15:28:55,554 - INFO - Successfully processed torrent: Don Jon (2013) [1080p]
+2025-04-21 15:28:55,554 - INFO - Processing torrent: Pet Sematary (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-21 15:28:55,554 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Don Jon (2013) [1080p]'}
+2025-04-21 15:28:55,554 - INFO - Attempting to upload torrent: Pet Sematary (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-21 15:28:55,555 - INFO - Content path: /home/user/Desktop/torrents/Pet Sematary (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-21 15:28:55,555 - INFO - Remote path: onedrive:Torrents/Pet Sematary (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-21 15:28:55,555 - INFO - Uploading torrent: Pet Sematary (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-21 15:28:55,555 - INFO - Directory /home/user/Desktop/torrents/Pet Sematary (2019) [BluRay] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-21 15:28:55,555 - INFO - Starting upload: /home/user/Desktop/torrents/Pet Sematary (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Pet Sematary (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-21 15:28:55,555 - INFO - Uploading directory of size 1658.80 MB
+2025-04-21 15:31:01,229 - INFO - Successfully uploaded to onedrive:Torrents/Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:31:01,230 - INFO - Verifying upload for: Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:31:01,230 - INFO - Verifying upload: /home/user/Desktop/torrents/Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:31:03,839 - INFO - Upload verification successful for /home/user/Desktop/torrents/Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:31:03,847 - INFO - Deleting torrent from qBittorrent: Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:31:03,847 - INFO - Deleting torrent with hash 94dbd05ec34f2e7a975f3804f0a67bda5c681eec (delete_files=False)
+2025-04-21 15:31:03,855 - INFO - Successfully deleted torrent with hash 94dbd05ec34f2e7a975f3804f0a67bda5c681eec
+2025-04-21 15:31:03,855 - INFO - Deleting content files: Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:31:03,855 - INFO - Deleting content: /home/user/Desktop/torrents/Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:31:03,857 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:31:03,858 - INFO - Successfully processed torrent: Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-21 15:31:03,858 - INFO - Processing torrent: The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:31:03,858 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Tom Clancys Without Remorse (2021) [1080p] [WEBRip] [YTS.MX]'}
+2025-04-21 15:31:03,858 - INFO - Attempting to upload torrent: The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:31:03,858 - INFO - Content path: /home/user/Desktop/torrents/The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:31:03,859 - INFO - Remote path: onedrive:Torrents/The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:31:03,859 - INFO - Uploading torrent: The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:31:03,859 - INFO - Directory /home/user/Desktop/torrents/The BFG (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-21 15:31:03,859 - INFO - Starting upload: /home/user/Desktop/torrents/The BFG (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The BFG (2016) [1080p] [YTS.AG]
+2025-04-21 15:31:03,859 - INFO - Uploading directory of size 1827.66 MB
+2025-04-21 15:31:38,082 - INFO - Successfully uploaded to onedrive:Torrents/Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:31:38,082 - INFO - Verifying upload for: Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:31:38,082 - INFO - Verifying upload: /home/user/Desktop/torrents/Star Trek Into Darkness (2013) [1080p] -> onedrive:Torrents/Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:31:41,175 - INFO - Upload verification successful for /home/user/Desktop/torrents/Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:31:41,185 - INFO - Deleting torrent from qBittorrent: Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:31:41,185 - INFO - Deleting torrent with hash bf5529c12559db47fea3e57bc7ece827d188589b (delete_files=False)
+2025-04-21 15:31:41,193 - INFO - Successfully deleted torrent with hash bf5529c12559db47fea3e57bc7ece827d188589b
+2025-04-21 15:31:41,193 - INFO - Deleting content files: Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:31:41,193 - INFO - Deleting content: /home/user/Desktop/torrents/Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:31:41,195 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:31:41,195 - INFO - Successfully processed torrent: Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:31:41,195 - INFO - Processing torrent: Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:31:41,195 - INFO - Attempting to upload torrent: Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:31:41,195 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Star Trek Into Darkness (2013) [1080p]'}
+2025-04-21 15:31:41,195 - INFO - Content path: /home/user/Desktop/torrents/Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:31:41,195 - INFO - Remote path: onedrive:Torrents/Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:31:41,195 - INFO - Uploading torrent: Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:31:41,196 - INFO - Directory /home/user/Desktop/torrents/Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-21 15:31:41,196 - INFO - Starting upload: /home/user/Desktop/torrents/Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Annabelle Comes Home (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:31:41,196 - INFO - Uploading directory of size 1700.45 MB
