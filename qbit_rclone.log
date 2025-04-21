@@ -7563,3 +7563,43 @@
 2025-04-21 14:51:34,969 - INFO - Directory /home/user/Desktop/torrents/The Intern (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-21 14:51:34,969 - INFO - Starting upload: /home/user/Desktop/torrents/The Intern (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Intern (2015) [1080p] [YTS.AG]
 2025-04-21 14:51:34,969 - INFO - Uploading directory of size 1900.76 MB
+2025-04-21 14:54:47,099 - INFO - Successfully uploaded to onedrive:Torrents/The Dictator (2012) [1080p]
+2025-04-21 14:54:47,099 - INFO - Verifying upload for: The Dictator (2012) [1080p]
+2025-04-21 14:54:47,099 - INFO - Verifying upload: /home/user/Desktop/torrents/The Dictator (2012) [1080p] -> onedrive:Torrents/The Dictator (2012) [1080p]
+2025-04-21 14:54:49,392 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Dictator (2012) [1080p]
+2025-04-21 14:54:49,401 - INFO - Deleting torrent from qBittorrent: The Dictator (2012) [1080p]
+2025-04-21 14:54:49,401 - INFO - Deleting torrent with hash 5b27284a5e91d87d90c795051da3788d0a35de87 (delete_files=False)
+2025-04-21 14:54:49,410 - INFO - Successfully deleted torrent with hash 5b27284a5e91d87d90c795051da3788d0a35de87
+2025-04-21 14:54:49,410 - INFO - Deleting content files: The Dictator (2012) [1080p]
+2025-04-21 14:54:49,410 - INFO - Deleting content: /home/user/Desktop/torrents/The Dictator (2012) [1080p]
+2025-04-21 14:54:49,412 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Dictator (2012) [1080p]
+2025-04-21 14:54:49,412 - INFO - Successfully processed torrent: The Dictator (2012) [1080p]
+2025-04-21 14:54:49,412 - INFO - Processing torrent: Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 14:54:49,412 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Dictator (2012) [1080p]'}
+2025-04-21 14:54:49,412 - INFO - Attempting to upload torrent: Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 14:54:49,412 - INFO - Content path: /home/user/Desktop/torrents/Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 14:54:49,412 - INFO - Remote path: onedrive:Torrents/Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 14:54:49,412 - INFO - Uploading torrent: Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 14:54:49,412 - INFO - Directory /home/user/Desktop/torrents/Now You See Me 2 (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-21 14:54:49,412 - INFO - Starting upload: /home/user/Desktop/torrents/Now You See Me 2 (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Now You See Me 2 (2016) [1080p] [YTS.AG]
+2025-04-21 14:54:49,413 - INFO - Uploading directory of size 2015.94 MB
+2025-04-21 14:58:42,486 - INFO - Successfully uploaded to onedrive:Torrents/Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:58:42,487 - INFO - Verifying upload for: Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:58:42,487 - INFO - Verifying upload: /home/user/Desktop/torrents/Nymphomaniac Vol. II (2013) [1080p] -> onedrive:Torrents/Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:58:44,895 - INFO - Upload verification successful for /home/user/Desktop/torrents/Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:58:44,904 - INFO - Deleting torrent from qBittorrent: Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:58:44,904 - INFO - Deleting torrent with hash b5d7ad740c20210ae5eb2b4dc77ef108b3869263 (delete_files=False)
+2025-04-21 14:58:44,912 - INFO - Successfully deleted torrent with hash b5d7ad740c20210ae5eb2b4dc77ef108b3869263
+2025-04-21 14:58:44,912 - INFO - Deleting content files: Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:58:44,912 - INFO - Deleting content: /home/user/Desktop/torrents/Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:58:44,914 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:58:44,914 - INFO - Successfully processed torrent: Nymphomaniac Vol. II (2013) [1080p]
+2025-04-21 14:58:44,914 - INFO - Processing torrent: Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:58:44,914 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Nymphomaniac Vol. II (2013) [1080p]'}
+2025-04-21 14:58:44,914 - INFO - Attempting to upload torrent: Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:58:44,915 - INFO - Content path: /home/user/Desktop/torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:58:44,915 - INFO - Remote path: onedrive:Torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:58:44,915 - INFO - Uploading torrent: Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:58:44,915 - INFO - Directory /home/user/Desktop/torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-21 14:58:44,915 - INFO - Starting upload: /home/user/Desktop/torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Jojo Rabbit (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:58:44,915 - INFO - Uploading directory of size 1971.77 MB
