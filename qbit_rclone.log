@@ -7383,3 +7383,23 @@
 2025-04-21 14:26:15,115 - INFO - Uploading directory of size 1920.34 MB
 2025-04-21 14:26:15,116 - INFO - Uploading directory of size 2021.86 MB
 2025-04-21 14:26:15,116 - INFO - Uploading directory of size 2201.57 MB
+2025-04-21 14:31:42,501 - INFO - Successfully uploaded to onedrive:Torrents/Wild Card (2015) [1080p]
+2025-04-21 14:31:42,502 - INFO - Verifying upload for: Wild Card (2015) [1080p]
+2025-04-21 14:31:42,502 - INFO - Verifying upload: /home/user/Desktop/torrents/Wild Card (2015) [1080p] -> onedrive:Torrents/Wild Card (2015) [1080p]
+2025-04-21 14:31:45,732 - INFO - Upload verification successful for /home/user/Desktop/torrents/Wild Card (2015) [1080p]
+2025-04-21 14:31:45,740 - INFO - Deleting torrent from qBittorrent: Wild Card (2015) [1080p]
+2025-04-21 14:31:45,740 - INFO - Deleting torrent with hash a71c695155f17fcba7c9f5097c1da2e8b84940e4 (delete_files=False)
+2025-04-21 14:31:45,756 - INFO - Successfully deleted torrent with hash a71c695155f17fcba7c9f5097c1da2e8b84940e4
+2025-04-21 14:31:45,756 - INFO - Deleting content files: Wild Card (2015) [1080p]
+2025-04-21 14:31:45,756 - INFO - Deleting content: /home/user/Desktop/torrents/Wild Card (2015) [1080p]
+2025-04-21 14:31:45,759 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Wild Card (2015) [1080p]
+2025-04-21 14:31:45,759 - INFO - Successfully processed torrent: Wild Card (2015) [1080p]
+2025-04-21 14:31:45,759 - INFO - Processing torrent: Lone Survivor (2013) [1080p]
+2025-04-21 14:31:45,759 - INFO - Attempting to upload torrent: Lone Survivor (2013) [1080p]
+2025-04-21 14:31:45,760 - INFO - Content path: /home/user/Desktop/torrents/Lone Survivor (2013) [1080p]
+2025-04-21 14:31:45,760 - INFO - Remote path: onedrive:Torrents/Lone Survivor (2013) [1080p]
+2025-04-21 14:31:45,760 - INFO - Uploading torrent: Lone Survivor (2013) [1080p]
+2025-04-21 14:31:45,760 - INFO - Directory /home/user/Desktop/torrents/Lone Survivor (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-21 14:31:45,760 - INFO - Starting upload: /home/user/Desktop/torrents/Lone Survivor (2013) [1080p] -> onedrive:Torrents/Lone Survivor (2013) [1080p]
+2025-04-21 14:31:45,760 - INFO - Uploading directory of size 1887.77 MB
+2025-04-21 14:31:45,761 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Wild Card (2015) [1080p]'}
