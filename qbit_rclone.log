@@ -8235,3 +8235,83 @@
 2025-04-21 15:59:35,894 - INFO - Directory /home/user/Desktop/torrents/The Hallow (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-21 15:59:35,894 - INFO - Starting upload: /home/user/Desktop/torrents/The Hallow (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Hallow (2015) [1080p] [YTS.AG]
 2025-04-21 15:59:35,894 - INFO - Uploading directory of size 1522.62 MB
+2025-04-21 16:09:43,559 - INFO - Successfully uploaded to onedrive:Torrents/Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 16:09:43,559 - INFO - Verifying upload for: Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 16:09:43,559 - INFO - Verifying upload: /home/user/Desktop/torrents/Keeping Up With The Joneses (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 16:09:46,235 - INFO - Upload verification successful for /home/user/Desktop/torrents/Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 16:09:46,244 - INFO - Deleting torrent from qBittorrent: Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 16:09:46,244 - INFO - Deleting torrent with hash 565d16805ebfa78c7a4de33e33a22647d8001eec (delete_files=False)
+2025-04-21 16:09:46,253 - INFO - Successfully deleted torrent with hash 565d16805ebfa78c7a4de33e33a22647d8001eec
+2025-04-21 16:09:46,253 - INFO - Deleting content files: Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 16:09:46,254 - INFO - Deleting content: /home/user/Desktop/torrents/Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 16:09:46,256 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 16:09:46,256 - INFO - Successfully processed torrent: Keeping Up With The Joneses (2016) [1080p] [YTS.AG]
+2025-04-21 16:09:46,256 - INFO - Processing torrent: Christopher Robin (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:09:46,256 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Keeping Up With The Joneses (2016) [1080p] [YTS.AG]'}
+2025-04-21 16:09:46,256 - INFO - Attempting to upload torrent: Christopher Robin (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:09:46,256 - INFO - Content path: /home/user/Desktop/torrents/Christopher Robin (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:09:46,256 - INFO - Remote path: onedrive:Torrents/Christopher Robin (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:09:46,257 - INFO - Uploading torrent: Christopher Robin (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:09:46,257 - INFO - Directory /home/user/Desktop/torrents/Christopher Robin (2018) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-21 16:09:46,257 - INFO - Starting upload: /home/user/Desktop/torrents/Christopher Robin (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Christopher Robin (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-21 16:09:46,257 - INFO - Uploading directory of size 1706.82 MB
+2025-04-21 16:09:48,516 - INFO - Successfully uploaded to onedrive:Torrents/The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:09:48,517 - INFO - Verifying upload for: The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:09:48,517 - INFO - Verifying upload: /home/user/Desktop/torrents/The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:09:51,427 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:09:51,437 - INFO - Deleting torrent from qBittorrent: The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:09:51,437 - INFO - Deleting torrent with hash de903a94a647c8633aed433ed2a9571af619fc7c (delete_files=False)
+2025-04-21 16:09:51,445 - INFO - Successfully deleted torrent with hash de903a94a647c8633aed433ed2a9571af619fc7c
+2025-04-21 16:09:51,445 - INFO - Deleting content files: The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:09:51,445 - INFO - Deleting content: /home/user/Desktop/torrents/The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:09:51,447 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:09:51,447 - INFO - Successfully processed torrent: The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:09:51,447 - INFO - Processing torrent: Mulan (1998) [1080p]
+2025-04-21 16:09:51,447 - INFO - Attempting to upload torrent: Mulan (1998) [1080p]
+2025-04-21 16:09:51,447 - INFO - Content path: /home/user/Desktop/torrents/Mulan (1998) [1080p]
+2025-04-21 16:09:51,447 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Angry Birds Movie 2 (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-21 16:09:51,448 - INFO - Remote path: onedrive:Torrents/Mulan (1998) [1080p]
+2025-04-21 16:09:51,448 - INFO - Uploading torrent: Mulan (1998) [1080p]
+2025-04-21 16:09:51,448 - INFO - Directory /home/user/Desktop/torrents/Mulan (1998) [1080p] is readable, contains 3 files/dirs
+2025-04-21 16:09:51,448 - INFO - Starting upload: /home/user/Desktop/torrents/Mulan (1998) [1080p] -> onedrive:Torrents/Mulan (1998) [1080p]
+2025-04-21 16:09:51,448 - INFO - Uploading directory of size 1326.35 MB
+2025-04-21 16:11:24,117 - INFO - Successfully uploaded to onedrive:Torrents/Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:11:24,117 - INFO - Verifying upload for: Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:11:24,118 - INFO - Verifying upload: /home/user/Desktop/torrents/Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:11:27,078 - INFO - Upload verification successful for /home/user/Desktop/torrents/Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:11:27,087 - INFO - Deleting torrent from qBittorrent: Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:11:27,087 - INFO - Deleting torrent with hash 71fd7672cd7069ee28d53c57f156881d6ae896a4 (delete_files=False)
+2025-04-21 16:11:27,096 - INFO - Successfully deleted torrent with hash 71fd7672cd7069ee28d53c57f156881d6ae896a4
+2025-04-21 16:11:27,096 - INFO - Deleting content files: Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:11:27,096 - INFO - Deleting content: /home/user/Desktop/torrents/Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:11:27,101 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:11:27,101 - INFO - Successfully processed torrent: Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 16:11:27,101 - INFO - Processing torrent: The Edge Of Seventeen (2016) [1080p] [YTS.AG]
+2025-04-21 16:11:27,102 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Army Of The Dead (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-21 16:11:27,102 - INFO - Attempting to upload torrent: The Edge Of Seventeen (2016) [1080p] [YTS.AG]
+2025-04-21 16:11:27,102 - INFO - Content path: /home/user/Desktop/torrents/The Edge Of Seventeen (2016) [1080p] [YTS.AG]
+2025-04-21 16:11:27,102 - INFO - Remote path: onedrive:Torrents/The Edge Of Seventeen (2016) [1080p] [YTS.AG]
+2025-04-21 16:11:27,102 - INFO - Uploading torrent: The Edge Of Seventeen (2016) [1080p] [YTS.AG]
+2025-04-21 16:11:27,102 - INFO - Directory /home/user/Desktop/torrents/The Edge Of Seventeen (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-21 16:11:27,102 - INFO - Starting upload: /home/user/Desktop/torrents/The Edge Of Seventeen (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Edge Of Seventeen (2016) [1080p] [YTS.AG]
+2025-04-21 16:11:27,103 - INFO - Uploading directory of size 1623.52 MB
+2025-04-21 16:11:39,329 - INFO - Successfully uploaded to onedrive:Torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:11:39,329 - INFO - Verifying upload for: Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:11:39,330 - INFO - Verifying upload: /home/user/Desktop/torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:11:41,533 - INFO - Upload verification successful for /home/user/Desktop/torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:11:41,543 - INFO - Deleting torrent from qBittorrent: Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:11:41,543 - INFO - Deleting torrent with hash 79787a53f25d6238cc6ace856f9480386bf6860d (delete_files=False)
+2025-04-21 16:11:41,550 - INFO - Successfully deleted torrent with hash 79787a53f25d6238cc6ace856f9480386bf6860d
+2025-04-21 16:11:41,550 - INFO - Deleting content files: Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:11:41,550 - INFO - Deleting content: /home/user/Desktop/torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:11:41,552 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:11:41,552 - INFO - Successfully processed torrent: Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-21 16:11:41,552 - INFO - Processing torrent: Die Hard (1988) [1080p]
+2025-04-21 16:11:41,552 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Paddington 2 (2017) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-21 16:11:41,552 - INFO - Attempting to upload torrent: Die Hard (1988) [1080p]
+2025-04-21 16:11:41,552 - INFO - Content path: /home/user/Desktop/torrents/Die Hard (1988) [1080p]
+2025-04-21 16:11:41,552 - INFO - Remote path: onedrive:Torrents/Die Hard (1988) [1080p]
+2025-04-21 16:11:41,552 - INFO - Uploading torrent: Die Hard (1988) [1080p]
+2025-04-21 16:11:41,553 - INFO - Directory /home/user/Desktop/torrents/Die Hard (1988) [1080p] is readable, contains 3 files/dirs
+2025-04-21 16:11:41,553 - INFO - Starting upload: /home/user/Desktop/torrents/Die Hard (1988) [1080p] -> onedrive:Torrents/Die Hard (1988) [1080p]
+2025-04-21 16:11:41,553 - INFO - Uploading directory of size 1846.41 MB
