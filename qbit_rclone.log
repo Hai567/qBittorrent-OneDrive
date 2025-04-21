@@ -8621,3 +8621,31 @@
 2025-04-21 16:52:12,887 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
 2025-04-21 16:52:12,888 - INFO - Successfully processed torrent: What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]
 2025-04-21 16:52:12,888 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]'}
+2025-04-21 16:57:12,989 - INFO - Active upload threads: 5/5
+2025-04-21 16:57:12,990 - INFO - Checking for completed torrents...
+2025-04-21 16:57:13,006 - INFO - Found 8 completed torrents
+2025-04-21 16:57:13,006 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-21 16:57:13,006 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-21 16:57:13,006 - INFO - Torrent Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Black And Blue (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-21 16:57:13,007 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-21 16:57:13,007 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-21 16:57:13,007 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-21 16:57:13,007 - INFO - Torrent Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-21 16:57:13,007 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-21 16:57:13,008 - INFO - Submitting 2 torrents for parallel upload
+2025-04-21 16:57:13,008 - INFO - Processing torrent: Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:57:13,009 - INFO - Processing torrent: Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:57:13,009 - INFO - Attempting to upload torrent: Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:57:13,010 - INFO - Attempting to upload torrent: Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:57:13,010 - INFO - Content path: /home/user/Desktop/torrents/Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:57:13,010 - INFO - Content path: /home/user/Desktop/torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:57:13,011 - INFO - Remote path: onedrive:Torrents/Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:57:13,011 - INFO - Remote path: onedrive:Torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:57:13,012 - INFO - Uploading torrent: Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:57:13,012 - INFO - Uploading torrent: Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:57:13,014 - INFO - Directory /home/user/Desktop/torrents/Black And Blue (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 3 files/dirs
+2025-04-21 16:57:13,014 - INFO - Starting upload: /home/user/Desktop/torrents/Black And Blue (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Black And Blue (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 16:57:13,014 - INFO - Directory /home/user/Desktop/torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-21 16:57:13,015 - INFO - Starting upload: /home/user/Desktop/torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Doraemon New Nobitas Great Demon-Peko And The Exploration Party Of Five (2014) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 16:57:13,015 - INFO - Uploading directory of size 1738.81 MB
+2025-04-21 16:57:13,018 - INFO - Uploading directory of size 2068.33 MB
