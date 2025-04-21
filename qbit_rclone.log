@@ -7703,3 +7703,23 @@
 2025-04-21 15:09:33,981 - INFO - Directory /home/user/Desktop/torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-21 15:09:33,981 - INFO - Starting upload: /home/user/Desktop/torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Papillon (2017) [WEBRip] [1080p] [YTS.AM]
 2025-04-21 15:09:33,981 - INFO - Uploading directory of size 2188.07 MB
+2025-04-21 15:12:54,969 - INFO - Successfully uploaded to onedrive:Torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:12:54,969 - INFO - Verifying upload for: The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:12:54,970 - INFO - Verifying upload: /home/user/Desktop/torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:12:56,585 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:12:56,593 - INFO - Deleting torrent from qBittorrent: The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:12:56,593 - INFO - Deleting torrent with hash e9742045f8aa54ab33d317a6d2583483ea7fc06b (delete_files=False)
+2025-04-21 15:12:56,602 - INFO - Successfully deleted torrent with hash e9742045f8aa54ab33d317a6d2583483ea7fc06b
+2025-04-21 15:12:56,602 - INFO - Deleting content files: The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:12:56,602 - INFO - Deleting content: /home/user/Desktop/torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:12:56,609 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:12:56,609 - INFO - Successfully processed torrent: The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 15:12:56,609 - INFO - Processing torrent: Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:12:56,609 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-21 15:12:56,610 - INFO - Attempting to upload torrent: Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:12:56,610 - INFO - Content path: /home/user/Desktop/torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:12:56,610 - INFO - Remote path: onedrive:Torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:12:56,610 - INFO - Uploading torrent: Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:12:56,610 - INFO - Directory /home/user/Desktop/torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-21 15:12:56,610 - INFO - Starting upload: /home/user/Desktop/torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Mortal Kombat Legends Scorpion's Revenge (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 15:12:56,610 - INFO - Uploading directory of size 1510.15 MB
