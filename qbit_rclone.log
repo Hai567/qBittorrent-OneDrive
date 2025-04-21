@@ -8704,3 +8704,12 @@
 2025-04-21 17:11:21,155 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
 2025-04-21 17:11:21,156 - INFO - Successfully processed torrent: The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]
 2025-04-21 17:11:21,156 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Secret Life Of Pets (2016) [3D] [HSBS] [YTS.AG]'}
+2025-04-21 17:16:21,200 - INFO - Active upload threads: 5/5
+2025-04-21 17:16:21,200 - INFO - Checking for completed torrents...
+2025-04-21 17:16:21,206 - INFO - Found 6 completed torrents
+2025-04-21 17:16:21,206 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-21 17:16:21,206 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-21 17:16:21,206 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-21 17:16:21,206 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-21 17:16:21,206 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-21 17:16:21,206 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
