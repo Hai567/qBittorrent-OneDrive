@@ -7803,3 +7803,63 @@
 2025-04-21 15:20:27,736 - INFO - Directory /home/user/Desktop/torrents/The Big Sick (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-21 15:20:27,736 - INFO - Starting upload: /home/user/Desktop/torrents/The Big Sick (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Big Sick (2017) [1080p] [YTS.AG]
 2025-04-21 15:20:27,736 - INFO - Uploading directory of size 1876.28 MB
+2025-04-21 15:21:43,215 - INFO - Successfully uploaded to onedrive:Torrents/Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:21:43,216 - INFO - Verifying upload for: Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:21:43,216 - INFO - Verifying upload: /home/user/Desktop/torrents/Manchester By The Sea (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:21:45,920 - INFO - Upload verification successful for /home/user/Desktop/torrents/Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:21:45,929 - INFO - Deleting torrent from qBittorrent: Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:21:45,929 - INFO - Deleting torrent with hash 153ca4be3d5cae9119eec8c48d7b8982012d8de5 (delete_files=False)
+2025-04-21 15:21:45,937 - INFO - Successfully deleted torrent with hash 153ca4be3d5cae9119eec8c48d7b8982012d8de5
+2025-04-21 15:21:45,937 - INFO - Deleting content files: Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:21:45,937 - INFO - Deleting content: /home/user/Desktop/torrents/Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:21:45,939 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:21:45,940 - INFO - Successfully processed torrent: Manchester By The Sea (2016) [1080p] [YTS.AG]
+2025-04-21 15:21:45,940 - INFO - Processing torrent: After (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:21:45,940 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Manchester By The Sea (2016) [1080p] [YTS.AG]'}
+2025-04-21 15:21:45,940 - INFO - Attempting to upload torrent: After (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:21:45,940 - INFO - Content path: /home/user/Desktop/torrents/After (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:21:45,940 - INFO - Remote path: onedrive:Torrents/After (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:21:45,940 - INFO - Uploading torrent: After (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:21:45,940 - INFO - Directory /home/user/Desktop/torrents/After (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-21 15:21:45,940 - INFO - Starting upload: /home/user/Desktop/torrents/After (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/After (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-21 15:21:45,941 - INFO - Uploading directory of size 1742.59 MB
+2025-04-21 15:23:10,888 - INFO - Successfully uploaded to onedrive:Torrents/The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:23:10,888 - INFO - Verifying upload for: The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:23:10,888 - INFO - Verifying upload: /home/user/Desktop/torrents/The SpongeBob Movie Sponge Out of Water (2015) [1080p] -> onedrive:Torrents/The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:23:13,993 - INFO - Upload verification successful for /home/user/Desktop/torrents/The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:23:14,001 - INFO - Deleting torrent from qBittorrent: The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:23:14,001 - INFO - Deleting torrent with hash 3161e1efe9b3534e888f065a233962db76f02de1 (delete_files=False)
+2025-04-21 15:23:14,011 - INFO - Successfully deleted torrent with hash 3161e1efe9b3534e888f065a233962db76f02de1
+2025-04-21 15:23:14,011 - INFO - Deleting content files: The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:23:14,011 - INFO - Deleting content: /home/user/Desktop/torrents/The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:23:14,012 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:23:14,012 - INFO - Successfully processed torrent: The SpongeBob Movie Sponge Out of Water (2015) [1080p]
+2025-04-21 15:23:14,012 - INFO - Processing torrent: Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:23:14,013 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The SpongeBob Movie Sponge Out of Water (2015) [1080p]'}
+2025-04-21 15:23:14,013 - INFO - Attempting to upload torrent: Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:23:14,013 - INFO - Content path: /home/user/Desktop/torrents/Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:23:14,013 - INFO - Remote path: onedrive:Torrents/Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:23:14,013 - INFO - Uploading torrent: Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:23:14,013 - INFO - Directory /home/user/Desktop/torrents/Star Trek Into Darkness (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-21 15:23:14,013 - INFO - Starting upload: /home/user/Desktop/torrents/Star Trek Into Darkness (2013) [1080p] -> onedrive:Torrents/Star Trek Into Darkness (2013) [1080p]
+2025-04-21 15:23:14,013 - INFO - Uploading directory of size 1993.33 MB
+2025-04-21 15:26:00,466 - INFO - Successfully uploaded to onedrive:Torrents/The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:26:00,466 - INFO - Verifying upload for: The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:26:00,466 - INFO - Verifying upload: /home/user/Desktop/torrents/The Big Sick (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:26:02,657 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:26:02,665 - INFO - Deleting torrent from qBittorrent: The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:26:02,666 - INFO - Deleting torrent with hash f7b56fc2da8c8d5380631542f43a70bb59be1030 (delete_files=False)
+2025-04-21 15:26:02,674 - INFO - Successfully deleted torrent with hash f7b56fc2da8c8d5380631542f43a70bb59be1030
+2025-04-21 15:26:02,674 - INFO - Deleting content files: The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:26:02,674 - INFO - Deleting content: /home/user/Desktop/torrents/The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:26:02,675 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:26:02,675 - INFO - Successfully processed torrent: The Big Sick (2017) [1080p] [YTS.AG]
+2025-04-21 15:26:02,676 - INFO - Processing torrent: Monsters Inc (2001) [1080p]
+2025-04-21 15:26:02,676 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Big Sick (2017) [1080p] [YTS.AG]'}
+2025-04-21 15:26:02,676 - INFO - Attempting to upload torrent: Monsters Inc (2001) [1080p]
+2025-04-21 15:26:02,676 - INFO - Content path: /home/user/Desktop/torrents/Monsters Inc (2001) [1080p]
+2025-04-21 15:26:02,676 - INFO - Remote path: onedrive:Torrents/Monsters Inc (2001) [1080p]
+2025-04-21 15:26:02,676 - INFO - Uploading torrent: Monsters Inc (2001) [1080p]
+2025-04-21 15:26:02,676 - INFO - Directory /home/user/Desktop/torrents/Monsters Inc (2001) [1080p] is readable, contains 3 files/dirs
+2025-04-21 15:26:02,676 - INFO - Starting upload: /home/user/Desktop/torrents/Monsters Inc (2001) [1080p] -> onedrive:Torrents/Monsters Inc (2001) [1080p]
+2025-04-21 15:26:02,676 - INFO - Uploading directory of size 1484.88 MB
