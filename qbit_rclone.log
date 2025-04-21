@@ -7463,3 +7463,43 @@
 2025-04-21 14:37:36,751 - INFO - Directory /home/user/Desktop/torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-21 14:37:36,751 - INFO - Starting upload: /home/user/Desktop/torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Blade Runner (1982) [BluRay] [1080p] [YTS.AM]
 2025-04-21 14:37:36,751 - INFO - Uploading directory of size 1956.33 MB
+2025-04-21 14:40:10,029 - INFO - Successfully uploaded to onedrive:Torrents/The Menu (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:40:10,030 - INFO - Verifying upload for: The Menu (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:40:10,030 - INFO - Verifying upload: /home/user/Desktop/torrents/The Menu (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Menu (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:40:12,246 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Menu (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:40:12,261 - INFO - Deleting torrent from qBittorrent: The Menu (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:40:12,261 - INFO - Deleting torrent with hash 010eef85f84048e691f0505c52e42c6accf0a12c (delete_files=False)
+2025-04-21 14:40:12,271 - INFO - Successfully deleted torrent with hash 010eef85f84048e691f0505c52e42c6accf0a12c
+2025-04-21 14:40:12,271 - INFO - Deleting content files: The Menu (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:40:12,271 - INFO - Deleting content: /home/user/Desktop/torrents/The Menu (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:40:12,274 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Menu (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:40:12,274 - INFO - Successfully processed torrent: The Menu (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:40:12,274 - INFO - Processing torrent: Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:40:12,274 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Menu (2022) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-21 14:40:12,274 - INFO - Attempting to upload torrent: Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:40:12,275 - INFO - Content path: /home/user/Desktop/torrents/Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:40:12,275 - INFO - Remote path: onedrive:Torrents/Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:40:12,275 - INFO - Uploading torrent: Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:40:12,275 - INFO - Directory /home/user/Desktop/torrents/Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-21 14:40:12,275 - INFO - Starting upload: /home/user/Desktop/torrents/Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ambulance (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-21 14:40:12,275 - INFO - Uploading directory of size 2573.58 MB
+2025-04-21 14:42:23,596 - INFO - Successfully uploaded to onedrive:Torrents/Lone Survivor (2013) [1080p]
+2025-04-21 14:42:23,597 - INFO - Verifying upload for: Lone Survivor (2013) [1080p]
+2025-04-21 14:42:23,597 - INFO - Verifying upload: /home/user/Desktop/torrents/Lone Survivor (2013) [1080p] -> onedrive:Torrents/Lone Survivor (2013) [1080p]
+2025-04-21 14:42:25,528 - INFO - Upload verification successful for /home/user/Desktop/torrents/Lone Survivor (2013) [1080p]
+2025-04-21 14:42:25,604 - INFO - Deleting torrent from qBittorrent: Lone Survivor (2013) [1080p]
+2025-04-21 14:42:25,604 - INFO - Deleting torrent with hash 2127bd1c243c168c8ad59d839cf38e4bea2dbbdb (delete_files=False)
+2025-04-21 14:42:25,613 - INFO - Successfully deleted torrent with hash 2127bd1c243c168c8ad59d839cf38e4bea2dbbdb
+2025-04-21 14:42:25,613 - INFO - Deleting content files: Lone Survivor (2013) [1080p]
+2025-04-21 14:42:25,613 - INFO - Deleting content: /home/user/Desktop/torrents/Lone Survivor (2013) [1080p]
+2025-04-21 14:42:25,615 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Lone Survivor (2013) [1080p]
+2025-04-21 14:42:25,615 - INFO - Successfully processed torrent: Lone Survivor (2013) [1080p]
+2025-04-21 14:42:25,615 - INFO - Processing torrent: The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:42:25,615 - INFO - Attempting to upload torrent: The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:42:25,615 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Lone Survivor (2013) [1080p]'}
+2025-04-21 14:42:25,615 - INFO - Content path: /home/user/Desktop/torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:42:25,616 - INFO - Remote path: onedrive:Torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:42:25,616 - INFO - Uploading torrent: The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:42:25,616 - INFO - Directory /home/user/Desktop/torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-21 14:42:25,616 - INFO - Starting upload: /home/user/Desktop/torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Last Duel (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-21 14:42:25,616 - INFO - Uploading directory of size 2869.26 MB
