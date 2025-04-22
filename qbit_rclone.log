@@ -9843,3 +9843,63 @@
 2025-04-22 12:41:02,756 - INFO - Directory /home/user/Desktop/torrents/Home Alone 2 Lost in New York (1992) [1080p] is readable, contains 2 files/dirs
 2025-04-22 12:41:02,756 - INFO - Starting upload: /home/user/Desktop/torrents/Home Alone 2 Lost in New York (1992) [1080p] -> onedrive:Torrents/Home Alone 2 Lost in New York (1992) [1080p]
 2025-04-22 12:41:02,756 - INFO - Uploading directory of size 1883.28 MB
+2025-04-22 12:54:07,187 - INFO - Successfully uploaded to onedrive:Torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:54:07,188 - INFO - Verifying upload for: Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:54:07,188 - INFO - Verifying upload: /home/user/Desktop/torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:54:10,776 - INFO - Upload verification successful for /home/user/Desktop/torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:54:10,786 - INFO - Deleting torrent from qBittorrent: Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:54:10,787 - INFO - Deleting torrent with hash d0505150650d9f7b8e0919fcfe75997640e90036 (delete_files=False)
+2025-04-22 12:54:10,796 - INFO - Successfully deleted torrent with hash d0505150650d9f7b8e0919fcfe75997640e90036
+2025-04-22 12:54:10,796 - INFO - Deleting content files: Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:54:10,796 - INFO - Deleting content: /home/user/Desktop/torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:54:10,799 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:54:10,799 - INFO - Successfully processed torrent: Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:54:10,799 - INFO - Processing torrent: Black Hawk Down (2001) [1080p]
+2025-04-22 12:54:10,799 - INFO - Attempting to upload torrent: Black Hawk Down (2001) [1080p]
+2025-04-22 12:54:10,799 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-22 12:54:10,799 - INFO - Content path: /home/user/Desktop/torrents/Black Hawk Down (2001) [1080p]
+2025-04-22 12:54:10,800 - INFO - Remote path: onedrive:Torrents/Black Hawk Down (2001) [1080p]
+2025-04-22 12:54:10,800 - INFO - Uploading torrent: Black Hawk Down (2001) [1080p]
+2025-04-22 12:54:10,800 - INFO - Directory /home/user/Desktop/torrents/Black Hawk Down (2001) [1080p] is readable, contains 3 files/dirs
+2025-04-22 12:54:10,800 - INFO - Starting upload: /home/user/Desktop/torrents/Black Hawk Down (2001) [1080p] -> onedrive:Torrents/Black Hawk Down (2001) [1080p]
+2025-04-22 12:54:10,800 - INFO - Uploading directory of size 1941.59 MB
+2025-04-22 12:55:02,955 - INFO - Successfully uploaded to onedrive:Torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:55:02,955 - INFO - Verifying upload for: Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:55:02,955 - INFO - Verifying upload: /home/user/Desktop/torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:55:05,252 - INFO - Upload verification successful for /home/user/Desktop/torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:55:05,262 - INFO - Deleting torrent from qBittorrent: Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:55:05,262 - INFO - Deleting torrent with hash 9e8d497d1c1c15f506be806d4b1b06ff5ea57ff7 (delete_files=False)
+2025-04-22 12:55:05,270 - INFO - Successfully deleted torrent with hash 9e8d497d1c1c15f506be806d4b1b06ff5ea57ff7
+2025-04-22 12:55:05,270 - INFO - Deleting content files: Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:55:05,270 - INFO - Deleting content: /home/user/Desktop/torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:55:05,271 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:55:05,272 - INFO - Successfully processed torrent: Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:55:05,272 - INFO - Processing torrent: The Purge (2013) [1080p]
+2025-04-22 12:55:05,272 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 12:55:05,272 - INFO - Attempting to upload torrent: The Purge (2013) [1080p]
+2025-04-22 12:55:05,272 - INFO - Content path: /home/user/Desktop/torrents/The Purge (2013) [1080p]
+2025-04-22 12:55:05,272 - INFO - Remote path: onedrive:Torrents/The Purge (2013) [1080p]
+2025-04-22 12:55:05,272 - INFO - Uploading torrent: The Purge (2013) [1080p]
+2025-04-22 12:55:05,273 - INFO - Directory /home/user/Desktop/torrents/The Purge (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-22 12:55:05,273 - INFO - Starting upload: /home/user/Desktop/torrents/The Purge (2013) [1080p] -> onedrive:Torrents/The Purge (2013) [1080p]
+2025-04-22 12:55:05,273 - INFO - Uploading directory of size 1264.42 MB
+2025-04-22 12:56:36,067 - INFO - Successfully uploaded to onedrive:Torrents/Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:56:36,067 - INFO - Verifying upload for: Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:56:36,067 - INFO - Verifying upload: /home/user/Desktop/torrents/Home Alone 2 Lost in New York (1992) [1080p] -> onedrive:Torrents/Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:56:38,190 - INFO - Upload verification successful for /home/user/Desktop/torrents/Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:56:38,201 - INFO - Deleting torrent from qBittorrent: Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:56:38,201 - INFO - Deleting torrent with hash 3e96f357b98a8b78dafc8b6e6d07091ddcfdd064 (delete_files=False)
+2025-04-22 12:56:38,209 - INFO - Successfully deleted torrent with hash 3e96f357b98a8b78dafc8b6e6d07091ddcfdd064
+2025-04-22 12:56:38,210 - INFO - Deleting content files: Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:56:38,210 - INFO - Deleting content: /home/user/Desktop/torrents/Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:56:38,211 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:56:38,211 - INFO - Successfully processed torrent: Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:56:38,211 - INFO - Processing torrent: Transcendence (2014) [1080p]
+2025-04-22 12:56:38,211 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Home Alone 2 Lost in New York (1992) [1080p]'}
+2025-04-22 12:56:38,211 - INFO - Attempting to upload torrent: Transcendence (2014) [1080p]
+2025-04-22 12:56:38,212 - INFO - Content path: /home/user/Desktop/torrents/Transcendence (2014) [1080p]
+2025-04-22 12:56:38,212 - INFO - Remote path: onedrive:Torrents/Transcendence (2014) [1080p]
+2025-04-22 12:56:38,212 - INFO - Uploading torrent: Transcendence (2014) [1080p]
+2025-04-22 12:56:38,212 - INFO - Directory /home/user/Desktop/torrents/Transcendence (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-22 12:56:38,212 - INFO - Starting upload: /home/user/Desktop/torrents/Transcendence (2014) [1080p] -> onedrive:Torrents/Transcendence (2014) [1080p]
+2025-04-22 12:56:38,212 - INFO - Uploading directory of size 1887.59 MB
