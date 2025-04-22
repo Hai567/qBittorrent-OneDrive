@@ -10261,3 +10261,63 @@
 2025-04-22 14:11:05,774 - INFO - Directory /home/user/Desktop/torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 4 files/dirs
 2025-04-22 14:11:05,774 - INFO - Starting upload: /home/user/Desktop/torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-22 14:11:05,774 - INFO - Uploading directory of size 1655.46 MB
+2025-04-22 14:19:34,135 - INFO - Successfully uploaded to onedrive:Torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:19:34,135 - INFO - Verifying upload for: To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:19:34,136 - INFO - Verifying upload: /home/user/Desktop/torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:19:34,295 - INFO - Successfully uploaded to onedrive:Torrents/Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:19:34,296 - INFO - Verifying upload for: Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:19:34,296 - INFO - Verifying upload: /home/user/Desktop/torrents/Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:19:36,965 - INFO - Upload verification successful for /home/user/Desktop/torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:19:36,975 - INFO - Deleting torrent from qBittorrent: To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:19:36,975 - INFO - Deleting torrent with hash 0b17aa7ca1114e8857ca2cf4fe23125ff9a22c86 (delete_files=False)
+2025-04-22 14:19:36,983 - INFO - Successfully deleted torrent with hash 0b17aa7ca1114e8857ca2cf4fe23125ff9a22c86
+2025-04-22 14:19:36,983 - INFO - Deleting content files: To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:19:36,983 - INFO - Deleting content: /home/user/Desktop/torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:19:36,984 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:19:36,984 - INFO - Successfully processed torrent: To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:19:36,985 - INFO - Processing torrent: Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:19:36,985 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]"}
+2025-04-22 14:19:36,985 - INFO - Attempting to upload torrent: Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:19:36,985 - INFO - Content path: /home/user/Desktop/torrents/Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:19:36,985 - INFO - Remote path: onedrive:Torrents/Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:19:36,985 - INFO - Uploading torrent: Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:19:36,985 - INFO - Directory /home/user/Desktop/torrents/Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 14:19:36,985 - INFO - Starting upload: /home/user/Desktop/torrents/Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:19:36,986 - INFO - Uploading directory of size 1648.25 MB
+2025-04-22 14:19:37,448 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:19:37,457 - INFO - Deleting torrent from qBittorrent: Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:19:37,457 - INFO - Deleting torrent with hash 4238e33bdc5ab848021ded2b5457419df56fff9a (delete_files=False)
+2025-04-22 14:19:37,465 - INFO - Successfully deleted torrent with hash 4238e33bdc5ab848021ded2b5457419df56fff9a
+2025-04-22 14:19:37,465 - INFO - Deleting content files: Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:19:37,465 - INFO - Deleting content: /home/user/Desktop/torrents/Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:19:37,467 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:19:37,467 - INFO - Successfully processed torrent: Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:19:37,467 - INFO - Processing torrent: The Lone Ranger (2013) [1080p]
+2025-04-22 14:19:37,467 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 14:19:37,467 - INFO - Attempting to upload torrent: The Lone Ranger (2013) [1080p]
+2025-04-22 14:19:37,468 - INFO - Content path: /home/user/Desktop/torrents/The Lone Ranger (2013) [1080p]
+2025-04-22 14:19:37,468 - INFO - Remote path: onedrive:Torrents/The Lone Ranger (2013) [1080p]
+2025-04-22 14:19:37,468 - INFO - Uploading torrent: The Lone Ranger (2013) [1080p]
+2025-04-22 14:19:37,468 - INFO - Directory /home/user/Desktop/torrents/The Lone Ranger (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-22 14:19:37,468 - INFO - Starting upload: /home/user/Desktop/torrents/The Lone Ranger (2013) [1080p] -> onedrive:Torrents/The Lone Ranger (2013) [1080p]
+2025-04-22 14:19:37,468 - INFO - Uploading directory of size 2102.15 MB
+2025-04-22 14:21:02,635 - INFO - Successfully uploaded to onedrive:Torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:21:02,636 - INFO - Verifying upload for: Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:21:02,636 - INFO - Verifying upload: /home/user/Desktop/torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:21:04,902 - INFO - Upload verification successful for /home/user/Desktop/torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:21:04,913 - INFO - Deleting torrent from qBittorrent: Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:21:04,913 - INFO - Deleting torrent with hash 07569f9346879c51481c4d348350a1a364a026b0 (delete_files=False)
+2025-04-22 14:21:04,928 - INFO - Successfully deleted torrent with hash 07569f9346879c51481c4d348350a1a364a026b0
+2025-04-22 14:21:04,928 - INFO - Deleting content files: Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:21:04,928 - INFO - Deleting content: /home/user/Desktop/torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:21:04,931 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:21:04,931 - INFO - Successfully processed torrent: Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:21:04,932 - INFO - Processing torrent: Shrek 4 (2010) [1080p]
+2025-04-22 14:21:04,932 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 14:21:04,932 - INFO - Attempting to upload torrent: Shrek 4 (2010) [1080p]
+2025-04-22 14:21:04,932 - INFO - Content path: /home/user/Desktop/torrents/Shrek 4 (2010) [1080p]
+2025-04-22 14:21:04,933 - INFO - Remote path: onedrive:Torrents/Shrek 4 (2010) [1080p]
+2025-04-22 14:21:04,933 - INFO - Uploading torrent: Shrek 4 (2010) [1080p]
+2025-04-22 14:21:04,933 - INFO - Directory /home/user/Desktop/torrents/Shrek 4 (2010) [1080p] is readable, contains 4 files/dirs
+2025-04-22 14:21:04,933 - INFO - Starting upload: /home/user/Desktop/torrents/Shrek 4 (2010) [1080p] -> onedrive:Torrents/Shrek 4 (2010) [1080p]
+2025-04-22 14:21:04,933 - INFO - Uploading directory of size 1001.28 MB
