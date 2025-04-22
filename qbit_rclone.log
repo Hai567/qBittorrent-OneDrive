@@ -9903,3 +9903,23 @@
 2025-04-22 12:56:38,212 - INFO - Directory /home/user/Desktop/torrents/Transcendence (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-22 12:56:38,212 - INFO - Starting upload: /home/user/Desktop/torrents/Transcendence (2014) [1080p] -> onedrive:Torrents/Transcendence (2014) [1080p]
 2025-04-22 12:56:38,212 - INFO - Uploading directory of size 1887.59 MB
+2025-04-22 12:57:57,396 - INFO - Successfully uploaded to onedrive:Torrents/Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:57:57,397 - INFO - Verifying upload for: Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:57:57,397 - INFO - Verifying upload: /home/user/Desktop/torrents/Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:58:00,212 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:58:00,223 - INFO - Deleting torrent from qBittorrent: Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:58:00,223 - INFO - Deleting torrent with hash dab452ab6fe809ccb574c2b7e6ae52048b6ddc8c (delete_files=False)
+2025-04-22 12:58:00,231 - INFO - Successfully deleted torrent with hash dab452ab6fe809ccb574c2b7e6ae52048b6ddc8c
+2025-04-22 12:58:00,232 - INFO - Deleting content files: Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:58:00,232 - INFO - Deleting content: /home/user/Desktop/torrents/Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:58:00,235 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:58:00,235 - INFO - Successfully processed torrent: Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:58:00,235 - INFO - Processing torrent: The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 12:58:00,235 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-22 12:58:00,235 - INFO - Attempting to upload torrent: The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 12:58:00,235 - INFO - Content path: /home/user/Desktop/torrents/The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 12:58:00,236 - INFO - Remote path: onedrive:Torrents/The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 12:58:00,236 - INFO - Uploading torrent: The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 12:58:00,236 - INFO - Directory /home/user/Desktop/torrents/The Shack (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 12:58:00,236 - INFO - Starting upload: /home/user/Desktop/torrents/The Shack (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 12:58:00,236 - INFO - Uploading directory of size 2060.67 MB
