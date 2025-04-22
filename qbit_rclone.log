@@ -10221,3 +10221,43 @@
 2025-04-22 14:05:34,636 - INFO - Directory /home/user/Desktop/torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-22 14:05:34,636 - INFO - Starting upload: /home/user/Desktop/torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-22 14:05:34,637 - INFO - Uploading directory of size 1636.64 MB
+2025-04-22 14:08:40,029 - INFO - Successfully uploaded to onedrive:Torrents/Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:08:40,029 - INFO - Verifying upload for: Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:08:40,029 - INFO - Verifying upload: /home/user/Desktop/torrents/Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:08:43,211 - INFO - Upload verification successful for /home/user/Desktop/torrents/Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:08:43,221 - INFO - Deleting torrent from qBittorrent: Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:08:43,221 - INFO - Deleting torrent with hash d903f7b778b695bcb1811804a03aa06b0ca47030 (delete_files=False)
+2025-04-22 14:08:43,232 - INFO - Successfully deleted torrent with hash d903f7b778b695bcb1811804a03aa06b0ca47030
+2025-04-22 14:08:43,232 - INFO - Deleting content files: Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:08:43,232 - INFO - Deleting content: /home/user/Desktop/torrents/Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:08:43,236 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:08:43,237 - INFO - Successfully processed torrent: Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:08:43,237 - INFO - Processing torrent: White House Down (2013) [1080p]
+2025-04-22 14:08:43,237 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 14:08:43,237 - INFO - Attempting to upload torrent: White House Down (2013) [1080p]
+2025-04-22 14:08:43,238 - INFO - Content path: /home/user/Desktop/torrents/White House Down (2013) [1080p]
+2025-04-22 14:08:43,238 - INFO - Remote path: onedrive:Torrents/White House Down (2013) [1080p]
+2025-04-22 14:08:43,238 - INFO - Uploading torrent: White House Down (2013) [1080p]
+2025-04-22 14:08:43,239 - INFO - Directory /home/user/Desktop/torrents/White House Down (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-22 14:08:43,239 - INFO - Starting upload: /home/user/Desktop/torrents/White House Down (2013) [1080p] -> onedrive:Torrents/White House Down (2013) [1080p]
+2025-04-22 14:08:43,240 - INFO - Uploading directory of size 2000.12 MB
+2025-04-22 14:11:02,580 - INFO - Successfully uploaded to onedrive:Torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 14:11:02,581 - INFO - Verifying upload for: Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 14:11:02,581 - INFO - Verifying upload: /home/user/Desktop/torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 14:11:05,747 - INFO - Upload verification successful for /home/user/Desktop/torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 14:11:05,757 - INFO - Deleting torrent from qBittorrent: Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 14:11:05,758 - INFO - Deleting torrent with hash fef2c34da6ef9f75e5b97f62cd83ac1f51e691a0 (delete_files=False)
+2025-04-22 14:11:05,768 - INFO - Successfully deleted torrent with hash fef2c34da6ef9f75e5b97f62cd83ac1f51e691a0
+2025-04-22 14:11:05,769 - INFO - Deleting content files: Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 14:11:05,769 - INFO - Deleting content: /home/user/Desktop/torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 14:11:05,773 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 14:11:05,773 - INFO - Successfully processed torrent: Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 14:11:05,773 - INFO - Processing torrent: Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:11:05,773 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Shaft (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-22 14:11:05,773 - INFO - Attempting to upload torrent: Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:11:05,774 - INFO - Content path: /home/user/Desktop/torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:11:05,774 - INFO - Remote path: onedrive:Torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:11:05,774 - INFO - Uploading torrent: Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:11:05,774 - INFO - Directory /home/user/Desktop/torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-22 14:11:05,774 - INFO - Starting upload: /home/user/Desktop/torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:11:05,774 - INFO - Uploading directory of size 1655.46 MB
