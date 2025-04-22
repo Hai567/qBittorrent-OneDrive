@@ -12149,3 +12149,63 @@
 2025-04-22 17:46:41,735 - INFO - Uploading directory of size 1402.38 MB
 2025-04-22 17:46:41,736 - INFO - Uploading directory of size 1567.63 MB
 2025-04-22 17:46:41,736 - INFO - Uploading directory of size 1897.58 MB
+2025-04-22 17:51:12,309 - INFO - Successfully uploaded to onedrive:Torrents/Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:51:12,310 - INFO - Verifying upload for: Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:51:12,310 - INFO - Verifying upload: /home/user/Desktop/torrents/Resident Evil Apocalypse (2004) [1080p] -> onedrive:Torrents/Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:51:14,171 - INFO - Successfully uploaded to onedrive:Torrents/The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:51:14,171 - INFO - Verifying upload for: The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:51:14,171 - INFO - Verifying upload: /home/user/Desktop/torrents/The Wall (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:51:14,940 - INFO - Upload verification successful for /home/user/Desktop/torrents/Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:51:14,952 - INFO - Deleting torrent from qBittorrent: Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:51:14,952 - INFO - Deleting torrent with hash 4d560225b53a0e38642808ce42f801b9300be90d (delete_files=False)
+2025-04-22 17:51:14,961 - INFO - Successfully deleted torrent with hash 4d560225b53a0e38642808ce42f801b9300be90d
+2025-04-22 17:51:14,962 - INFO - Deleting content files: Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:51:14,962 - INFO - Deleting content: /home/user/Desktop/torrents/Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:51:14,962 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:51:14,962 - INFO - Successfully processed torrent: Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:51:14,962 - INFO - Processing torrent: Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:51:14,962 - INFO - Attempting to upload torrent: Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:51:14,963 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Resident Evil Apocalypse (2004) [1080p]'}
+2025-04-22 17:51:14,963 - INFO - Content path: /home/user/Desktop/torrents/Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:51:14,963 - INFO - Remote path: onedrive:Torrents/Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:51:14,963 - INFO - Uploading torrent: Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:51:14,963 - INFO - Directory /home/user/Desktop/torrents/Jackass Presents Bad Grandpa (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-22 17:51:14,963 - INFO - Starting upload: /home/user/Desktop/torrents/Jackass Presents Bad Grandpa (2013) [1080p] -> onedrive:Torrents/Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:51:14,963 - INFO - Uploading directory of size 1675.53 MB
+2025-04-22 17:51:16,646 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:51:16,657 - INFO - Deleting torrent from qBittorrent: The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:51:16,658 - INFO - Deleting torrent with hash 7d122e18a4a5e7ffc7dbc0ff7ed79b49a7ae5d6b (delete_files=False)
+2025-04-22 17:51:16,667 - INFO - Successfully deleted torrent with hash 7d122e18a4a5e7ffc7dbc0ff7ed79b49a7ae5d6b
+2025-04-22 17:51:16,668 - INFO - Deleting content files: The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:51:16,668 - INFO - Deleting content: /home/user/Desktop/torrents/The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:51:16,671 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:51:16,671 - INFO - Successfully processed torrent: The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:51:16,672 - INFO - Processing torrent: Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:51:16,672 - INFO - Attempting to upload torrent: Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:51:16,672 - INFO - Content path: /home/user/Desktop/torrents/Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:51:16,672 - INFO - Remote path: onedrive:Torrents/Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:51:16,672 - INFO - Uploading torrent: Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:51:16,672 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Wall (2017) [1080p] [YTS.AG]'}
+2025-04-22 17:51:16,673 - INFO - Directory /home/user/Desktop/torrents/Togo (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 3 files/dirs
+2025-04-22 17:51:16,673 - INFO - Starting upload: /home/user/Desktop/torrents/Togo (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:51:16,673 - INFO - Uploading directory of size 1818.60 MB
+2025-04-22 17:52:49,758 - INFO - Successfully uploaded to onedrive:Torrents/Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:52:49,758 - INFO - Verifying upload for: Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:52:49,758 - INFO - Verifying upload: /home/user/Desktop/torrents/Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:52:51,529 - INFO - Upload verification successful for /home/user/Desktop/torrents/Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:52:51,543 - INFO - Deleting torrent from qBittorrent: Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:52:51,543 - INFO - Deleting torrent with hash dbe74c2ef8c14780c622c5c2cf932fc34aa00228 (delete_files=False)
+2025-04-22 17:52:51,554 - INFO - Successfully deleted torrent with hash dbe74c2ef8c14780c622c5c2cf932fc34aa00228
+2025-04-22 17:52:51,554 - INFO - Deleting content files: Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:52:51,554 - INFO - Deleting content: /home/user/Desktop/torrents/Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:52:51,558 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:52:51,558 - INFO - Successfully processed torrent: Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:52:51,558 - INFO - Processing torrent: The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:52:51,558 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-22 17:52:51,559 - INFO - Attempting to upload torrent: The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:52:51,559 - INFO - Content path: /home/user/Desktop/torrents/The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:52:51,559 - INFO - Remote path: onedrive:Torrents/The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:52:51,559 - INFO - Uploading torrent: The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:52:51,559 - INFO - Directory /home/user/Desktop/torrents/The Mechanic (2011) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 17:52:51,559 - INFO - Starting upload: /home/user/Desktop/torrents/The Mechanic (2011) [1080p] [YTS.AG] -> onedrive:Torrents/The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:52:51,560 - INFO - Uploading directory of size 1454.64 MB
