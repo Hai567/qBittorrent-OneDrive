@@ -9666,3 +9666,40 @@
 2025-04-22 12:01:35,248 - INFO - Successfully uploaded to onedrive:Torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
 2025-04-22 12:01:35,249 - INFO - Verifying upload for: Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
 2025-04-22 12:01:35,249 - INFO - Verifying upload: /home/user/Desktop/torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG] -> onedrive:Torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 12:01:37,980 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 12:01:37,991 - INFO - Deleting torrent from qBittorrent: Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 12:01:37,991 - INFO - Deleting torrent with hash 474c28f7c77ac8530235233775079fe43db00a77 (delete_files=False)
+2025-04-22 12:01:38,004 - INFO - Successfully deleted torrent with hash 474c28f7c77ac8530235233775079fe43db00a77
+2025-04-22 12:01:38,004 - INFO - Deleting content files: Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 12:01:38,005 - INFO - Deleting content: /home/user/Desktop/torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 12:01:38,006 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 12:01:38,006 - INFO - Successfully processed torrent: Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 12:01:38,006 - INFO - Processing torrent: Unbreakable (2000) [1080p]
+2025-04-22 12:01:38,006 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]'}
+2025-04-22 12:01:38,006 - INFO - Attempting to upload torrent: Unbreakable (2000) [1080p]
+2025-04-22 12:01:38,007 - INFO - Content path: /home/user/Desktop/torrents/Unbreakable (2000) [1080p]
+2025-04-22 12:01:38,007 - INFO - Remote path: onedrive:Torrents/Unbreakable (2000) [1080p]
+2025-04-22 12:01:38,007 - INFO - Uploading torrent: Unbreakable (2000) [1080p]
+2025-04-22 12:01:38,007 - INFO - Directory /home/user/Desktop/torrents/Unbreakable (2000) [1080p] is readable, contains 3 files/dirs
+2025-04-22 12:01:38,007 - INFO - Starting upload: /home/user/Desktop/torrents/Unbreakable (2000) [1080p] -> onedrive:Torrents/Unbreakable (2000) [1080p]
+2025-04-22 12:01:38,007 - INFO - Uploading directory of size 1488.33 MB
+2025-04-22 12:02:55,395 - INFO - Successfully uploaded to onedrive:Torrents/Boyhood (2014) [1080p]
+2025-04-22 12:02:55,395 - INFO - Verifying upload for: Boyhood (2014) [1080p]
+2025-04-22 12:02:55,396 - INFO - Verifying upload: /home/user/Desktop/torrents/Boyhood (2014) [1080p] -> onedrive:Torrents/Boyhood (2014) [1080p]
+2025-04-22 12:02:58,695 - INFO - Upload verification successful for /home/user/Desktop/torrents/Boyhood (2014) [1080p]
+2025-04-22 12:02:58,705 - INFO - Deleting torrent from qBittorrent: Boyhood (2014) [1080p]
+2025-04-22 12:02:58,705 - INFO - Deleting torrent with hash f893641b2b9f021df1c9a073b3cc37eab62e70f2 (delete_files=False)
+2025-04-22 12:02:58,714 - INFO - Successfully deleted torrent with hash f893641b2b9f021df1c9a073b3cc37eab62e70f2
+2025-04-22 12:02:58,714 - INFO - Deleting content files: Boyhood (2014) [1080p]
+2025-04-22 12:02:58,714 - INFO - Deleting content: /home/user/Desktop/torrents/Boyhood (2014) [1080p]
+2025-04-22 12:02:58,716 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Boyhood (2014) [1080p]
+2025-04-22 12:02:58,716 - INFO - Successfully processed torrent: Boyhood (2014) [1080p]
+2025-04-22 12:02:58,716 - INFO - Processing torrent: Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:02:58,716 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Boyhood (2014) [1080p]'}
+2025-04-22 12:02:58,716 - INFO - Attempting to upload torrent: Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:02:58,717 - INFO - Content path: /home/user/Desktop/torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:02:58,717 - INFO - Remote path: onedrive:Torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:02:58,717 - INFO - Uploading torrent: Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:02:58,718 - INFO - Directory /home/user/Desktop/torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 12:02:58,718 - INFO - Starting upload: /home/user/Desktop/torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:02:58,718 - INFO - Uploading directory of size 2312.96 MB
