@@ -9523,3 +9523,23 @@
 2025-04-22 11:27:04,960 - INFO - Directory /home/user/Desktop/torrents/The Pianist (2002) [1080p] is readable, contains 3 files/dirs
 2025-04-22 11:27:04,960 - INFO - Starting upload: /home/user/Desktop/torrents/The Pianist (2002) [1080p] -> onedrive:Torrents/The Pianist (2002) [1080p]
 2025-04-22 11:27:04,961 - INFO - Uploading directory of size 2050.57 MB
+2025-04-22 11:33:31,804 - INFO - Successfully uploaded to onedrive:Torrents/Source Code ( 2011 ) [1080p]
+2025-04-22 11:33:31,805 - INFO - Verifying upload for: Source Code ( 2011 ) [1080p]
+2025-04-22 11:33:31,805 - INFO - Verifying upload: /home/user/Desktop/torrents/Source Code ( 2011 ) [1080p] -> onedrive:Torrents/Source Code ( 2011 ) [1080p]
+2025-04-22 11:33:34,800 - INFO - Upload verification successful for /home/user/Desktop/torrents/Source Code ( 2011 ) [1080p]
+2025-04-22 11:33:34,811 - INFO - Deleting torrent from qBittorrent: Source Code ( 2011 ) [1080p]
+2025-04-22 11:33:34,811 - INFO - Deleting torrent with hash 7d93b02f80e22fb8fd470d48783d9545093c2752 (delete_files=False)
+2025-04-22 11:33:34,821 - INFO - Successfully deleted torrent with hash 7d93b02f80e22fb8fd470d48783d9545093c2752
+2025-04-22 11:33:34,821 - INFO - Deleting content files: Source Code ( 2011 ) [1080p]
+2025-04-22 11:33:34,821 - INFO - Deleting content: /home/user/Desktop/torrents/Source Code ( 2011 ) [1080p]
+2025-04-22 11:33:34,822 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Source Code ( 2011 ) [1080p]
+2025-04-22 11:33:34,822 - INFO - Successfully processed torrent: Source Code ( 2011 ) [1080p]
+2025-04-22 11:33:34,823 - INFO - Processing torrent: Good Will Hunting (1997) [1080p]
+2025-04-22 11:33:34,823 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Source Code ( 2011 ) [1080p]'}
+2025-04-22 11:33:34,823 - INFO - Attempting to upload torrent: Good Will Hunting (1997) [1080p]
+2025-04-22 11:33:34,823 - INFO - Content path: /home/user/Desktop/torrents/Good Will Hunting (1997) [1080p]
+2025-04-22 11:33:34,823 - INFO - Remote path: onedrive:Torrents/Good Will Hunting (1997) [1080p]
+2025-04-22 11:33:34,823 - INFO - Uploading torrent: Good Will Hunting (1997) [1080p]
+2025-04-22 11:33:34,823 - INFO - Directory /home/user/Desktop/torrents/Good Will Hunting (1997) [1080p] is readable, contains 3 files/dirs
+2025-04-22 11:33:34,823 - INFO - Starting upload: /home/user/Desktop/torrents/Good Will Hunting (1997) [1080p] -> onedrive:Torrents/Good Will Hunting (1997) [1080p]
+2025-04-22 11:33:34,823 - INFO - Uploading directory of size 1736.53 MB
