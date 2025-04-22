@@ -9074,3 +9074,15 @@
 2025-04-22 05:58:56,122 - INFO - Directory /home/user/Desktop/torrents/Night School (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-22 05:58:56,122 - INFO - Starting upload: /home/user/Desktop/torrents/Night School (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Night School (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-22 05:58:56,122 - INFO - Uploading directory of size 1894.91 MB
+2025-04-22 06:04:20,809 - INFO - Successfully uploaded to onedrive:Torrents/Night School (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 06:04:20,809 - INFO - Verifying upload for: Night School (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 06:04:20,809 - INFO - Verifying upload: /home/user/Desktop/torrents/Night School (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Night School (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 06:04:23,125 - INFO - Upload verification successful for /home/user/Desktop/torrents/Night School (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 06:04:23,133 - INFO - Deleting torrent from qBittorrent: Night School (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 06:04:23,133 - INFO - Deleting torrent with hash 5089a591ee5dad575d03e1d911b0f2f0b609cdec (delete_files=False)
+2025-04-22 06:04:23,142 - INFO - Successfully deleted torrent with hash 5089a591ee5dad575d03e1d911b0f2f0b609cdec
+2025-04-22 06:04:23,142 - INFO - Deleting content files: Night School (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 06:04:23,142 - INFO - Deleting content: /home/user/Desktop/torrents/Night School (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 06:04:23,144 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Night School (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 06:04:23,144 - INFO - Successfully processed torrent: Night School (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 06:04:23,144 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Night School (2018) [WEBRip] [1080p] [YTS.AM]'}
