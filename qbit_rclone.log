@@ -9028,3 +9028,12 @@
 2025-04-22 05:38:55,783 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-22 05:38:55,783 - INFO - Successfully processed torrent: All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-22 05:38:55,783 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-22 05:43:55,884 - INFO - Active upload threads: 2/5
+2025-04-22 05:43:55,884 - INFO - Checking for completed torrents...
+2025-04-22 05:43:55,888 - INFO - Found 6 completed torrents
+2025-04-22 05:43:55,888 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-22 05:43:55,888 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-22 05:43:55,889 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-22 05:43:55,889 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-22 05:43:55,889 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-22 05:43:55,889 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
