@@ -9563,3 +9563,43 @@
 2025-04-22 11:38:57,075 - INFO - Directory /home/user/Desktop/torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 2 files/dirs
 2025-04-22 11:38:57,075 - INFO - Starting upload: /home/user/Desktop/torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-22 11:38:57,075 - INFO - Uploading directory of size 2028.95 MB
+2025-04-22 11:42:08,063 - INFO - Successfully uploaded to onedrive:Torrents/I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:42:08,063 - INFO - Verifying upload for: I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:42:08,063 - INFO - Verifying upload: /home/user/Desktop/torrents/I Am Bolt (2016) [1080p] [YTS.AG] -> onedrive:Torrents/I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:42:12,953 - INFO - Upload verification successful for /home/user/Desktop/torrents/I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:42:12,963 - INFO - Deleting torrent from qBittorrent: I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:42:12,963 - INFO - Deleting torrent with hash 453b31ae3081820d80f6387074eb1cff4615d9f1 (delete_files=False)
+2025-04-22 11:42:12,972 - INFO - Successfully deleted torrent with hash 453b31ae3081820d80f6387074eb1cff4615d9f1
+2025-04-22 11:42:12,972 - INFO - Deleting content files: I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:42:12,972 - INFO - Deleting content: /home/user/Desktop/torrents/I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:42:12,973 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:42:12,974 - INFO - Successfully processed torrent: I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:42:12,974 - INFO - Processing torrent: Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 11:42:12,974 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'I Am Bolt (2016) [1080p] [YTS.AG]'}
+2025-04-22 11:42:12,974 - INFO - Attempting to upload torrent: Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 11:42:12,974 - INFO - Content path: /home/user/Desktop/torrents/Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 11:42:12,974 - INFO - Remote path: onedrive:Torrents/Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 11:42:12,974 - INFO - Uploading torrent: Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 11:42:12,974 - INFO - Directory /home/user/Desktop/torrents/Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 11:42:12,974 - INFO - Starting upload: /home/user/Desktop/torrents/Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 11:42:12,975 - INFO - Uploading directory of size 2305.22 MB
+2025-04-22 11:45:30,881 - INFO - Successfully uploaded to onedrive:Torrents/Good Will Hunting (1997) [1080p]
+2025-04-22 11:45:30,882 - INFO - Verifying upload for: Good Will Hunting (1997) [1080p]
+2025-04-22 11:45:30,882 - INFO - Verifying upload: /home/user/Desktop/torrents/Good Will Hunting (1997) [1080p] -> onedrive:Torrents/Good Will Hunting (1997) [1080p]
+2025-04-22 11:45:32,712 - INFO - Upload verification successful for /home/user/Desktop/torrents/Good Will Hunting (1997) [1080p]
+2025-04-22 11:45:32,722 - INFO - Deleting torrent from qBittorrent: Good Will Hunting (1997) [1080p]
+2025-04-22 11:45:32,722 - INFO - Deleting torrent with hash 7c0b027dadf7c3b7868d601d3ed5b3cfb3830991 (delete_files=False)
+2025-04-22 11:45:32,732 - INFO - Successfully deleted torrent with hash 7c0b027dadf7c3b7868d601d3ed5b3cfb3830991
+2025-04-22 11:45:32,732 - INFO - Deleting content files: Good Will Hunting (1997) [1080p]
+2025-04-22 11:45:32,732 - INFO - Deleting content: /home/user/Desktop/torrents/Good Will Hunting (1997) [1080p]
+2025-04-22 11:45:32,733 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Good Will Hunting (1997) [1080p]
+2025-04-22 11:45:32,733 - INFO - Successfully processed torrent: Good Will Hunting (1997) [1080p]
+2025-04-22 11:45:32,733 - INFO - Processing torrent: Boyhood (2014) [1080p]
+2025-04-22 11:45:32,733 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Good Will Hunting (1997) [1080p]'}
+2025-04-22 11:45:32,733 - INFO - Attempting to upload torrent: Boyhood (2014) [1080p]
+2025-04-22 11:45:32,734 - INFO - Content path: /home/user/Desktop/torrents/Boyhood (2014) [1080p]
+2025-04-22 11:45:32,734 - INFO - Remote path: onedrive:Torrents/Boyhood (2014) [1080p]
+2025-04-22 11:45:32,734 - INFO - Uploading torrent: Boyhood (2014) [1080p]
+2025-04-22 11:45:32,734 - INFO - Directory /home/user/Desktop/torrents/Boyhood (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-22 11:45:32,734 - INFO - Starting upload: /home/user/Desktop/torrents/Boyhood (2014) [1080p] -> onedrive:Torrents/Boyhood (2014) [1080p]
+2025-04-22 11:45:32,734 - INFO - Uploading directory of size 2324.23 MB
