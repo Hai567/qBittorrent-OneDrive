@@ -8892,3 +8892,15 @@
 2025-04-22 04:40:33,619 - INFO - Directory /home/user/Desktop/torrents/Ride Along 2 (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 04:40:33,619 - INFO - Starting upload: /home/user/Desktop/torrents/Ride Along 2 (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Ride Along 2 (2016) [1080p] [YTS.AG]
 2025-04-22 04:40:33,619 - INFO - Uploading directory of size 1581.42 MB
+2025-04-22 04:46:09,277 - INFO - Successfully uploaded to onedrive:Torrents/Ride Along 2 (2016) [1080p] [YTS.AG]
+2025-04-22 04:46:09,278 - INFO - Verifying upload for: Ride Along 2 (2016) [1080p] [YTS.AG]
+2025-04-22 04:46:09,278 - INFO - Verifying upload: /home/user/Desktop/torrents/Ride Along 2 (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Ride Along 2 (2016) [1080p] [YTS.AG]
+2025-04-22 04:46:11,633 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ride Along 2 (2016) [1080p] [YTS.AG]
+2025-04-22 04:46:11,641 - INFO - Deleting torrent from qBittorrent: Ride Along 2 (2016) [1080p] [YTS.AG]
+2025-04-22 04:46:11,641 - INFO - Deleting torrent with hash 4e0b184009813485f9bb3fbb458042db0f7dd79e (delete_files=False)
+2025-04-22 04:46:11,650 - INFO - Successfully deleted torrent with hash 4e0b184009813485f9bb3fbb458042db0f7dd79e
+2025-04-22 04:46:11,650 - INFO - Deleting content files: Ride Along 2 (2016) [1080p] [YTS.AG]
+2025-04-22 04:46:11,650 - INFO - Deleting content: /home/user/Desktop/torrents/Ride Along 2 (2016) [1080p] [YTS.AG]
+2025-04-22 04:46:11,651 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ride Along 2 (2016) [1080p] [YTS.AG]
+2025-04-22 04:46:11,651 - INFO - Successfully processed torrent: Ride Along 2 (2016) [1080p] [YTS.AG]
+2025-04-22 04:46:11,652 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ride Along 2 (2016) [1080p] [YTS.AG]'}
