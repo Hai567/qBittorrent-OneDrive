@@ -3,6 +3,6 @@
     "git_commands": [
         ["git", "add", "."],
         ["git", "commit", "-m", "[bot] update crawling data"],
-        ["git", "push", "origin", "master"]
+        ["git", "push", "origin", "vps"]
     ]
 }
