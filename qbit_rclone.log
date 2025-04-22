@@ -11634,3 +11634,83 @@
 2025-04-22 17:13:34,285 - INFO - Directory /home/user/Desktop/torrents/Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
 2025-04-22 17:13:34,285 - INFO - Starting upload: /home/user/Desktop/torrents/Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-22 17:13:34,286 - INFO - Uploading directory of size 2006.92 MB
+2025-04-22 17:15:49,367 - INFO - Successfully uploaded to onedrive:Torrents/Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:15:49,368 - INFO - Verifying upload for: Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:15:49,368 - INFO - Verifying upload: /home/user/Desktop/torrents/Adrift (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:15:51,617 - INFO - Upload verification successful for /home/user/Desktop/torrents/Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:15:51,628 - INFO - Deleting torrent from qBittorrent: Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:15:51,628 - INFO - Deleting torrent with hash 2fc26f9eedecce3ab2874bb199527225a94779db (delete_files=False)
+2025-04-22 17:15:51,641 - INFO - Successfully deleted torrent with hash 2fc26f9eedecce3ab2874bb199527225a94779db
+2025-04-22 17:15:51,641 - INFO - Deleting content files: Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:15:51,641 - INFO - Deleting content: /home/user/Desktop/torrents/Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:15:51,643 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:15:51,643 - INFO - Successfully processed torrent: Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:15:51,643 - INFO - Processing torrent: Tracers (2015) [1080p]
+2025-04-22 17:15:51,643 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Adrift (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-22 17:15:51,643 - INFO - Attempting to upload torrent: Tracers (2015) [1080p]
+2025-04-22 17:15:51,644 - INFO - Content path: /home/user/Desktop/torrents/Tracers (2015) [1080p]
+2025-04-22 17:15:51,644 - INFO - Remote path: onedrive:Torrents/Tracers (2015) [1080p]
+2025-04-22 17:15:51,644 - INFO - Uploading torrent: Tracers (2015) [1080p]
+2025-04-22 17:15:51,644 - INFO - Directory /home/user/Desktop/torrents/Tracers (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-22 17:15:51,644 - INFO - Starting upload: /home/user/Desktop/torrents/Tracers (2015) [1080p] -> onedrive:Torrents/Tracers (2015) [1080p]
+2025-04-22 17:15:51,644 - INFO - Uploading directory of size 1466.60 MB
+2025-04-22 17:16:17,621 - INFO - Successfully uploaded to onedrive:Torrents/The Book of Life (2014) [1080p]
+2025-04-22 17:16:17,621 - INFO - Verifying upload for: The Book of Life (2014) [1080p]
+2025-04-22 17:16:17,622 - INFO - Verifying upload: /home/user/Desktop/torrents/The Book of Life (2014) [1080p] -> onedrive:Torrents/The Book of Life (2014) [1080p]
+2025-04-22 17:16:19,979 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Book of Life (2014) [1080p]
+2025-04-22 17:16:19,990 - INFO - Deleting torrent from qBittorrent: The Book of Life (2014) [1080p]
+2025-04-22 17:16:19,990 - INFO - Deleting torrent with hash 4ebd6b18a51ae1b329e81c655c40396d58ae8ec3 (delete_files=False)
+2025-04-22 17:16:20,001 - INFO - Successfully deleted torrent with hash 4ebd6b18a51ae1b329e81c655c40396d58ae8ec3
+2025-04-22 17:16:20,002 - INFO - Deleting content files: The Book of Life (2014) [1080p]
+2025-04-22 17:16:20,002 - INFO - Deleting content: /home/user/Desktop/torrents/The Book of Life (2014) [1080p]
+2025-04-22 17:16:20,003 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Book of Life (2014) [1080p]
+2025-04-22 17:16:20,004 - INFO - Successfully processed torrent: The Book of Life (2014) [1080p]
+2025-04-22 17:16:20,004 - INFO - Processing torrent: Green Lantern (2011)
+2025-04-22 17:16:20,004 - INFO - Attempting to upload torrent: Green Lantern (2011)
+2025-04-22 17:16:20,004 - INFO - Content path: /home/user/Desktop/torrents/Green Lantern (2011)
+2025-04-22 17:16:20,004 - INFO - Remote path: onedrive:Torrents/Green Lantern (2011)
+2025-04-22 17:16:20,004 - INFO - Uploading torrent: Green Lantern (2011)
+2025-04-22 17:16:20,004 - INFO - Directory /home/user/Desktop/torrents/Green Lantern (2011) is readable, contains 4 files/dirs
+2025-04-22 17:16:20,004 - INFO - Starting upload: /home/user/Desktop/torrents/Green Lantern (2011) -> onedrive:Torrents/Green Lantern (2011)
+2025-04-22 17:16:20,005 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Book of Life (2014) [1080p]'}
+2025-04-22 17:16:20,005 - INFO - Uploading directory of size 751.20 MB
+2025-04-22 17:16:39,341 - INFO - Successfully uploaded to onedrive:Torrents/Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:16:39,341 - INFO - Verifying upload for: Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:16:39,342 - INFO - Verifying upload: /home/user/Desktop/torrents/Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:16:41,626 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:16:41,734 - INFO - Deleting torrent from qBittorrent: Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:16:41,735 - INFO - Deleting torrent with hash 8d98446a7d4ed24aa1196816d186ed8fcbffae93 (delete_files=False)
+2025-04-22 17:16:41,750 - INFO - Successfully deleted torrent with hash 8d98446a7d4ed24aa1196816d186ed8fcbffae93
+2025-04-22 17:16:41,750 - INFO - Deleting content files: Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:16:41,750 - INFO - Deleting content: /home/user/Desktop/torrents/Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:16:41,752 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:16:41,752 - INFO - Successfully processed torrent: Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:16:41,752 - INFO - Processing torrent: The Autopsy Of Jane Doe (2016) [1080p] [YTS.AG]
+2025-04-22 17:16:41,752 - INFO - Attempting to upload torrent: The Autopsy Of Jane Doe (2016) [1080p] [YTS.AG]
+2025-04-22 17:16:41,752 - INFO - Content path: /home/user/Desktop/torrents/The Autopsy Of Jane Doe (2016) [1080p] [YTS.AG]
+2025-04-22 17:16:41,753 - INFO - Remote path: onedrive:Torrents/The Autopsy Of Jane Doe (2016) [1080p] [YTS.AG]
+2025-04-22 17:16:41,753 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-22 17:16:41,753 - INFO - Uploading torrent: The Autopsy Of Jane Doe (2016) [1080p] [YTS.AG]
+2025-04-22 17:16:41,754 - INFO - Directory /home/user/Desktop/torrents/The Autopsy Of Jane Doe (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 17:16:41,754 - INFO - Starting upload: /home/user/Desktop/torrents/The Autopsy Of Jane Doe (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Autopsy Of Jane Doe (2016) [1080p] [YTS.AG]
+2025-04-22 17:16:41,754 - INFO - Uploading directory of size 1354.38 MB
+2025-04-22 17:18:04,201 - INFO - Successfully uploaded to onedrive:Torrents/Rush (2013) [1080p]
+2025-04-22 17:18:04,201 - INFO - Verifying upload for: Rush (2013) [1080p]
+2025-04-22 17:18:04,201 - INFO - Verifying upload: /home/user/Desktop/torrents/Rush (2013) [1080p] -> onedrive:Torrents/Rush (2013) [1080p]
+2025-04-22 17:18:05,540 - INFO - Upload verification successful for /home/user/Desktop/torrents/Rush (2013) [1080p]
+2025-04-22 17:18:05,553 - INFO - Deleting torrent from qBittorrent: Rush (2013) [1080p]
+2025-04-22 17:18:05,554 - INFO - Deleting torrent with hash 1e9e92954339bbae593fd6b77211302a7f1dedd6 (delete_files=False)
+2025-04-22 17:18:05,567 - INFO - Successfully deleted torrent with hash 1e9e92954339bbae593fd6b77211302a7f1dedd6
+2025-04-22 17:18:05,567 - INFO - Deleting content files: Rush (2013) [1080p]
+2025-04-22 17:18:05,567 - INFO - Deleting content: /home/user/Desktop/torrents/Rush (2013) [1080p]
+2025-04-22 17:18:05,569 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Rush (2013) [1080p]
+2025-04-22 17:18:05,569 - INFO - Successfully processed torrent: Rush (2013) [1080p]
+2025-04-22 17:18:05,569 - INFO - Processing torrent: Rush Hour 3 (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:18:05,569 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Rush (2013) [1080p]'}
+2025-04-22 17:18:05,569 - INFO - Attempting to upload torrent: Rush Hour 3 (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:18:05,570 - INFO - Content path: /home/user/Desktop/torrents/Rush Hour 3 (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:18:05,570 - INFO - Remote path: onedrive:Torrents/Rush Hour 3 (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:18:05,570 - INFO - Uploading torrent: Rush Hour 3 (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:18:05,570 - INFO - Directory /home/user/Desktop/torrents/Rush Hour 3 (2007) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 17:18:05,570 - INFO - Starting upload: /home/user/Desktop/torrents/Rush Hour 3 (2007) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Rush Hour 3 (2007) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:18:05,570 - INFO - Uploading directory of size 1713.98 MB
