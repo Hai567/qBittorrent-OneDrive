@@ -10678,3 +10678,23 @@
 2025-04-22 15:19:13,488 - INFO - Uploading directory of size 1024.83 MB
 2025-04-22 15:19:13,488 - INFO - Uploading directory of size 2383.82 MB
 2025-04-22 15:19:13,491 - INFO - Uploading directory of size 1889.48 MB
+2025-04-22 15:25:11,060 - INFO - Successfully uploaded to onedrive:Torrents/Shrek 2 (2004) [1080p]
+2025-04-22 15:25:11,061 - INFO - Verifying upload for: Shrek 2 (2004) [1080p]
+2025-04-22 15:25:11,061 - INFO - Verifying upload: /home/user/Desktop/torrents/Shrek 2 (2004) [1080p] -> onedrive:Torrents/Shrek 2 (2004) [1080p]
+2025-04-22 15:25:14,416 - INFO - Upload verification successful for /home/user/Desktop/torrents/Shrek 2 (2004) [1080p]
+2025-04-22 15:25:14,428 - INFO - Deleting torrent from qBittorrent: Shrek 2 (2004) [1080p]
+2025-04-22 15:25:14,428 - INFO - Deleting torrent with hash bc30a6186b6e3c86e560d8741edbf277d06c6136 (delete_files=False)
+2025-04-22 15:25:14,441 - INFO - Successfully deleted torrent with hash bc30a6186b6e3c86e560d8741edbf277d06c6136
+2025-04-22 15:25:14,441 - INFO - Deleting content files: Shrek 2 (2004) [1080p]
+2025-04-22 15:25:14,441 - INFO - Deleting content: /home/user/Desktop/torrents/Shrek 2 (2004) [1080p]
+2025-04-22 15:25:14,442 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Shrek 2 (2004) [1080p]
+2025-04-22 15:25:14,442 - INFO - Successfully processed torrent: Shrek 2 (2004) [1080p]
+2025-04-22 15:25:14,442 - INFO - Processing torrent: Shrek (2001) [1080p]
+2025-04-22 15:25:14,443 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Shrek 2 (2004) [1080p]'}
+2025-04-22 15:25:14,443 - INFO - Attempting to upload torrent: Shrek (2001) [1080p]
+2025-04-22 15:25:14,443 - INFO - Content path: /home/user/Desktop/torrents/Shrek (2001) [1080p]
+2025-04-22 15:25:14,443 - INFO - Remote path: onedrive:Torrents/Shrek (2001) [1080p]
+2025-04-22 15:25:14,444 - INFO - Uploading torrent: Shrek (2001) [1080p]
+2025-04-22 15:25:14,444 - INFO - Directory /home/user/Desktop/torrents/Shrek (2001) [1080p] is readable, contains 4 files/dirs
+2025-04-22 15:25:14,444 - INFO - Starting upload: /home/user/Desktop/torrents/Shrek (2001) [1080p] -> onedrive:Torrents/Shrek (2001) [1080p]
+2025-04-22 15:25:14,444 - INFO - Uploading directory of size 1018.80 MB
