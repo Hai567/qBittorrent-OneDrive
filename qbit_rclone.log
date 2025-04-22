@@ -10161,3 +10161,23 @@
 2025-04-22 13:51:20,975 - INFO - Directory /home/user/Desktop/torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
 2025-04-22 13:51:20,976 - INFO - Starting upload: /home/user/Desktop/torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-22 13:51:20,976 - INFO - Uploading directory of size 1831.44 MB
+2025-04-22 13:59:57,346 - INFO - Successfully uploaded to onedrive:Torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:59:57,346 - INFO - Verifying upload for: The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:59:57,346 - INFO - Verifying upload: /home/user/Desktop/torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:59:58,970 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:59:59,033 - INFO - Deleting torrent from qBittorrent: The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:59:59,033 - INFO - Deleting torrent with hash c49c1ac045296438af5730a8fbf82b0ecd07e979 (delete_files=False)
+2025-04-22 13:59:59,047 - INFO - Successfully deleted torrent with hash c49c1ac045296438af5730a8fbf82b0ecd07e979
+2025-04-22 13:59:59,047 - INFO - Deleting content files: The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:59:59,047 - INFO - Deleting content: /home/user/Desktop/torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:59:59,050 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:59:59,050 - INFO - Successfully processed torrent: The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:59:59,050 - INFO - Processing torrent: Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:59:59,051 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-22 13:59:59,051 - INFO - Attempting to upload torrent: Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:59:59,051 - INFO - Content path: /home/user/Desktop/torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:59:59,051 - INFO - Remote path: onedrive:Torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:59:59,051 - INFO - Uploading torrent: Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:59:59,051 - INFO - Directory /home/user/Desktop/torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-22 13:59:59,052 - INFO - Starting upload: /home/user/Desktop/torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:59:59,052 - INFO - Uploading directory of size 3565.90 MB
