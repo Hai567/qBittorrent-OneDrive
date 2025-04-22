@@ -1,1 +1,2 @@
 2025/04/21 15:12:10 NOTICE: Dropbox root 'nkiri': --checksum is in use but the source and destination have no hashes in common; falling back to --size-only
+2025/04/22 04:13:13 NOTICE: Dropbox root 'nkiri': --checksum is in use but the source and destination have no hashes in common; falling back to --size-only
