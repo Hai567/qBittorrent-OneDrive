@@ -8776,3 +8776,29 @@
 2025-04-21 17:51:21,783 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
 2025-04-21 17:51:21,783 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
 2025-04-21 17:51:21,783 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-21 17:56:21,842 - INFO - Active upload threads: 5/5
+2025-04-21 17:56:21,842 - INFO - Checking for completed torrents...
+2025-04-21 17:56:21,848 - INFO - Found 6 completed torrents
+2025-04-21 17:56:21,848 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-21 17:56:21,848 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-21 17:56:21,848 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-21 17:56:21,848 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-21 17:56:21,848 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-21 17:56:21,849 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-22 04:13:12,701 - INFO - Loaded configuration from config.json
+2025-04-22 04:13:12,702 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-22 04:13:12,704 - INFO - Loaded 987 previously processed torrents
+2025-04-22 04:13:12,705 - INFO - Multithreaded uploading enabled with 5 workers
+2025-04-22 04:13:12,781 - INFO - Found onedrive remote in rclone configuration
+2025-04-22 04:13:12,786 - INFO - Successfully logged in to qBittorrent
+2025-04-22 04:13:12,786 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-22 04:13:12,786 - INFO - Running in multithreaded mode with 5 upload workers
+2025-04-22 04:13:12,786 - INFO - Active upload threads: 0/5
+2025-04-22 04:13:12,786 - INFO - Checking for completed torrents...
+2025-04-22 04:13:12,789 - INFO - Found 6 completed torrents
+2025-04-22 04:13:12,790 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-22 04:13:12,790 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-22 04:13:12,790 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-22 04:13:12,790 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-22 04:13:12,790 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-22 04:13:12,790 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
