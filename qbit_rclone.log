@@ -11998,3 +11998,39 @@
 2025-04-22 17:38:49,177 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Walk Among the Tombstones (2014) [1080p]
 2025-04-22 17:38:49,177 - INFO - Successfully processed torrent: A Walk Among the Tombstones (2014) [1080p]
 2025-04-22 17:38:49,178 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A Walk Among the Tombstones (2014) [1080p]'}
+2025-04-22 17:40:35,778 - INFO - Successfully uploaded to onedrive:Torrents/The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:40:35,779 - INFO - Verifying upload for: The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:40:35,779 - INFO - Verifying upload: /home/user/Desktop/torrents/The LEGO Ninjago Movie (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:40:37,531 - INFO - Upload verification successful for /home/user/Desktop/torrents/The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:40:37,545 - INFO - Deleting torrent from qBittorrent: The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:40:37,545 - INFO - Deleting torrent with hash cc1303a276d2f39762e997ab542c9f18757a9e73 (delete_files=False)
+2025-04-22 17:40:37,557 - INFO - Successfully deleted torrent with hash cc1303a276d2f39762e997ab542c9f18757a9e73
+2025-04-22 17:40:37,557 - INFO - Deleting content files: The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:40:37,557 - INFO - Deleting content: /home/user/Desktop/torrents/The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:40:37,560 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:40:37,560 - INFO - Successfully processed torrent: The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:40:37,561 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]'}
+2025-04-22 17:41:15,600 - INFO - Successfully uploaded to onedrive:Torrents/Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-22 17:41:15,601 - INFO - Verifying upload for: Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-22 17:41:15,601 - INFO - Verifying upload: /home/user/Desktop/torrents/Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]/Ice.Age.The.Great.Egg-Scapade.2016.1080p.WEBRip.x264.AAC-[YTS.MX].mp4 -> onedrive:Torrents/Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-22 17:41:17,855 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]/Ice.Age.The.Great.Egg-Scapade.2016.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
+2025-04-22 17:41:17,866 - INFO - Deleting torrent from qBittorrent: Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-22 17:41:17,867 - INFO - Deleting torrent with hash 0159dcebd00206ab630bc1f52ed6ba798d29a8f5 (delete_files=False)
+2025-04-22 17:41:17,877 - INFO - Successfully deleted torrent with hash 0159dcebd00206ab630bc1f52ed6ba798d29a8f5
+2025-04-22 17:41:17,877 - INFO - Deleting content files: Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-22 17:41:17,877 - INFO - Deleting content: /home/user/Desktop/torrents/Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]/Ice.Age.The.Great.Egg-Scapade.2016.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
+2025-04-22 17:41:17,884 - INFO - Successfully deleted file: /home/user/Desktop/torrents/Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]/Ice.Age.The.Great.Egg-Scapade.2016.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
+2025-04-22 17:41:17,884 - INFO - Successfully processed torrent: Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-22 17:41:17,884 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]'}
+2025-04-22 17:41:39,230 - INFO - Successfully uploaded to onedrive:Torrents/Ride Along (2014) [1080p]
+2025-04-22 17:41:39,230 - INFO - Verifying upload for: Ride Along (2014) [1080p]
+2025-04-22 17:41:39,230 - INFO - Verifying upload: /home/user/Desktop/torrents/Ride Along (2014) [1080p] -> onedrive:Torrents/Ride Along (2014) [1080p]
+2025-04-22 17:41:41,562 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ride Along (2014) [1080p]
+2025-04-22 17:41:41,574 - INFO - Deleting torrent from qBittorrent: Ride Along (2014) [1080p]
+2025-04-22 17:41:41,574 - INFO - Deleting torrent with hash 6d33a5b43d4fc8f70bc272667197e24d1b71e99b (delete_files=False)
+2025-04-22 17:41:41,584 - INFO - Successfully deleted torrent with hash 6d33a5b43d4fc8f70bc272667197e24d1b71e99b
+2025-04-22 17:41:41,584 - INFO - Deleting content files: Ride Along (2014) [1080p]
+2025-04-22 17:41:41,584 - INFO - Deleting content: /home/user/Desktop/torrents/Ride Along (2014) [1080p]
+2025-04-22 17:41:41,588 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ride Along (2014) [1080p]
+2025-04-22 17:41:41,588 - INFO - Successfully processed torrent: Ride Along (2014) [1080p]
+2025-04-22 17:41:41,589 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ride Along (2014) [1080p]'}
