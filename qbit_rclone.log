@@ -9503,3 +9503,23 @@
 2025-04-22 11:25:17,441 - INFO - Directory /home/user/Desktop/torrents/Source Code ( 2011 ) [1080p] is readable, contains 4 files/dirs
 2025-04-22 11:25:17,441 - INFO - Starting upload: /home/user/Desktop/torrents/Source Code ( 2011 ) [1080p] -> onedrive:Torrents/Source Code ( 2011 ) [1080p]
 2025-04-22 11:25:17,441 - INFO - Uploading directory of size 1198.63 MB
+2025-04-22 11:27:01,886 - INFO - Successfully uploaded to onedrive:Torrents/The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:27:01,887 - INFO - Verifying upload for: The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:27:01,887 - INFO - Verifying upload: /home/user/Desktop/torrents/The Bourne Ultimatum (2007) [1080p] -> onedrive:Torrents/The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:27:04,941 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:27:04,950 - INFO - Deleting torrent from qBittorrent: The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:27:04,951 - INFO - Deleting torrent with hash 7d976ef1cf71a03f9397e593c2f6d918a06a41e6 (delete_files=False)
+2025-04-22 11:27:04,958 - INFO - Successfully deleted torrent with hash 7d976ef1cf71a03f9397e593c2f6d918a06a41e6
+2025-04-22 11:27:04,958 - INFO - Deleting content files: The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:27:04,959 - INFO - Deleting content: /home/user/Desktop/torrents/The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:27:04,960 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:27:04,960 - INFO - Successfully processed torrent: The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:27:04,960 - INFO - Processing torrent: The Pianist (2002) [1080p]
+2025-04-22 11:27:04,960 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Bourne Ultimatum (2007) [1080p]'}
+2025-04-22 11:27:04,960 - INFO - Attempting to upload torrent: The Pianist (2002) [1080p]
+2025-04-22 11:27:04,960 - INFO - Content path: /home/user/Desktop/torrents/The Pianist (2002) [1080p]
+2025-04-22 11:27:04,960 - INFO - Remote path: onedrive:Torrents/The Pianist (2002) [1080p]
+2025-04-22 11:27:04,960 - INFO - Uploading torrent: The Pianist (2002) [1080p]
+2025-04-22 11:27:04,960 - INFO - Directory /home/user/Desktop/torrents/The Pianist (2002) [1080p] is readable, contains 3 files/dirs
+2025-04-22 11:27:04,960 - INFO - Starting upload: /home/user/Desktop/torrents/The Pianist (2002) [1080p] -> onedrive:Torrents/The Pianist (2002) [1080p]
+2025-04-22 11:27:04,961 - INFO - Uploading directory of size 2050.57 MB
