@@ -10003,3 +10003,81 @@
 2025-04-22 13:19:46,392 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Transcendence (2014) [1080p]
 2025-04-22 13:19:46,392 - INFO - Successfully processed torrent: Transcendence (2014) [1080p]
 2025-04-22 13:19:46,393 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Transcendence (2014) [1080p]'}
+2025-04-22 13:24:46,400 - INFO - Active upload threads: 5/5
+2025-04-22 13:24:46,400 - INFO - Checking for completed torrents...
+2025-04-22 13:24:46,413 - INFO - Found 34 completed torrents
+2025-04-22 13:24:46,413 - INFO - Torrent Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 13:24:46,414 - INFO - Torrent Warrior's Gate (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Warrior's Gate (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 13:24:46,414 - INFO - Torrent The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 13:24:46,414 - INFO - Torrent Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 13:24:46,414 - INFO - Torrent A Cure For Wellness (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/A Cure For Wellness (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 13:24:46,414 - INFO - Torrent The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 13:24:46,414 - INFO - Torrent The Purge Anarchy (2014) [1080p]: content_path = /home/user/Desktop/torrents/The Purge Anarchy (2014) [1080p], exists: True
+2025-04-22 13:24:46,414 - INFO - Torrent American Psyco (2000) 1080p: content_path = /home/user/Desktop/torrents/American Psyco (2000) 1080p, exists: True
+2025-04-22 13:24:46,414 - INFO - Torrent Shaft (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-22 13:24:46,414 - INFO - Torrent Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 13:24:46,414 - INFO - Torrent Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 13:24:46,414 - INFO - Torrent To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-22 13:24:46,414 - INFO - Torrent White House Down (2013) [1080p]: content_path = /home/user/Desktop/torrents/White House Down (2013) [1080p], exists: True
+2025-04-22 13:24:46,415 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-22 13:24:46,415 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-22 13:24:46,415 - INFO - Torrent Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 13:24:46,415 - INFO - Torrent Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 13:24:46,415 - INFO - Torrent The Lone Ranger (2013) [1080p]: content_path = /home/user/Desktop/torrents/The Lone Ranger (2013) [1080p], exists: True
+2025-04-22 13:24:46,415 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-22 13:24:46,415 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,415 - INFO - Torrent Shrek 4 (2010) [1080p]: content_path = /home/user/Desktop/torrents/Shrek 4 (2010) [1080p], exists: True
+2025-04-22 13:24:46,415 - INFO - Torrent Legend (2015) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Legend (2015) [1080p] [YTS.AG], exists: True
+2025-04-22 13:24:46,415 - INFO - Torrent Star Trek Beyond (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Star Trek Beyond (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 13:24:46,415 - INFO - Torrent Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 13:24:46,415 - INFO - Torrent Don't Breathe (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Don't Breathe (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 13:24:46,415 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-22 13:24:46,415 - INFO - Torrent My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 13:24:46,415 - INFO - Torrent Ender's Game (2013) [1080p]: content_path = /home/user/Desktop/torrents/Ender's Game (2013) [1080p], exists: True
+2025-04-22 13:24:46,415 - INFO - Torrent Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 13:24:46,416 - INFO - Torrent Her (2013) [1080p]: content_path = /home/user/Desktop/torrents/Her (2013) [1080p], exists: True
+2025-04-22 13:24:46,416 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-22 13:24:46,416 - INFO - Torrent Ice Age The Meltdown (2006) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG], exists: True
+2025-04-22 13:24:46,416 - INFO - Torrent Ice Age 4 Continental Drift (2012) [1080p]: content_path = /home/user/Desktop/torrents/Ice Age 4 Continental Drift (2012) [1080p], exists: True
+2025-04-22 13:24:46,416 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-22 13:24:46,416 - INFO - Submitting 27 torrents for parallel upload
+2025-04-22 13:24:46,416 - INFO - Processing torrent: Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:24:46,417 - INFO - Processing torrent: Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,417 - INFO - Attempting to upload torrent: Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:24:46,417 - INFO - Processing torrent: The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:24:46,417 - INFO - Attempting to upload torrent: Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,417 - INFO - Content path: /home/user/Desktop/torrents/Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:24:46,417 - INFO - Processing torrent: Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:24:46,417 - INFO - Attempting to upload torrent: The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:24:46,418 - INFO - Processing torrent: A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,418 - INFO - Content path: /home/user/Desktop/torrents/Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,418 - INFO - Remote path: onedrive:Torrents/Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:24:46,418 - INFO - Attempting to upload torrent: Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:24:46,418 - INFO - Content path: /home/user/Desktop/torrents/The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:24:46,418 - INFO - Attempting to upload torrent: A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,419 - INFO - Remote path: onedrive:Torrents/Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,419 - INFO - Uploading torrent: Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:24:46,419 - INFO - Content path: /home/user/Desktop/torrents/Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:24:46,419 - INFO - Remote path: onedrive:Torrents/The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:24:46,419 - INFO - Content path: /home/user/Desktop/torrents/A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,420 - INFO - Uploading torrent: Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,420 - INFO - Remote path: onedrive:Torrents/Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:24:46,420 - INFO - Uploading torrent: The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:24:46,420 - INFO - Directory /home/user/Desktop/torrents/Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 13:24:46,421 - INFO - Remote path: onedrive:Torrents/A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,421 - INFO - Uploading torrent: Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:24:46,421 - INFO - Starting upload: /home/user/Desktop/torrents/Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:24:46,422 - INFO - Uploading torrent: A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,422 - INFO - Directory /home/user/Desktop/torrents/Warrior's Gate (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 13:24:46,422 - INFO - Directory /home/user/Desktop/torrents/Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 13:24:46,423 - INFO - Starting upload: /home/user/Desktop/torrents/Warrior's Gate (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,423 - INFO - Uploading directory of size 2365.20 MB
+2025-04-22 13:24:46,423 - INFO - Starting upload: /home/user/Desktop/torrents/Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Troy (2004) [DC] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:24:46,423 - INFO - Directory /home/user/Desktop/torrents/The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-22 13:24:46,424 - INFO - Directory /home/user/Desktop/torrents/A Cure For Wellness (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 13:24:46,425 - INFO - Starting upload: /home/user/Desktop/torrents/The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:24:46,425 - INFO - Uploading directory of size 1677.31 MB
+2025-04-22 13:24:46,425 - INFO - Starting upload: /home/user/Desktop/torrents/A Cure For Wellness (2016) [1080p] [YTS.AG] -> onedrive:Torrents/A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:24:46,425 - INFO - Uploading directory of size 3702.00 MB
+2025-04-22 13:24:46,428 - INFO - Uploading directory of size 2062.04 MB
+2025-04-22 13:24:46,428 - INFO - Uploading directory of size 2299.42 MB
