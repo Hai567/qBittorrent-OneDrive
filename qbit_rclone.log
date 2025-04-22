@@ -12209,3 +12209,103 @@
 2025-04-22 17:52:51,559 - INFO - Directory /home/user/Desktop/torrents/The Mechanic (2011) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 17:52:51,559 - INFO - Starting upload: /home/user/Desktop/torrents/The Mechanic (2011) [1080p] [YTS.AG] -> onedrive:Torrents/The Mechanic (2011) [1080p] [YTS.AG]
 2025-04-22 17:52:51,560 - INFO - Uploading directory of size 1454.64 MB
+2025-04-22 17:55:14,168 - INFO - Successfully uploaded to onedrive:Torrents/Ted 2 (2015) [1080p]
+2025-04-22 17:55:14,169 - INFO - Verifying upload for: Ted 2 (2015) [1080p]
+2025-04-22 17:55:14,169 - INFO - Verifying upload: /home/user/Desktop/torrents/Ted 2 (2015) [1080p] -> onedrive:Torrents/Ted 2 (2015) [1080p]
+2025-04-22 17:55:16,333 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ted 2 (2015) [1080p]
+2025-04-22 17:55:16,344 - INFO - Deleting torrent from qBittorrent: Ted 2 (2015) [1080p]
+2025-04-22 17:55:16,344 - INFO - Deleting torrent with hash 199bb951cc50ba1367b066d2197a0d82158c33d8 (delete_files=False)
+2025-04-22 17:55:16,353 - INFO - Successfully deleted torrent with hash 199bb951cc50ba1367b066d2197a0d82158c33d8
+2025-04-22 17:55:16,354 - INFO - Deleting content files: Ted 2 (2015) [1080p]
+2025-04-22 17:55:16,354 - INFO - Deleting content: /home/user/Desktop/torrents/Ted 2 (2015) [1080p]
+2025-04-22 17:55:16,355 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ted 2 (2015) [1080p]
+2025-04-22 17:55:16,355 - INFO - Successfully processed torrent: Ted 2 (2015) [1080p]
+2025-04-22 17:55:16,355 - INFO - Processing torrent: Unbroken (2014) [1080p]
+2025-04-22 17:55:16,355 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ted 2 (2015) [1080p]'}
+2025-04-22 17:55:16,355 - INFO - Attempting to upload torrent: Unbroken (2014) [1080p]
+2025-04-22 17:55:16,355 - INFO - Content path: /home/user/Desktop/torrents/Unbroken (2014) [1080p]
+2025-04-22 17:55:16,355 - INFO - Remote path: onedrive:Torrents/Unbroken (2014) [1080p]
+2025-04-22 17:55:16,356 - INFO - Uploading torrent: Unbroken (2014) [1080p]
+2025-04-22 17:55:16,356 - INFO - Directory /home/user/Desktop/torrents/Unbroken (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-22 17:55:16,356 - INFO - Starting upload: /home/user/Desktop/torrents/Unbroken (2014) [1080p] -> onedrive:Torrents/Unbroken (2014) [1080p]
+2025-04-22 17:55:16,356 - INFO - Uploading directory of size 2100.89 MB
+2025-04-22 17:57:08,200 - INFO - Successfully uploaded to onedrive:Torrents/Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:57:08,200 - INFO - Verifying upload for: Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:57:08,200 - INFO - Verifying upload: /home/user/Desktop/torrents/Jackass Presents Bad Grandpa (2013) [1080p] -> onedrive:Torrents/Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:57:11,426 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:57:11,439 - INFO - Deleting torrent from qBittorrent: Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:57:11,439 - INFO - Deleting torrent with hash 8fa12a754b2e630afba58151537af61c03c497f7 (delete_files=False)
+2025-04-22 17:57:11,449 - INFO - Successfully deleted torrent with hash 8fa12a754b2e630afba58151537af61c03c497f7
+2025-04-22 17:57:11,450 - INFO - Deleting content files: Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:57:11,450 - INFO - Deleting content: /home/user/Desktop/torrents/Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:57:11,451 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:57:11,451 - INFO - Successfully processed torrent: Jackass Presents Bad Grandpa (2013) [1080p]
+2025-04-22 17:57:11,451 - INFO - Processing torrent: Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-22 17:57:11,451 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Jackass Presents Bad Grandpa (2013) [1080p]'}
+2025-04-22 17:57:11,451 - INFO - Attempting to upload torrent: Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-22 17:57:11,451 - INFO - Content path: /home/user/Desktop/torrents/Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-22 17:57:11,452 - INFO - Remote path: onedrive:Torrents/Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-22 17:57:11,452 - INFO - Uploading torrent: Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-22 17:57:11,452 - INFO - Directory /home/user/Desktop/torrents/Steve Jobs (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 17:57:11,453 - INFO - Starting upload: /home/user/Desktop/torrents/Steve Jobs (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-22 17:57:11,453 - INFO - Uploading directory of size 1911.26 MB
+2025-04-22 17:57:32,797 - INFO - Successfully uploaded to onedrive:Torrents/Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:57:32,797 - INFO - Verifying upload for: Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:57:32,797 - INFO - Verifying upload: /home/user/Desktop/torrents/Togo (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:57:35,310 - INFO - Upload verification successful for /home/user/Desktop/torrents/Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:57:35,322 - INFO - Deleting torrent from qBittorrent: Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:57:35,322 - INFO - Deleting torrent with hash ac8df63c8e9d3ae615951a9adbf00bba9b54a106 (delete_files=False)
+2025-04-22 17:57:35,331 - INFO - Successfully deleted torrent with hash ac8df63c8e9d3ae615951a9adbf00bba9b54a106
+2025-04-22 17:57:35,331 - INFO - Deleting content files: Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:57:35,331 - INFO - Deleting content: /home/user/Desktop/torrents/Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:57:35,334 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:57:35,334 - INFO - Successfully processed torrent: Togo (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 17:57:35,334 - INFO - Processing torrent: Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:57:35,334 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Togo (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-22 17:57:35,334 - INFO - Attempting to upload torrent: Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:57:35,334 - INFO - Content path: /home/user/Desktop/torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:57:35,334 - INFO - Remote path: onedrive:Torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:57:35,334 - INFO - Uploading torrent: Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:57:35,334 - INFO - Directory /home/user/Desktop/torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 17:57:35,335 - INFO - Starting upload: /home/user/Desktop/torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:57:35,335 - INFO - Uploading directory of size 1820.86 MB
+2025-04-22 17:58:01,006 - INFO - Successfully uploaded to onedrive:Torrents/30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:01,006 - INFO - Verifying upload for: 30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:01,007 - INFO - Verifying upload: /home/user/Desktop/torrents/30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,193 - INFO - Upload verification successful for /home/user/Desktop/torrents/30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,205 - INFO - Deleting torrent from qBittorrent: 30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,205 - INFO - Deleting torrent with hash 977edc3e433cfd60cac9f39f26c6583862ef64b5 (delete_files=False)
+2025-04-22 17:58:03,214 - INFO - Successfully deleted torrent with hash 977edc3e433cfd60cac9f39f26c6583862ef64b5
+2025-04-22 17:58:03,214 - INFO - Deleting content files: 30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,214 - INFO - Deleting content: /home/user/Desktop/torrents/30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,216 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,216 - INFO - Successfully processed torrent: 30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,217 - INFO - Processing torrent: Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,217 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': '30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 17:58:03,217 - INFO - Attempting to upload torrent: Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,217 - INFO - Content path: /home/user/Desktop/torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,217 - INFO - Remote path: onedrive:Torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,217 - INFO - Uploading torrent: Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,218 - INFO - Directory /home/user/Desktop/torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-22 17:58:03,218 - INFO - Starting upload: /home/user/Desktop/torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:58:03,218 - INFO - Uploading directory of size 1703.79 MB
+2025-04-22 17:58:06,967 - INFO - Successfully uploaded to onedrive:Torrents/The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:58:06,967 - INFO - Verifying upload for: The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:58:06,967 - INFO - Verifying upload: /home/user/Desktop/torrents/The Mechanic (2011) [1080p] [YTS.AG] -> onedrive:Torrents/The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:58:09,222 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:58:09,232 - INFO - Deleting torrent from qBittorrent: The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:58:09,232 - INFO - Deleting torrent with hash 3162976719d2921665c09100650e992c9be63ddc (delete_files=False)
+2025-04-22 17:58:09,242 - INFO - Successfully deleted torrent with hash 3162976719d2921665c09100650e992c9be63ddc
+2025-04-22 17:58:09,242 - INFO - Deleting content files: The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:58:09,242 - INFO - Deleting content: /home/user/Desktop/torrents/The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:58:09,243 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:58:09,243 - INFO - Successfully processed torrent: The Mechanic (2011) [1080p] [YTS.AG]
+2025-04-22 17:58:09,243 - INFO - Processing torrent: Son of a Gun (2014) [1080p]
+2025-04-22 17:58:09,243 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Mechanic (2011) [1080p] [YTS.AG]'}
+2025-04-22 17:58:09,243 - INFO - Attempting to upload torrent: Son of a Gun (2014) [1080p]
+2025-04-22 17:58:09,243 - INFO - Content path: /home/user/Desktop/torrents/Son of a Gun (2014) [1080p]
+2025-04-22 17:58:09,243 - INFO - Remote path: onedrive:Torrents/Son of a Gun (2014) [1080p]
+2025-04-22 17:58:09,243 - INFO - Uploading torrent: Son of a Gun (2014) [1080p]
+2025-04-22 17:58:09,243 - INFO - Directory /home/user/Desktop/torrents/Son of a Gun (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-22 17:58:09,243 - INFO - Starting upload: /home/user/Desktop/torrents/Son of a Gun (2014) [1080p] -> onedrive:Torrents/Son of a Gun (2014) [1080p]
+2025-04-22 17:58:09,244 - INFO - Uploading directory of size 1688.48 MB
