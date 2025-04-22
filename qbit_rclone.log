@@ -9483,3 +9483,23 @@
 2025-04-22 11:08:11,888 - INFO - Uploading directory of size 2868.56 MB
 2025-04-22 11:08:11,888 - INFO - Uploading directory of size 1588.88 MB
 2025-04-22 11:08:11,891 - INFO - Uploading directory of size 1435.55 MB
+2025-04-22 11:25:14,360 - INFO - Successfully uploaded to onedrive:Torrents/The Expendables (2010) [1080p]
+2025-04-22 11:25:14,360 - INFO - Verifying upload for: The Expendables (2010) [1080p]
+2025-04-22 11:25:14,360 - INFO - Verifying upload: /home/user/Desktop/torrents/The Expendables (2010) [1080p] -> onedrive:Torrents/The Expendables (2010) [1080p]
+2025-04-22 11:25:17,416 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Expendables (2010) [1080p]
+2025-04-22 11:25:17,427 - INFO - Deleting torrent from qBittorrent: The Expendables (2010) [1080p]
+2025-04-22 11:25:17,427 - INFO - Deleting torrent with hash ed1a2eb6455a4c7e2a04d82eef96317ee694323b (delete_files=False)
+2025-04-22 11:25:17,437 - INFO - Successfully deleted torrent with hash ed1a2eb6455a4c7e2a04d82eef96317ee694323b
+2025-04-22 11:25:17,437 - INFO - Deleting content files: The Expendables (2010) [1080p]
+2025-04-22 11:25:17,438 - INFO - Deleting content: /home/user/Desktop/torrents/The Expendables (2010) [1080p]
+2025-04-22 11:25:17,439 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Expendables (2010) [1080p]
+2025-04-22 11:25:17,439 - INFO - Successfully processed torrent: The Expendables (2010) [1080p]
+2025-04-22 11:25:17,439 - INFO - Processing torrent: Source Code ( 2011 ) [1080p]
+2025-04-22 11:25:17,439 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Expendables (2010) [1080p]'}
+2025-04-22 11:25:17,439 - INFO - Attempting to upload torrent: Source Code ( 2011 ) [1080p]
+2025-04-22 11:25:17,440 - INFO - Content path: /home/user/Desktop/torrents/Source Code ( 2011 ) [1080p]
+2025-04-22 11:25:17,440 - INFO - Remote path: onedrive:Torrents/Source Code ( 2011 ) [1080p]
+2025-04-22 11:25:17,440 - INFO - Uploading torrent: Source Code ( 2011 ) [1080p]
+2025-04-22 11:25:17,441 - INFO - Directory /home/user/Desktop/torrents/Source Code ( 2011 ) [1080p] is readable, contains 4 files/dirs
+2025-04-22 11:25:17,441 - INFO - Starting upload: /home/user/Desktop/torrents/Source Code ( 2011 ) [1080p] -> onedrive:Torrents/Source Code ( 2011 ) [1080p]
+2025-04-22 11:25:17,441 - INFO - Uploading directory of size 1198.63 MB
