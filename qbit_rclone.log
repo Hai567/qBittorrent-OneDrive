@@ -9703,3 +9703,23 @@
 2025-04-22 12:02:58,718 - INFO - Directory /home/user/Desktop/torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
 2025-04-22 12:02:58,718 - INFO - Starting upload: /home/user/Desktop/torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-22 12:02:58,718 - INFO - Uploading directory of size 2312.96 MB
+2025-04-22 12:11:05,915 - INFO - Successfully uploaded to onedrive:Torrents/Unbreakable (2000) [1080p]
+2025-04-22 12:11:05,915 - INFO - Verifying upload for: Unbreakable (2000) [1080p]
+2025-04-22 12:11:05,915 - INFO - Verifying upload: /home/user/Desktop/torrents/Unbreakable (2000) [1080p] -> onedrive:Torrents/Unbreakable (2000) [1080p]
+2025-04-22 12:11:08,691 - INFO - Upload verification successful for /home/user/Desktop/torrents/Unbreakable (2000) [1080p]
+2025-04-22 12:11:08,701 - INFO - Deleting torrent from qBittorrent: Unbreakable (2000) [1080p]
+2025-04-22 12:11:08,701 - INFO - Deleting torrent with hash eaae0e19493c45ef637a863f07dfeab10c318abc (delete_files=False)
+2025-04-22 12:11:08,711 - INFO - Successfully deleted torrent with hash eaae0e19493c45ef637a863f07dfeab10c318abc
+2025-04-22 12:11:08,711 - INFO - Deleting content files: Unbreakable (2000) [1080p]
+2025-04-22 12:11:08,711 - INFO - Deleting content: /home/user/Desktop/torrents/Unbreakable (2000) [1080p]
+2025-04-22 12:11:08,712 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Unbreakable (2000) [1080p]
+2025-04-22 12:11:08,712 - INFO - Successfully processed torrent: Unbreakable (2000) [1080p]
+2025-04-22 12:11:08,712 - INFO - Processing torrent: Resident Evil (2002) [1080p]
+2025-04-22 12:11:08,712 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Unbreakable (2000) [1080p]'}
+2025-04-22 12:11:08,712 - INFO - Attempting to upload torrent: Resident Evil (2002) [1080p]
+2025-04-22 12:11:08,712 - INFO - Content path: /home/user/Desktop/torrents/Resident Evil (2002) [1080p]
+2025-04-22 12:11:08,712 - INFO - Remote path: onedrive:Torrents/Resident Evil (2002) [1080p]
+2025-04-22 12:11:08,713 - INFO - Uploading torrent: Resident Evil (2002) [1080p]
+2025-04-22 12:11:08,713 - INFO - Directory /home/user/Desktop/torrents/Resident Evil (2002) [1080p] is readable, contains 3 files/dirs
+2025-04-22 12:11:08,713 - INFO - Starting upload: /home/user/Desktop/torrents/Resident Evil (2002) [1080p] -> onedrive:Torrents/Resident Evil (2002) [1080p]
+2025-04-22 12:11:08,713 - INFO - Uploading directory of size 1385.10 MB
