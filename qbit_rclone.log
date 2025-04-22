@@ -9783,3 +9783,43 @@
 2025-04-22 12:26:07,131 - INFO - Directory /home/user/Desktop/torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-22 12:26:07,131 - INFO - Starting upload: /home/user/Desktop/torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
 2025-04-22 12:26:07,132 - INFO - Uploading directory of size 1803.58 MB
+2025-04-22 12:35:41,176 - INFO - Successfully uploaded to onedrive:Torrents/Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:35:41,177 - INFO - Verifying upload for: Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:35:41,177 - INFO - Verifying upload: /home/user/Desktop/torrents/Kick-Ass 2 (2013) [1080p] -> onedrive:Torrents/Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:35:43,422 - INFO - Upload verification successful for /home/user/Desktop/torrents/Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:35:43,433 - INFO - Deleting torrent from qBittorrent: Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:35:43,433 - INFO - Deleting torrent with hash 74a3f683672b1f1c2e3e3529034b89f35adbd24f (delete_files=False)
+2025-04-22 12:35:43,442 - INFO - Successfully deleted torrent with hash 74a3f683672b1f1c2e3e3529034b89f35adbd24f
+2025-04-22 12:35:43,443 - INFO - Deleting content files: Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:35:43,443 - INFO - Deleting content: /home/user/Desktop/torrents/Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:35:43,444 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:35:43,444 - INFO - Successfully processed torrent: Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:35:43,444 - INFO - Processing torrent: Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:35:43,444 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Kick-Ass 2 (2013) [1080p]'}
+2025-04-22 12:35:43,444 - INFO - Attempting to upload torrent: Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:35:43,445 - INFO - Content path: /home/user/Desktop/torrents/Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:35:43,445 - INFO - Remote path: onedrive:Torrents/Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:35:43,445 - INFO - Uploading torrent: Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:35:43,446 - INFO - Directory /home/user/Desktop/torrents/Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-22 12:35:43,446 - INFO - Starting upload: /home/user/Desktop/torrents/Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:35:43,447 - INFO - Uploading directory of size 2706.97 MB
+2025-04-22 12:35:45,247 - INFO - Successfully uploaded to onedrive:Torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 12:35:45,247 - INFO - Verifying upload for: The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 12:35:45,247 - INFO - Verifying upload: /home/user/Desktop/torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p] -> onedrive:Torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 12:35:47,588 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 12:35:47,599 - INFO - Deleting torrent from qBittorrent: The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 12:35:47,599 - INFO - Deleting torrent with hash a3baee4634bece6c5a8abfe4a49e7e59ed56a400 (delete_files=False)
+2025-04-22 12:35:47,608 - INFO - Successfully deleted torrent with hash a3baee4634bece6c5a8abfe4a49e7e59ed56a400
+2025-04-22 12:35:47,608 - INFO - Deleting content files: The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 12:35:47,608 - INFO - Deleting content: /home/user/Desktop/torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 12:35:47,609 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 12:35:47,609 - INFO - Successfully processed torrent: The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 12:35:47,609 - INFO - Processing torrent: Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:35:47,609 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]'}
+2025-04-22 12:35:47,609 - INFO - Attempting to upload torrent: Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:35:47,610 - INFO - Content path: /home/user/Desktop/torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:35:47,610 - INFO - Remote path: onedrive:Torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:35:47,610 - INFO - Uploading torrent: Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:35:47,610 - INFO - Directory /home/user/Desktop/torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-22 12:35:47,610 - INFO - Starting upload: /home/user/Desktop/torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:35:47,610 - INFO - Uploading directory of size 2190.52 MB
