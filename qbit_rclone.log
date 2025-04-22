@@ -9991,3 +9991,15 @@
 2025-04-22 13:17:09,138 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Purge (2013) [1080p]
 2025-04-22 13:17:09,138 - INFO - Successfully processed torrent: The Purge (2013) [1080p]
 2025-04-22 13:17:09,138 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Purge (2013) [1080p]'}
+2025-04-22 13:19:44,096 - INFO - Successfully uploaded to onedrive:Torrents/Transcendence (2014) [1080p]
+2025-04-22 13:19:44,096 - INFO - Verifying upload for: Transcendence (2014) [1080p]
+2025-04-22 13:19:44,097 - INFO - Verifying upload: /home/user/Desktop/torrents/Transcendence (2014) [1080p] -> onedrive:Torrents/Transcendence (2014) [1080p]
+2025-04-22 13:19:46,371 - INFO - Upload verification successful for /home/user/Desktop/torrents/Transcendence (2014) [1080p]
+2025-04-22 13:19:46,382 - INFO - Deleting torrent from qBittorrent: Transcendence (2014) [1080p]
+2025-04-22 13:19:46,382 - INFO - Deleting torrent with hash 65babe2f3fe49434deb9216ccd30994b507645b7 (delete_files=False)
+2025-04-22 13:19:46,391 - INFO - Successfully deleted torrent with hash 65babe2f3fe49434deb9216ccd30994b507645b7
+2025-04-22 13:19:46,391 - INFO - Deleting content files: Transcendence (2014) [1080p]
+2025-04-22 13:19:46,391 - INFO - Deleting content: /home/user/Desktop/torrents/Transcendence (2014) [1080p]
+2025-04-22 13:19:46,392 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Transcendence (2014) [1080p]
+2025-04-22 13:19:46,392 - INFO - Successfully processed torrent: Transcendence (2014) [1080p]
+2025-04-22 13:19:46,393 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Transcendence (2014) [1080p]'}
