@@ -10898,3 +10898,23 @@
 2025-04-22 15:53:12,090 - INFO - Directory /home/user/Desktop/torrents/Get Hard (2015) [1080p] is readable, contains 2 files/dirs
 2025-04-22 15:53:12,090 - INFO - Starting upload: /home/user/Desktop/torrents/Get Hard (2015) [1080p] -> onedrive:Torrents/Get Hard (2015) [1080p]
 2025-04-22 15:53:12,090 - INFO - Uploading directory of size 1681.12 MB
+2025-04-22 15:53:54,246 - INFO - Successfully uploaded to onedrive:Torrents/47 Ronin (2013) [1080p]
+2025-04-22 15:53:54,246 - INFO - Verifying upload for: 47 Ronin (2013) [1080p]
+2025-04-22 15:53:54,246 - INFO - Verifying upload: /home/user/Desktop/torrents/47 Ronin (2013) [1080p] -> onedrive:Torrents/47 Ronin (2013) [1080p]
+2025-04-22 15:53:56,122 - INFO - Upload verification successful for /home/user/Desktop/torrents/47 Ronin (2013) [1080p]
+2025-04-22 15:53:56,132 - INFO - Deleting torrent from qBittorrent: 47 Ronin (2013) [1080p]
+2025-04-22 15:53:56,132 - INFO - Deleting torrent with hash 533226d494a43cffd584470f55780cab03c30f05 (delete_files=False)
+2025-04-22 15:53:56,142 - INFO - Successfully deleted torrent with hash 533226d494a43cffd584470f55780cab03c30f05
+2025-04-22 15:53:56,142 - INFO - Deleting content files: 47 Ronin (2013) [1080p]
+2025-04-22 15:53:56,142 - INFO - Deleting content: /home/user/Desktop/torrents/47 Ronin (2013) [1080p]
+2025-04-22 15:53:56,143 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/47 Ronin (2013) [1080p]
+2025-04-22 15:53:56,143 - INFO - Successfully processed torrent: 47 Ronin (2013) [1080p]
+2025-04-22 15:53:56,144 - INFO - Processing torrent: Argo Extended Cut (2012) [1080p]
+2025-04-22 15:53:56,144 - INFO - Attempting to upload torrent: Argo Extended Cut (2012) [1080p]
+2025-04-22 15:53:56,144 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': '47 Ronin (2013) [1080p]'}
+2025-04-22 15:53:56,144 - INFO - Content path: /home/user/Desktop/torrents/Argo Extended Cut (2012) [1080p]
+2025-04-22 15:53:56,144 - INFO - Remote path: onedrive:Torrents/Argo Extended Cut (2012) [1080p]
+2025-04-22 15:53:56,144 - INFO - Uploading torrent: Argo Extended Cut (2012) [1080p]
+2025-04-22 15:53:56,144 - INFO - Directory /home/user/Desktop/torrents/Argo Extended Cut (2012) [1080p] is readable, contains 3 files/dirs
+2025-04-22 15:53:56,144 - INFO - Starting upload: /home/user/Desktop/torrents/Argo Extended Cut (2012) [1080p] -> onedrive:Torrents/Argo Extended Cut (2012) [1080p]
+2025-04-22 15:53:56,144 - INFO - Uploading directory of size 2048.72 MB
