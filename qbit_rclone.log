@@ -9381,3 +9381,27 @@
 2025-04-22 10:58:28,217 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/How the Grinch Stole Christmas (2000) [1080p]
 2025-04-22 10:58:28,217 - INFO - Successfully processed torrent: How the Grinch Stole Christmas (2000) [1080p]
 2025-04-22 10:58:28,217 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'How the Grinch Stole Christmas (2000) [1080p]'}
+2025-04-22 11:01:07,411 - INFO - Successfully uploaded to onedrive:Torrents/Bridget Jones's Baby (2016) [1080p] [YTS.AG]
+2025-04-22 11:01:07,411 - INFO - Verifying upload for: Bridget Jones's Baby (2016) [1080p] [YTS.AG]
+2025-04-22 11:01:07,411 - INFO - Verifying upload: /home/user/Desktop/torrents/Bridget Jones's Baby (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Bridget Jones's Baby (2016) [1080p] [YTS.AG]
+2025-04-22 11:01:09,742 - INFO - Upload verification successful for /home/user/Desktop/torrents/Bridget Jones's Baby (2016) [1080p] [YTS.AG]
+2025-04-22 11:01:09,755 - INFO - Deleting torrent from qBittorrent: Bridget Jones's Baby (2016) [1080p] [YTS.AG]
+2025-04-22 11:01:09,755 - INFO - Deleting torrent with hash 0110344b913a8dbaad5d49697ae57bfc4a350bf4 (delete_files=False)
+2025-04-22 11:01:09,765 - INFO - Successfully deleted torrent with hash 0110344b913a8dbaad5d49697ae57bfc4a350bf4
+2025-04-22 11:01:09,765 - INFO - Deleting content files: Bridget Jones's Baby (2016) [1080p] [YTS.AG]
+2025-04-22 11:01:09,765 - INFO - Deleting content: /home/user/Desktop/torrents/Bridget Jones's Baby (2016) [1080p] [YTS.AG]
+2025-04-22 11:01:09,766 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Bridget Jones's Baby (2016) [1080p] [YTS.AG]
+2025-04-22 11:01:09,767 - INFO - Successfully processed torrent: Bridget Jones's Baby (2016) [1080p] [YTS.AG]
+2025-04-22 11:01:09,767 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "Bridget Jones's Baby (2016) [1080p] [YTS.AG]"}
+2025-04-22 11:03:09,174 - INFO - Successfully uploaded to onedrive:Torrents/Pitch Perfect (2012) [1080p]
+2025-04-22 11:03:09,175 - INFO - Verifying upload for: Pitch Perfect (2012) [1080p]
+2025-04-22 11:03:09,175 - INFO - Verifying upload: /home/user/Desktop/torrents/Pitch Perfect (2012) [1080p] -> onedrive:Torrents/Pitch Perfect (2012) [1080p]
+2025-04-22 11:03:11,732 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pitch Perfect (2012) [1080p]
+2025-04-22 11:03:11,744 - INFO - Deleting torrent from qBittorrent: Pitch Perfect (2012) [1080p]
+2025-04-22 11:03:11,744 - INFO - Deleting torrent with hash 3753270e02cebb06c3004a9b06ef94800807be02 (delete_files=False)
+2025-04-22 11:03:11,756 - INFO - Successfully deleted torrent with hash 3753270e02cebb06c3004a9b06ef94800807be02
+2025-04-22 11:03:11,756 - INFO - Deleting content files: Pitch Perfect (2012) [1080p]
+2025-04-22 11:03:11,756 - INFO - Deleting content: /home/user/Desktop/torrents/Pitch Perfect (2012) [1080p]
+2025-04-22 11:03:11,757 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pitch Perfect (2012) [1080p]
+2025-04-22 11:03:11,757 - INFO - Successfully processed torrent: Pitch Perfect (2012) [1080p]
+2025-04-22 11:03:11,757 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Pitch Perfect (2012) [1080p]'}
