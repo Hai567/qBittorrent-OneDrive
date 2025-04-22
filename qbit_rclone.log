@@ -9543,3 +9543,23 @@
 2025-04-22 11:33:34,823 - INFO - Directory /home/user/Desktop/torrents/Good Will Hunting (1997) [1080p] is readable, contains 3 files/dirs
 2025-04-22 11:33:34,823 - INFO - Starting upload: /home/user/Desktop/torrents/Good Will Hunting (1997) [1080p] -> onedrive:Torrents/Good Will Hunting (1997) [1080p]
 2025-04-22 11:33:34,823 - INFO - Uploading directory of size 1736.53 MB
+2025-04-22 11:38:54,809 - INFO - Successfully uploaded to onedrive:Torrents/The Pianist (2002) [1080p]
+2025-04-22 11:38:54,809 - INFO - Verifying upload for: The Pianist (2002) [1080p]
+2025-04-22 11:38:54,809 - INFO - Verifying upload: /home/user/Desktop/torrents/The Pianist (2002) [1080p] -> onedrive:Torrents/The Pianist (2002) [1080p]
+2025-04-22 11:38:57,055 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Pianist (2002) [1080p]
+2025-04-22 11:38:57,064 - INFO - Deleting torrent from qBittorrent: The Pianist (2002) [1080p]
+2025-04-22 11:38:57,064 - INFO - Deleting torrent with hash 3b66adb093195ae1bc5a832352f9e41dd77cf980 (delete_files=False)
+2025-04-22 11:38:57,073 - INFO - Successfully deleted torrent with hash 3b66adb093195ae1bc5a832352f9e41dd77cf980
+2025-04-22 11:38:57,073 - INFO - Deleting content files: The Pianist (2002) [1080p]
+2025-04-22 11:38:57,073 - INFO - Deleting content: /home/user/Desktop/torrents/The Pianist (2002) [1080p]
+2025-04-22 11:38:57,074 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Pianist (2002) [1080p]
+2025-04-22 11:38:57,074 - INFO - Successfully processed torrent: The Pianist (2002) [1080p]
+2025-04-22 11:38:57,074 - INFO - Processing torrent: The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:38:57,074 - INFO - Attempting to upload torrent: The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:38:57,074 - INFO - Content path: /home/user/Desktop/torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:38:57,074 - INFO - Remote path: onedrive:Torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:38:57,075 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Pianist (2002) [1080p]'}
+2025-04-22 11:38:57,075 - INFO - Uploading torrent: The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:38:57,075 - INFO - Directory /home/user/Desktop/torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-22 11:38:57,075 - INFO - Starting upload: /home/user/Desktop/torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:38:57,075 - INFO - Uploading directory of size 2028.95 MB
