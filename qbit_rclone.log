@@ -11098,3 +11098,63 @@
 2025-04-22 16:15:15,197 - INFO - Directory /home/user/Desktop/torrents/Ready Or Not (2019) [BluRay] [1080p] [YTS.LT] is readable, contains 2 files/dirs
 2025-04-22 16:15:15,197 - INFO - Starting upload: /home/user/Desktop/torrents/Ready Or Not (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Ready Or Not (2019) [BluRay] [1080p] [YTS.LT]
 2025-04-22 16:15:15,197 - INFO - Uploading directory of size 1533.33 MB
+2025-04-22 16:19:02,556 - INFO - Successfully uploaded to onedrive:Torrents/A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:02,556 - INFO - Verifying upload for: A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:02,557 - INFO - Verifying upload: /home/user/Desktop/torrents/A Bad Moms Christmas (2017) [1080p] [YTS.AG] -> onedrive:Torrents/A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,832 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,845 - INFO - Deleting torrent from qBittorrent: A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,845 - INFO - Deleting torrent with hash d0e6f21520d26cfae7566ea42acb9fe08a9b13bb (delete_files=False)
+2025-04-22 16:19:04,864 - INFO - Successfully deleted torrent with hash d0e6f21520d26cfae7566ea42acb9fe08a9b13bb
+2025-04-22 16:19:04,864 - INFO - Deleting content files: A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,864 - INFO - Deleting content: /home/user/Desktop/torrents/A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,866 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,866 - INFO - Successfully processed torrent: A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,866 - INFO - Processing torrent: Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,866 - INFO - Attempting to upload torrent: Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,866 - INFO - Content path: /home/user/Desktop/torrents/Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,867 - INFO - Remote path: onedrive:Torrents/Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,867 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A Bad Moms Christmas (2017) [1080p] [YTS.AG]'}
+2025-04-22 16:19:04,867 - INFO - Uploading torrent: Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,868 - INFO - Directory /home/user/Desktop/torrents/Rings (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 16:19:04,868 - INFO - Starting upload: /home/user/Desktop/torrents/Rings (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:04,868 - INFO - Uploading directory of size 1598.64 MB
+2025-04-22 16:19:25,393 - INFO - Successfully uploaded to onedrive:Torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:25,394 - INFO - Verifying upload for: Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:25,394 - INFO - Verifying upload: /home/user/Desktop/torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:26,998 - INFO - Upload verification successful for /home/user/Desktop/torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:27,009 - INFO - Deleting torrent from qBittorrent: Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:27,009 - INFO - Deleting torrent with hash f039a12165298490f10c4ec9505d792d6befd85b (delete_files=False)
+2025-04-22 16:19:27,020 - INFO - Successfully deleted torrent with hash f039a12165298490f10c4ec9505d792d6befd85b
+2025-04-22 16:19:27,020 - INFO - Deleting content files: Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:27,020 - INFO - Deleting content: /home/user/Desktop/torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:27,021 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:27,021 - INFO - Successfully processed torrent: Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:19:27,021 - INFO - Processing torrent: Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:19:27,021 - INFO - Attempting to upload torrent: Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:19:27,021 - INFO - Content path: /home/user/Desktop/torrents/Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:19:27,021 - INFO - Remote path: onedrive:Torrents/Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:19:27,022 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]'}
+2025-04-22 16:19:27,022 - INFO - Uploading torrent: Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:19:27,022 - INFO - Directory /home/user/Desktop/torrents/Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-22 16:19:27,022 - INFO - Starting upload: /home/user/Desktop/torrents/Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:19:27,023 - INFO - Uploading directory of size 2206.80 MB
+2025-04-22 16:21:47,446 - INFO - Successfully uploaded to onedrive:Torrents/Ready Or Not (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-22 16:21:47,446 - INFO - Verifying upload for: Ready Or Not (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-22 16:21:47,446 - INFO - Verifying upload: /home/user/Desktop/torrents/Ready Or Not (2019) [BluRay] [1080p] [YTS.LT] -> onedrive:Torrents/Ready Or Not (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-22 16:21:50,632 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ready Or Not (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-22 16:21:50,641 - INFO - Deleting torrent from qBittorrent: Ready Or Not (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-22 16:21:50,641 - INFO - Deleting torrent with hash 79c8998a00804518206026e9b1d5603e2d4d10f3 (delete_files=False)
+2025-04-22 16:21:50,649 - INFO - Successfully deleted torrent with hash 79c8998a00804518206026e9b1d5603e2d4d10f3
+2025-04-22 16:21:50,650 - INFO - Deleting content files: Ready Or Not (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-22 16:21:50,650 - INFO - Deleting content: /home/user/Desktop/torrents/Ready Or Not (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-22 16:21:50,651 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ready Or Not (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-22 16:21:50,651 - INFO - Successfully processed torrent: Ready Or Not (2019) [BluRay] [1080p] [YTS.LT]
+2025-04-22 16:21:50,651 - INFO - Processing torrent: Beauty and the Beast (1991) [1080p]
+2025-04-22 16:21:50,651 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ready Or Not (2019) [BluRay] [1080p] [YTS.LT]'}
+2025-04-22 16:21:50,651 - INFO - Attempting to upload torrent: Beauty and the Beast (1991) [1080p]
+2025-04-22 16:21:50,652 - INFO - Content path: /home/user/Desktop/torrents/Beauty and the Beast (1991) [1080p]
+2025-04-22 16:21:50,652 - INFO - Remote path: onedrive:Torrents/Beauty and the Beast (1991) [1080p]
+2025-04-22 16:21:50,652 - INFO - Uploading torrent: Beauty and the Beast (1991) [1080p]
+2025-04-22 16:21:50,652 - INFO - Directory /home/user/Desktop/torrents/Beauty and the Beast (1991) [1080p] is readable, contains 2 files/dirs
+2025-04-22 16:21:50,652 - INFO - Starting upload: /home/user/Desktop/torrents/Beauty and the Beast (1991) [1080p] -> onedrive:Torrents/Beauty and the Beast (1991) [1080p]
+2025-04-22 16:21:50,652 - INFO - Uploading directory of size 1474.65 MB
