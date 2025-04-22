@@ -8830,3 +8830,15 @@
 2025-04-22 04:23:12,931 - INFO - Directory /home/user/Desktop/torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 04:23:12,931 - INFO - Starting upload: /home/user/Desktop/torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
 2025-04-22 04:23:12,931 - INFO - Uploading directory of size 1432.40 MB
+2025-04-22 04:26:57,338 - INFO - Successfully uploaded to onedrive:Torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:26:57,339 - INFO - Verifying upload for: Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:26:57,339 - INFO - Verifying upload: /home/user/Desktop/torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:26:59,791 - INFO - Upload verification successful for /home/user/Desktop/torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:26:59,799 - INFO - Deleting torrent from qBittorrent: Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:26:59,799 - INFO - Deleting torrent with hash 13f5dddb7053a7ecc2d00f04a1c1585a0f78d737 (delete_files=False)
+2025-04-22 04:26:59,807 - INFO - Successfully deleted torrent with hash 13f5dddb7053a7ecc2d00f04a1c1585a0f78d737
+2025-04-22 04:26:59,807 - INFO - Deleting content files: Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:26:59,807 - INFO - Deleting content: /home/user/Desktop/torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:26:59,809 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:26:59,809 - INFO - Successfully processed torrent: Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:26:59,809 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]'}
