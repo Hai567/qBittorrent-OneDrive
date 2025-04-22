@@ -10461,3 +10461,23 @@
 2025-04-22 14:41:03,889 - INFO - Directory /home/user/Desktop/torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
 2025-04-22 14:41:03,889 - INFO - Starting upload: /home/user/Desktop/torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-22 14:41:03,890 - INFO - Uploading directory of size 2453.63 MB
+2025-04-22 14:47:29,422 - INFO - Successfully uploaded to onedrive:Torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:47:29,422 - INFO - Verifying upload for: My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:47:29,423 - INFO - Verifying upload: /home/user/Desktop/torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:47:32,505 - INFO - Upload verification successful for /home/user/Desktop/torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:47:32,523 - INFO - Deleting torrent from qBittorrent: My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:47:32,524 - INFO - Deleting torrent with hash dbb2b30994b9799e92c8b2272d28c7d62e49a4d7 (delete_files=False)
+2025-04-22 14:47:32,548 - INFO - Successfully deleted torrent with hash dbb2b30994b9799e92c8b2272d28c7d62e49a4d7
+2025-04-22 14:47:32,549 - INFO - Deleting content files: My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:47:32,549 - INFO - Deleting content: /home/user/Desktop/torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:47:32,553 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:47:32,553 - INFO - Successfully processed torrent: My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:47:32,554 - INFO - Processing torrent: Her (2013) [1080p]
+2025-04-22 14:47:32,554 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 14:47:32,554 - INFO - Attempting to upload torrent: Her (2013) [1080p]
+2025-04-22 14:47:32,555 - INFO - Content path: /home/user/Desktop/torrents/Her (2013) [1080p]
+2025-04-22 14:47:32,555 - INFO - Remote path: onedrive:Torrents/Her (2013) [1080p]
+2025-04-22 14:47:32,555 - INFO - Uploading torrent: Her (2013) [1080p]
+2025-04-22 14:47:32,556 - INFO - Directory /home/user/Desktop/torrents/Her (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-22 14:47:32,556 - INFO - Starting upload: /home/user/Desktop/torrents/Her (2013) [1080p] -> onedrive:Torrents/Her (2013) [1080p]
+2025-04-22 14:47:32,557 - INFO - Uploading directory of size 1899.39 MB
