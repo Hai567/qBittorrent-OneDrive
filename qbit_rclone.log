@@ -11914,3 +11914,87 @@
 2025-04-22 17:32:09,878 - INFO - Directory /home/user/Desktop/torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 17:32:09,878 - INFO - Starting upload: /home/user/Desktop/torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG] -> onedrive:Torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
 2025-04-22 17:32:09,878 - INFO - Uploading directory of size 1394.47 MB
+2025-04-22 17:35:16,407 - INFO - Successfully uploaded to onedrive:Torrents/Gold (2016) [1080p] [YTS.AG]
+2025-04-22 17:35:16,408 - INFO - Verifying upload for: Gold (2016) [1080p] [YTS.AG]
+2025-04-22 17:35:16,408 - INFO - Verifying upload: /home/user/Desktop/torrents/Gold (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Gold (2016) [1080p] [YTS.AG]
+2025-04-22 17:35:18,706 - INFO - Upload verification successful for /home/user/Desktop/torrents/Gold (2016) [1080p] [YTS.AG]
+2025-04-22 17:35:18,720 - INFO - Deleting torrent from qBittorrent: Gold (2016) [1080p] [YTS.AG]
+2025-04-22 17:35:18,720 - INFO - Deleting torrent with hash 764911b161c178ea41657b50bc02fc27957c75a3 (delete_files=False)
+2025-04-22 17:35:18,730 - INFO - Successfully deleted torrent with hash 764911b161c178ea41657b50bc02fc27957c75a3
+2025-04-22 17:35:18,730 - INFO - Deleting content files: Gold (2016) [1080p] [YTS.AG]
+2025-04-22 17:35:18,730 - INFO - Deleting content: /home/user/Desktop/torrents/Gold (2016) [1080p] [YTS.AG]
+2025-04-22 17:35:18,732 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Gold (2016) [1080p] [YTS.AG]
+2025-04-22 17:35:18,733 - INFO - Successfully processed torrent: Gold (2016) [1080p] [YTS.AG]
+2025-04-22 17:35:18,733 - INFO - Processing torrent: The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:35:18,733 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Gold (2016) [1080p] [YTS.AG]'}
+2025-04-22 17:35:18,733 - INFO - Attempting to upload torrent: The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:35:18,733 - INFO - Content path: /home/user/Desktop/torrents/The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:35:18,733 - INFO - Remote path: onedrive:Torrents/The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:35:18,734 - INFO - Uploading torrent: The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:35:18,734 - INFO - Directory /home/user/Desktop/torrents/The LEGO Ninjago Movie (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 17:35:18,735 - INFO - Starting upload: /home/user/Desktop/torrents/The LEGO Ninjago Movie (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]
+2025-04-22 17:35:18,735 - INFO - Uploading directory of size 1581.97 MB
+2025-04-22 17:37:23,004 - INFO - Successfully uploaded to onedrive:Torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:37:23,004 - INFO - Verifying upload for: Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:37:23,004 - INFO - Verifying upload: /home/user/Desktop/torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG] -> onedrive:Torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:37:25,276 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:37:25,290 - INFO - Deleting torrent from qBittorrent: Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:37:25,290 - INFO - Deleting torrent with hash 8ea78b369ddd048fa61a4cceabbfa6b56d675146 (delete_files=False)
+2025-04-22 17:37:25,300 - INFO - Successfully deleted torrent with hash 8ea78b369ddd048fa61a4cceabbfa6b56d675146
+2025-04-22 17:37:25,300 - INFO - Deleting content files: Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:37:25,300 - INFO - Deleting content: /home/user/Desktop/torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:37:25,303 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:37:25,303 - INFO - Successfully processed torrent: Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:37:25,303 - INFO - Processing torrent: Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-22 17:37:25,303 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]'}
+2025-04-22 17:37:25,303 - INFO - Attempting to upload torrent: Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-22 17:37:25,304 - INFO - Content path: /home/user/Desktop/torrents/Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]/Ice.Age.The.Great.Egg-Scapade.2016.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
+2025-04-22 17:37:25,304 - INFO - Remote path: onedrive:Torrents/Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-22 17:37:25,304 - INFO - Uploading torrent: Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-22 17:37:25,306 - INFO - File /home/user/Desktop/torrents/Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]/Ice.Age.The.Great.Egg-Scapade.2016.1080p.WEBRip.x264.AAC-[YTS.MX].mp4 is readable
+2025-04-22 17:37:25,306 - INFO - Starting upload: /home/user/Desktop/torrents/Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]/Ice.Age.The.Great.Egg-Scapade.2016.1080p.WEBRip.x264.AAC-[YTS.MX].mp4 -> onedrive:Torrents/Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]
+2025-04-22 17:37:25,306 - INFO - Uploading file of size 1256.73 MB
+2025-04-22 17:37:26,823 - INFO - Successfully uploaded to onedrive:Torrents/Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:37:26,824 - INFO - Verifying upload for: Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:37:26,824 - INFO - Verifying upload: /home/user/Desktop/torrents/Captive State (2019) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:37:29,055 - INFO - Upload verification successful for /home/user/Desktop/torrents/Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:37:29,067 - INFO - Deleting torrent from qBittorrent: Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:37:29,067 - INFO - Deleting torrent with hash 6ad7f2e3317fc29acffcb68e26330053152a0128 (delete_files=False)
+2025-04-22 17:37:29,076 - INFO - Successfully deleted torrent with hash 6ad7f2e3317fc29acffcb68e26330053152a0128
+2025-04-22 17:37:29,076 - INFO - Deleting content files: Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:37:29,076 - INFO - Deleting content: /home/user/Desktop/torrents/Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:37:29,079 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:37:29,080 - INFO - Successfully processed torrent: Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:37:29,080 - INFO - Processing torrent: Ride Along (2014) [1080p]
+2025-04-22 17:37:29,080 - INFO - Attempting to upload torrent: Ride Along (2014) [1080p]
+2025-04-22 17:37:29,080 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Captive State (2019) [BluRay] [1080p] [YTS.AM]'}
+2025-04-22 17:37:29,080 - INFO - Content path: /home/user/Desktop/torrents/Ride Along (2014) [1080p]
+2025-04-22 17:37:29,080 - INFO - Remote path: onedrive:Torrents/Ride Along (2014) [1080p]
+2025-04-22 17:37:29,080 - INFO - Uploading torrent: Ride Along (2014) [1080p]
+2025-04-22 17:37:29,081 - INFO - Directory /home/user/Desktop/torrents/Ride Along (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-22 17:37:29,081 - INFO - Starting upload: /home/user/Desktop/torrents/Ride Along (2014) [1080p] -> onedrive:Torrents/Ride Along (2014) [1080p]
+2025-04-22 17:37:29,081 - INFO - Uploading directory of size 1479.01 MB
+2025-04-22 17:38:03,120 - INFO - Successfully uploaded to onedrive:Torrents/Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:38:03,120 - INFO - Verifying upload for: Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:38:03,120 - INFO - Verifying upload: /home/user/Desktop/torrents/Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:38:05,336 - INFO - Upload verification successful for /home/user/Desktop/torrents/Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:38:05,359 - INFO - Deleting torrent from qBittorrent: Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:38:05,360 - INFO - Deleting torrent with hash dfaea19933ab21a461848516b31050c8f6bff0dd (delete_files=False)
+2025-04-22 17:38:05,374 - INFO - Successfully deleted torrent with hash dfaea19933ab21a461848516b31050c8f6bff0dd
+2025-04-22 17:38:05,374 - INFO - Deleting content files: Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:38:05,375 - INFO - Deleting content: /home/user/Desktop/torrents/Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:38:05,378 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:38:05,378 - INFO - Successfully processed torrent: Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:38:05,378 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 17:38:46,899 - INFO - Successfully uploaded to onedrive:Torrents/A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:38:46,899 - INFO - Verifying upload for: A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:38:46,899 - INFO - Verifying upload: /home/user/Desktop/torrents/A Walk Among the Tombstones (2014) [1080p] -> onedrive:Torrents/A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:38:49,151 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:38:49,164 - INFO - Deleting torrent from qBittorrent: A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:38:49,164 - INFO - Deleting torrent with hash 5b1d03a8ca3d9505bcb7b2cac89eb5ee3d7af649 (delete_files=False)
+2025-04-22 17:38:49,174 - INFO - Successfully deleted torrent with hash 5b1d03a8ca3d9505bcb7b2cac89eb5ee3d7af649
+2025-04-22 17:38:49,174 - INFO - Deleting content files: A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:38:49,174 - INFO - Deleting content: /home/user/Desktop/torrents/A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:38:49,177 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:38:49,177 - INFO - Successfully processed torrent: A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:38:49,178 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A Walk Among the Tombstones (2014) [1080p]'}
