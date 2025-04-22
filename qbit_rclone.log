@@ -10918,3 +10918,43 @@
 2025-04-22 15:53:56,144 - INFO - Directory /home/user/Desktop/torrents/Argo Extended Cut (2012) [1080p] is readable, contains 3 files/dirs
 2025-04-22 15:53:56,144 - INFO - Starting upload: /home/user/Desktop/torrents/Argo Extended Cut (2012) [1080p] -> onedrive:Torrents/Argo Extended Cut (2012) [1080p]
 2025-04-22 15:53:56,144 - INFO - Uploading directory of size 2048.72 MB
+2025-04-22 15:58:45,423 - INFO - Successfully uploaded to onedrive:Torrents/The Sixth Sense (1999) [1080p]
+2025-04-22 15:58:45,423 - INFO - Verifying upload for: The Sixth Sense (1999) [1080p]
+2025-04-22 15:58:45,424 - INFO - Verifying upload: /home/user/Desktop/torrents/The Sixth Sense (1999) [1080p] -> onedrive:Torrents/The Sixth Sense (1999) [1080p]
+2025-04-22 15:58:47,822 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Sixth Sense (1999) [1080p]
+2025-04-22 15:58:47,832 - INFO - Deleting torrent from qBittorrent: The Sixth Sense (1999) [1080p]
+2025-04-22 15:58:47,832 - INFO - Deleting torrent with hash 8a943f9c60ca01698cb213faf6e489e469246121 (delete_files=False)
+2025-04-22 15:58:47,841 - INFO - Successfully deleted torrent with hash 8a943f9c60ca01698cb213faf6e489e469246121
+2025-04-22 15:58:47,842 - INFO - Deleting content files: The Sixth Sense (1999) [1080p]
+2025-04-22 15:58:47,842 - INFO - Deleting content: /home/user/Desktop/torrents/The Sixth Sense (1999) [1080p]
+2025-04-22 15:58:47,842 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Sixth Sense (1999) [1080p]
+2025-04-22 15:58:47,843 - INFO - Successfully processed torrent: The Sixth Sense (1999) [1080p]
+2025-04-22 15:58:47,843 - INFO - Processing torrent: Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 15:58:47,843 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Sixth Sense (1999) [1080p]'}
+2025-04-22 15:58:47,843 - INFO - Attempting to upload torrent: Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 15:58:47,843 - INFO - Content path: /home/user/Desktop/torrents/Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 15:58:47,843 - INFO - Remote path: onedrive:Torrents/Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 15:58:47,843 - INFO - Uploading torrent: Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 15:58:47,844 - INFO - Directory /home/user/Desktop/torrents/Cloudy with a Chance of Meatballs 2 (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-22 15:58:47,844 - INFO - Starting upload: /home/user/Desktop/torrents/Cloudy with a Chance of Meatballs 2 (2013) [1080p] -> onedrive:Torrents/Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 15:58:47,844 - INFO - Uploading directory of size 1478.33 MB
+2025-04-22 16:01:29,229 - INFO - Successfully uploaded to onedrive:Torrents/Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 16:01:29,229 - INFO - Verifying upload for: Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 16:01:29,230 - INFO - Verifying upload: /home/user/Desktop/torrents/Midnight Sun (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 16:01:31,653 - INFO - Upload verification successful for /home/user/Desktop/torrents/Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 16:01:31,664 - INFO - Deleting torrent from qBittorrent: Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 16:01:31,664 - INFO - Deleting torrent with hash 62cc1b8d6b2e5c4efb862177ad5ad0d519d87be1 (delete_files=False)
+2025-04-22 16:01:31,674 - INFO - Successfully deleted torrent with hash 62cc1b8d6b2e5c4efb862177ad5ad0d519d87be1
+2025-04-22 16:01:31,674 - INFO - Deleting content files: Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 16:01:31,674 - INFO - Deleting content: /home/user/Desktop/torrents/Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 16:01:31,676 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 16:01:31,676 - INFO - Successfully processed torrent: Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 16:01:31,676 - INFO - Processing torrent: Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:01:31,676 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]'}
+2025-04-22 16:01:31,676 - INFO - Attempting to upload torrent: Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:01:31,677 - INFO - Content path: /home/user/Desktop/torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:01:31,677 - INFO - Remote path: onedrive:Torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:01:31,677 - INFO - Uploading torrent: Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:01:31,677 - INFO - Directory /home/user/Desktop/torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 16:01:31,677 - INFO - Starting upload: /home/user/Desktop/torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
+2025-04-22 16:01:31,677 - INFO - Uploading directory of size 1317.72 MB
