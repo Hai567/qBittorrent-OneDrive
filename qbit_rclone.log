@@ -12034,3 +12034,118 @@
 2025-04-22 17:41:41,588 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ride Along (2014) [1080p]
 2025-04-22 17:41:41,588 - INFO - Successfully processed torrent: Ride Along (2014) [1080p]
 2025-04-22 17:41:41,589 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ride Along (2014) [1080p]'}
+2025-04-22 17:46:41,688 - INFO - Active upload threads: 5/5
+2025-04-22 17:46:41,689 - INFO - Checking for completed torrents...
+2025-04-22 17:46:41,719 - INFO - Found 71 completed torrents
+2025-04-22 17:46:41,719 - INFO - Torrent Resident Evil Apocalypse (2004) [1080p]: content_path = /home/user/Desktop/torrents/Resident Evil Apocalypse (2004) [1080p], exists: True
+2025-04-22 17:46:41,719 - INFO - Torrent Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-22 17:46:41,719 - INFO - Torrent Ted 2 (2015) [1080p]: content_path = /home/user/Desktop/torrents/Ted 2 (2015) [1080p], exists: True
+2025-04-22 17:46:41,719 - INFO - Torrent 30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:46:41,719 - INFO - Torrent The Wall (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Wall (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,719 - INFO - Torrent Jackass Presents Bad Grandpa (2013) [1080p]: content_path = /home/user/Desktop/torrents/Jackass Presents Bad Grandpa (2013) [1080p], exists: True
+2025-04-22 17:46:41,719 - INFO - Torrent Togo (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Togo (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-22 17:46:41,719 - INFO - Torrent The Mechanic (2011) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Mechanic (2011) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,720 - INFO - Torrent Unbroken (2014) [1080p]: content_path = /home/user/Desktop/torrents/Unbroken (2014) [1080p], exists: True
+2025-04-22 17:46:41,720 - INFO - Torrent Steve Jobs (2015) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Steve Jobs (2015) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,720 - INFO - Torrent Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:46:41,720 - INFO - Torrent Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:46:41,720 - INFO - Torrent Son of a Gun (2014) [1080p]: content_path = /home/user/Desktop/torrents/Son of a Gun (2014) [1080p], exists: True
+2025-04-22 17:46:41,720 - INFO - Torrent Resident Evil Retribution (2012) [1080p]: content_path = /home/user/Desktop/torrents/Resident Evil Retribution (2012) [1080p], exists: True
+2025-04-22 17:46:41,720 - INFO - Torrent RoboCop (2014) [1080p]: content_path = /home/user/Desktop/torrents/RoboCop (2014) [1080p], exists: True
+2025-04-22 17:46:41,720 - INFO - Torrent Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:46:41,720 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-22 17:46:41,720 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-22 17:46:41,720 - INFO - Torrent Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX], exists: True
+2025-04-22 17:46:41,720 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-22 17:46:41,720 - INFO - Torrent Masterminds (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Masterminds (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,720 - INFO - Torrent Justice League Dark (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Justice League Dark (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,720 - INFO - Torrent The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:46:41,720 - INFO - Torrent Office Christmas Party (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Office Christmas Party (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent 3 Idiots (2009) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:46:41,721 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-22 17:46:41,721 - INFO - Torrent San Andreas (2015) [1080p]: content_path = /home/user/Desktop/torrents/San Andreas (2015) [1080p], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent The Great Gatsby (2013) [1080p]: content_path = /home/user/Desktop/torrents/The Great Gatsby (2013) [1080p], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent The Jungle Book (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Jungle Book (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent Leap! (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Leap! (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent Everest (2015) [1080p]: content_path = /home/user/Desktop/torrents/Everest (2015) [1080p], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent Rio 2 (2014) [1080p]: content_path = /home/user/Desktop/torrents/Rio 2 (2014) [1080p], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent Turbo (2013) [1080p]: content_path = /home/user/Desktop/torrents/Turbo (2013) [1080p], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent American Pie (1999) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/American Pie (1999) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent A Good Day to Die Hard (2013) [1080p]: content_path = /home/user/Desktop/torrents/A Good Day to Die Hard (2013) [1080p], exists: True
+2025-04-22 17:46:41,721 - INFO - Torrent Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:46:41,721 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-22 17:46:41,722 - INFO - Torrent Before I Fall (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Before I Fall (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent Point Break (2015) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Point Break (2015) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent The Truman Show (1998) [1080p]: content_path = /home/user/Desktop/torrents/The Truman Show (1998) [1080p], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent Leon The Professional Extended (1994) [1080p]: content_path = /home/user/Desktop/torrents/Leon The Professional Extended (1994) [1080p], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent Crawl (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-22 17:46:41,722 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-22 17:46:41,722 - INFO - Torrent Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent Lady Bird (2017) [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Lady Bird (2017) [1080p] [YTS.AM], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent Shot Caller (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Shot Caller (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent T2 Trainspotting (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/T2 Trainspotting (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent 47 Meters Down (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/47 Meters Down (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent Ice Age (2002) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Ice Age (2002) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM], exists: True
+2025-04-22 17:46:41,722 - INFO - Torrent Justice League War (2014) [1080p]: content_path = /home/user/Desktop/torrents/Justice League War (2014) [1080p], exists: True
+2025-04-22 17:46:41,723 - INFO - Torrent Apocalypto (2006) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-22 17:46:41,723 - INFO - Torrent Live By Night (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Live By Night (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 17:46:41,723 - INFO - Torrent Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-22 17:46:41,723 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-22 17:46:41,723 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-22 17:46:41,723 - INFO - Torrent Malèna (2000) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-22 17:46:41,724 - INFO - Torrent The Man From U.N.C.L.E. (2015) [1080p]: content_path = /home/user/Desktop/torrents/The Man From U.N.C.L.E. (2015) [1080p], exists: True
+2025-04-22 17:46:41,724 - INFO - Torrent Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]: content_path = /home/user/Desktop/torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX], exists: True
+2025-04-22 17:46:41,724 - INFO - Torrent V for Vendetta (2006) [1080p]: content_path = /home/user/Desktop/torrents/V for Vendetta (2006) [1080p], exists: True
+2025-04-22 17:46:41,724 - INFO - Torrent Knock Knock (2015) [1080p]: content_path = /home/user/Desktop/torrents/Knock Knock (2015) [1080p], exists: True
+2025-04-22 17:46:41,724 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-22 17:46:41,724 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-22 17:46:41,724 - INFO - Torrent BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-22 17:46:41,724 - INFO - Torrent Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:46:41,724 - INFO - Submitting 61 torrents for parallel upload
+2025-04-22 17:46:41,726 - INFO - Processing torrent: Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:46:41,726 - INFO - Processing torrent: Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:46:41,726 - INFO - Attempting to upload torrent: Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:46:41,726 - INFO - Processing torrent: Ted 2 (2015) [1080p]
+2025-04-22 17:46:41,727 - INFO - Attempting to upload torrent: Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:46:41,727 - INFO - Processing torrent: 30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:46:41,727 - INFO - Content path: /home/user/Desktop/torrents/Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:46:41,727 - INFO - Processing torrent: The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:46:41,727 - INFO - Attempting to upload torrent: Ted 2 (2015) [1080p]
+2025-04-22 17:46:41,728 - INFO - Content path: /home/user/Desktop/torrents/Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:46:41,728 - INFO - Attempting to upload torrent: 30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:46:41,728 - INFO - Remote path: onedrive:Torrents/Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:46:41,728 - INFO - Attempting to upload torrent: The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:46:41,728 - INFO - Content path: /home/user/Desktop/torrents/Ted 2 (2015) [1080p]
+2025-04-22 17:46:41,728 - INFO - Remote path: onedrive:Torrents/Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:46:41,728 - INFO - Content path: /home/user/Desktop/torrents/30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:46:41,729 - INFO - Uploading torrent: Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:46:41,729 - INFO - Content path: /home/user/Desktop/torrents/The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:46:41,729 - INFO - Remote path: onedrive:Torrents/Ted 2 (2015) [1080p]
+2025-04-22 17:46:41,729 - INFO - Uploading torrent: Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:46:41,729 - INFO - Remote path: onedrive:Torrents/30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:46:41,729 - INFO - Remote path: onedrive:Torrents/The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:46:41,730 - INFO - Directory /home/user/Desktop/torrents/Resident Evil Apocalypse (2004) [1080p] is readable, contains 3 files/dirs
+2025-04-22 17:46:41,730 - INFO - Uploading torrent: Ted 2 (2015) [1080p]
+2025-04-22 17:46:41,730 - INFO - Uploading torrent: 30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:46:41,730 - INFO - Uploading torrent: The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:46:41,730 - INFO - Starting upload: /home/user/Desktop/torrents/Resident Evil Apocalypse (2004) [1080p] -> onedrive:Torrents/Resident Evil Apocalypse (2004) [1080p]
+2025-04-22 17:46:41,731 - INFO - Directory /home/user/Desktop/torrents/Ted 2 (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-22 17:46:41,731 - INFO - Directory /home/user/Desktop/torrents/The Wall (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 17:46:41,731 - INFO - Starting upload: /home/user/Desktop/torrents/Ted 2 (2015) [1080p] -> onedrive:Torrents/Ted 2 (2015) [1080p]
+2025-04-22 17:46:41,732 - INFO - Starting upload: /home/user/Desktop/torrents/The Wall (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Wall (2017) [1080p] [YTS.AG]
+2025-04-22 17:46:41,732 - INFO - Uploading directory of size 1332.32 MB
+2025-04-22 17:46:41,732 - INFO - Directory /home/user/Desktop/torrents/30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 17:46:41,732 - INFO - Directory /home/user/Desktop/torrents/Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-22 17:46:41,732 - INFO - Uploading directory of size 1208.83 MB
+2025-04-22 17:46:41,733 - INFO - Starting upload: /home/user/Desktop/torrents/30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/30 Minutes Or Less (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:46:41,734 - INFO - Starting upload: /home/user/Desktop/torrents/Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Five Feet Apart (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:46:41,735 - INFO - Uploading directory of size 1402.38 MB
+2025-04-22 17:46:41,736 - INFO - Uploading directory of size 1567.63 MB
+2025-04-22 17:46:41,736 - INFO - Uploading directory of size 1897.58 MB
