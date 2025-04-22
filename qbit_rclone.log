@@ -9159,3 +9159,15 @@
 2025-04-22 06:39:23,838 - INFO - Directory /home/user/Desktop/torrents/Girls Trip (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 06:39:23,838 - INFO - Starting upload: /home/user/Desktop/torrents/Girls Trip (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Girls Trip (2017) [1080p] [YTS.AG]
 2025-04-22 06:39:23,838 - INFO - Uploading directory of size 1892.15 MB
+2025-04-22 06:45:27,385 - INFO - Successfully uploaded to onedrive:Torrents/Girls Trip (2017) [1080p] [YTS.AG]
+2025-04-22 06:45:27,385 - INFO - Verifying upload for: Girls Trip (2017) [1080p] [YTS.AG]
+2025-04-22 06:45:27,385 - INFO - Verifying upload: /home/user/Desktop/torrents/Girls Trip (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Girls Trip (2017) [1080p] [YTS.AG]
+2025-04-22 06:45:29,559 - INFO - Upload verification successful for /home/user/Desktop/torrents/Girls Trip (2017) [1080p] [YTS.AG]
+2025-04-22 06:45:29,570 - INFO - Deleting torrent from qBittorrent: Girls Trip (2017) [1080p] [YTS.AG]
+2025-04-22 06:45:29,570 - INFO - Deleting torrent with hash 8d7079433765b7eb641d7d37c861f6e832e2f53f (delete_files=False)
+2025-04-22 06:45:29,588 - INFO - Successfully deleted torrent with hash 8d7079433765b7eb641d7d37c861f6e832e2f53f
+2025-04-22 06:45:29,588 - INFO - Deleting content files: Girls Trip (2017) [1080p] [YTS.AG]
+2025-04-22 06:45:29,588 - INFO - Deleting content: /home/user/Desktop/torrents/Girls Trip (2017) [1080p] [YTS.AG]
+2025-04-22 06:45:29,590 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Girls Trip (2017) [1080p] [YTS.AG]
+2025-04-22 06:45:29,590 - INFO - Successfully processed torrent: Girls Trip (2017) [1080p] [YTS.AG]
+2025-04-22 06:45:29,590 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Girls Trip (2017) [1080p] [YTS.AG]'}
