@@ -10581,3 +10581,100 @@
 2025-04-22 15:14:13,396 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-22 15:14:13,397 - INFO - Successfully processed torrent: Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-22 15:14:13,397 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-22 15:19:13,446 - INFO - Active upload threads: 5/5
+2025-04-22 15:19:13,446 - INFO - Checking for completed torrents...
+2025-04-22 15:19:13,467 - INFO - Found 53 completed torrents
+2025-04-22 15:19:13,468 - INFO - Torrent War Dogs (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/War Dogs (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 15:19:13,468 - INFO - Torrent Shrek 2 (2004) [1080p]: content_path = /home/user/Desktop/torrents/Shrek 2 (2004) [1080p], exists: True
+2025-04-22 15:19:13,468 - INFO - Torrent A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 15:19:13,468 - INFO - Torrent Resident Evil Vendetta (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Resident Evil Vendetta (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 15:19:13,468 - INFO - Torrent The Secret Life of Walter Mitty (2013) [1080p]: content_path = /home/user/Desktop/torrents/The Secret Life of Walter Mitty (2013) [1080p], exists: True
+2025-04-22 15:19:13,468 - INFO - Torrent Shrek (2001) [1080p]: content_path = /home/user/Desktop/torrents/Shrek (2001) [1080p], exists: True
+2025-04-22 15:19:13,469 - INFO - Torrent Jack the Giant Slayer (2013) [1080p]: content_path = /home/user/Desktop/torrents/Jack the Giant Slayer (2013) [1080p], exists: True
+2025-04-22 15:19:13,469 - INFO - Torrent Batman The Dark Knight Returns Part 1 (2012) [1080p]: content_path = /home/user/Desktop/torrents/Batman The Dark Knight Returns Part 1 (2012) [1080p], exists: True
+2025-04-22 15:19:13,469 - INFO - Torrent Wonder (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Wonder (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 15:19:13,469 - INFO - Torrent Fences (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Fences (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 15:19:13,469 - INFO - Torrent 47 Ronin (2013) [1080p]: content_path = /home/user/Desktop/torrents/47 Ronin (2013) [1080p], exists: True
+2025-04-22 15:19:13,469 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-22 15:19:13,469 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-22 15:19:13,469 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-22 15:19:13,469 - INFO - Torrent Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-22 15:19:13,469 - INFO - Torrent The Sixth Sense (1999) [1080p]: content_path = /home/user/Desktop/torrents/The Sixth Sense (1999) [1080p], exists: True
+2025-04-22 15:19:13,469 - INFO - Torrent Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Midnight Sun (2018) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-22 15:19:13,469 - INFO - Torrent M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 15:19:13,469 - INFO - Torrent Get Hard (2015) [1080p]: content_path = /home/user/Desktop/torrents/Get Hard (2015) [1080p], exists: True
+2025-04-22 15:19:13,469 - INFO - Torrent Argo Extended Cut (2012) [1080p]: content_path = /home/user/Desktop/torrents/Argo Extended Cut (2012) [1080p], exists: True
+2025-04-22 15:19:13,470 - INFO - Torrent Cloudy with a Chance of Meatballs 2 (2013) [1080p]: content_path = /home/user/Desktop/torrents/Cloudy with a Chance of Meatballs 2 (2013) [1080p], exists: True
+2025-04-22 15:19:13,470 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-22 15:19:13,470 - INFO - Torrent Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 15:19:13,470 - INFO - Torrent Men In Black 3 (2012) [1080p]: content_path = /home/user/Desktop/torrents/Men In Black 3 (2012) [1080p], exists: True
+2025-04-22 15:19:13,470 - INFO - Torrent Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]: content_path = /home/user/Desktop/torrents/Percy Jackson And The Olympians The Lightning Thief (2010) [1080p], exists: True
+2025-04-22 15:19:13,470 - INFO - Torrent No Country For Old Men (2007) [1080p]: content_path = /home/user/Desktop/torrents/No Country For Old Men (2007) [1080p], exists: True
+2025-04-22 15:19:13,470 - INFO - Torrent Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-22 15:19:13,470 - INFO - Torrent A Bad Moms Christmas (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/A Bad Moms Christmas (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 15:19:13,470 - INFO - Torrent The Mist (2007) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Mist (2007) [1080p] [YTS.AG], exists: True
+2025-04-22 15:19:13,470 - INFO - Torrent Ready Or Not (2019) [BluRay] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Ready Or Not (2019) [BluRay] [1080p] [YTS.LT], exists: True
+2025-04-22 15:19:13,470 - INFO - Torrent Rings (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Rings (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 15:19:13,470 - INFO - Torrent Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 15:19:13,470 - INFO - Torrent Beauty and the Beast (1991) [1080p]: content_path = /home/user/Desktop/torrents/Beauty and the Beast (1991) [1080p], exists: True
+2025-04-22 15:19:13,470 - INFO - Torrent Braveheart (1995) [1080p]: content_path = /home/user/Desktop/torrents/Braveheart (1995) [1080p], exists: True
+2025-04-22 15:19:13,470 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-22 15:19:13,470 - INFO - Torrent Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 15:19:13,471 - INFO - Torrent Mother! (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Mother! (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 15:19:13,471 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-22 15:19:13,471 - INFO - Torrent Jack Ryan Shadow Recruit (2014) [1080p]: content_path = /home/user/Desktop/torrents/Jack Ryan Shadow Recruit (2014) [1080p], exists: True
+2025-04-22 15:19:13,471 - INFO - Torrent Reservoir Dogs (1992) [1080p]: content_path = /home/user/Desktop/torrents/Reservoir Dogs (1992) [1080p], exists: True
+2025-04-22 15:19:13,471 - INFO - Torrent The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 15:19:13,471 - INFO - Torrent Pain & Gain (2013) [1080p]: content_path = /home/user/Desktop/torrents/Pain & Gain (2013) [1080p], exists: True
+2025-04-22 15:19:13,471 - INFO - Torrent The Gambler (2014) [1080p]: content_path = /home/user/Desktop/torrents/The Gambler (2014) [1080p], exists: True
+2025-04-22 15:19:13,471 - INFO - Torrent The Judge (2014) [1080p]: content_path = /home/user/Desktop/torrents/The Judge (2014) [1080p], exists: True
+2025-04-22 15:19:13,471 - INFO - Torrent Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-22 15:19:13,471 - INFO - Torrent Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 15:19:13,471 - INFO - Torrent The Bourne Identity (2002) [1080p]: content_path = /home/user/Desktop/torrents/The Bourne Identity (2002) [1080p], exists: True
+2025-04-22 15:19:13,471 - INFO - Torrent Son of a Gun (2014): content_path = /home/user/Desktop/torrents/Son of a Gun (2014), exists: True
+2025-04-22 15:19:13,471 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-22 15:19:13,471 - INFO - Torrent In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]: content_path = /home/user/Desktop/torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG], exists: True
+2025-04-22 15:19:13,471 - INFO - Torrent Teenage Mutant Ninja Turtles (2014) [1080p]: content_path = /home/user/Desktop/torrents/Teenage Mutant Ninja Turtles (2014) [1080p], exists: True
+2025-04-22 15:19:13,471 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-22 15:19:13,471 - INFO - Torrent Die Hard 4 (2007) [1080p]: content_path = /home/user/Desktop/torrents/Die Hard 4 (2007) [1080p], exists: True
+2025-04-22 15:19:13,472 - INFO - Submitting 45 torrents for parallel upload
+2025-04-22 15:19:13,472 - INFO - Processing torrent: War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:19:13,473 - INFO - Processing torrent: Shrek 2 (2004) [1080p]
+2025-04-22 15:19:13,473 - INFO - Processing torrent: A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:19:13,473 - INFO - Attempting to upload torrent: War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:19:13,473 - INFO - Attempting to upload torrent: Shrek 2 (2004) [1080p]
+2025-04-22 15:19:13,474 - INFO - Processing torrent: Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:19:13,474 - INFO - Attempting to upload torrent: A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:19:13,474 - INFO - Processing torrent: The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:19:13,474 - INFO - Content path: /home/user/Desktop/torrents/War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:19:13,475 - INFO - Content path: /home/user/Desktop/torrents/Shrek 2 (2004) [1080p]
+2025-04-22 15:19:13,475 - INFO - Attempting to upload torrent: Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:19:13,475 - INFO - Content path: /home/user/Desktop/torrents/A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:19:13,475 - INFO - Attempting to upload torrent: The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:19:13,475 - INFO - Remote path: onedrive:Torrents/War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:19:13,475 - INFO - Remote path: onedrive:Torrents/Shrek 2 (2004) [1080p]
+2025-04-22 15:19:13,476 - INFO - Content path: /home/user/Desktop/torrents/Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:19:13,476 - INFO - Remote path: onedrive:Torrents/A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:19:13,476 - INFO - Content path: /home/user/Desktop/torrents/The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:19:13,476 - INFO - Uploading torrent: War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:19:13,476 - INFO - Uploading torrent: Shrek 2 (2004) [1080p]
+2025-04-22 15:19:13,477 - INFO - Remote path: onedrive:Torrents/Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:19:13,477 - INFO - Remote path: onedrive:Torrents/The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:19:13,477 - INFO - Uploading torrent: A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:19:13,478 - INFO - Directory /home/user/Desktop/torrents/War Dogs (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 15:19:13,479 - INFO - Starting upload: /home/user/Desktop/torrents/War Dogs (2016) [1080p] [YTS.AG] -> onedrive:Torrents/War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:19:13,479 - INFO - Uploading torrent: Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:19:13,479 - INFO - Uploading torrent: The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:19:13,478 - INFO - Directory /home/user/Desktop/torrents/Shrek 2 (2004) [1080p] is readable, contains 4 files/dirs
+2025-04-22 15:19:13,480 - INFO - Uploading directory of size 1777.57 MB
+2025-04-22 15:19:13,481 - INFO - Directory /home/user/Desktop/torrents/Resident Evil Vendetta (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 15:19:13,483 - INFO - Starting upload: /home/user/Desktop/torrents/Shrek 2 (2004) [1080p] -> onedrive:Torrents/Shrek 2 (2004) [1080p]
+2025-04-22 15:19:13,485 - INFO - Directory /home/user/Desktop/torrents/A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 15:19:13,485 - INFO - Starting upload: /home/user/Desktop/torrents/Resident Evil Vendetta (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:19:13,485 - INFO - Directory /home/user/Desktop/torrents/The Secret Life of Walter Mitty (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-22 15:19:13,486 - INFO - Starting upload: /home/user/Desktop/torrents/A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:19:13,487 - INFO - Starting upload: /home/user/Desktop/torrents/The Secret Life of Walter Mitty (2013) [1080p] -> onedrive:Torrents/The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:19:13,487 - INFO - Uploading directory of size 1519.69 MB
+2025-04-22 15:19:13,488 - INFO - Uploading directory of size 1024.83 MB
+2025-04-22 15:19:13,488 - INFO - Uploading directory of size 2383.82 MB
+2025-04-22 15:19:13,491 - INFO - Uploading directory of size 1889.48 MB
