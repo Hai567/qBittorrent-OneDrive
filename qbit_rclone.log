@@ -11018,3 +11018,63 @@
 2025-04-22 16:08:31,142 - INFO - Directory /home/user/Desktop/torrents/No Country For Old Men (2007) [1080p] is readable, contains 3 files/dirs
 2025-04-22 16:08:31,142 - INFO - Starting upload: /home/user/Desktop/torrents/No Country For Old Men (2007) [1080p] -> onedrive:Torrents/No Country For Old Men (2007) [1080p]
 2025-04-22 16:08:31,143 - INFO - Uploading directory of size 1635.82 MB
+2025-04-22 16:10:07,067 - INFO - Successfully uploaded to onedrive:Torrents/Argo Extended Cut (2012) [1080p]
+2025-04-22 16:10:07,068 - INFO - Verifying upload for: Argo Extended Cut (2012) [1080p]
+2025-04-22 16:10:07,068 - INFO - Verifying upload: /home/user/Desktop/torrents/Argo Extended Cut (2012) [1080p] -> onedrive:Torrents/Argo Extended Cut (2012) [1080p]
+2025-04-22 16:10:09,497 - INFO - Upload verification successful for /home/user/Desktop/torrents/Argo Extended Cut (2012) [1080p]
+2025-04-22 16:10:09,508 - INFO - Deleting torrent from qBittorrent: Argo Extended Cut (2012) [1080p]
+2025-04-22 16:10:09,508 - INFO - Deleting torrent with hash 32ddaa8c1bbc4c78339199fab88cf7ebfa0c9720 (delete_files=False)
+2025-04-22 16:10:09,519 - INFO - Successfully deleted torrent with hash 32ddaa8c1bbc4c78339199fab88cf7ebfa0c9720
+2025-04-22 16:10:09,519 - INFO - Deleting content files: Argo Extended Cut (2012) [1080p]
+2025-04-22 16:10:09,519 - INFO - Deleting content: /home/user/Desktop/torrents/Argo Extended Cut (2012) [1080p]
+2025-04-22 16:10:09,520 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Argo Extended Cut (2012) [1080p]
+2025-04-22 16:10:09,520 - INFO - Successfully processed torrent: Argo Extended Cut (2012) [1080p]
+2025-04-22 16:10:09,520 - INFO - Processing torrent: Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:10:09,520 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Argo Extended Cut (2012) [1080p]'}
+2025-04-22 16:10:09,521 - INFO - Attempting to upload torrent: Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:10:09,521 - INFO - Content path: /home/user/Desktop/torrents/Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:10:09,521 - INFO - Remote path: onedrive:Torrents/Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:10:09,521 - INFO - Uploading torrent: Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:10:09,521 - INFO - Directory /home/user/Desktop/torrents/Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-22 16:10:09,521 - INFO - Starting upload: /home/user/Desktop/torrents/Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:10:09,521 - INFO - Uploading directory of size 2004.12 MB
+2025-04-22 16:12:40,906 - INFO - Successfully uploaded to onedrive:Torrents/Men In Black 3 (2012) [1080p]
+2025-04-22 16:12:40,906 - INFO - Verifying upload for: Men In Black 3 (2012) [1080p]
+2025-04-22 16:12:40,906 - INFO - Verifying upload: /home/user/Desktop/torrents/Men In Black 3 (2012) [1080p] -> onedrive:Torrents/Men In Black 3 (2012) [1080p]
+2025-04-22 16:12:43,922 - INFO - Upload verification successful for /home/user/Desktop/torrents/Men In Black 3 (2012) [1080p]
+2025-04-22 16:12:43,932 - INFO - Deleting torrent from qBittorrent: Men In Black 3 (2012) [1080p]
+2025-04-22 16:12:43,932 - INFO - Deleting torrent with hash 0952f7934725114dbe141a9e9a4878c77c8773a7 (delete_files=False)
+2025-04-22 16:12:43,944 - INFO - Successfully deleted torrent with hash 0952f7934725114dbe141a9e9a4878c77c8773a7
+2025-04-22 16:12:43,944 - INFO - Deleting content files: Men In Black 3 (2012) [1080p]
+2025-04-22 16:12:43,944 - INFO - Deleting content: /home/user/Desktop/torrents/Men In Black 3 (2012) [1080p]
+2025-04-22 16:12:43,945 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Men In Black 3 (2012) [1080p]
+2025-04-22 16:12:43,946 - INFO - Successfully processed torrent: Men In Black 3 (2012) [1080p]
+2025-04-22 16:12:43,946 - INFO - Processing torrent: A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:12:43,946 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Men In Black 3 (2012) [1080p]'}
+2025-04-22 16:12:43,946 - INFO - Attempting to upload torrent: A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:12:43,946 - INFO - Content path: /home/user/Desktop/torrents/A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:12:43,947 - INFO - Remote path: onedrive:Torrents/A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:12:43,947 - INFO - Uploading torrent: A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:12:43,947 - INFO - Directory /home/user/Desktop/torrents/A Bad Moms Christmas (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 16:12:43,947 - INFO - Starting upload: /home/user/Desktop/torrents/A Bad Moms Christmas (2017) [1080p] [YTS.AG] -> onedrive:Torrents/A Bad Moms Christmas (2017) [1080p] [YTS.AG]
+2025-04-22 16:12:43,947 - INFO - Uploading directory of size 1623.43 MB
+2025-04-22 16:13:23,970 - INFO - Successfully uploaded to onedrive:Torrents/Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:13:23,971 - INFO - Verifying upload for: Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:13:23,971 - INFO - Verifying upload: /home/user/Desktop/torrents/Percy Jackson And The Olympians The Lightning Thief (2010) [1080p] -> onedrive:Torrents/Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:13:27,813 - INFO - Upload verification successful for /home/user/Desktop/torrents/Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:13:27,822 - INFO - Deleting torrent from qBittorrent: Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:13:27,823 - INFO - Deleting torrent with hash d5cdcb9a9caf1008210fc49cc2466517629e136c (delete_files=False)
+2025-04-22 16:13:27,832 - INFO - Successfully deleted torrent with hash d5cdcb9a9caf1008210fc49cc2466517629e136c
+2025-04-22 16:13:27,832 - INFO - Deleting content files: Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:13:27,832 - INFO - Deleting content: /home/user/Desktop/torrents/Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:13:27,834 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:13:27,834 - INFO - Successfully processed torrent: Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:13:27,834 - INFO - Processing torrent: The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:13:27,835 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]'}
+2025-04-22 16:13:27,835 - INFO - Attempting to upload torrent: The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:13:27,835 - INFO - Content path: /home/user/Desktop/torrents/The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:13:27,835 - INFO - Remote path: onedrive:Torrents/The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:13:27,835 - INFO - Uploading torrent: The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:13:27,836 - INFO - Directory /home/user/Desktop/torrents/The Mist (2007) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 16:13:27,836 - INFO - Starting upload: /home/user/Desktop/torrents/The Mist (2007) [1080p] [YTS.AG] -> onedrive:Torrents/The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:13:27,836 - INFO - Uploading directory of size 1963.76 MB
