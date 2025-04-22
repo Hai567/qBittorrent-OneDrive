@@ -9405,3 +9405,81 @@
 2025-04-22 11:03:11,757 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pitch Perfect (2012) [1080p]
 2025-04-22 11:03:11,757 - INFO - Successfully processed torrent: Pitch Perfect (2012) [1080p]
 2025-04-22 11:03:11,757 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Pitch Perfect (2012) [1080p]'}
+2025-04-22 11:08:11,857 - INFO - Active upload threads: 3/5
+2025-04-22 11:08:11,858 - INFO - Checking for completed torrents...
+2025-04-22 11:08:11,872 - INFO - Found 34 completed torrents
+2025-04-22 11:08:11,873 - INFO - Torrent Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]: content_path = /home/user/Desktop/torrents/Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX], exists: True
+2025-04-22 11:08:11,873 - INFO - Torrent The Expendables (2010) [1080p]: content_path = /home/user/Desktop/torrents/The Expendables (2010) [1080p], exists: True
+2025-04-22 11:08:11,873 - INFO - Torrent The Bourne Ultimatum (2007) [1080p]: content_path = /home/user/Desktop/torrents/The Bourne Ultimatum (2007) [1080p], exists: True
+2025-04-22 11:08:11,873 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-22 11:08:11,873 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-22 11:08:11,873 - INFO - Torrent I Am Bolt (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/I Am Bolt (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 11:08:11,873 - INFO - Torrent Watchmen Ultimate Cut (2009) [1080p]: content_path = /home/user/Desktop/torrents/Watchmen Ultimate Cut (2009) [1080p], exists: True
+2025-04-22 11:08:11,873 - INFO - Torrent Source Code ( 2011 ) [1080p]: content_path = /home/user/Desktop/torrents/Source Code ( 2011 ) [1080p], exists: True
+2025-04-22 11:08:11,873 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-22 11:08:11,873 - INFO - Torrent The Pianist (2002) [1080p]: content_path = /home/user/Desktop/torrents/The Pianist (2002) [1080p], exists: True
+2025-04-22 11:08:11,873 - INFO - Torrent Good Will Hunting (1997) [1080p]: content_path = /home/user/Desktop/torrents/Good Will Hunting (1997) [1080p], exists: True
+2025-04-22 11:08:11,874 - INFO - Torrent The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 11:08:11,874 - INFO - Torrent Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 11:08:11,874 - INFO - Torrent Boyhood (2014) [1080p]: content_path = /home/user/Desktop/torrents/Boyhood (2014) [1080p], exists: True
+2025-04-22 11:08:11,874 - INFO - Torrent Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG], exists: True
+2025-04-22 11:08:11,874 - INFO - Torrent The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]: content_path = /home/user/Desktop/torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p], exists: True
+2025-04-22 11:08:11,874 - INFO - Torrent The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 11:08:11,874 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-22 11:08:11,874 - INFO - Torrent Unbreakable (2000) [1080p]: content_path = /home/user/Desktop/torrents/Unbreakable (2000) [1080p], exists: True
+2025-04-22 11:08:11,874 - INFO - Torrent Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Scream VI (2023) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 11:08:11,874 - INFO - Torrent Resident Evil (2002) [1080p]: content_path = /home/user/Desktop/torrents/Resident Evil (2002) [1080p], exists: True
+2025-04-22 11:08:11,874 - INFO - Torrent Kick-Ass 2 (2013) [1080p]: content_path = /home/user/Desktop/torrents/Kick-Ass 2 (2013) [1080p], exists: True
+2025-04-22 11:08:11,874 - INFO - Torrent The Purge Election Year (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Purge Election Year (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 11:08:11,874 - INFO - Torrent Love, Simon (2018) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-22 11:08:11,874 - INFO - Torrent Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Dont Look Up (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 11:08:11,875 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-22 11:08:11,875 - INFO - Torrent Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 11:08:11,875 - INFO - Torrent Home Alone 2 Lost in New York (1992) [1080p]: content_path = /home/user/Desktop/torrents/Home Alone 2 Lost in New York (1992) [1080p], exists: True
+2025-04-22 11:08:11,875 - INFO - Torrent Black Hawk Down (2001) [1080p]: content_path = /home/user/Desktop/torrents/Black Hawk Down (2001) [1080p], exists: True
+2025-04-22 11:08:11,875 - INFO - Torrent The Purge (2013) [1080p]: content_path = /home/user/Desktop/torrents/The Purge (2013) [1080p], exists: True
+2025-04-22 11:08:11,875 - INFO - Torrent Transcendence (2014) [1080p]: content_path = /home/user/Desktop/torrents/Transcendence (2014) [1080p], exists: True
+2025-04-22 11:08:11,875 - INFO - Torrent The Shack (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Shack (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 11:08:11,875 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-22 11:08:11,875 - INFO - Torrent The Circle (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Circle (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 11:08:11,875 - INFO - Submitting 28 torrents for parallel upload
+2025-04-22 11:08:11,876 - INFO - Processing torrent: Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:08:11,876 - INFO - Attempting to upload torrent: Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:08:11,876 - INFO - Processing torrent: The Expendables (2010) [1080p]
+2025-04-22 11:08:11,876 - INFO - Content path: /home/user/Desktop/torrents/Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:08:11,876 - INFO - Attempting to upload torrent: The Expendables (2010) [1080p]
+2025-04-22 11:08:11,877 - INFO - Remote path: onedrive:Torrents/Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:08:11,877 - INFO - Processing torrent: The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:08:11,877 - INFO - Content path: /home/user/Desktop/torrents/The Expendables (2010) [1080p]
+2025-04-22 11:08:11,878 - INFO - Processing torrent: I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:08:11,878 - INFO - Processing torrent: Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 11:08:11,879 - INFO - Uploading torrent: Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:08:11,879 - INFO - Attempting to upload torrent: The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:08:11,879 - INFO - Remote path: onedrive:Torrents/The Expendables (2010) [1080p]
+2025-04-22 11:08:11,879 - INFO - Attempting to upload torrent: I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:08:11,879 - INFO - Attempting to upload torrent: Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 11:08:11,880 - INFO - Content path: /home/user/Desktop/torrents/The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:08:11,880 - INFO - Directory /home/user/Desktop/torrents/Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 11:08:11,880 - INFO - Uploading torrent: The Expendables (2010) [1080p]
+2025-04-22 11:08:11,880 - INFO - Content path: /home/user/Desktop/torrents/I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:08:11,880 - INFO - Content path: /home/user/Desktop/torrents/Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 11:08:11,881 - INFO - Remote path: onedrive:Torrents/The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:08:11,881 - INFO - Starting upload: /home/user/Desktop/torrents/Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:08:11,881 - INFO - Remote path: onedrive:Torrents/I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:08:11,881 - INFO - Remote path: onedrive:Torrents/Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 11:08:11,882 - INFO - Uploading torrent: The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:08:11,882 - INFO - Uploading torrent: I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:08:11,882 - INFO - Uploading directory of size 1948.82 MB
+2025-04-22 11:08:11,883 - INFO - Uploading torrent: Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 11:08:11,883 - INFO - Directory /home/user/Desktop/torrents/The Expendables (2010) [1080p] is readable, contains 4 files/dirs
+2025-04-22 11:08:11,883 - INFO - Directory /home/user/Desktop/torrents/I Am Bolt (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 11:08:11,884 - INFO - Directory /home/user/Desktop/torrents/The Bourne Ultimatum (2007) [1080p] is readable, contains 3 files/dirs
+2025-04-22 11:08:11,885 - INFO - Starting upload: /home/user/Desktop/torrents/The Expendables (2010) [1080p] -> onedrive:Torrents/The Expendables (2010) [1080p]
+2025-04-22 11:08:11,885 - INFO - Starting upload: /home/user/Desktop/torrents/I Am Bolt (2016) [1080p] [YTS.AG] -> onedrive:Torrents/I Am Bolt (2016) [1080p] [YTS.AG]
+2025-04-22 11:08:11,885 - INFO - Directory /home/user/Desktop/torrents/Watchmen Ultimate Cut (2009) [1080p] is readable, contains 3 files/dirs
+2025-04-22 11:08:11,885 - INFO - Starting upload: /home/user/Desktop/torrents/The Bourne Ultimatum (2007) [1080p] -> onedrive:Torrents/The Bourne Ultimatum (2007) [1080p]
+2025-04-22 11:08:11,886 - INFO - Starting upload: /home/user/Desktop/torrents/Watchmen Ultimate Cut (2009) [1080p] -> onedrive:Torrents/Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 11:08:11,886 - INFO - Uploading directory of size 1721.66 MB
+2025-04-22 11:08:11,888 - INFO - Uploading directory of size 2868.56 MB
+2025-04-22 11:08:11,888 - INFO - Uploading directory of size 1588.88 MB
+2025-04-22 11:08:11,891 - INFO - Uploading directory of size 1435.55 MB
