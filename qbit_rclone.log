@@ -9955,3 +9955,39 @@
 2025-04-22 13:09:07,431 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Black Hawk Down (2001) [1080p]
 2025-04-22 13:09:07,432 - INFO - Successfully processed torrent: Black Hawk Down (2001) [1080p]
 2025-04-22 13:09:07,432 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Black Hawk Down (2001) [1080p]'}
+2025-04-22 13:12:24,163 - INFO - Successfully uploaded to onedrive:Torrents/The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 13:12:24,163 - INFO - Verifying upload for: The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 13:12:24,163 - INFO - Verifying upload: /home/user/Desktop/torrents/The Shack (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 13:12:27,025 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 13:12:27,034 - INFO - Deleting torrent from qBittorrent: The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 13:12:27,034 - INFO - Deleting torrent with hash d343316f87dccafbd9fd3b1ea89a65624fb4f702 (delete_files=False)
+2025-04-22 13:12:27,047 - INFO - Successfully deleted torrent with hash d343316f87dccafbd9fd3b1ea89a65624fb4f702
+2025-04-22 13:12:27,047 - INFO - Deleting content files: The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 13:12:27,048 - INFO - Deleting content: /home/user/Desktop/torrents/The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 13:12:27,049 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 13:12:27,049 - INFO - Successfully processed torrent: The Shack (2017) [1080p] [YTS.AG]
+2025-04-22 13:12:27,049 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Shack (2017) [1080p] [YTS.AG]'}
+2025-04-22 13:16:12,174 - INFO - Successfully uploaded to onedrive:Torrents/The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:16:12,174 - INFO - Verifying upload for: The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:16:12,175 - INFO - Verifying upload: /home/user/Desktop/torrents/The Circle (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:16:14,155 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:16:14,167 - INFO - Deleting torrent from qBittorrent: The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:16:14,167 - INFO - Deleting torrent with hash 39207eb51e5cc8edcbda98d7310aa82c569e7028 (delete_files=False)
+2025-04-22 13:16:14,175 - INFO - Successfully deleted torrent with hash 39207eb51e5cc8edcbda98d7310aa82c569e7028
+2025-04-22 13:16:14,176 - INFO - Deleting content files: The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:16:14,176 - INFO - Deleting content: /home/user/Desktop/torrents/The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:16:14,177 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:16:14,177 - INFO - Successfully processed torrent: The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:16:14,177 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Circle (2017) [1080p] [YTS.AG]'}
+2025-04-22 13:17:06,821 - INFO - Successfully uploaded to onedrive:Torrents/The Purge (2013) [1080p]
+2025-04-22 13:17:06,822 - INFO - Verifying upload for: The Purge (2013) [1080p]
+2025-04-22 13:17:06,822 - INFO - Verifying upload: /home/user/Desktop/torrents/The Purge (2013) [1080p] -> onedrive:Torrents/The Purge (2013) [1080p]
+2025-04-22 13:17:09,116 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Purge (2013) [1080p]
+2025-04-22 13:17:09,126 - INFO - Deleting torrent from qBittorrent: The Purge (2013) [1080p]
+2025-04-22 13:17:09,127 - INFO - Deleting torrent with hash 479bb1022275e502df5e4a7578d5e9220a9c3cb4 (delete_files=False)
+2025-04-22 13:17:09,136 - INFO - Successfully deleted torrent with hash 479bb1022275e502df5e4a7578d5e9220a9c3cb4
+2025-04-22 13:17:09,137 - INFO - Deleting content files: The Purge (2013) [1080p]
+2025-04-22 13:17:09,137 - INFO - Deleting content: /home/user/Desktop/torrents/The Purge (2013) [1080p]
+2025-04-22 13:17:09,138 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Purge (2013) [1080p]
+2025-04-22 13:17:09,138 - INFO - Successfully processed torrent: The Purge (2013) [1080p]
+2025-04-22 13:17:09,138 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Purge (2013) [1080p]'}
