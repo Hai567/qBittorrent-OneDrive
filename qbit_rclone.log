@@ -9004,3 +9004,27 @@
 2025-04-22 05:31:12,488 - INFO - Starting upload: /home/user/Desktop/torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
 2025-04-22 05:31:12,488 - INFO - Uploading directory of size 1871.99 MB
 2025-04-22 05:31:12,488 - INFO - Uploading directory of size 1840.03 MB
+2025-04-22 05:38:53,218 - INFO - Successfully uploaded to onedrive:Torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:38:53,219 - INFO - Verifying upload for: Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:38:53,219 - INFO - Verifying upload: /home/user/Desktop/torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:38:54,179 - INFO - Successfully uploaded to onedrive:Torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:38:54,179 - INFO - Verifying upload for: All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:38:54,179 - INFO - Verifying upload: /home/user/Desktop/torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:38:54,575 - INFO - Upload verification successful for /home/user/Desktop/torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:38:54,584 - INFO - Deleting torrent from qBittorrent: Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:38:54,584 - INFO - Deleting torrent with hash 69908554a74d81f1fc7b053ed416adf040081302 (delete_files=False)
+2025-04-22 05:38:54,592 - INFO - Successfully deleted torrent with hash 69908554a74d81f1fc7b053ed416adf040081302
+2025-04-22 05:38:54,592 - INFO - Deleting content files: Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:38:54,592 - INFO - Deleting content: /home/user/Desktop/torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:38:54,593 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:38:54,594 - INFO - Successfully processed torrent: Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:38:54,594 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]'}
+2025-04-22 05:38:55,765 - INFO - Upload verification successful for /home/user/Desktop/torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:38:55,774 - INFO - Deleting torrent from qBittorrent: All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:38:55,774 - INFO - Deleting torrent with hash b06c248ddfd737e0342fa8c4149176db73e1b3d2 (delete_files=False)
+2025-04-22 05:38:55,781 - INFO - Successfully deleted torrent with hash b06c248ddfd737e0342fa8c4149176db73e1b3d2
+2025-04-22 05:38:55,781 - INFO - Deleting content files: All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:38:55,781 - INFO - Deleting content: /home/user/Desktop/torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:38:55,783 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:38:55,783 - INFO - Successfully processed torrent: All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:38:55,783 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]'}
