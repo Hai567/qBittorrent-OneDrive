@@ -9943,3 +9943,15 @@
 2025-04-22 13:06:16,988 - INFO - Directory /home/user/Desktop/torrents/The Circle (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 13:06:16,988 - INFO - Starting upload: /home/user/Desktop/torrents/The Circle (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Circle (2017) [1080p] [YTS.AG]
 2025-04-22 13:06:16,988 - INFO - Uploading directory of size 1715.40 MB
+2025-04-22 13:09:05,227 - INFO - Successfully uploaded to onedrive:Torrents/Black Hawk Down (2001) [1080p]
+2025-04-22 13:09:05,228 - INFO - Verifying upload for: Black Hawk Down (2001) [1080p]
+2025-04-22 13:09:05,228 - INFO - Verifying upload: /home/user/Desktop/torrents/Black Hawk Down (2001) [1080p] -> onedrive:Torrents/Black Hawk Down (2001) [1080p]
+2025-04-22 13:09:07,407 - INFO - Upload verification successful for /home/user/Desktop/torrents/Black Hawk Down (2001) [1080p]
+2025-04-22 13:09:07,419 - INFO - Deleting torrent from qBittorrent: Black Hawk Down (2001) [1080p]
+2025-04-22 13:09:07,419 - INFO - Deleting torrent with hash 58cc12dee5c56df7d3edb058f327f1ed59f320e3 (delete_files=False)
+2025-04-22 13:09:07,429 - INFO - Successfully deleted torrent with hash 58cc12dee5c56df7d3edb058f327f1ed59f320e3
+2025-04-22 13:09:07,430 - INFO - Deleting content files: Black Hawk Down (2001) [1080p]
+2025-04-22 13:09:07,430 - INFO - Deleting content: /home/user/Desktop/torrents/Black Hawk Down (2001) [1080p]
+2025-04-22 13:09:07,431 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Black Hawk Down (2001) [1080p]
+2025-04-22 13:09:07,432 - INFO - Successfully processed torrent: Black Hawk Down (2001) [1080p]
+2025-04-22 13:09:07,432 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Black Hawk Down (2001) [1080p]'}
