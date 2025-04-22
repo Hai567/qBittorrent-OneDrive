@@ -10501,3 +10501,23 @@
 2025-04-22 14:49:44,954 - INFO - Directory /home/user/Desktop/torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 14:49:44,954 - INFO - Starting upload: /home/user/Desktop/torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG] -> onedrive:Torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG]
 2025-04-22 14:49:44,954 - INFO - Uploading directory of size 1418.74 MB
+2025-04-22 14:55:55,407 - INFO - Successfully uploaded to onedrive:Torrents/Her (2013) [1080p]
+2025-04-22 14:55:55,408 - INFO - Verifying upload for: Her (2013) [1080p]
+2025-04-22 14:55:55,408 - INFO - Verifying upload: /home/user/Desktop/torrents/Her (2013) [1080p] -> onedrive:Torrents/Her (2013) [1080p]
+2025-04-22 14:55:58,167 - INFO - Upload verification successful for /home/user/Desktop/torrents/Her (2013) [1080p]
+2025-04-22 14:55:58,178 - INFO - Deleting torrent from qBittorrent: Her (2013) [1080p]
+2025-04-22 14:55:58,179 - INFO - Deleting torrent with hash e56880dbbdc834706c9f9272c84c68517a7adbb9 (delete_files=False)
+2025-04-22 14:55:58,190 - INFO - Successfully deleted torrent with hash e56880dbbdc834706c9f9272c84c68517a7adbb9
+2025-04-22 14:55:58,191 - INFO - Deleting content files: Her (2013) [1080p]
+2025-04-22 14:55:58,191 - INFO - Deleting content: /home/user/Desktop/torrents/Her (2013) [1080p]
+2025-04-22 14:55:58,196 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Her (2013) [1080p]
+2025-04-22 14:55:58,196 - INFO - Successfully processed torrent: Her (2013) [1080p]
+2025-04-22 14:55:58,196 - INFO - Processing torrent: Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 14:55:58,196 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Her (2013) [1080p]'}
+2025-04-22 14:55:58,197 - INFO - Attempting to upload torrent: Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 14:55:58,198 - INFO - Content path: /home/user/Desktop/torrents/Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 14:55:58,198 - INFO - Remote path: onedrive:Torrents/Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 14:55:58,198 - INFO - Uploading torrent: Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 14:55:58,198 - INFO - Directory /home/user/Desktop/torrents/Ice Age 4 Continental Drift (2012) [1080p] is readable, contains 3 files/dirs
+2025-04-22 14:55:58,198 - INFO - Starting upload: /home/user/Desktop/torrents/Ice Age 4 Continental Drift (2012) [1080p] -> onedrive:Torrents/Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 14:55:58,198 - INFO - Uploading directory of size 1380.98 MB
