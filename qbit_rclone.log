@@ -10521,3 +10521,27 @@
 2025-04-22 14:55:58,198 - INFO - Directory /home/user/Desktop/torrents/Ice Age 4 Continental Drift (2012) [1080p] is readable, contains 3 files/dirs
 2025-04-22 14:55:58,198 - INFO - Starting upload: /home/user/Desktop/torrents/Ice Age 4 Continental Drift (2012) [1080p] -> onedrive:Torrents/Ice Age 4 Continental Drift (2012) [1080p]
 2025-04-22 14:55:58,198 - INFO - Uploading directory of size 1380.98 MB
+2025-04-22 14:58:14,514 - INFO - Successfully uploaded to onedrive:Torrents/Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:58:14,514 - INFO - Verifying upload for: Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:58:14,514 - INFO - Verifying upload: /home/user/Desktop/torrents/Don't Breathe (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:58:17,070 - INFO - Upload verification successful for /home/user/Desktop/torrents/Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:58:17,080 - INFO - Deleting torrent from qBittorrent: Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:58:17,080 - INFO - Deleting torrent with hash 3bd27db4d0a97dae6a06c47f608c4a9db171e7a3 (delete_files=False)
+2025-04-22 14:58:17,089 - INFO - Successfully deleted torrent with hash 3bd27db4d0a97dae6a06c47f608c4a9db171e7a3
+2025-04-22 14:58:17,089 - INFO - Deleting content files: Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:58:17,089 - INFO - Deleting content: /home/user/Desktop/torrents/Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:58:17,092 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:58:17,092 - INFO - Successfully processed torrent: Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:58:17,093 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "Don't Breathe (2016) [1080p] [YTS.AG]"}
+2025-04-22 15:01:04,400 - INFO - Successfully uploaded to onedrive:Torrents/Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 15:01:04,400 - INFO - Verifying upload for: Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 15:01:04,401 - INFO - Verifying upload: /home/user/Desktop/torrents/Ice Age 4 Continental Drift (2012) [1080p] -> onedrive:Torrents/Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 15:01:05,762 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 15:01:05,773 - INFO - Deleting torrent from qBittorrent: Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 15:01:05,773 - INFO - Deleting torrent with hash 17f648398ebc82df11b132af989778c918ac0ff9 (delete_files=False)
+2025-04-22 15:01:05,784 - INFO - Successfully deleted torrent with hash 17f648398ebc82df11b132af989778c918ac0ff9
+2025-04-22 15:01:05,784 - INFO - Deleting content files: Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 15:01:05,785 - INFO - Deleting content: /home/user/Desktop/torrents/Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 15:01:05,788 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 15:01:05,788 - INFO - Successfully processed torrent: Ice Age 4 Continental Drift (2012) [1080p]
+2025-04-22 15:01:05,788 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ice Age 4 Continental Drift (2012) [1080p]'}
