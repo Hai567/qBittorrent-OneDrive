@@ -10698,3 +10698,63 @@
 2025-04-22 15:25:14,444 - INFO - Directory /home/user/Desktop/torrents/Shrek (2001) [1080p] is readable, contains 4 files/dirs
 2025-04-22 15:25:14,444 - INFO - Starting upload: /home/user/Desktop/torrents/Shrek (2001) [1080p] -> onedrive:Torrents/Shrek (2001) [1080p]
 2025-04-22 15:25:14,444 - INFO - Uploading directory of size 1018.80 MB
+2025-04-22 15:29:22,586 - INFO - Successfully uploaded to onedrive:Torrents/The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:29:22,586 - INFO - Verifying upload for: The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:29:22,587 - INFO - Verifying upload: /home/user/Desktop/torrents/The Secret Life of Walter Mitty (2013) [1080p] -> onedrive:Torrents/The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:29:24,936 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:29:24,949 - INFO - Deleting torrent from qBittorrent: The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:29:24,950 - INFO - Deleting torrent with hash 15eb8ff6f65cb51f59e95f6be55efe22dc70d707 (delete_files=False)
+2025-04-22 15:29:24,962 - INFO - Successfully deleted torrent with hash 15eb8ff6f65cb51f59e95f6be55efe22dc70d707
+2025-04-22 15:29:24,962 - INFO - Deleting content files: The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:29:24,962 - INFO - Deleting content: /home/user/Desktop/torrents/The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:29:24,963 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:29:24,963 - INFO - Successfully processed torrent: The Secret Life of Walter Mitty (2013) [1080p]
+2025-04-22 15:29:24,964 - INFO - Processing torrent: Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:29:24,967 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Secret Life of Walter Mitty (2013) [1080p]'}
+2025-04-22 15:29:24,968 - INFO - Attempting to upload torrent: Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:29:24,969 - INFO - Content path: /home/user/Desktop/torrents/Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:29:24,969 - INFO - Remote path: onedrive:Torrents/Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:29:24,969 - INFO - Uploading torrent: Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:29:24,970 - INFO - Directory /home/user/Desktop/torrents/Jack the Giant Slayer (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-22 15:29:24,970 - INFO - Starting upload: /home/user/Desktop/torrents/Jack the Giant Slayer (2013) [1080p] -> onedrive:Torrents/Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:29:24,970 - INFO - Uploading directory of size 1887.29 MB
+2025-04-22 15:32:02,934 - INFO - Successfully uploaded to onedrive:Torrents/Shrek (2001) [1080p]
+2025-04-22 15:32:02,935 - INFO - Verifying upload for: Shrek (2001) [1080p]
+2025-04-22 15:32:02,935 - INFO - Verifying upload: /home/user/Desktop/torrents/Shrek (2001) [1080p] -> onedrive:Torrents/Shrek (2001) [1080p]
+2025-04-22 15:32:04,927 - INFO - Upload verification successful for /home/user/Desktop/torrents/Shrek (2001) [1080p]
+2025-04-22 15:32:04,943 - INFO - Deleting torrent from qBittorrent: Shrek (2001) [1080p]
+2025-04-22 15:32:04,943 - INFO - Deleting torrent with hash 7b973e55b2198eac530440dc7d9589dd708f5692 (delete_files=False)
+2025-04-22 15:32:04,956 - INFO - Successfully deleted torrent with hash 7b973e55b2198eac530440dc7d9589dd708f5692
+2025-04-22 15:32:04,957 - INFO - Deleting content files: Shrek (2001) [1080p]
+2025-04-22 15:32:04,957 - INFO - Deleting content: /home/user/Desktop/torrents/Shrek (2001) [1080p]
+2025-04-22 15:32:04,958 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Shrek (2001) [1080p]
+2025-04-22 15:32:04,958 - INFO - Successfully processed torrent: Shrek (2001) [1080p]
+2025-04-22 15:32:04,958 - INFO - Processing torrent: Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:32:04,958 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Shrek (2001) [1080p]'}
+2025-04-22 15:32:04,959 - INFO - Attempting to upload torrent: Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:32:04,959 - INFO - Content path: /home/user/Desktop/torrents/Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:32:04,960 - INFO - Remote path: onedrive:Torrents/Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:32:04,960 - INFO - Uploading torrent: Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:32:04,960 - INFO - Directory /home/user/Desktop/torrents/Batman The Dark Knight Returns Part 1 (2012) [1080p] is readable, contains 3 files/dirs
+2025-04-22 15:32:04,960 - INFO - Starting upload: /home/user/Desktop/torrents/Batman The Dark Knight Returns Part 1 (2012) [1080p] -> onedrive:Torrents/Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:32:04,960 - INFO - Uploading directory of size 1175.26 MB
+2025-04-22 15:32:05,458 - INFO - Successfully uploaded to onedrive:Torrents/A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:32:05,459 - INFO - Verifying upload for: A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:32:05,459 - INFO - Verifying upload: /home/user/Desktop/torrents/A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:32:08,240 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:32:08,252 - INFO - Deleting torrent from qBittorrent: A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:32:08,252 - INFO - Deleting torrent with hash da99d0f3750e0cae4f4c40be0b5d9854a44e19ce (delete_files=False)
+2025-04-22 15:32:08,263 - INFO - Successfully deleted torrent with hash da99d0f3750e0cae4f4c40be0b5d9854a44e19ce
+2025-04-22 15:32:08,263 - INFO - Deleting content files: A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:32:08,264 - INFO - Deleting content: /home/user/Desktop/torrents/A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:32:08,266 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:32:08,266 - INFO - Successfully processed torrent: A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:32:08,266 - INFO - Processing torrent: Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:32:08,266 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A Man Called Otto (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 15:32:08,267 - INFO - Attempting to upload torrent: Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:32:08,267 - INFO - Content path: /home/user/Desktop/torrents/Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:32:08,267 - INFO - Remote path: onedrive:Torrents/Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:32:08,267 - INFO - Uploading torrent: Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:32:08,268 - INFO - Directory /home/user/Desktop/torrents/Wonder (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 15:32:08,268 - INFO - Starting upload: /home/user/Desktop/torrents/Wonder (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:32:08,268 - INFO - Uploading directory of size 1752.41 MB
