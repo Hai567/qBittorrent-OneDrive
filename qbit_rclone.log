@@ -11538,3 +11538,99 @@
 2025-04-22 17:04:07,976 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Die Hard 4 (2007) [1080p]
 2025-04-22 17:04:07,976 - INFO - Successfully processed torrent: Die Hard 4 (2007) [1080p]
 2025-04-22 17:04:07,976 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Die Hard 4 (2007) [1080p]'}
+2025-04-22 17:09:08,077 - INFO - Active upload threads: 5/5
+2025-04-22 17:09:08,077 - INFO - Checking for completed torrents...
+2025-04-22 17:09:08,092 - INFO - Found 32 completed torrents
+2025-04-22 17:09:08,092 - INFO - Torrent The Finest Hours (2016) [YTS.AG]: content_path = /home/user/Desktop/torrents/The Finest Hours (2016) [YTS.AG], exists: True
+2025-04-22 17:09:08,092 - INFO - Torrent Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-22 17:09:08,092 - INFO - Torrent Adrift (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Adrift (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-22 17:09:08,092 - INFO - Torrent The Book of Life (2014) [1080p]: content_path = /home/user/Desktop/torrents/The Book of Life (2014) [1080p], exists: True
+2025-04-22 17:09:08,093 - INFO - Torrent Rush (2013) [1080p]: content_path = /home/user/Desktop/torrents/Rush (2013) [1080p], exists: True
+2025-04-22 17:09:08,093 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-22 17:09:08,093 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-22 17:09:08,093 - INFO - Torrent Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 17:09:08,093 - INFO - Torrent Tracers (2015) [1080p]: content_path = /home/user/Desktop/torrents/Tracers (2015) [1080p], exists: True
+2025-04-22 17:09:08,093 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-22 17:09:08,093 - INFO - Torrent Green Lantern (2011): content_path = /home/user/Desktop/torrents/Green Lantern (2011), exists: True
+2025-04-22 17:09:08,094 - INFO - Torrent The Autopsy Of Jane Doe (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Autopsy Of Jane Doe (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 17:09:08,094 - INFO - Torrent Rush Hour 3 (2007) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Rush Hour 3 (2007) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:09:08,094 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-22 17:09:08,094 - INFO - Torrent American Hustle (2013) [1080p]: content_path = /home/user/Desktop/torrents/American Hustle (2013) [1080p], exists: True
+2025-04-22 17:09:08,094 - INFO - Torrent The Death Of Superman (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/The Death Of Superman (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-22 17:09:08,094 - INFO - Torrent The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:09:08,094 - INFO - Torrent Blended (2014) [1080p]: content_path = /home/user/Desktop/torrents/Blended (2014) [1080p], exists: True
+2025-04-22 17:09:08,095 - INFO - Torrent Ice Age Collision Course (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Ice Age Collision Course (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 17:09:08,095 - INFO - Torrent Gold (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Gold (2016) [1080p] [YTS.AG], exists: True
+2025-04-22 17:09:08,095 - INFO - Torrent Captive State (2019) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Captive State (2019) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-22 17:09:08,095 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-22 17:09:08,095 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-22 17:09:08,095 - INFO - Torrent A Walk Among the Tombstones (2014) [1080p]: content_path = /home/user/Desktop/torrents/A Walk Among the Tombstones (2014) [1080p], exists: True
+2025-04-22 17:09:08,095 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-22 17:09:08,095 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-22 17:09:08,095 - INFO - Torrent Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-22 17:09:08,095 - INFO - Torrent Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG], exists: True
+2025-04-22 17:09:08,095 - INFO - Torrent The LEGO Ninjago Movie (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The LEGO Ninjago Movie (2017) [1080p] [YTS.AG], exists: True
+2025-04-22 17:09:08,096 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-22 17:09:08,096 - INFO - Torrent Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]: content_path = /home/user/Desktop/torrents/Ice Age The Great Egg-Scapade (2016) [1080p] [WEBRip] [YTS.MX]/Ice.Age.The.Great.Egg-Scapade.2016.1080p.WEBRip.x264.AAC-[YTS.MX].mp4, exists: True
+2025-04-22 17:09:08,096 - INFO - Torrent Ride Along (2014) [1080p]: content_path = /home/user/Desktop/torrents/Ride Along (2014) [1080p], exists: True
+2025-04-22 17:09:08,096 - INFO - Submitting 23 torrents for parallel upload
+2025-04-22 17:09:08,097 - INFO - Processing torrent: The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:09:08,097 - INFO - Processing torrent: Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:09:08,097 - INFO - Processing torrent: Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:09:08,098 - INFO - Processing torrent: The Book of Life (2014) [1080p]
+2025-04-22 17:09:08,098 - INFO - Processing torrent: Rush (2013) [1080p]
+2025-04-22 17:09:08,098 - INFO - Attempting to upload torrent: The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:09:08,098 - INFO - Attempting to upload torrent: Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:09:08,098 - INFO - Attempting to upload torrent: Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:09:08,098 - INFO - Attempting to upload torrent: The Book of Life (2014) [1080p]
+2025-04-22 17:09:08,099 - INFO - Attempting to upload torrent: Rush (2013) [1080p]
+2025-04-22 17:09:08,099 - INFO - Content path: /home/user/Desktop/torrents/The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:09:08,099 - INFO - Content path: /home/user/Desktop/torrents/Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:09:08,099 - INFO - Content path: /home/user/Desktop/torrents/Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:09:08,099 - INFO - Content path: /home/user/Desktop/torrents/The Book of Life (2014) [1080p]
+2025-04-22 17:09:08,100 - INFO - Content path: /home/user/Desktop/torrents/Rush (2013) [1080p]
+2025-04-22 17:09:08,100 - INFO - Remote path: onedrive:Torrents/The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:09:08,100 - INFO - Remote path: onedrive:Torrents/Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:09:08,100 - INFO - Remote path: onedrive:Torrents/Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:09:08,101 - INFO - Remote path: onedrive:Torrents/The Book of Life (2014) [1080p]
+2025-04-22 17:09:08,101 - INFO - Remote path: onedrive:Torrents/Rush (2013) [1080p]
+2025-04-22 17:09:08,101 - INFO - Uploading torrent: The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:09:08,101 - INFO - Uploading torrent: Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:09:08,101 - INFO - Uploading torrent: Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:09:08,102 - INFO - Uploading torrent: The Book of Life (2014) [1080p]
+2025-04-22 17:09:08,102 - INFO - Uploading torrent: Rush (2013) [1080p]
+2025-04-22 17:09:08,103 - INFO - Directory /home/user/Desktop/torrents/The Finest Hours (2016) [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 17:09:08,103 - INFO - Directory /home/user/Desktop/torrents/Adrift (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-22 17:09:08,103 - INFO - Directory /home/user/Desktop/torrents/Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-22 17:09:08,103 - INFO - Directory /home/user/Desktop/torrents/The Book of Life (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-22 17:09:08,103 - INFO - Starting upload: /home/user/Desktop/torrents/The Finest Hours (2016) [YTS.AG] -> onedrive:Torrents/The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:09:08,103 - INFO - Starting upload: /home/user/Desktop/torrents/Adrift (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Adrift (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:09:08,104 - INFO - Directory /home/user/Desktop/torrents/Rush (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-22 17:09:08,104 - INFO - Starting upload: /home/user/Desktop/torrents/Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Dragon Ball Super Broly (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 17:09:08,105 - INFO - Starting upload: /home/user/Desktop/torrents/The Book of Life (2014) [1080p] -> onedrive:Torrents/The Book of Life (2014) [1080p]
+2025-04-22 17:09:08,106 - INFO - Starting upload: /home/user/Desktop/torrents/Rush (2013) [1080p] -> onedrive:Torrents/Rush (2013) [1080p]
+2025-04-22 17:09:08,106 - INFO - Uploading directory of size 1581.09 MB
+2025-04-22 17:09:08,107 - INFO - Uploading directory of size 1637.32 MB
+2025-04-22 17:09:08,107 - INFO - Uploading directory of size 875.75 MB
+2025-04-22 17:09:08,108 - INFO - Uploading directory of size 1896.19 MB
+2025-04-22 17:09:08,109 - INFO - Uploading directory of size 1472.30 MB
+2025-04-22 17:13:31,878 - INFO - Successfully uploaded to onedrive:Torrents/The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:13:31,879 - INFO - Verifying upload for: The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:13:31,879 - INFO - Verifying upload: /home/user/Desktop/torrents/The Finest Hours (2016) [YTS.AG] -> onedrive:Torrents/The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:13:34,253 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:13:34,267 - INFO - Deleting torrent from qBittorrent: The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:13:34,268 - INFO - Deleting torrent with hash c9e2734149813e7becf1491a7f1068ae80d28052 (delete_files=False)
+2025-04-22 17:13:34,282 - INFO - Successfully deleted torrent with hash c9e2734149813e7becf1491a7f1068ae80d28052
+2025-04-22 17:13:34,282 - INFO - Deleting content files: The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:13:34,282 - INFO - Deleting content: /home/user/Desktop/torrents/The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:13:34,284 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:13:34,284 - INFO - Successfully processed torrent: The Finest Hours (2016) [YTS.AG]
+2025-04-22 17:13:34,284 - INFO - Processing torrent: Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:13:34,284 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Finest Hours (2016) [YTS.AG]'}
+2025-04-22 17:13:34,284 - INFO - Attempting to upload torrent: Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:13:34,285 - INFO - Content path: /home/user/Desktop/torrents/Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:13:34,285 - INFO - Remote path: onedrive:Torrents/Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:13:34,285 - INFO - Uploading torrent: Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:13:34,285 - INFO - Directory /home/user/Desktop/torrents/Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 17:13:34,285 - INFO - Starting upload: /home/user/Desktop/torrents/Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Infinite (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:13:34,286 - INFO - Uploading directory of size 2006.92 MB
