@@ -10838,3 +10838,63 @@
 2025-04-22 15:46:45,356 - INFO - Directory /home/user/Desktop/torrents/The Sixth Sense (1999) [1080p] is readable, contains 2 files/dirs
 2025-04-22 15:46:45,356 - INFO - Starting upload: /home/user/Desktop/torrents/The Sixth Sense (1999) [1080p] -> onedrive:Torrents/The Sixth Sense (1999) [1080p]
 2025-04-22 15:46:45,357 - INFO - Uploading directory of size 1667.18 MB
+2025-04-22 15:49:55,030 - INFO - Successfully uploaded to onedrive:Torrents/Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:49:55,030 - INFO - Verifying upload for: Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:49:55,031 - INFO - Verifying upload: /home/user/Desktop/torrents/Fences (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:49:57,574 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:49:57,585 - INFO - Deleting torrent from qBittorrent: Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:49:57,585 - INFO - Deleting torrent with hash b4a7896a67c3ebd025790302a62d118b33918d55 (delete_files=False)
+2025-04-22 15:49:57,594 - INFO - Successfully deleted torrent with hash b4a7896a67c3ebd025790302a62d118b33918d55
+2025-04-22 15:49:57,595 - INFO - Deleting content files: Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:49:57,595 - INFO - Deleting content: /home/user/Desktop/torrents/Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:49:57,596 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:49:57,596 - INFO - Successfully processed torrent: Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:49:57,596 - INFO - Processing torrent: Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 15:49:57,597 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Fences (2016) [1080p] [YTS.AG]'}
+2025-04-22 15:49:57,597 - INFO - Attempting to upload torrent: Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 15:49:57,597 - INFO - Content path: /home/user/Desktop/torrents/Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 15:49:57,597 - INFO - Remote path: onedrive:Torrents/Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 15:49:57,597 - INFO - Uploading torrent: Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 15:49:57,597 - INFO - Directory /home/user/Desktop/torrents/Midnight Sun (2018) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-22 15:49:57,597 - INFO - Starting upload: /home/user/Desktop/torrents/Midnight Sun (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Midnight Sun (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 15:49:57,597 - INFO - Uploading directory of size 1503.45 MB
+2025-04-22 15:50:57,403 - INFO - Successfully uploaded to onedrive:Torrents/War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:50:57,403 - INFO - Verifying upload for: War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:50:57,404 - INFO - Verifying upload: /home/user/Desktop/torrents/War Dogs (2016) [1080p] [YTS.AG] -> onedrive:Torrents/War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:50:59,920 - INFO - Upload verification successful for /home/user/Desktop/torrents/War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:50:59,932 - INFO - Deleting torrent from qBittorrent: War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:50:59,932 - INFO - Deleting torrent with hash 503deb16092c022444e60aa21254314fd286c1de (delete_files=False)
+2025-04-22 15:50:59,947 - INFO - Successfully deleted torrent with hash 503deb16092c022444e60aa21254314fd286c1de
+2025-04-22 15:50:59,947 - INFO - Deleting content files: War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:50:59,948 - INFO - Deleting content: /home/user/Desktop/torrents/War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:50:59,949 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:50:59,949 - INFO - Successfully processed torrent: War Dogs (2016) [1080p] [YTS.AG]
+2025-04-22 15:50:59,949 - INFO - Processing torrent: M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:50:59,950 - INFO - Attempting to upload torrent: M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:50:59,950 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'War Dogs (2016) [1080p] [YTS.AG]'}
+2025-04-22 15:50:59,950 - INFO - Content path: /home/user/Desktop/torrents/M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:50:59,950 - INFO - Remote path: onedrive:Torrents/M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:50:59,950 - INFO - Uploading torrent: M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:50:59,950 - INFO - Directory /home/user/Desktop/torrents/M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-22 15:50:59,950 - INFO - Starting upload: /home/user/Desktop/torrents/M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 15:50:59,951 - INFO - Uploading directory of size 1926.31 MB
+2025-04-22 15:53:09,548 - INFO - Successfully uploaded to onedrive:Torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:53:09,548 - INFO - Verifying upload for: Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:53:09,548 - INFO - Verifying upload: /home/user/Desktop/torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:53:12,067 - INFO - Upload verification successful for /home/user/Desktop/torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:53:12,078 - INFO - Deleting torrent from qBittorrent: Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:53:12,078 - INFO - Deleting torrent with hash 885d2c87e91ee507c3150cb3c6839401c10c26c2 (delete_files=False)
+2025-04-22 15:53:12,087 - INFO - Successfully deleted torrent with hash 885d2c87e91ee507c3150cb3c6839401c10c26c2
+2025-04-22 15:53:12,087 - INFO - Deleting content files: Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:53:12,087 - INFO - Deleting content: /home/user/Desktop/torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:53:12,089 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:53:12,089 - INFO - Successfully processed torrent: Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:53:12,089 - INFO - Processing torrent: Get Hard (2015) [1080p]
+2025-04-22 15:53:12,089 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-22 15:53:12,089 - INFO - Attempting to upload torrent: Get Hard (2015) [1080p]
+2025-04-22 15:53:12,090 - INFO - Content path: /home/user/Desktop/torrents/Get Hard (2015) [1080p]
+2025-04-22 15:53:12,090 - INFO - Remote path: onedrive:Torrents/Get Hard (2015) [1080p]
+2025-04-22 15:53:12,090 - INFO - Uploading torrent: Get Hard (2015) [1080p]
+2025-04-22 15:53:12,090 - INFO - Directory /home/user/Desktop/torrents/Get Hard (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-22 15:53:12,090 - INFO - Starting upload: /home/user/Desktop/torrents/Get Hard (2015) [1080p] -> onedrive:Torrents/Get Hard (2015) [1080p]
+2025-04-22 15:53:12,090 - INFO - Uploading directory of size 1681.12 MB
