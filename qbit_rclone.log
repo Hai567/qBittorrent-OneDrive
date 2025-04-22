@@ -11490,3 +11490,39 @@
 2025-04-22 16:57:52,575 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Bourne Identity (2002) [1080p]
 2025-04-22 16:57:52,575 - INFO - Successfully processed torrent: The Bourne Identity (2002) [1080p]
 2025-04-22 16:57:52,576 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Bourne Identity (2002) [1080p]'}
+2025-04-22 17:00:16,622 - INFO - Successfully uploaded to onedrive:Torrents/Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:00:16,623 - INFO - Verifying upload for: Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:00:16,623 - INFO - Verifying upload: /home/user/Desktop/torrents/Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:00:18,826 - INFO - Upload verification successful for /home/user/Desktop/torrents/Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:00:18,872 - INFO - Deleting torrent from qBittorrent: Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:00:18,872 - INFO - Deleting torrent with hash 5aaeb916ed2150247c173569221e9deaaf153902 (delete_files=False)
+2025-04-22 17:00:18,888 - INFO - Successfully deleted torrent with hash 5aaeb916ed2150247c173569221e9deaaf153902
+2025-04-22 17:00:18,889 - INFO - Deleting content files: Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:00:18,889 - INFO - Deleting content: /home/user/Desktop/torrents/Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:00:18,895 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:00:18,896 - INFO - Successfully processed torrent: Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 17:00:18,896 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-22 17:01:12,076 - INFO - Successfully uploaded to onedrive:Torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 17:01:12,077 - INFO - Verifying upload for: In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 17:01:12,077 - INFO - Verifying upload: /home/user/Desktop/torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 17:01:13,967 - INFO - Upload verification successful for /home/user/Desktop/torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 17:01:13,979 - INFO - Deleting torrent from qBittorrent: In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 17:01:13,979 - INFO - Deleting torrent with hash 7b3b3e29d8d6f8cae026843b15c6e369cfb20935 (delete_files=False)
+2025-04-22 17:01:13,989 - INFO - Successfully deleted torrent with hash 7b3b3e29d8d6f8cae026843b15c6e369cfb20935
+2025-04-22 17:01:13,989 - INFO - Deleting content files: In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 17:01:13,989 - INFO - Deleting content: /home/user/Desktop/torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 17:01:13,991 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 17:01:13,991 - INFO - Successfully processed torrent: In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 17:01:13,991 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]'}
+2025-04-22 17:03:50,354 - INFO - Successfully uploaded to onedrive:Torrents/Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 17:03:50,355 - INFO - Verifying upload for: Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 17:03:50,355 - INFO - Verifying upload: /home/user/Desktop/torrents/Teenage Mutant Ninja Turtles (2014) [1080p] -> onedrive:Torrents/Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 17:03:52,561 - INFO - Upload verification successful for /home/user/Desktop/torrents/Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 17:03:52,577 - INFO - Deleting torrent from qBittorrent: Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 17:03:52,578 - INFO - Deleting torrent with hash 07c5ae66b57763f5dc0e598a29355a61c975b04f (delete_files=False)
+2025-04-22 17:03:52,591 - INFO - Successfully deleted torrent with hash 07c5ae66b57763f5dc0e598a29355a61c975b04f
+2025-04-22 17:03:52,591 - INFO - Deleting content files: Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 17:03:52,591 - INFO - Deleting content: /home/user/Desktop/torrents/Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 17:03:52,592 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 17:03:52,593 - INFO - Successfully processed torrent: Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 17:03:52,593 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Teenage Mutant Ninja Turtles (2014) [1080p]'}
