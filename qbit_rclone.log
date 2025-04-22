@@ -10101,3 +10101,63 @@
 2025-04-22 13:38:11,698 - INFO - Starting upload: /home/user/Desktop/torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-22 13:38:11,698 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "Warrior's Gate (2016) [1080p] [YTS.AG]"}
 2025-04-22 13:38:11,699 - INFO - Uploading directory of size 2152.99 MB
+2025-04-22 13:48:35,714 - INFO - Successfully uploaded to onedrive:Torrents/The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:48:35,714 - INFO - Verifying upload for: The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:48:35,714 - INFO - Verifying upload: /home/user/Desktop/torrents/The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:48:38,228 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:48:38,240 - INFO - Deleting torrent from qBittorrent: The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:48:38,240 - INFO - Deleting torrent with hash 128e25d01ba287ead64a5ed7511ddc6095c49439 (delete_files=False)
+2025-04-22 13:48:38,254 - INFO - Successfully deleted torrent with hash 128e25d01ba287ead64a5ed7511ddc6095c49439
+2025-04-22 13:48:38,254 - INFO - Deleting content files: The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:48:38,254 - INFO - Deleting content: /home/user/Desktop/torrents/The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:48:38,258 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:48:38,258 - INFO - Successfully processed torrent: The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:48:38,259 - INFO - Processing torrent: The Purge Anarchy (2014) [1080p]
+2025-04-22 13:48:38,259 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Ice Road (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-22 13:48:38,259 - INFO - Attempting to upload torrent: The Purge Anarchy (2014) [1080p]
+2025-04-22 13:48:38,260 - INFO - Content path: /home/user/Desktop/torrents/The Purge Anarchy (2014) [1080p]
+2025-04-22 13:48:38,260 - INFO - Remote path: onedrive:Torrents/The Purge Anarchy (2014) [1080p]
+2025-04-22 13:48:38,260 - INFO - Uploading torrent: The Purge Anarchy (2014) [1080p]
+2025-04-22 13:48:38,260 - INFO - Directory /home/user/Desktop/torrents/The Purge Anarchy (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-22 13:48:38,260 - INFO - Starting upload: /home/user/Desktop/torrents/The Purge Anarchy (2014) [1080p] -> onedrive:Torrents/The Purge Anarchy (2014) [1080p]
+2025-04-22 13:48:38,261 - INFO - Uploading directory of size 1680.85 MB
+2025-04-22 13:50:13,223 - INFO - Successfully uploaded to onedrive:Torrents/A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:50:13,224 - INFO - Verifying upload for: A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:50:13,224 - INFO - Verifying upload: /home/user/Desktop/torrents/A Cure For Wellness (2016) [1080p] [YTS.AG] -> onedrive:Torrents/A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:50:15,856 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:50:15,870 - INFO - Deleting torrent from qBittorrent: A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:50:15,870 - INFO - Deleting torrent with hash 31979caf840d7214efd639c1429c68baba7ee72a (delete_files=False)
+2025-04-22 13:50:15,882 - INFO - Successfully deleted torrent with hash 31979caf840d7214efd639c1429c68baba7ee72a
+2025-04-22 13:50:15,882 - INFO - Deleting content files: A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:50:15,882 - INFO - Deleting content: /home/user/Desktop/torrents/A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:50:15,888 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:50:15,888 - INFO - Successfully processed torrent: A Cure For Wellness (2016) [1080p] [YTS.AG]
+2025-04-22 13:50:15,888 - INFO - Processing torrent: American Psyco (2000) 1080p
+2025-04-22 13:50:15,888 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A Cure For Wellness (2016) [1080p] [YTS.AG]'}
+2025-04-22 13:50:15,888 - INFO - Attempting to upload torrent: American Psyco (2000) 1080p
+2025-04-22 13:50:15,889 - INFO - Content path: /home/user/Desktop/torrents/American Psyco (2000) 1080p
+2025-04-22 13:50:15,889 - INFO - Remote path: onedrive:Torrents/American Psyco (2000) 1080p
+2025-04-22 13:50:15,889 - INFO - Uploading torrent: American Psyco (2000) 1080p
+2025-04-22 13:50:15,889 - INFO - Directory /home/user/Desktop/torrents/American Psyco (2000) 1080p is readable, contains 3 files/dirs
+2025-04-22 13:50:15,889 - INFO - Starting upload: /home/user/Desktop/torrents/American Psyco (2000) 1080p -> onedrive:Torrents/American Psyco (2000) 1080p
+2025-04-22 13:50:15,890 - INFO - Uploading directory of size 1430.85 MB
+2025-04-22 13:51:18,574 - INFO - Successfully uploaded to onedrive:Torrents/Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:51:18,575 - INFO - Verifying upload for: Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:51:18,575 - INFO - Verifying upload: /home/user/Desktop/torrents/Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:51:20,933 - INFO - Upload verification successful for /home/user/Desktop/torrents/Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:51:20,946 - INFO - Deleting torrent from qBittorrent: Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:51:20,947 - INFO - Deleting torrent with hash feaa63d272e203cdbc17b2e3dc1918b4ad573166 (delete_files=False)
+2025-04-22 13:51:20,960 - INFO - Successfully deleted torrent with hash feaa63d272e203cdbc17b2e3dc1918b4ad573166
+2025-04-22 13:51:20,961 - INFO - Deleting content files: Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:51:20,961 - INFO - Deleting content: /home/user/Desktop/torrents/Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:51:20,974 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:51:20,974 - INFO - Successfully processed torrent: Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 13:51:20,974 - INFO - Processing torrent: Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 13:51:20,974 - INFO - Attempting to upload torrent: Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 13:51:20,975 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Oceans Twelve (2004) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 13:51:20,975 - INFO - Content path: /home/user/Desktop/torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 13:51:20,975 - INFO - Remote path: onedrive:Torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 13:51:20,975 - INFO - Uploading torrent: Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 13:51:20,975 - INFO - Directory /home/user/Desktop/torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-22 13:51:20,976 - INFO - Starting upload: /home/user/Desktop/torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Shaft (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-22 13:51:20,976 - INFO - Uploading directory of size 1831.44 MB
