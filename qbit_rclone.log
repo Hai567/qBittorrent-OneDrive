@@ -10321,3 +10321,43 @@
 2025-04-22 14:21:04,933 - INFO - Directory /home/user/Desktop/torrents/Shrek 4 (2010) [1080p] is readable, contains 4 files/dirs
 2025-04-22 14:21:04,933 - INFO - Starting upload: /home/user/Desktop/torrents/Shrek 4 (2010) [1080p] -> onedrive:Torrents/Shrek 4 (2010) [1080p]
 2025-04-22 14:21:04,933 - INFO - Uploading directory of size 1001.28 MB
+2025-04-22 14:29:11,979 - INFO - Successfully uploaded to onedrive:Torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:29:11,979 - INFO - Verifying upload for: Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:29:11,979 - INFO - Verifying upload: /home/user/Desktop/torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:29:14,248 - INFO - Upload verification successful for /home/user/Desktop/torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:29:14,257 - INFO - Deleting torrent from qBittorrent: Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:29:14,257 - INFO - Deleting torrent with hash 8711b23ac78f34ffa320d1f3c8780b2a4813ed47 (delete_files=False)
+2025-04-22 14:29:14,266 - INFO - Successfully deleted torrent with hash 8711b23ac78f34ffa320d1f3c8780b2a4813ed47
+2025-04-22 14:29:14,266 - INFO - Deleting content files: Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:29:14,266 - INFO - Deleting content: /home/user/Desktop/torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:29:14,269 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:29:14,270 - INFO - Successfully processed torrent: Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:29:14,270 - INFO - Processing torrent: Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:29:14,270 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 14:29:14,270 - INFO - Attempting to upload torrent: Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:29:14,270 - INFO - Content path: /home/user/Desktop/torrents/Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:29:14,270 - INFO - Remote path: onedrive:Torrents/Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:29:14,270 - INFO - Uploading torrent: Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:29:14,271 - INFO - Directory /home/user/Desktop/torrents/Legend (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 14:29:14,271 - INFO - Starting upload: /home/user/Desktop/torrents/Legend (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:29:14,271 - INFO - Uploading directory of size 2039.11 MB
+2025-04-22 14:29:42,408 - INFO - Successfully uploaded to onedrive:Torrents/Shrek 4 (2010) [1080p]
+2025-04-22 14:29:42,409 - INFO - Verifying upload for: Shrek 4 (2010) [1080p]
+2025-04-22 14:29:42,409 - INFO - Verifying upload: /home/user/Desktop/torrents/Shrek 4 (2010) [1080p] -> onedrive:Torrents/Shrek 4 (2010) [1080p]
+2025-04-22 14:29:44,584 - INFO - Upload verification successful for /home/user/Desktop/torrents/Shrek 4 (2010) [1080p]
+2025-04-22 14:29:44,594 - INFO - Deleting torrent from qBittorrent: Shrek 4 (2010) [1080p]
+2025-04-22 14:29:44,594 - INFO - Deleting torrent with hash abe1ca7c42d9435d47d747c50d99da723e196d97 (delete_files=False)
+2025-04-22 14:29:44,603 - INFO - Successfully deleted torrent with hash abe1ca7c42d9435d47d747c50d99da723e196d97
+2025-04-22 14:29:44,603 - INFO - Deleting content files: Shrek 4 (2010) [1080p]
+2025-04-22 14:29:44,603 - INFO - Deleting content: /home/user/Desktop/torrents/Shrek 4 (2010) [1080p]
+2025-04-22 14:29:44,606 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Shrek 4 (2010) [1080p]
+2025-04-22 14:29:44,606 - INFO - Successfully processed torrent: Shrek 4 (2010) [1080p]
+2025-04-22 14:29:44,606 - INFO - Processing torrent: Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:29:44,606 - INFO - Attempting to upload torrent: Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:29:44,606 - INFO - Content path: /home/user/Desktop/torrents/Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:29:44,606 - INFO - Remote path: onedrive:Torrents/Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:29:44,606 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Shrek 4 (2010) [1080p]'}
+2025-04-22 14:29:44,606 - INFO - Uploading torrent: Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:29:44,607 - INFO - Directory /home/user/Desktop/torrents/Star Trek Beyond (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 14:29:44,608 - INFO - Starting upload: /home/user/Desktop/torrents/Star Trek Beyond (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:29:44,608 - INFO - Uploading directory of size 1903.20 MB
