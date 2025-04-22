@@ -11526,3 +11526,15 @@
 2025-04-22 17:03:52,592 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Teenage Mutant Ninja Turtles (2014) [1080p]
 2025-04-22 17:03:52,593 - INFO - Successfully processed torrent: Teenage Mutant Ninja Turtles (2014) [1080p]
 2025-04-22 17:03:52,593 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Teenage Mutant Ninja Turtles (2014) [1080p]'}
+2025-04-22 17:04:05,730 - INFO - Successfully uploaded to onedrive:Torrents/Die Hard 4 (2007) [1080p]
+2025-04-22 17:04:05,731 - INFO - Verifying upload for: Die Hard 4 (2007) [1080p]
+2025-04-22 17:04:05,731 - INFO - Verifying upload: /home/user/Desktop/torrents/Die Hard 4 (2007) [1080p] -> onedrive:Torrents/Die Hard 4 (2007) [1080p]
+2025-04-22 17:04:07,951 - INFO - Upload verification successful for /home/user/Desktop/torrents/Die Hard 4 (2007) [1080p]
+2025-04-22 17:04:07,964 - INFO - Deleting torrent from qBittorrent: Die Hard 4 (2007) [1080p]
+2025-04-22 17:04:07,964 - INFO - Deleting torrent with hash 903e52e5723e983ea67a4249a5d15d6d3d1fd053 (delete_files=False)
+2025-04-22 17:04:07,974 - INFO - Successfully deleted torrent with hash 903e52e5723e983ea67a4249a5d15d6d3d1fd053
+2025-04-22 17:04:07,975 - INFO - Deleting content files: Die Hard 4 (2007) [1080p]
+2025-04-22 17:04:07,975 - INFO - Deleting content: /home/user/Desktop/torrents/Die Hard 4 (2007) [1080p]
+2025-04-22 17:04:07,976 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Die Hard 4 (2007) [1080p]
+2025-04-22 17:04:07,976 - INFO - Successfully processed torrent: Die Hard 4 (2007) [1080p]
+2025-04-22 17:04:07,976 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Die Hard 4 (2007) [1080p]'}
