@@ -10569,3 +10569,15 @@
 2025-04-22 15:07:58,871 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ender's Game (2013) [1080p]
 2025-04-22 15:07:58,871 - INFO - Successfully processed torrent: Ender's Game (2013) [1080p]
 2025-04-22 15:07:58,872 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "Ender's Game (2013) [1080p]"}
+2025-04-22 15:14:10,886 - INFO - Successfully uploaded to onedrive:Torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 15:14:10,887 - INFO - Verifying upload for: Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 15:14:10,887 - INFO - Verifying upload: /home/user/Desktop/torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 15:14:13,366 - INFO - Upload verification successful for /home/user/Desktop/torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 15:14:13,378 - INFO - Deleting torrent from qBittorrent: Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 15:14:13,379 - INFO - Deleting torrent with hash 61ed8f7ef4308b042d54703fa8806b7457ef2945 (delete_files=False)
+2025-04-22 15:14:13,393 - INFO - Successfully deleted torrent with hash 61ed8f7ef4308b042d54703fa8806b7457ef2945
+2025-04-22 15:14:13,393 - INFO - Deleting content files: Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 15:14:13,393 - INFO - Deleting content: /home/user/Desktop/torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 15:14:13,396 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 15:14:13,397 - INFO - Successfully processed torrent: Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 15:14:13,397 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]'}
