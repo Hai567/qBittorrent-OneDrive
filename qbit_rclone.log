@@ -11258,3 +11258,83 @@
 2025-04-22 16:33:17,738 - INFO - Directory /home/user/Desktop/torrents/Reservoir Dogs (1992) [1080p] is readable, contains 3 files/dirs
 2025-04-22 16:33:17,738 - INFO - Starting upload: /home/user/Desktop/torrents/Reservoir Dogs (1992) [1080p] -> onedrive:Torrents/Reservoir Dogs (1992) [1080p]
 2025-04-22 16:33:17,738 - INFO - Uploading directory of size 1573.10 MB
+2025-04-22 16:41:14,750 - INFO - Successfully uploaded to onedrive:Torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:14,751 - INFO - Verifying upload for: Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:14,751 - INFO - Verifying upload: /home/user/Desktop/torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,035 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,046 - INFO - Deleting torrent from qBittorrent: Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,046 - INFO - Deleting torrent with hash 468a426ee49d2b40c80e6898ba750103a9cec3ba (delete_files=False)
+2025-04-22 16:41:17,057 - INFO - Successfully deleted torrent with hash 468a426ee49d2b40c80e6898ba750103a9cec3ba
+2025-04-22 16:41:17,057 - INFO - Deleting content files: Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,057 - INFO - Deleting content: /home/user/Desktop/torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,058 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,058 - INFO - Successfully processed torrent: Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,058 - INFO - Processing torrent: The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,058 - INFO - Attempting to upload torrent: The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,059 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-22 16:41:17,059 - INFO - Content path: /home/user/Desktop/torrents/The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,059 - INFO - Remote path: onedrive:Torrents/The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,059 - INFO - Uploading torrent: The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,059 - INFO - Directory /home/user/Desktop/torrents/The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 16:41:17,059 - INFO - Starting upload: /home/user/Desktop/torrents/The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:41:17,059 - INFO - Uploading directory of size 1967.14 MB
+2025-04-22 16:41:17,225 - INFO - Successfully uploaded to onedrive:Torrents/Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:41:17,225 - INFO - Verifying upload for: Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:41:17,226 - INFO - Verifying upload: /home/user/Desktop/torrents/Jack Ryan Shadow Recruit (2014) [1080p] -> onedrive:Torrents/Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:41:20,305 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:41:20,315 - INFO - Deleting torrent from qBittorrent: Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:41:20,315 - INFO - Deleting torrent with hash 36da45e305ada829265a8882022b5854b2ce89c4 (delete_files=False)
+2025-04-22 16:41:20,323 - INFO - Successfully deleted torrent with hash 36da45e305ada829265a8882022b5854b2ce89c4
+2025-04-22 16:41:20,324 - INFO - Deleting content files: Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:41:20,324 - INFO - Deleting content: /home/user/Desktop/torrents/Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:41:20,325 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:41:20,325 - INFO - Successfully processed torrent: Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:41:20,325 - INFO - Processing torrent: Pain & Gain (2013) [1080p]
+2025-04-22 16:41:20,325 - INFO - Attempting to upload torrent: Pain & Gain (2013) [1080p]
+2025-04-22 16:41:20,325 - INFO - Content path: /home/user/Desktop/torrents/Pain & Gain (2013) [1080p]
+2025-04-22 16:41:20,325 - INFO - Remote path: onedrive:Torrents/Pain & Gain (2013) [1080p]
+2025-04-22 16:41:20,325 - INFO - Uploading torrent: Pain & Gain (2013) [1080p]
+2025-04-22 16:41:20,326 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Jack Ryan Shadow Recruit (2014) [1080p]'}
+2025-04-22 16:41:20,326 - INFO - Directory /home/user/Desktop/torrents/Pain & Gain (2013) [1080p] is readable, contains 3 files/dirs
+2025-04-22 16:41:20,326 - INFO - Starting upload: /home/user/Desktop/torrents/Pain & Gain (2013) [1080p] -> onedrive:Torrents/Pain & Gain (2013) [1080p]
+2025-04-22 16:41:20,326 - INFO - Uploading directory of size 1999.08 MB
+2025-04-22 16:42:43,982 - INFO - Successfully uploaded to onedrive:Torrents/Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:42:43,983 - INFO - Verifying upload for: Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:42:43,983 - INFO - Verifying upload: /home/user/Desktop/torrents/Mother! (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:42:46,405 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:42:46,418 - INFO - Deleting torrent from qBittorrent: Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:42:46,419 - INFO - Deleting torrent with hash c50fd4c9b82bafa1903778444f89bfba36e9cc42 (delete_files=False)
+2025-04-22 16:42:46,437 - INFO - Successfully deleted torrent with hash c50fd4c9b82bafa1903778444f89bfba36e9cc42
+2025-04-22 16:42:46,438 - INFO - Deleting content files: Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:42:46,438 - INFO - Deleting content: /home/user/Desktop/torrents/Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:42:46,439 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:42:46,439 - INFO - Successfully processed torrent: Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:42:46,440 - INFO - Processing torrent: The Gambler (2014) [1080p]
+2025-04-22 16:42:46,440 - INFO - Attempting to upload torrent: The Gambler (2014) [1080p]
+2025-04-22 16:42:46,440 - INFO - Content path: /home/user/Desktop/torrents/The Gambler (2014) [1080p]
+2025-04-22 16:42:46,440 - INFO - Remote path: onedrive:Torrents/The Gambler (2014) [1080p]
+2025-04-22 16:42:46,440 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Mother! (2017) [1080p] [YTS.AG]'}
+2025-04-22 16:42:46,440 - INFO - Uploading torrent: The Gambler (2014) [1080p]
+2025-04-22 16:42:46,441 - INFO - Directory /home/user/Desktop/torrents/The Gambler (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-22 16:42:46,441 - INFO - Starting upload: /home/user/Desktop/torrents/The Gambler (2014) [1080p] -> onedrive:Torrents/The Gambler (2014) [1080p]
+2025-04-22 16:42:46,441 - INFO - Uploading directory of size 1692.21 MB
+2025-04-22 16:43:11,510 - INFO - Successfully uploaded to onedrive:Torrents/Reservoir Dogs (1992) [1080p]
+2025-04-22 16:43:11,511 - INFO - Verifying upload for: Reservoir Dogs (1992) [1080p]
+2025-04-22 16:43:11,511 - INFO - Verifying upload: /home/user/Desktop/torrents/Reservoir Dogs (1992) [1080p] -> onedrive:Torrents/Reservoir Dogs (1992) [1080p]
+2025-04-22 16:43:13,795 - INFO - Upload verification successful for /home/user/Desktop/torrents/Reservoir Dogs (1992) [1080p]
+2025-04-22 16:43:13,805 - INFO - Deleting torrent from qBittorrent: Reservoir Dogs (1992) [1080p]
+2025-04-22 16:43:13,806 - INFO - Deleting torrent with hash 3ac7749c54e6273ce187e842b20c4e710e3dcb24 (delete_files=False)
+2025-04-22 16:43:13,815 - INFO - Successfully deleted torrent with hash 3ac7749c54e6273ce187e842b20c4e710e3dcb24
+2025-04-22 16:43:13,815 - INFO - Deleting content files: Reservoir Dogs (1992) [1080p]
+2025-04-22 16:43:13,815 - INFO - Deleting content: /home/user/Desktop/torrents/Reservoir Dogs (1992) [1080p]
+2025-04-22 16:43:13,816 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Reservoir Dogs (1992) [1080p]
+2025-04-22 16:43:13,816 - INFO - Successfully processed torrent: Reservoir Dogs (1992) [1080p]
+2025-04-22 16:43:13,816 - INFO - Processing torrent: The Judge (2014) [1080p]
+2025-04-22 16:43:13,816 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Reservoir Dogs (1992) [1080p]'}
+2025-04-22 16:43:13,816 - INFO - Attempting to upload torrent: The Judge (2014) [1080p]
+2025-04-22 16:43:13,817 - INFO - Content path: /home/user/Desktop/torrents/The Judge (2014) [1080p]
+2025-04-22 16:43:13,817 - INFO - Remote path: onedrive:Torrents/The Judge (2014) [1080p]
+2025-04-22 16:43:13,817 - INFO - Uploading torrent: The Judge (2014) [1080p]
+2025-04-22 16:43:13,817 - INFO - Directory /home/user/Desktop/torrents/The Judge (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-22 16:43:13,817 - INFO - Starting upload: /home/user/Desktop/torrents/The Judge (2014) [1080p] -> onedrive:Torrents/The Judge (2014) [1080p]
+2025-04-22 16:43:13,817 - INFO - Uploading directory of size 2105.96 MB
