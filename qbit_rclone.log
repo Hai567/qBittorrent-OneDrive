@@ -8976,3 +8976,31 @@
 2025-04-22 05:26:12,380 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
 2025-04-22 05:26:12,380 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
 2025-04-22 05:26:12,380 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-22 05:31:12,480 - INFO - Active upload threads: 1/5
+2025-04-22 05:31:12,480 - INFO - Checking for completed torrents...
+2025-04-22 05:31:12,485 - INFO - Found 8 completed torrents
+2025-04-22 05:31:12,485 - INFO - Torrent All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-22 05:31:12,486 - INFO - Torrent Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]: content_path = /home/user/Desktop/torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG], exists: True
+2025-04-22 05:31:12,486 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-22 05:31:12,486 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-22 05:31:12,486 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-22 05:31:12,486 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-22 05:31:12,486 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-22 05:31:12,486 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-22 05:31:12,486 - INFO - Submitting 2 torrents for parallel upload
+2025-04-22 05:31:12,486 - INFO - Processing torrent: All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:31:12,486 - INFO - Processing torrent: Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:31:12,486 - INFO - Attempting to upload torrent: All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:31:12,487 - INFO - Attempting to upload torrent: Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:31:12,487 - INFO - Content path: /home/user/Desktop/torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:31:12,487 - INFO - Content path: /home/user/Desktop/torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:31:12,487 - INFO - Remote path: onedrive:Torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:31:12,487 - INFO - Remote path: onedrive:Torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:31:12,487 - INFO - Uploading torrent: All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:31:12,487 - INFO - Uploading torrent: Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:31:12,488 - INFO - Directory /home/user/Desktop/torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-22 05:31:12,488 - INFO - Starting upload: /home/user/Desktop/torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/All Dirt Roads Taste Of Salt (2023) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 05:31:12,488 - INFO - Directory /home/user/Desktop/torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 05:31:12,488 - INFO - Starting upload: /home/user/Desktop/torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/Independence Day Resurgence (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 05:31:12,488 - INFO - Uploading directory of size 1871.99 MB
+2025-04-22 05:31:12,488 - INFO - Uploading directory of size 1840.03 MB
