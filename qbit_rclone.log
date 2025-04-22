@@ -9763,3 +9763,23 @@
 2025-04-22 12:20:47,433 - INFO - Directory /home/user/Desktop/torrents/The Purge Election Year (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 12:20:47,433 - INFO - Starting upload: /home/user/Desktop/torrents/The Purge Election Year (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Purge Election Year (2016) [1080p] [YTS.AG]
 2025-04-22 12:20:47,433 - INFO - Uploading directory of size 1701.85 MB
+2025-04-22 12:26:04,553 - INFO - Successfully uploaded to onedrive:Torrents/Resident Evil (2002) [1080p]
+2025-04-22 12:26:04,554 - INFO - Verifying upload for: Resident Evil (2002) [1080p]
+2025-04-22 12:26:04,554 - INFO - Verifying upload: /home/user/Desktop/torrents/Resident Evil (2002) [1080p] -> onedrive:Torrents/Resident Evil (2002) [1080p]
+2025-04-22 12:26:07,110 - INFO - Upload verification successful for /home/user/Desktop/torrents/Resident Evil (2002) [1080p]
+2025-04-22 12:26:07,120 - INFO - Deleting torrent from qBittorrent: Resident Evil (2002) [1080p]
+2025-04-22 12:26:07,121 - INFO - Deleting torrent with hash fb7dbfbe6660218061098e9938d6b105f50f41c5 (delete_files=False)
+2025-04-22 12:26:07,129 - INFO - Successfully deleted torrent with hash fb7dbfbe6660218061098e9938d6b105f50f41c5
+2025-04-22 12:26:07,129 - INFO - Deleting content files: Resident Evil (2002) [1080p]
+2025-04-22 12:26:07,129 - INFO - Deleting content: /home/user/Desktop/torrents/Resident Evil (2002) [1080p]
+2025-04-22 12:26:07,130 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Resident Evil (2002) [1080p]
+2025-04-22 12:26:07,130 - INFO - Successfully processed torrent: Resident Evil (2002) [1080p]
+2025-04-22 12:26:07,130 - INFO - Processing torrent: Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:26:07,131 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Resident Evil (2002) [1080p]'}
+2025-04-22 12:26:07,131 - INFO - Attempting to upload torrent: Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:26:07,131 - INFO - Content path: /home/user/Desktop/torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:26:07,131 - INFO - Remote path: onedrive:Torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:26:07,131 - INFO - Uploading torrent: Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:26:07,131 - INFO - Directory /home/user/Desktop/torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-22 12:26:07,131 - INFO - Starting upload: /home/user/Desktop/torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:26:07,132 - INFO - Uploading directory of size 1803.58 MB
