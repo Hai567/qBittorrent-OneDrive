@@ -9369,3 +9369,15 @@
 2025-04-22 10:50:39,284 - INFO - Starting upload: /home/user/Desktop/torrents/Pitch Perfect (2012) [1080p] -> onedrive:Torrents/Pitch Perfect (2012) [1080p]
 2025-04-22 10:50:39,285 - INFO - Uploading directory of size 1907.06 MB
 2025-04-22 10:50:39,286 - INFO - Uploading directory of size 1635.39 MB
+2025-04-22 10:58:26,291 - INFO - Successfully uploaded to onedrive:Torrents/How the Grinch Stole Christmas (2000) [1080p]
+2025-04-22 10:58:26,292 - INFO - Verifying upload for: How the Grinch Stole Christmas (2000) [1080p]
+2025-04-22 10:58:26,292 - INFO - Verifying upload: /home/user/Desktop/torrents/How the Grinch Stole Christmas (2000) [1080p] -> onedrive:Torrents/How the Grinch Stole Christmas (2000) [1080p]
+2025-04-22 10:58:28,191 - INFO - Upload verification successful for /home/user/Desktop/torrents/How the Grinch Stole Christmas (2000) [1080p]
+2025-04-22 10:58:28,202 - INFO - Deleting torrent from qBittorrent: How the Grinch Stole Christmas (2000) [1080p]
+2025-04-22 10:58:28,202 - INFO - Deleting torrent with hash 86858c7bb355c648663ce83f883a34e9bca51cc9 (delete_files=False)
+2025-04-22 10:58:28,216 - INFO - Successfully deleted torrent with hash 86858c7bb355c648663ce83f883a34e9bca51cc9
+2025-04-22 10:58:28,216 - INFO - Deleting content files: How the Grinch Stole Christmas (2000) [1080p]
+2025-04-22 10:58:28,216 - INFO - Deleting content: /home/user/Desktop/torrents/How the Grinch Stole Christmas (2000) [1080p]
+2025-04-22 10:58:28,217 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/How the Grinch Stole Christmas (2000) [1080p]
+2025-04-22 10:58:28,217 - INFO - Successfully processed torrent: How the Grinch Stole Christmas (2000) [1080p]
+2025-04-22 10:58:28,217 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'How the Grinch Stole Christmas (2000) [1080p]'}
