@@ -10545,3 +10545,27 @@
 2025-04-22 15:01:05,788 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ice Age 4 Continental Drift (2012) [1080p]
 2025-04-22 15:01:05,788 - INFO - Successfully processed torrent: Ice Age 4 Continental Drift (2012) [1080p]
 2025-04-22 15:01:05,788 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ice Age 4 Continental Drift (2012) [1080p]'}
+2025-04-22 15:05:27,328 - INFO - Successfully uploaded to onedrive:Torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 15:05:27,328 - INFO - Verifying upload for: Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 15:05:27,328 - INFO - Verifying upload: /home/user/Desktop/torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG] -> onedrive:Torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 15:05:29,877 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 15:05:29,887 - INFO - Deleting torrent from qBittorrent: Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 15:05:29,887 - INFO - Deleting torrent with hash d90078eade11cde424f62b1531859d5607806e56 (delete_files=False)
+2025-04-22 15:05:29,897 - INFO - Successfully deleted torrent with hash d90078eade11cde424f62b1531859d5607806e56
+2025-04-22 15:05:29,897 - INFO - Deleting content files: Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 15:05:29,897 - INFO - Deleting content: /home/user/Desktop/torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 15:05:29,901 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 15:05:29,901 - INFO - Successfully processed torrent: Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 15:05:29,901 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ice Age The Meltdown (2006) [1080p] [YTS.AG]'}
+2025-04-22 15:07:56,203 - INFO - Successfully uploaded to onedrive:Torrents/Ender's Game (2013) [1080p]
+2025-04-22 15:07:56,204 - INFO - Verifying upload for: Ender's Game (2013) [1080p]
+2025-04-22 15:07:56,204 - INFO - Verifying upload: /home/user/Desktop/torrents/Ender's Game (2013) [1080p] -> onedrive:Torrents/Ender's Game (2013) [1080p]
+2025-04-22 15:07:58,841 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ender's Game (2013) [1080p]
+2025-04-22 15:07:58,854 - INFO - Deleting torrent from qBittorrent: Ender's Game (2013) [1080p]
+2025-04-22 15:07:58,854 - INFO - Deleting torrent with hash a63755cfceb25413ef88face5101b5d457d4bd4d (delete_files=False)
+2025-04-22 15:07:58,869 - INFO - Successfully deleted torrent with hash a63755cfceb25413ef88face5101b5d457d4bd4d
+2025-04-22 15:07:58,869 - INFO - Deleting content files: Ender's Game (2013) [1080p]
+2025-04-22 15:07:58,869 - INFO - Deleting content: /home/user/Desktop/torrents/Ender's Game (2013) [1080p]
+2025-04-22 15:07:58,871 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ender's Game (2013) [1080p]
+2025-04-22 15:07:58,871 - INFO - Successfully processed torrent: Ender's Game (2013) [1080p]
+2025-04-22 15:07:58,872 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "Ender's Game (2013) [1080p]"}
