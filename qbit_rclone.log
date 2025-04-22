@@ -10481,3 +10481,23 @@
 2025-04-22 14:47:32,556 - INFO - Directory /home/user/Desktop/torrents/Her (2013) [1080p] is readable, contains 2 files/dirs
 2025-04-22 14:47:32,556 - INFO - Starting upload: /home/user/Desktop/torrents/Her (2013) [1080p] -> onedrive:Torrents/Her (2013) [1080p]
 2025-04-22 14:47:32,557 - INFO - Uploading directory of size 1899.39 MB
+2025-04-22 14:49:41,600 - INFO - Successfully uploaded to onedrive:Torrents/Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:49:41,600 - INFO - Verifying upload for: Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:49:41,600 - INFO - Verifying upload: /home/user/Desktop/torrents/Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:49:44,930 - INFO - Upload verification successful for /home/user/Desktop/torrents/Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:49:44,940 - INFO - Deleting torrent from qBittorrent: Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:49:44,940 - INFO - Deleting torrent with hash 114276ed9ddd6c1dcea7db43284d44704ca3a21d (delete_files=False)
+2025-04-22 14:49:44,948 - INFO - Successfully deleted torrent with hash 114276ed9ddd6c1dcea7db43284d44704ca3a21d
+2025-04-22 14:49:44,949 - INFO - Deleting content files: Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:49:44,949 - INFO - Deleting content: /home/user/Desktop/torrents/Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:49:44,952 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:49:44,953 - INFO - Successfully processed torrent: Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:49:44,953 - INFO - Processing torrent: Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 14:49:44,953 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 14:49:44,953 - INFO - Attempting to upload torrent: Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 14:49:44,953 - INFO - Content path: /home/user/Desktop/torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 14:49:44,953 - INFO - Remote path: onedrive:Torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 14:49:44,953 - INFO - Uploading torrent: Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 14:49:44,954 - INFO - Directory /home/user/Desktop/torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 14:49:44,954 - INFO - Starting upload: /home/user/Desktop/torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG] -> onedrive:Torrents/Ice Age The Meltdown (2006) [1080p] [YTS.AG]
+2025-04-22 14:49:44,954 - INFO - Uploading directory of size 1418.74 MB
