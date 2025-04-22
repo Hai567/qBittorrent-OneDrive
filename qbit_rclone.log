@@ -9923,3 +9923,23 @@
 2025-04-22 12:58:00,236 - INFO - Directory /home/user/Desktop/torrents/The Shack (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 12:58:00,236 - INFO - Starting upload: /home/user/Desktop/torrents/The Shack (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Shack (2017) [1080p] [YTS.AG]
 2025-04-22 12:58:00,236 - INFO - Uploading directory of size 2060.67 MB
+2025-04-22 13:06:13,749 - INFO - Successfully uploaded to onedrive:Torrents/The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 13:06:13,750 - INFO - Verifying upload for: The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 13:06:13,750 - INFO - Verifying upload: /home/user/Desktop/torrents/The Purge Election Year (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 13:06:16,961 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 13:06:16,975 - INFO - Deleting torrent from qBittorrent: The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 13:06:16,975 - INFO - Deleting torrent with hash 899eac60e91ce6d8047461881115aad7df150c7f (delete_files=False)
+2025-04-22 13:06:16,984 - INFO - Successfully deleted torrent with hash 899eac60e91ce6d8047461881115aad7df150c7f
+2025-04-22 13:06:16,985 - INFO - Deleting content files: The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 13:06:16,985 - INFO - Deleting content: /home/user/Desktop/torrents/The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 13:06:16,987 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 13:06:16,987 - INFO - Successfully processed torrent: The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 13:06:16,987 - INFO - Processing torrent: The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:06:16,987 - INFO - Attempting to upload torrent: The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:06:16,987 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Purge Election Year (2016) [1080p] [YTS.AG]'}
+2025-04-22 13:06:16,988 - INFO - Content path: /home/user/Desktop/torrents/The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:06:16,988 - INFO - Remote path: onedrive:Torrents/The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:06:16,988 - INFO - Uploading torrent: The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:06:16,988 - INFO - Directory /home/user/Desktop/torrents/The Circle (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 13:06:16,988 - INFO - Starting upload: /home/user/Desktop/torrents/The Circle (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Circle (2017) [1080p] [YTS.AG]
+2025-04-22 13:06:16,988 - INFO - Uploading directory of size 1715.40 MB
