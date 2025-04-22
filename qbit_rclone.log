@@ -10181,3 +10181,43 @@
 2025-04-22 13:59:59,051 - INFO - Directory /home/user/Desktop/torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 4 files/dirs
 2025-04-22 13:59:59,052 - INFO - Starting upload: /home/user/Desktop/torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Babylon (2022) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-22 13:59:59,052 - INFO - Uploading directory of size 3565.90 MB
+2025-04-22 14:04:42,122 - INFO - Successfully uploaded to onedrive:Torrents/American Psyco (2000) 1080p
+2025-04-22 14:04:42,122 - INFO - Verifying upload for: American Psyco (2000) 1080p
+2025-04-22 14:04:42,122 - INFO - Verifying upload: /home/user/Desktop/torrents/American Psyco (2000) 1080p -> onedrive:Torrents/American Psyco (2000) 1080p
+2025-04-22 14:04:44,415 - INFO - Upload verification successful for /home/user/Desktop/torrents/American Psyco (2000) 1080p
+2025-04-22 14:04:44,427 - INFO - Deleting torrent from qBittorrent: American Psyco (2000) 1080p
+2025-04-22 14:04:44,427 - INFO - Deleting torrent with hash 70db29b66672e8676bffc9ea50b4e3f9232f14e2 (delete_files=False)
+2025-04-22 14:04:44,438 - INFO - Successfully deleted torrent with hash 70db29b66672e8676bffc9ea50b4e3f9232f14e2
+2025-04-22 14:04:44,439 - INFO - Deleting content files: American Psyco (2000) 1080p
+2025-04-22 14:04:44,439 - INFO - Deleting content: /home/user/Desktop/torrents/American Psyco (2000) 1080p
+2025-04-22 14:04:44,445 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/American Psyco (2000) 1080p
+2025-04-22 14:04:44,445 - INFO - Successfully processed torrent: American Psyco (2000) 1080p
+2025-04-22 14:04:44,445 - INFO - Processing torrent: Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:04:44,445 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'American Psyco (2000) 1080p'}
+2025-04-22 14:04:44,445 - INFO - Attempting to upload torrent: Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:04:44,446 - INFO - Content path: /home/user/Desktop/torrents/Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:04:44,446 - INFO - Remote path: onedrive:Torrents/Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:04:44,446 - INFO - Uploading torrent: Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:04:44,446 - INFO - Directory /home/user/Desktop/torrents/Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-22 14:04:44,446 - INFO - Starting upload: /home/user/Desktop/torrents/Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ava (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:04:44,446 - INFO - Uploading directory of size 1825.37 MB
+2025-04-22 14:05:31,379 - INFO - Successfully uploaded to onedrive:Torrents/The Purge Anarchy (2014) [1080p]
+2025-04-22 14:05:31,379 - INFO - Verifying upload for: The Purge Anarchy (2014) [1080p]
+2025-04-22 14:05:31,379 - INFO - Verifying upload: /home/user/Desktop/torrents/The Purge Anarchy (2014) [1080p] -> onedrive:Torrents/The Purge Anarchy (2014) [1080p]
+2025-04-22 14:05:34,266 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Purge Anarchy (2014) [1080p]
+2025-04-22 14:05:34,310 - INFO - Deleting torrent from qBittorrent: The Purge Anarchy (2014) [1080p]
+2025-04-22 14:05:34,310 - INFO - Deleting torrent with hash f2c1c5141c0b9c4ed985442dd76c3207bd8c1601 (delete_files=False)
+2025-04-22 14:05:34,633 - INFO - Successfully deleted torrent with hash f2c1c5141c0b9c4ed985442dd76c3207bd8c1601
+2025-04-22 14:05:34,633 - INFO - Deleting content files: The Purge Anarchy (2014) [1080p]
+2025-04-22 14:05:34,633 - INFO - Deleting content: /home/user/Desktop/torrents/The Purge Anarchy (2014) [1080p]
+2025-04-22 14:05:34,635 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Purge Anarchy (2014) [1080p]
+2025-04-22 14:05:34,635 - INFO - Successfully processed torrent: The Purge Anarchy (2014) [1080p]
+2025-04-22 14:05:34,635 - INFO - Processing torrent: To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:05:34,635 - INFO - Attempting to upload torrent: To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:05:34,635 - INFO - Content path: /home/user/Desktop/torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:05:34,635 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Purge Anarchy (2014) [1080p]'}
+2025-04-22 14:05:34,636 - INFO - Remote path: onedrive:Torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:05:34,636 - INFO - Uploading torrent: To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:05:34,636 - INFO - Directory /home/user/Desktop/torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-22 14:05:34,636 - INFO - Starting upload: /home/user/Desktop/torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/To All The Boys I've Loved Before (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 14:05:34,637 - INFO - Uploading directory of size 1636.64 MB
