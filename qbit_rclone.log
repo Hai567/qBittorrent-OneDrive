@@ -10818,3 +10818,23 @@
 2025-04-22 15:41:42,920 - INFO - Directory /home/user/Desktop/torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-22 15:41:42,920 - INFO - Starting upload: /home/user/Desktop/torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
 2025-04-22 15:41:42,920 - INFO - Uploading directory of size 2182.86 MB
+2025-04-22 15:46:43,055 - INFO - Successfully uploaded to onedrive:Torrents/Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:46:43,056 - INFO - Verifying upload for: Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:46:43,056 - INFO - Verifying upload: /home/user/Desktop/torrents/Resident Evil Vendetta (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:46:45,334 - INFO - Upload verification successful for /home/user/Desktop/torrents/Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:46:45,344 - INFO - Deleting torrent from qBittorrent: Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:46:45,344 - INFO - Deleting torrent with hash 6627db5057549179143a3b5c62f285c67f5453e6 (delete_files=False)
+2025-04-22 15:46:45,354 - INFO - Successfully deleted torrent with hash 6627db5057549179143a3b5c62f285c67f5453e6
+2025-04-22 15:46:45,354 - INFO - Deleting content files: Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:46:45,354 - INFO - Deleting content: /home/user/Desktop/torrents/Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:46:45,355 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:46:45,355 - INFO - Successfully processed torrent: Resident Evil Vendetta (2017) [1080p] [YTS.AG]
+2025-04-22 15:46:45,356 - INFO - Processing torrent: The Sixth Sense (1999) [1080p]
+2025-04-22 15:46:45,356 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Resident Evil Vendetta (2017) [1080p] [YTS.AG]'}
+2025-04-22 15:46:45,356 - INFO - Attempting to upload torrent: The Sixth Sense (1999) [1080p]
+2025-04-22 15:46:45,356 - INFO - Content path: /home/user/Desktop/torrents/The Sixth Sense (1999) [1080p]
+2025-04-22 15:46:45,356 - INFO - Remote path: onedrive:Torrents/The Sixth Sense (1999) [1080p]
+2025-04-22 15:46:45,356 - INFO - Uploading torrent: The Sixth Sense (1999) [1080p]
+2025-04-22 15:46:45,356 - INFO - Directory /home/user/Desktop/torrents/The Sixth Sense (1999) [1080p] is readable, contains 2 files/dirs
+2025-04-22 15:46:45,356 - INFO - Starting upload: /home/user/Desktop/torrents/The Sixth Sense (1999) [1080p] -> onedrive:Torrents/The Sixth Sense (1999) [1080p]
+2025-04-22 15:46:45,357 - INFO - Uploading directory of size 1667.18 MB
