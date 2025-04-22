@@ -9603,3 +9603,23 @@
 2025-04-22 11:45:32,734 - INFO - Directory /home/user/Desktop/torrents/Boyhood (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-22 11:45:32,734 - INFO - Starting upload: /home/user/Desktop/torrents/Boyhood (2014) [1080p] -> onedrive:Torrents/Boyhood (2014) [1080p]
 2025-04-22 11:45:32,734 - INFO - Uploading directory of size 2324.23 MB
+2025-04-22 11:49:12,678 - INFO - Successfully uploaded to onedrive:Torrents/Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:49:12,679 - INFO - Verifying upload for: Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:49:12,679 - INFO - Verifying upload: /home/user/Desktop/torrents/Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:49:14,962 - INFO - Upload verification successful for /home/user/Desktop/torrents/Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:49:14,971 - INFO - Deleting torrent from qBittorrent: Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:49:14,972 - INFO - Deleting torrent with hash f79669ea1e015a49467ffd80d2a51a0061851548 (delete_files=False)
+2025-04-22 11:49:14,981 - INFO - Successfully deleted torrent with hash f79669ea1e015a49467ffd80d2a51a0061851548
+2025-04-22 11:49:14,981 - INFO - Deleting content files: Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:49:14,981 - INFO - Deleting content: /home/user/Desktop/torrents/Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:49:14,982 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:49:14,982 - INFO - Successfully processed torrent: Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]
+2025-04-22 11:49:14,982 - INFO - Processing torrent: Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 11:49:14,982 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Scream (2022) [REPACK] [1080p] [WEBRip] [YTS.MX]'}
+2025-04-22 11:49:14,982 - INFO - Attempting to upload torrent: Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 11:49:14,983 - INFO - Content path: /home/user/Desktop/torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 11:49:14,983 - INFO - Remote path: onedrive:Torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 11:49:14,983 - INFO - Uploading torrent: Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 11:49:14,983 - INFO - Directory /home/user/Desktop/torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 11:49:14,983 - INFO - Starting upload: /home/user/Desktop/torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG] -> onedrive:Torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 11:49:14,983 - INFO - Uploading directory of size 1466.16 MB
