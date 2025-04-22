@@ -8811,3 +8811,22 @@
 2025-04-22 04:18:12,835 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
 2025-04-22 04:18:12,835 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
 2025-04-22 04:18:12,835 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-22 04:23:12,924 - INFO - Active upload threads: 0/5
+2025-04-22 04:23:12,924 - INFO - Checking for completed torrents...
+2025-04-22 04:23:12,929 - INFO - Found 7 completed torrents
+2025-04-22 04:23:12,929 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-22 04:23:12,929 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-22 04:23:12,929 - INFO - Torrent Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]: content_path = /home/user/Desktop/torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG], exists: True
+2025-04-22 04:23:12,929 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-22 04:23:12,929 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-22 04:23:12,929 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-22 04:23:12,930 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-22 04:23:12,930 - INFO - Submitting 1 torrents for parallel upload
+2025-04-22 04:23:12,930 - INFO - Processing torrent: Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:23:12,930 - INFO - Attempting to upload torrent: Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:23:12,931 - INFO - Content path: /home/user/Desktop/torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:23:12,931 - INFO - Remote path: onedrive:Torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:23:12,931 - INFO - Uploading torrent: Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:23:12,931 - INFO - Directory /home/user/Desktop/torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 04:23:12,931 - INFO - Starting upload: /home/user/Desktop/torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/Underworld Blood Wars (2016) [3D] [HSBS] [YTS.AG]
+2025-04-22 04:23:12,931 - INFO - Uploading directory of size 1432.40 MB
