@@ -11834,3 +11834,83 @@
 2025-04-22 17:26:42,847 - INFO - Directory /home/user/Desktop/torrents/Gold (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 17:26:42,848 - INFO - Starting upload: /home/user/Desktop/torrents/Gold (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Gold (2016) [1080p] [YTS.AG]
 2025-04-22 17:26:42,848 - INFO - Uploading directory of size 1871.24 MB
+2025-04-22 17:29:13,592 - INFO - Successfully uploaded to onedrive:Torrents/American Hustle (2013) [1080p]
+2025-04-22 17:29:13,592 - INFO - Verifying upload for: American Hustle (2013) [1080p]
+2025-04-22 17:29:13,592 - INFO - Verifying upload: /home/user/Desktop/torrents/American Hustle (2013) [1080p] -> onedrive:Torrents/American Hustle (2013) [1080p]
+2025-04-22 17:29:14,931 - INFO - Upload verification successful for /home/user/Desktop/torrents/American Hustle (2013) [1080p]
+2025-04-22 17:29:14,943 - INFO - Deleting torrent from qBittorrent: American Hustle (2013) [1080p]
+2025-04-22 17:29:14,943 - INFO - Deleting torrent with hash 10ab9cad41f545893af00993cbfa168fabd46395 (delete_files=False)
+2025-04-22 17:29:14,955 - INFO - Successfully deleted torrent with hash 10ab9cad41f545893af00993cbfa168fabd46395
+2025-04-22 17:29:14,955 - INFO - Deleting content files: American Hustle (2013) [1080p]
+2025-04-22 17:29:14,955 - INFO - Deleting content: /home/user/Desktop/torrents/American Hustle (2013) [1080p]
+2025-04-22 17:29:14,957 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/American Hustle (2013) [1080p]
+2025-04-22 17:29:14,957 - INFO - Successfully processed torrent: American Hustle (2013) [1080p]
+2025-04-22 17:29:14,957 - INFO - Processing torrent: Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:29:14,957 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'American Hustle (2013) [1080p]'}
+2025-04-22 17:29:14,958 - INFO - Attempting to upload torrent: Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:29:14,958 - INFO - Content path: /home/user/Desktop/torrents/Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:29:14,958 - INFO - Remote path: onedrive:Torrents/Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:29:14,958 - INFO - Uploading torrent: Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:29:14,959 - INFO - Directory /home/user/Desktop/torrents/Captive State (2019) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-22 17:29:14,959 - INFO - Starting upload: /home/user/Desktop/torrents/Captive State (2019) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Captive State (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-22 17:29:14,959 - INFO - Uploading directory of size 1797.78 MB
+2025-04-22 17:30:10,332 - INFO - Successfully uploaded to onedrive:Torrents/Ice Age Collision Course (2016) [1080p] [YTS.AG]
+2025-04-22 17:30:10,333 - INFO - Verifying upload for: Ice Age Collision Course (2016) [1080p] [YTS.AG]
+2025-04-22 17:30:10,333 - INFO - Verifying upload: /home/user/Desktop/torrents/Ice Age Collision Course (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Ice Age Collision Course (2016) [1080p] [YTS.AG]
+2025-04-22 17:30:12,007 - INFO - Successfully uploaded to onedrive:Torrents/The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:12,008 - INFO - Verifying upload for: The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:12,008 - INFO - Verifying upload: /home/user/Desktop/torrents/The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:12,630 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ice Age Collision Course (2016) [1080p] [YTS.AG]
+2025-04-22 17:30:12,644 - INFO - Deleting torrent from qBittorrent: Ice Age Collision Course (2016) [1080p] [YTS.AG]
+2025-04-22 17:30:12,644 - INFO - Deleting torrent with hash cbd24aebf00eec3b83763bbada167ae008cba49d (delete_files=False)
+2025-04-22 17:30:12,654 - INFO - Successfully deleted torrent with hash cbd24aebf00eec3b83763bbada167ae008cba49d
+2025-04-22 17:30:12,655 - INFO - Deleting content files: Ice Age Collision Course (2016) [1080p] [YTS.AG]
+2025-04-22 17:30:12,655 - INFO - Deleting content: /home/user/Desktop/torrents/Ice Age Collision Course (2016) [1080p] [YTS.AG]
+2025-04-22 17:30:12,656 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ice Age Collision Course (2016) [1080p] [YTS.AG]
+2025-04-22 17:30:12,656 - INFO - Successfully processed torrent: Ice Age Collision Course (2016) [1080p] [YTS.AG]
+2025-04-22 17:30:12,656 - INFO - Processing torrent: A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:30:12,657 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ice Age Collision Course (2016) [1080p] [YTS.AG]'}
+2025-04-22 17:30:12,657 - INFO - Attempting to upload torrent: A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:30:12,657 - INFO - Content path: /home/user/Desktop/torrents/A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:30:12,657 - INFO - Remote path: onedrive:Torrents/A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:30:12,657 - INFO - Uploading torrent: A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:30:12,658 - INFO - Directory /home/user/Desktop/torrents/A Walk Among the Tombstones (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-22 17:30:12,658 - INFO - Starting upload: /home/user/Desktop/torrents/A Walk Among the Tombstones (2014) [1080p] -> onedrive:Torrents/A Walk Among the Tombstones (2014) [1080p]
+2025-04-22 17:30:12,658 - INFO - Uploading directory of size 1880.80 MB
+2025-04-22 17:30:14,361 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:14,374 - INFO - Deleting torrent from qBittorrent: The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:14,374 - INFO - Deleting torrent with hash 4264ab87e19140900923be4107c88f77a9ae080d (delete_files=False)
+2025-04-22 17:30:14,382 - INFO - Successfully deleted torrent with hash 4264ab87e19140900923be4107c88f77a9ae080d
+2025-04-22 17:30:14,383 - INFO - Deleting content files: The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:14,383 - INFO - Deleting content: /home/user/Desktop/torrents/The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:14,385 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:14,385 - INFO - Successfully processed torrent: The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:14,386 - INFO - Processing torrent: Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:14,386 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Hangover Part II (2011) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 17:30:14,386 - INFO - Attempting to upload torrent: Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:14,386 - INFO - Content path: /home/user/Desktop/torrents/Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:14,386 - INFO - Remote path: onedrive:Torrents/Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:14,386 - INFO - Uploading torrent: Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:14,386 - INFO - Directory /home/user/Desktop/torrents/Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-22 17:30:14,386 - INFO - Starting upload: /home/user/Desktop/torrents/Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Underwater (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 17:30:14,386 - INFO - Uploading directory of size 1792.41 MB
+2025-04-22 17:32:07,511 - INFO - Successfully uploaded to onedrive:Torrents/Blended (2014) [1080p]
+2025-04-22 17:32:07,511 - INFO - Verifying upload for: Blended (2014) [1080p]
+2025-04-22 17:32:07,511 - INFO - Verifying upload: /home/user/Desktop/torrents/Blended (2014) [1080p] -> onedrive:Torrents/Blended (2014) [1080p]
+2025-04-22 17:32:09,789 - INFO - Upload verification successful for /home/user/Desktop/torrents/Blended (2014) [1080p]
+2025-04-22 17:32:09,861 - INFO - Deleting torrent from qBittorrent: Blended (2014) [1080p]
+2025-04-22 17:32:09,861 - INFO - Deleting torrent with hash 8092d9be9c4d610e47481cfc07defa8da78cfbb5 (delete_files=False)
+2025-04-22 17:32:09,874 - INFO - Successfully deleted torrent with hash 8092d9be9c4d610e47481cfc07defa8da78cfbb5
+2025-04-22 17:32:09,874 - INFO - Deleting content files: Blended (2014) [1080p]
+2025-04-22 17:32:09,875 - INFO - Deleting content: /home/user/Desktop/torrents/Blended (2014) [1080p]
+2025-04-22 17:32:09,876 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Blended (2014) [1080p]
+2025-04-22 17:32:09,876 - INFO - Successfully processed torrent: Blended (2014) [1080p]
+2025-04-22 17:32:09,876 - INFO - Processing torrent: Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:32:09,876 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Blended (2014) [1080p]'}
+2025-04-22 17:32:09,876 - INFO - Attempting to upload torrent: Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:32:09,877 - INFO - Content path: /home/user/Desktop/torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:32:09,877 - INFO - Remote path: onedrive:Torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:32:09,877 - INFO - Uploading torrent: Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:32:09,878 - INFO - Directory /home/user/Desktop/torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 17:32:09,878 - INFO - Starting upload: /home/user/Desktop/torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG] -> onedrive:Torrents/Cloudy With A Chance Of Meatballs (2009) [1080p] [YTS.AG]
+2025-04-22 17:32:09,878 - INFO - Uploading directory of size 1394.47 MB
