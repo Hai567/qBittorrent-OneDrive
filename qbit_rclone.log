@@ -10958,3 +10958,63 @@
 2025-04-22 16:01:31,677 - INFO - Directory /home/user/Desktop/torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 16:01:31,677 - INFO - Starting upload: /home/user/Desktop/torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Teen Titans The Judas Contract (2017) [1080p] [YTS.AG]
 2025-04-22 16:01:31,677 - INFO - Uploading directory of size 1317.72 MB
+2025-04-22 16:05:24,014 - INFO - Successfully uploaded to onedrive:Torrents/M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:05:24,014 - INFO - Verifying upload for: M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:05:24,014 - INFO - Verifying upload: /home/user/Desktop/torrents/M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:05:26,273 - INFO - Upload verification successful for /home/user/Desktop/torrents/M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:05:26,283 - INFO - Deleting torrent from qBittorrent: M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:05:26,283 - INFO - Deleting torrent with hash ee8b0ad2ec4b1498313bf1a7280ecc81bbee8e3d (delete_files=False)
+2025-04-22 16:05:26,292 - INFO - Successfully deleted torrent with hash ee8b0ad2ec4b1498313bf1a7280ecc81bbee8e3d
+2025-04-22 16:05:26,292 - INFO - Deleting content files: M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:05:26,292 - INFO - Deleting content: /home/user/Desktop/torrents/M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:05:26,294 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:05:26,294 - INFO - Successfully processed torrent: M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:05:26,294 - INFO - Processing torrent: Men In Black 3 (2012) [1080p]
+2025-04-22 16:05:26,294 - INFO - Attempting to upload torrent: Men In Black 3 (2012) [1080p]
+2025-04-22 16:05:26,295 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'M3GAN (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 16:05:26,295 - INFO - Content path: /home/user/Desktop/torrents/Men In Black 3 (2012) [1080p]
+2025-04-22 16:05:26,295 - INFO - Remote path: onedrive:Torrents/Men In Black 3 (2012) [1080p]
+2025-04-22 16:05:26,295 - INFO - Uploading torrent: Men In Black 3 (2012) [1080p]
+2025-04-22 16:05:26,296 - INFO - Directory /home/user/Desktop/torrents/Men In Black 3 (2012) [1080p] is readable, contains 3 files/dirs
+2025-04-22 16:05:26,296 - INFO - Starting upload: /home/user/Desktop/torrents/Men In Black 3 (2012) [1080p] -> onedrive:Torrents/Men In Black 3 (2012) [1080p]
+2025-04-22 16:05:26,296 - INFO - Uploading directory of size 1639.68 MB
+2025-04-22 16:06:10,078 - INFO - Successfully uploaded to onedrive:Torrents/Get Hard (2015) [1080p]
+2025-04-22 16:06:10,078 - INFO - Verifying upload for: Get Hard (2015) [1080p]
+2025-04-22 16:06:10,078 - INFO - Verifying upload: /home/user/Desktop/torrents/Get Hard (2015) [1080p] -> onedrive:Torrents/Get Hard (2015) [1080p]
+2025-04-22 16:06:13,437 - INFO - Upload verification successful for /home/user/Desktop/torrents/Get Hard (2015) [1080p]
+2025-04-22 16:06:13,449 - INFO - Deleting torrent from qBittorrent: Get Hard (2015) [1080p]
+2025-04-22 16:06:13,449 - INFO - Deleting torrent with hash 1a79b3c1987ae9a456bab4617a9b47c8231e59c7 (delete_files=False)
+2025-04-22 16:06:13,459 - INFO - Successfully deleted torrent with hash 1a79b3c1987ae9a456bab4617a9b47c8231e59c7
+2025-04-22 16:06:13,459 - INFO - Deleting content files: Get Hard (2015) [1080p]
+2025-04-22 16:06:13,459 - INFO - Deleting content: /home/user/Desktop/torrents/Get Hard (2015) [1080p]
+2025-04-22 16:06:13,461 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Get Hard (2015) [1080p]
+2025-04-22 16:06:13,461 - INFO - Successfully processed torrent: Get Hard (2015) [1080p]
+2025-04-22 16:06:13,461 - INFO - Processing torrent: Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:06:13,461 - INFO - Attempting to upload torrent: Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:06:13,461 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Get Hard (2015) [1080p]'}
+2025-04-22 16:06:13,461 - INFO - Content path: /home/user/Desktop/torrents/Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:06:13,462 - INFO - Remote path: onedrive:Torrents/Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:06:13,462 - INFO - Uploading torrent: Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:06:13,462 - INFO - Directory /home/user/Desktop/torrents/Percy Jackson And The Olympians The Lightning Thief (2010) [1080p] is readable, contains 3 files/dirs
+2025-04-22 16:06:13,462 - INFO - Starting upload: /home/user/Desktop/torrents/Percy Jackson And The Olympians The Lightning Thief (2010) [1080p] -> onedrive:Torrents/Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]
+2025-04-22 16:06:13,463 - INFO - Uploading directory of size 1537.07 MB
+2025-04-22 16:08:28,204 - INFO - Successfully uploaded to onedrive:Torrents/Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 16:08:28,204 - INFO - Verifying upload for: Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 16:08:28,204 - INFO - Verifying upload: /home/user/Desktop/torrents/Cloudy with a Chance of Meatballs 2 (2013) [1080p] -> onedrive:Torrents/Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 16:08:31,118 - INFO - Upload verification successful for /home/user/Desktop/torrents/Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 16:08:31,128 - INFO - Deleting torrent from qBittorrent: Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 16:08:31,128 - INFO - Deleting torrent with hash 0dc67f870df40ec329534cb9d68e77d206062b1b (delete_files=False)
+2025-04-22 16:08:31,139 - INFO - Successfully deleted torrent with hash 0dc67f870df40ec329534cb9d68e77d206062b1b
+2025-04-22 16:08:31,140 - INFO - Deleting content files: Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 16:08:31,140 - INFO - Deleting content: /home/user/Desktop/torrents/Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 16:08:31,141 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 16:08:31,141 - INFO - Successfully processed torrent: Cloudy with a Chance of Meatballs 2 (2013) [1080p]
+2025-04-22 16:08:31,141 - INFO - Processing torrent: No Country For Old Men (2007) [1080p]
+2025-04-22 16:08:31,141 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Cloudy with a Chance of Meatballs 2 (2013) [1080p]'}
+2025-04-22 16:08:31,141 - INFO - Attempting to upload torrent: No Country For Old Men (2007) [1080p]
+2025-04-22 16:08:31,142 - INFO - Content path: /home/user/Desktop/torrents/No Country For Old Men (2007) [1080p]
+2025-04-22 16:08:31,142 - INFO - Remote path: onedrive:Torrents/No Country For Old Men (2007) [1080p]
+2025-04-22 16:08:31,142 - INFO - Uploading torrent: No Country For Old Men (2007) [1080p]
+2025-04-22 16:08:31,142 - INFO - Directory /home/user/Desktop/torrents/No Country For Old Men (2007) [1080p] is readable, contains 3 files/dirs
+2025-04-22 16:08:31,142 - INFO - Starting upload: /home/user/Desktop/torrents/No Country For Old Men (2007) [1080p] -> onedrive:Torrents/No Country For Old Men (2007) [1080p]
+2025-04-22 16:08:31,143 - INFO - Uploading directory of size 1635.82 MB
