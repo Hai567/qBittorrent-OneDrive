@@ -1914,3 +1914,13 @@
 2025-04-22 13:32:22,357 - git-cronjob - INFO - Checking for changes in repository
 2025-04-22 13:32:22,362 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
 2025-04-22 13:32:22,362 - git-cronjob - INFO - Running command: git add .
+2025-04-22 13:32:22,370 - git-cronjob - INFO - Success: 
+2025-04-22 13:32:22,370 - git-cronjob - INFO - Running command: git commit -m [bot] update crawling data
+2025-04-22 13:32:22,382 - git-cronjob - INFO - Success: [vps b82fffc] [bot] update crawling data
+ 1 file changed, 10 insertions(+)
+2025-04-22 13:32:22,382 - git-cronjob - INFO - Running command: git push origin vps
+2025-04-22 13:32:24,154 - git-cronjob - INFO - Success: 
+2025-04-22 13:32:24,154 - git-cronjob - INFO - Git operations completed successfully
+2025-04-22 13:37:24,456 - git-cronjob - INFO - Checking for changes in repository
+2025-04-22 13:37:24,462 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-22 13:37:24,462 - git-cronjob - INFO - Running command: git add .
