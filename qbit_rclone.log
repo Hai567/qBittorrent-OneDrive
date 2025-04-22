@@ -9823,3 +9823,23 @@
 2025-04-22 12:35:47,610 - INFO - Directory /home/user/Desktop/torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 4 files/dirs
 2025-04-22 12:35:47,610 - INFO - Starting upload: /home/user/Desktop/torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Outside The Wire (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-22 12:35:47,610 - INFO - Uploading directory of size 2190.52 MB
+2025-04-22 12:40:58,861 - INFO - Successfully uploaded to onedrive:Torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:40:58,861 - INFO - Verifying upload for: Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:40:58,861 - INFO - Verifying upload: /home/user/Desktop/torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:41:02,725 - INFO - Upload verification successful for /home/user/Desktop/torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:41:02,738 - INFO - Deleting torrent from qBittorrent: Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:41:02,738 - INFO - Deleting torrent with hash 5dccdf393954b934632fc37f7eae8c0c282d3eda (delete_files=False)
+2025-04-22 12:41:02,753 - INFO - Successfully deleted torrent with hash 5dccdf393954b934632fc37f7eae8c0c282d3eda
+2025-04-22 12:41:02,753 - INFO - Deleting content files: Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:41:02,753 - INFO - Deleting content: /home/user/Desktop/torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:41:02,754 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:41:02,755 - INFO - Successfully processed torrent: Love, Simon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-22 12:41:02,755 - INFO - Processing torrent: Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:41:02,755 - INFO - Attempting to upload torrent: Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:41:02,755 - INFO - Content path: /home/user/Desktop/torrents/Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:41:02,755 - INFO - Remote path: onedrive:Torrents/Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:41:02,755 - INFO - Uploading torrent: Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:41:02,755 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Love, Simon (2018) [BluRay] [1080p] [YTS.AM]'}
+2025-04-22 12:41:02,756 - INFO - Directory /home/user/Desktop/torrents/Home Alone 2 Lost in New York (1992) [1080p] is readable, contains 2 files/dirs
+2025-04-22 12:41:02,756 - INFO - Starting upload: /home/user/Desktop/torrents/Home Alone 2 Lost in New York (1992) [1080p] -> onedrive:Torrents/Home Alone 2 Lost in New York (1992) [1080p]
+2025-04-22 12:41:02,756 - INFO - Uploading directory of size 1883.28 MB
