@@ -9723,3 +9723,43 @@
 2025-04-22 12:11:08,713 - INFO - Directory /home/user/Desktop/torrents/Resident Evil (2002) [1080p] is readable, contains 3 files/dirs
 2025-04-22 12:11:08,713 - INFO - Starting upload: /home/user/Desktop/torrents/Resident Evil (2002) [1080p] -> onedrive:Torrents/Resident Evil (2002) [1080p]
 2025-04-22 12:11:08,713 - INFO - Uploading directory of size 1385.10 MB
+2025-04-22 12:18:13,963 - INFO - Successfully uploaded to onedrive:Torrents/Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 12:18:13,963 - INFO - Verifying upload for: Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 12:18:13,963 - INFO - Verifying upload: /home/user/Desktop/torrents/Watchmen Ultimate Cut (2009) [1080p] -> onedrive:Torrents/Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 12:18:17,651 - INFO - Upload verification successful for /home/user/Desktop/torrents/Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 12:18:17,660 - INFO - Deleting torrent from qBittorrent: Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 12:18:17,661 - INFO - Deleting torrent with hash 608f2da6ca661cda193803fb9471ff833c04f5cc (delete_files=False)
+2025-04-22 12:18:17,669 - INFO - Successfully deleted torrent with hash 608f2da6ca661cda193803fb9471ff833c04f5cc
+2025-04-22 12:18:17,669 - INFO - Deleting content files: Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 12:18:17,669 - INFO - Deleting content: /home/user/Desktop/torrents/Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 12:18:17,670 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 12:18:17,670 - INFO - Successfully processed torrent: Watchmen Ultimate Cut (2009) [1080p]
+2025-04-22 12:18:17,671 - INFO - Processing torrent: Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:18:17,671 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Watchmen Ultimate Cut (2009) [1080p]'}
+2025-04-22 12:18:17,671 - INFO - Attempting to upload torrent: Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:18:17,671 - INFO - Content path: /home/user/Desktop/torrents/Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:18:17,671 - INFO - Remote path: onedrive:Torrents/Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:18:17,671 - INFO - Uploading torrent: Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:18:17,671 - INFO - Directory /home/user/Desktop/torrents/Kick-Ass 2 (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-22 12:18:17,671 - INFO - Starting upload: /home/user/Desktop/torrents/Kick-Ass 2 (2013) [1080p] -> onedrive:Torrents/Kick-Ass 2 (2013) [1080p]
+2025-04-22 12:18:17,672 - INFO - Uploading directory of size 1671.48 MB
+2025-04-22 12:20:44,770 - INFO - Successfully uploaded to onedrive:Torrents/The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:20:44,770 - INFO - Verifying upload for: The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:20:44,771 - INFO - Verifying upload: /home/user/Desktop/torrents/The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:20:47,407 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:20:47,418 - INFO - Deleting torrent from qBittorrent: The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:20:47,418 - INFO - Deleting torrent with hash 85aa3e942cb7c04038b66e99791211dfc6a38fb7 (delete_files=False)
+2025-04-22 12:20:47,427 - INFO - Successfully deleted torrent with hash 85aa3e942cb7c04038b66e99791211dfc6a38fb7
+2025-04-22 12:20:47,427 - INFO - Deleting content files: The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:20:47,427 - INFO - Deleting content: /home/user/Desktop/torrents/The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:20:47,430 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:20:47,431 - INFO - Successfully processed torrent: The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:20:47,431 - INFO - Processing torrent: The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 12:20:47,431 - INFO - Attempting to upload torrent: The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 12:20:47,431 - INFO - Content path: /home/user/Desktop/torrents/The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 12:20:47,431 - INFO - Remote path: onedrive:Torrents/The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 12:20:47,431 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-22 12:20:47,431 - INFO - Uploading torrent: The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 12:20:47,433 - INFO - Directory /home/user/Desktop/torrents/The Purge Election Year (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 12:20:47,433 - INFO - Starting upload: /home/user/Desktop/torrents/The Purge Election Year (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Purge Election Year (2016) [1080p] [YTS.AG]
+2025-04-22 12:20:47,433 - INFO - Uploading directory of size 1701.85 MB
