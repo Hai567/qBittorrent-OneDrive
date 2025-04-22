@@ -11158,3 +11158,43 @@
 2025-04-22 16:21:50,652 - INFO - Directory /home/user/Desktop/torrents/Beauty and the Beast (1991) [1080p] is readable, contains 2 files/dirs
 2025-04-22 16:21:50,652 - INFO - Starting upload: /home/user/Desktop/torrents/Beauty and the Beast (1991) [1080p] -> onedrive:Torrents/Beauty and the Beast (1991) [1080p]
 2025-04-22 16:21:50,652 - INFO - Uploading directory of size 1474.65 MB
+2025-04-22 16:27:34,521 - INFO - Successfully uploaded to onedrive:Torrents/Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:27:34,522 - INFO - Verifying upload for: Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:27:34,522 - INFO - Verifying upload: /home/user/Desktop/torrents/Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:27:37,023 - INFO - Upload verification successful for /home/user/Desktop/torrents/Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:27:37,035 - INFO - Deleting torrent from qBittorrent: Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:27:37,036 - INFO - Deleting torrent with hash 7d3006e96b7833ba2d33f0f186784440ad70b086 (delete_files=False)
+2025-04-22 16:27:37,049 - INFO - Successfully deleted torrent with hash 7d3006e96b7833ba2d33f0f186784440ad70b086
+2025-04-22 16:27:37,049 - INFO - Deleting content files: Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:27:37,049 - INFO - Deleting content: /home/user/Desktop/torrents/Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:27:37,051 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:27:37,051 - INFO - Successfully processed torrent: Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:27:37,052 - INFO - Processing torrent: Braveheart (1995) [1080p]
+2025-04-22 16:27:37,052 - INFO - Attempting to upload torrent: Braveheart (1995) [1080p]
+2025-04-22 16:27:37,052 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Call Me By Your Name (2017) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-22 16:27:37,052 - INFO - Content path: /home/user/Desktop/torrents/Braveheart (1995) [1080p]
+2025-04-22 16:27:37,052 - INFO - Remote path: onedrive:Torrents/Braveheart (1995) [1080p]
+2025-04-22 16:27:37,052 - INFO - Uploading torrent: Braveheart (1995) [1080p]
+2025-04-22 16:27:37,053 - INFO - Directory /home/user/Desktop/torrents/Braveheart (1995) [1080p] is readable, contains 3 files/dirs
+2025-04-22 16:27:37,053 - INFO - Starting upload: /home/user/Desktop/torrents/Braveheart (1995) [1080p] -> onedrive:Torrents/Braveheart (1995) [1080p]
+2025-04-22 16:27:37,053 - INFO - Uploading directory of size 2559.83 MB
+2025-04-22 16:28:22,385 - INFO - Successfully uploaded to onedrive:Torrents/The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:28:22,385 - INFO - Verifying upload for: The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:28:22,385 - INFO - Verifying upload: /home/user/Desktop/torrents/The Mist (2007) [1080p] [YTS.AG] -> onedrive:Torrents/The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:28:24,210 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:28:24,219 - INFO - Deleting torrent from qBittorrent: The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:28:24,220 - INFO - Deleting torrent with hash 169e44b34cd68cd5f1cfd29cec76e165a8945fd6 (delete_files=False)
+2025-04-22 16:28:24,232 - INFO - Successfully deleted torrent with hash 169e44b34cd68cd5f1cfd29cec76e165a8945fd6
+2025-04-22 16:28:24,233 - INFO - Deleting content files: The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:28:24,233 - INFO - Deleting content: /home/user/Desktop/torrents/The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:28:24,234 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:28:24,234 - INFO - Successfully processed torrent: The Mist (2007) [1080p] [YTS.AG]
+2025-04-22 16:28:24,234 - INFO - Processing torrent: Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:28:24,235 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Mist (2007) [1080p] [YTS.AG]'}
+2025-04-22 16:28:24,235 - INFO - Attempting to upload torrent: Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:28:24,235 - INFO - Content path: /home/user/Desktop/torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:28:24,235 - INFO - Remote path: onedrive:Torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:28:24,235 - INFO - Uploading torrent: Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:28:24,236 - INFO - Directory /home/user/Desktop/torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 16:28:24,236 - INFO - Starting upload: /home/user/Desktop/torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:28:24,236 - INFO - Uploading directory of size 1933.18 MB
