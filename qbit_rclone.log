@@ -10361,3 +10361,63 @@
 2025-04-22 14:29:44,607 - INFO - Directory /home/user/Desktop/torrents/Star Trek Beyond (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 14:29:44,608 - INFO - Starting upload: /home/user/Desktop/torrents/Star Trek Beyond (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Star Trek Beyond (2016) [1080p] [YTS.AG]
 2025-04-22 14:29:44,608 - INFO - Uploading directory of size 1903.20 MB
+2025-04-22 14:34:53,099 - INFO - Successfully uploaded to onedrive:Torrents/The Lone Ranger (2013) [1080p]
+2025-04-22 14:34:53,100 - INFO - Verifying upload for: The Lone Ranger (2013) [1080p]
+2025-04-22 14:34:53,100 - INFO - Verifying upload: /home/user/Desktop/torrents/The Lone Ranger (2013) [1080p] -> onedrive:Torrents/The Lone Ranger (2013) [1080p]
+2025-04-22 14:34:56,605 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Lone Ranger (2013) [1080p]
+2025-04-22 14:34:56,615 - INFO - Deleting torrent from qBittorrent: The Lone Ranger (2013) [1080p]
+2025-04-22 14:34:56,615 - INFO - Deleting torrent with hash 4fa3ff1b4a64be6bbe60e74f1e789753fc80203a (delete_files=False)
+2025-04-22 14:34:56,628 - INFO - Successfully deleted torrent with hash 4fa3ff1b4a64be6bbe60e74f1e789753fc80203a
+2025-04-22 14:34:56,628 - INFO - Deleting content files: The Lone Ranger (2013) [1080p]
+2025-04-22 14:34:56,629 - INFO - Deleting content: /home/user/Desktop/torrents/The Lone Ranger (2013) [1080p]
+2025-04-22 14:34:56,642 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Lone Ranger (2013) [1080p]
+2025-04-22 14:34:56,642 - INFO - Successfully processed torrent: The Lone Ranger (2013) [1080p]
+2025-04-22 14:34:56,642 - INFO - Processing torrent: Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:34:56,642 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Lone Ranger (2013) [1080p]'}
+2025-04-22 14:34:56,643 - INFO - Attempting to upload torrent: Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:34:56,643 - INFO - Content path: /home/user/Desktop/torrents/Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:34:56,643 - INFO - Remote path: onedrive:Torrents/Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:34:56,643 - INFO - Uploading torrent: Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:34:56,643 - INFO - Directory /home/user/Desktop/torrents/Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 14:34:56,643 - INFO - Starting upload: /home/user/Desktop/torrents/Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Zodiac (2007) [DIRECTORS CUT] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:34:56,643 - INFO - Uploading directory of size 3069.53 MB
+2025-04-22 14:37:10,670 - INFO - Successfully uploaded to onedrive:Torrents/Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:37:10,671 - INFO - Verifying upload for: Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:37:10,671 - INFO - Verifying upload: /home/user/Desktop/torrents/Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:37:12,998 - INFO - Upload verification successful for /home/user/Desktop/torrents/Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:37:13,013 - INFO - Deleting torrent from qBittorrent: Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:37:13,013 - INFO - Deleting torrent with hash a021d3d2e58b867b640a91cd66b85ddb8d0dba33 (delete_files=False)
+2025-04-22 14:37:13,026 - INFO - Successfully deleted torrent with hash a021d3d2e58b867b640a91cd66b85ddb8d0dba33
+2025-04-22 14:37:13,027 - INFO - Deleting content files: Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:37:13,027 - INFO - Deleting content: /home/user/Desktop/torrents/Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:37:13,028 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:37:13,028 - INFO - Successfully processed torrent: Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:37:13,028 - INFO - Processing torrent: Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:37:13,029 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Gretel & Hansel (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-22 14:37:13,029 - INFO - Attempting to upload torrent: Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:37:13,029 - INFO - Content path: /home/user/Desktop/torrents/Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:37:13,029 - INFO - Remote path: onedrive:Torrents/Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:37:13,029 - INFO - Uploading torrent: Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:37:13,029 - INFO - Directory /home/user/Desktop/torrents/Don't Breathe (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 14:37:13,029 - INFO - Starting upload: /home/user/Desktop/torrents/Don't Breathe (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Don't Breathe (2016) [1080p] [YTS.AG]
+2025-04-22 14:37:13,029 - INFO - Uploading directory of size 1387.48 MB
+2025-04-22 14:37:14,453 - INFO - Successfully uploaded to onedrive:Torrents/White House Down (2013) [1080p]
+2025-04-22 14:37:14,453 - INFO - Verifying upload for: White House Down (2013) [1080p]
+2025-04-22 14:37:14,453 - INFO - Verifying upload: /home/user/Desktop/torrents/White House Down (2013) [1080p] -> onedrive:Torrents/White House Down (2013) [1080p]
+2025-04-22 14:37:16,782 - INFO - Upload verification successful for /home/user/Desktop/torrents/White House Down (2013) [1080p]
+2025-04-22 14:37:16,796 - INFO - Deleting torrent from qBittorrent: White House Down (2013) [1080p]
+2025-04-22 14:37:16,797 - INFO - Deleting torrent with hash 5adbad2fdf1bf2f98575b4d4876cc3f4a4d78fb8 (delete_files=False)
+2025-04-22 14:37:16,808 - INFO - Successfully deleted torrent with hash 5adbad2fdf1bf2f98575b4d4876cc3f4a4d78fb8
+2025-04-22 14:37:16,808 - INFO - Deleting content files: White House Down (2013) [1080p]
+2025-04-22 14:37:16,808 - INFO - Deleting content: /home/user/Desktop/torrents/White House Down (2013) [1080p]
+2025-04-22 14:37:16,810 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/White House Down (2013) [1080p]
+2025-04-22 14:37:16,810 - INFO - Successfully processed torrent: White House Down (2013) [1080p]
+2025-04-22 14:37:16,811 - INFO - Processing torrent: My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:37:16,811 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'White House Down (2013) [1080p]'}
+2025-04-22 14:37:16,811 - INFO - Attempting to upload torrent: My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:37:16,812 - INFO - Content path: /home/user/Desktop/torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:37:16,812 - INFO - Remote path: onedrive:Torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:37:16,812 - INFO - Uploading torrent: My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:37:16,812 - INFO - Directory /home/user/Desktop/torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-22 14:37:16,812 - INFO - Starting upload: /home/user/Desktop/torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 14:37:16,812 - INFO - Uploading directory of size 1874.69 MB
