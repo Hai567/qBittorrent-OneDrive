@@ -11438,3 +11438,55 @@
 2025-04-22 16:53:47,868 - INFO - Directory /home/user/Desktop/torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 16:53:47,868 - INFO - Starting upload: /home/user/Desktop/torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
 2025-04-22 16:53:47,868 - INFO - Uploading directory of size 1900.99 MB
+2025-04-22 16:56:09,980 - INFO - Successfully uploaded to onedrive:Torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:56:09,981 - INFO - Verifying upload for: Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:56:09,981 - INFO - Verifying upload: /home/user/Desktop/torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:56:13,067 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:56:13,078 - INFO - Deleting torrent from qBittorrent: Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:56:13,078 - INFO - Deleting torrent with hash e64ad38b4ae06d3d488a1ffbebd02abc5ddb043c (delete_files=False)
+2025-04-22 16:56:13,106 - INFO - Successfully deleted torrent with hash e64ad38b4ae06d3d488a1ffbebd02abc5ddb043c
+2025-04-22 16:56:13,106 - INFO - Deleting content files: Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:56:13,107 - INFO - Deleting content: /home/user/Desktop/torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:56:13,108 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:56:13,108 - INFO - Successfully processed torrent: Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:56:13,109 - INFO - Processing torrent: Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 16:56:13,109 - INFO - Attempting to upload torrent: Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 16:56:13,109 - INFO - Content path: /home/user/Desktop/torrents/Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 16:56:13,109 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-22 16:56:13,109 - INFO - Remote path: onedrive:Torrents/Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 16:56:13,109 - INFO - Uploading torrent: Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 16:56:13,110 - INFO - Directory /home/user/Desktop/torrents/Teenage Mutant Ninja Turtles (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-22 16:56:13,110 - INFO - Starting upload: /home/user/Desktop/torrents/Teenage Mutant Ninja Turtles (2014) [1080p] -> onedrive:Torrents/Teenage Mutant Ninja Turtles (2014) [1080p]
+2025-04-22 16:56:13,110 - INFO - Uploading directory of size 1675.30 MB
+2025-04-22 16:56:19,129 - INFO - Successfully uploaded to onedrive:Torrents/Son of a Gun (2014)
+2025-04-22 16:56:19,129 - INFO - Verifying upload for: Son of a Gun (2014)
+2025-04-22 16:56:19,129 - INFO - Verifying upload: /home/user/Desktop/torrents/Son of a Gun (2014) -> onedrive:Torrents/Son of a Gun (2014)
+2025-04-22 16:56:21,018 - INFO - Upload verification successful for /home/user/Desktop/torrents/Son of a Gun (2014)
+2025-04-22 16:56:21,031 - INFO - Deleting torrent from qBittorrent: Son of a Gun (2014)
+2025-04-22 16:56:21,031 - INFO - Deleting torrent with hash a967deb018816ed06b05d07815a03c4e7e35f63b (delete_files=False)
+2025-04-22 16:56:21,041 - INFO - Successfully deleted torrent with hash a967deb018816ed06b05d07815a03c4e7e35f63b
+2025-04-22 16:56:21,042 - INFO - Deleting content files: Son of a Gun (2014)
+2025-04-22 16:56:21,042 - INFO - Deleting content: /home/user/Desktop/torrents/Son of a Gun (2014)
+2025-04-22 16:56:21,043 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Son of a Gun (2014)
+2025-04-22 16:56:21,043 - INFO - Successfully processed torrent: Son of a Gun (2014)
+2025-04-22 16:56:21,043 - INFO - Processing torrent: Die Hard 4 (2007) [1080p]
+2025-04-22 16:56:21,043 - INFO - Attempting to upload torrent: Die Hard 4 (2007) [1080p]
+2025-04-22 16:56:21,043 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Son of a Gun (2014)'}
+2025-04-22 16:56:21,043 - INFO - Content path: /home/user/Desktop/torrents/Die Hard 4 (2007) [1080p]
+2025-04-22 16:56:21,044 - INFO - Remote path: onedrive:Torrents/Die Hard 4 (2007) [1080p]
+2025-04-22 16:56:21,044 - INFO - Uploading torrent: Die Hard 4 (2007) [1080p]
+2025-04-22 16:56:21,044 - INFO - Directory /home/user/Desktop/torrents/Die Hard 4 (2007) [1080p] is readable, contains 3 files/dirs
+2025-04-22 16:56:21,044 - INFO - Starting upload: /home/user/Desktop/torrents/Die Hard 4 (2007) [1080p] -> onedrive:Torrents/Die Hard 4 (2007) [1080p]
+2025-04-22 16:56:21,044 - INFO - Uploading directory of size 1843.02 MB
+2025-04-22 16:57:49,524 - INFO - Successfully uploaded to onedrive:Torrents/The Bourne Identity (2002) [1080p]
+2025-04-22 16:57:49,524 - INFO - Verifying upload for: The Bourne Identity (2002) [1080p]
+2025-04-22 16:57:49,524 - INFO - Verifying upload: /home/user/Desktop/torrents/The Bourne Identity (2002) [1080p] -> onedrive:Torrents/The Bourne Identity (2002) [1080p]
+2025-04-22 16:57:52,543 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Bourne Identity (2002) [1080p]
+2025-04-22 16:57:52,557 - INFO - Deleting torrent from qBittorrent: The Bourne Identity (2002) [1080p]
+2025-04-22 16:57:52,557 - INFO - Deleting torrent with hash 58564c03d930b85ee066e774ab4985fb18506e5d (delete_files=False)
+2025-04-22 16:57:52,572 - INFO - Successfully deleted torrent with hash 58564c03d930b85ee066e774ab4985fb18506e5d
+2025-04-22 16:57:52,573 - INFO - Deleting content files: The Bourne Identity (2002) [1080p]
+2025-04-22 16:57:52,573 - INFO - Deleting content: /home/user/Desktop/torrents/The Bourne Identity (2002) [1080p]
+2025-04-22 16:57:52,575 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Bourne Identity (2002) [1080p]
+2025-04-22 16:57:52,575 - INFO - Successfully processed torrent: The Bourne Identity (2002) [1080p]
+2025-04-22 16:57:52,576 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Bourne Identity (2002) [1080p]'}
