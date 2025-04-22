@@ -11198,3 +11198,63 @@
 2025-04-22 16:28:24,236 - INFO - Directory /home/user/Desktop/torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
 2025-04-22 16:28:24,236 - INFO - Starting upload: /home/user/Desktop/torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Fall (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-22 16:28:24,236 - INFO - Uploading directory of size 1933.18 MB
+2025-04-22 16:30:03,200 - INFO - Successfully uploaded to onedrive:Torrents/Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:03,200 - INFO - Verifying upload for: Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:03,200 - INFO - Verifying upload: /home/user/Desktop/torrents/Rings (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,535 - INFO - Upload verification successful for /home/user/Desktop/torrents/Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,546 - INFO - Deleting torrent from qBittorrent: Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,546 - INFO - Deleting torrent with hash 9e7445c225a2b9d0b2b8cf01400adbed2dec3cc0 (delete_files=False)
+2025-04-22 16:30:05,558 - INFO - Successfully deleted torrent with hash 9e7445c225a2b9d0b2b8cf01400adbed2dec3cc0
+2025-04-22 16:30:05,558 - INFO - Deleting content files: Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,558 - INFO - Deleting content: /home/user/Desktop/torrents/Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,559 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,559 - INFO - Successfully processed torrent: Rings (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,560 - INFO - Processing torrent: Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,560 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Rings (2017) [1080p] [YTS.AG]'}
+2025-04-22 16:30:05,560 - INFO - Attempting to upload torrent: Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,560 - INFO - Content path: /home/user/Desktop/torrents/Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,560 - INFO - Remote path: onedrive:Torrents/Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,560 - INFO - Uploading torrent: Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,561 - INFO - Directory /home/user/Desktop/torrents/Mother! (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 16:30:05,561 - INFO - Starting upload: /home/user/Desktop/torrents/Mother! (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Mother! (2017) [1080p] [YTS.AG]
+2025-04-22 16:30:05,561 - INFO - Uploading directory of size 1875.44 MB
+2025-04-22 16:31:00,612 - INFO - Successfully uploaded to onedrive:Torrents/Beauty and the Beast (1991) [1080p]
+2025-04-22 16:31:00,612 - INFO - Verifying upload for: Beauty and the Beast (1991) [1080p]
+2025-04-22 16:31:00,612 - INFO - Verifying upload: /home/user/Desktop/torrents/Beauty and the Beast (1991) [1080p] -> onedrive:Torrents/Beauty and the Beast (1991) [1080p]
+2025-04-22 16:31:02,962 - INFO - Upload verification successful for /home/user/Desktop/torrents/Beauty and the Beast (1991) [1080p]
+2025-04-22 16:31:02,973 - INFO - Deleting torrent from qBittorrent: Beauty and the Beast (1991) [1080p]
+2025-04-22 16:31:02,973 - INFO - Deleting torrent with hash de553ad706a4152c034fec453cc0809f9a57d6f8 (delete_files=False)
+2025-04-22 16:31:02,992 - INFO - Successfully deleted torrent with hash de553ad706a4152c034fec453cc0809f9a57d6f8
+2025-04-22 16:31:02,992 - INFO - Deleting content files: Beauty and the Beast (1991) [1080p]
+2025-04-22 16:31:02,992 - INFO - Deleting content: /home/user/Desktop/torrents/Beauty and the Beast (1991) [1080p]
+2025-04-22 16:31:02,993 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Beauty and the Beast (1991) [1080p]
+2025-04-22 16:31:02,993 - INFO - Successfully processed torrent: Beauty and the Beast (1991) [1080p]
+2025-04-22 16:31:02,993 - INFO - Processing torrent: Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:31:02,993 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Beauty and the Beast (1991) [1080p]'}
+2025-04-22 16:31:02,993 - INFO - Attempting to upload torrent: Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:31:02,994 - INFO - Content path: /home/user/Desktop/torrents/Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:31:02,994 - INFO - Remote path: onedrive:Torrents/Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:31:02,994 - INFO - Uploading torrent: Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:31:02,994 - INFO - Directory /home/user/Desktop/torrents/Jack Ryan Shadow Recruit (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-22 16:31:02,994 - INFO - Starting upload: /home/user/Desktop/torrents/Jack Ryan Shadow Recruit (2014) [1080p] -> onedrive:Torrents/Jack Ryan Shadow Recruit (2014) [1080p]
+2025-04-22 16:31:02,994 - INFO - Uploading directory of size 1681.21 MB
+2025-04-22 16:33:15,162 - INFO - Successfully uploaded to onedrive:Torrents/Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:33:15,162 - INFO - Verifying upload for: Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:33:15,162 - INFO - Verifying upload: /home/user/Desktop/torrents/Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:33:17,715 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:33:17,725 - INFO - Deleting torrent from qBittorrent: Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:33:17,725 - INFO - Deleting torrent with hash 4d3a6a55bc4168a60ed5cc979d3146aef29a4a9c (delete_files=False)
+2025-04-22 16:33:17,735 - INFO - Successfully deleted torrent with hash 4d3a6a55bc4168a60ed5cc979d3146aef29a4a9c
+2025-04-22 16:33:17,735 - INFO - Deleting content files: Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:33:17,735 - INFO - Deleting content: /home/user/Desktop/torrents/Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:33:17,737 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:33:17,737 - INFO - Successfully processed torrent: Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 16:33:17,737 - INFO - Processing torrent: Reservoir Dogs (1992) [1080p]
+2025-04-22 16:33:17,737 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ghosted (2023) [ENG FRE GER ITA POR SPA] [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 16:33:17,737 - INFO - Attempting to upload torrent: Reservoir Dogs (1992) [1080p]
+2025-04-22 16:33:17,738 - INFO - Content path: /home/user/Desktop/torrents/Reservoir Dogs (1992) [1080p]
+2025-04-22 16:33:17,738 - INFO - Remote path: onedrive:Torrents/Reservoir Dogs (1992) [1080p]
+2025-04-22 16:33:17,738 - INFO - Uploading torrent: Reservoir Dogs (1992) [1080p]
+2025-04-22 16:33:17,738 - INFO - Directory /home/user/Desktop/torrents/Reservoir Dogs (1992) [1080p] is readable, contains 3 files/dirs
+2025-04-22 16:33:17,738 - INFO - Starting upload: /home/user/Desktop/torrents/Reservoir Dogs (1992) [1080p] -> onedrive:Torrents/Reservoir Dogs (1992) [1080p]
+2025-04-22 16:33:17,738 - INFO - Uploading directory of size 1573.10 MB
