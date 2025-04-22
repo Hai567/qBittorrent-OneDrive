@@ -10081,3 +10081,23 @@
 2025-04-22 13:24:46,425 - INFO - Uploading directory of size 3702.00 MB
 2025-04-22 13:24:46,428 - INFO - Uploading directory of size 2062.04 MB
 2025-04-22 13:24:46,428 - INFO - Uploading directory of size 2299.42 MB
+2025-04-22 13:38:09,401 - INFO - Successfully uploaded to onedrive:Torrents/Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:38:09,401 - INFO - Verifying upload for: Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:38:09,401 - INFO - Verifying upload: /home/user/Desktop/torrents/Warrior's Gate (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:38:11,664 - INFO - Upload verification successful for /home/user/Desktop/torrents/Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:38:11,677 - INFO - Deleting torrent from qBittorrent: Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:38:11,678 - INFO - Deleting torrent with hash 44632547f35e65e6e3b8ca756aba424fe55a48e2 (delete_files=False)
+2025-04-22 13:38:11,694 - INFO - Successfully deleted torrent with hash 44632547f35e65e6e3b8ca756aba424fe55a48e2
+2025-04-22 13:38:11,694 - INFO - Deleting content files: Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:38:11,694 - INFO - Deleting content: /home/user/Desktop/torrents/Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:38:11,697 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:38:11,697 - INFO - Successfully processed torrent: Warrior's Gate (2016) [1080p] [YTS.AG]
+2025-04-22 13:38:11,697 - INFO - Processing torrent: The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:38:11,698 - INFO - Attempting to upload torrent: The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:38:11,698 - INFO - Content path: /home/user/Desktop/torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:38:11,698 - INFO - Remote path: onedrive:Torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:38:11,698 - INFO - Uploading torrent: The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:38:11,698 - INFO - Directory /home/user/Desktop/torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-22 13:38:11,698 - INFO - Starting upload: /home/user/Desktop/torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Divergent Series Insurgent - Shatter Reality (2015) [NORDIC] [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 13:38:11,698 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "Warrior's Gate (2016) [1080p] [YTS.AG]"}
+2025-04-22 13:38:11,699 - INFO - Uploading directory of size 2152.99 MB
