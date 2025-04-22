@@ -11358,3 +11358,83 @@
 2025-04-22 16:45:38,453 - INFO - Directory /home/user/Desktop/torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-22 16:45:38,453 - INFO - Starting upload: /home/user/Desktop/torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
 2025-04-22 16:45:38,453 - INFO - Uploading directory of size 1764.12 MB
+2025-04-22 16:49:26,793 - INFO - Successfully uploaded to onedrive:Torrents/The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:26,793 - INFO - Verifying upload for: The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:26,793 - INFO - Verifying upload: /home/user/Desktop/torrents/The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,336 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,347 - INFO - Deleting torrent from qBittorrent: The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,348 - INFO - Deleting torrent with hash dd45d797d4180b49a92b1a7ae57a77504816a8df (delete_files=False)
+2025-04-22 16:49:29,356 - INFO - Successfully deleted torrent with hash dd45d797d4180b49a92b1a7ae57a77504816a8df
+2025-04-22 16:49:29,356 - INFO - Deleting content files: The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,356 - INFO - Deleting content: /home/user/Desktop/torrents/The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,358 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,358 - INFO - Successfully processed torrent: The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,358 - INFO - Processing torrent: Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,358 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Witches (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-22 16:49:29,358 - INFO - Attempting to upload torrent: Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,358 - INFO - Content path: /home/user/Desktop/torrents/Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,359 - INFO - Remote path: onedrive:Torrents/Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,359 - INFO - Uploading torrent: Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,359 - INFO - Directory /home/user/Desktop/torrents/Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-22 16:49:29,359 - INFO - Starting upload: /home/user/Desktop/torrents/Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Enola Holmes (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 16:49:29,360 - INFO - Uploading directory of size 2342.89 MB
+2025-04-22 16:49:40,606 - INFO - Successfully uploaded to onedrive:Torrents/Pain & Gain (2013) [1080p]
+2025-04-22 16:49:40,606 - INFO - Verifying upload for: Pain & Gain (2013) [1080p]
+2025-04-22 16:49:40,606 - INFO - Verifying upload: /home/user/Desktop/torrents/Pain & Gain (2013) [1080p] -> onedrive:Torrents/Pain & Gain (2013) [1080p]
+2025-04-22 16:49:41,914 - INFO - Upload verification successful for /home/user/Desktop/torrents/Pain & Gain (2013) [1080p]
+2025-04-22 16:49:41,925 - INFO - Deleting torrent from qBittorrent: Pain & Gain (2013) [1080p]
+2025-04-22 16:49:41,925 - INFO - Deleting torrent with hash 305587456519e019ef1b6ad8dc78fd01aa489882 (delete_files=False)
+2025-04-22 16:49:41,934 - INFO - Successfully deleted torrent with hash 305587456519e019ef1b6ad8dc78fd01aa489882
+2025-04-22 16:49:41,934 - INFO - Deleting content files: Pain & Gain (2013) [1080p]
+2025-04-22 16:49:41,934 - INFO - Deleting content: /home/user/Desktop/torrents/Pain & Gain (2013) [1080p]
+2025-04-22 16:49:41,935 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Pain & Gain (2013) [1080p]
+2025-04-22 16:49:41,935 - INFO - Successfully processed torrent: Pain & Gain (2013) [1080p]
+2025-04-22 16:49:41,935 - INFO - Processing torrent: The Bourne Identity (2002) [1080p]
+2025-04-22 16:49:41,936 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Pain & Gain (2013) [1080p]'}
+2025-04-22 16:49:41,936 - INFO - Attempting to upload torrent: The Bourne Identity (2002) [1080p]
+2025-04-22 16:49:41,936 - INFO - Content path: /home/user/Desktop/torrents/The Bourne Identity (2002) [1080p]
+2025-04-22 16:49:41,936 - INFO - Remote path: onedrive:Torrents/The Bourne Identity (2002) [1080p]
+2025-04-22 16:49:41,936 - INFO - Uploading torrent: The Bourne Identity (2002) [1080p]
+2025-04-22 16:49:41,936 - INFO - Directory /home/user/Desktop/torrents/The Bourne Identity (2002) [1080p] is readable, contains 3 files/dirs
+2025-04-22 16:49:41,936 - INFO - Starting upload: /home/user/Desktop/torrents/The Bourne Identity (2002) [1080p] -> onedrive:Torrents/The Bourne Identity (2002) [1080p]
+2025-04-22 16:49:41,937 - INFO - Uploading directory of size 1641.15 MB
+2025-04-22 16:51:45,295 - INFO - Successfully uploaded to onedrive:Torrents/The Gambler (2014) [1080p]
+2025-04-22 16:51:45,295 - INFO - Verifying upload for: The Gambler (2014) [1080p]
+2025-04-22 16:51:45,295 - INFO - Verifying upload: /home/user/Desktop/torrents/The Gambler (2014) [1080p] -> onedrive:Torrents/The Gambler (2014) [1080p]
+2025-04-22 16:51:47,608 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Gambler (2014) [1080p]
+2025-04-22 16:51:47,619 - INFO - Deleting torrent from qBittorrent: The Gambler (2014) [1080p]
+2025-04-22 16:51:47,619 - INFO - Deleting torrent with hash 2ccf32793ce04e367ffd39e7efefe01966029654 (delete_files=False)
+2025-04-22 16:51:47,629 - INFO - Successfully deleted torrent with hash 2ccf32793ce04e367ffd39e7efefe01966029654
+2025-04-22 16:51:47,629 - INFO - Deleting content files: The Gambler (2014) [1080p]
+2025-04-22 16:51:47,629 - INFO - Deleting content: /home/user/Desktop/torrents/The Gambler (2014) [1080p]
+2025-04-22 16:51:47,630 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Gambler (2014) [1080p]
+2025-04-22 16:51:47,631 - INFO - Successfully processed torrent: The Gambler (2014) [1080p]
+2025-04-22 16:51:47,631 - INFO - Processing torrent: Son of a Gun (2014)
+2025-04-22 16:51:47,631 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Gambler (2014) [1080p]'}
+2025-04-22 16:51:47,631 - INFO - Attempting to upload torrent: Son of a Gun (2014)
+2025-04-22 16:51:47,632 - INFO - Content path: /home/user/Desktop/torrents/Son of a Gun (2014)
+2025-04-22 16:51:47,632 - INFO - Remote path: onedrive:Torrents/Son of a Gun (2014)
+2025-04-22 16:51:47,632 - INFO - Uploading torrent: Son of a Gun (2014)
+2025-04-22 16:51:47,632 - INFO - Directory /home/user/Desktop/torrents/Son of a Gun (2014) is readable, contains 2 files/dirs
+2025-04-22 16:51:47,632 - INFO - Starting upload: /home/user/Desktop/torrents/Son of a Gun (2014) -> onedrive:Torrents/Son of a Gun (2014)
+2025-04-22 16:51:47,632 - INFO - Uploading directory of size 814.19 MB
+2025-04-22 16:53:45,699 - INFO - Successfully uploaded to onedrive:Torrents/The Judge (2014) [1080p]
+2025-04-22 16:53:45,699 - INFO - Verifying upload for: The Judge (2014) [1080p]
+2025-04-22 16:53:45,699 - INFO - Verifying upload: /home/user/Desktop/torrents/The Judge (2014) [1080p] -> onedrive:Torrents/The Judge (2014) [1080p]
+2025-04-22 16:53:47,846 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Judge (2014) [1080p]
+2025-04-22 16:53:47,857 - INFO - Deleting torrent from qBittorrent: The Judge (2014) [1080p]
+2025-04-22 16:53:47,857 - INFO - Deleting torrent with hash bc72679810c879a5ec663facfb43e84180ac65dd (delete_files=False)
+2025-04-22 16:53:47,865 - INFO - Successfully deleted torrent with hash bc72679810c879a5ec663facfb43e84180ac65dd
+2025-04-22 16:53:47,866 - INFO - Deleting content files: The Judge (2014) [1080p]
+2025-04-22 16:53:47,866 - INFO - Deleting content: /home/user/Desktop/torrents/The Judge (2014) [1080p]
+2025-04-22 16:53:47,867 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Judge (2014) [1080p]
+2025-04-22 16:53:47,867 - INFO - Successfully processed torrent: The Judge (2014) [1080p]
+2025-04-22 16:53:47,867 - INFO - Processing torrent: In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 16:53:47,867 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Judge (2014) [1080p]'}
+2025-04-22 16:53:47,868 - INFO - Attempting to upload torrent: In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 16:53:47,868 - INFO - Content path: /home/user/Desktop/torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 16:53:47,868 - INFO - Remote path: onedrive:Torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 16:53:47,868 - INFO - Uploading torrent: In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 16:53:47,868 - INFO - Directory /home/user/Desktop/torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 16:53:47,868 - INFO - Starting upload: /home/user/Desktop/torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/In The Heart Of The Sea (2015) [3D] [HSBS] [YTS.AG]
+2025-04-22 16:53:47,868 - INFO - Uploading directory of size 1900.99 MB
