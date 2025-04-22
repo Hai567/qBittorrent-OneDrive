@@ -9643,3 +9643,26 @@
 2025-04-22 11:55:08,492 - INFO - Directory /home/user/Desktop/torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p] is readable, contains 3 files/dirs
 2025-04-22 11:55:08,492 - INFO - Starting upload: /home/user/Desktop/torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p] -> onedrive:Torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
 2025-04-22 11:55:08,492 - INFO - Uploading directory of size 2043.22 MB
+2025-04-22 12:01:12,478 - INFO - Successfully uploaded to onedrive:Torrents/Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:01:12,479 - INFO - Verifying upload for: Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:01:12,479 - INFO - Verifying upload: /home/user/Desktop/torrents/Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:01:16,123 - INFO - Upload verification successful for /home/user/Desktop/torrents/Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:01:16,135 - INFO - Deleting torrent from qBittorrent: Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:01:16,135 - INFO - Deleting torrent with hash 0a0b5f14a97cce5e7a08332bf704c64cc839f8c2 (delete_files=False)
+2025-04-22 12:01:16,145 - INFO - Successfully deleted torrent with hash 0a0b5f14a97cce5e7a08332bf704c64cc839f8c2
+2025-04-22 12:01:16,145 - INFO - Deleting content files: Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:01:16,146 - INFO - Deleting content: /home/user/Desktop/torrents/Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:01:16,147 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:01:16,147 - INFO - Successfully processed torrent: Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-22 12:01:16,147 - INFO - Processing torrent: The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:01:16,147 - INFO - Attempting to upload torrent: The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:01:16,147 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Oceans Thirteen (2007) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-22 12:01:16,148 - INFO - Content path: /home/user/Desktop/torrents/The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:01:16,148 - INFO - Remote path: onedrive:Torrents/The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:01:16,148 - INFO - Uploading torrent: The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:01:16,148 - INFO - Directory /home/user/Desktop/torrents/The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-22 12:01:16,148 - INFO - Starting upload: /home/user/Desktop/torrents/The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Gray Man (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 12:01:16,149 - INFO - Uploading directory of size 2438.74 MB
+2025-04-22 12:01:35,248 - INFO - Successfully uploaded to onedrive:Torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 12:01:35,249 - INFO - Verifying upload for: Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
+2025-04-22 12:01:35,249 - INFO - Verifying upload: /home/user/Desktop/torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG] -> onedrive:Torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
