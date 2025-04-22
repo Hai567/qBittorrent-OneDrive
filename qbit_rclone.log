@@ -9623,3 +9623,23 @@
 2025-04-22 11:49:14,983 - INFO - Directory /home/user/Desktop/torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 11:49:14,983 - INFO - Starting upload: /home/user/Desktop/torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG] -> onedrive:Torrents/Ice Age Dawn Of The Dinosaurs (2009) [1080p] [YTS.AG]
 2025-04-22 11:49:14,983 - INFO - Uploading directory of size 1466.16 MB
+2025-04-22 11:55:04,873 - INFO - Successfully uploaded to onedrive:Torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:55:04,874 - INFO - Verifying upload for: The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:55:04,874 - INFO - Verifying upload: /home/user/Desktop/torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:55:08,467 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:55:08,476 - INFO - Deleting torrent from qBittorrent: The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:55:08,477 - INFO - Deleting torrent with hash c1f4d522df9d86cdf39b67db46762c7801f2e646 (delete_files=False)
+2025-04-22 11:55:08,488 - INFO - Successfully deleted torrent with hash c1f4d522df9d86cdf39b67db46762c7801f2e646
+2025-04-22 11:55:08,488 - INFO - Deleting content files: The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:55:08,488 - INFO - Deleting content: /home/user/Desktop/torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:55:08,490 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:55:08,490 - INFO - Successfully processed torrent: The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 11:55:08,490 - INFO - Processing torrent: The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 11:55:08,490 - INFO - Attempting to upload torrent: The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 11:55:08,490 - INFO - Content path: /home/user/Desktop/torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 11:55:08,490 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Marksman (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-22 11:55:08,491 - INFO - Remote path: onedrive:Torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 11:55:08,491 - INFO - Uploading torrent: The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 11:55:08,492 - INFO - Directory /home/user/Desktop/torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p] is readable, contains 3 files/dirs
+2025-04-22 11:55:08,492 - INFO - Starting upload: /home/user/Desktop/torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p] -> onedrive:Torrents/The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005) [1080p]
+2025-04-22 11:55:08,492 - INFO - Uploading directory of size 2043.22 MB
