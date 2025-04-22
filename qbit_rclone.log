@@ -10758,3 +10758,63 @@
 2025-04-22 15:32:08,268 - INFO - Directory /home/user/Desktop/torrents/Wonder (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-22 15:32:08,268 - INFO - Starting upload: /home/user/Desktop/torrents/Wonder (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Wonder (2017) [1080p] [YTS.AG]
 2025-04-22 15:32:08,268 - INFO - Uploading directory of size 1752.41 MB
+2025-04-22 15:39:12,470 - INFO - Successfully uploaded to onedrive:Torrents/Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:39:12,470 - INFO - Verifying upload for: Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:39:12,471 - INFO - Verifying upload: /home/user/Desktop/torrents/Batman The Dark Knight Returns Part 1 (2012) [1080p] -> onedrive:Torrents/Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:39:15,393 - INFO - Upload verification successful for /home/user/Desktop/torrents/Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:39:15,404 - INFO - Deleting torrent from qBittorrent: Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:39:15,404 - INFO - Deleting torrent with hash d0c50196258b143c8e65f04bb0ad51b31cce07e5 (delete_files=False)
+2025-04-22 15:39:15,415 - INFO - Successfully deleted torrent with hash d0c50196258b143c8e65f04bb0ad51b31cce07e5
+2025-04-22 15:39:15,415 - INFO - Deleting content files: Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:39:15,415 - INFO - Deleting content: /home/user/Desktop/torrents/Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:39:15,416 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:39:15,416 - INFO - Successfully processed torrent: Batman The Dark Knight Returns Part 1 (2012) [1080p]
+2025-04-22 15:39:15,417 - INFO - Processing torrent: Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:39:15,417 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Batman The Dark Knight Returns Part 1 (2012) [1080p]'}
+2025-04-22 15:39:15,417 - INFO - Attempting to upload torrent: Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:39:15,417 - INFO - Content path: /home/user/Desktop/torrents/Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:39:15,417 - INFO - Remote path: onedrive:Torrents/Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:39:15,417 - INFO - Uploading torrent: Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:39:15,418 - INFO - Directory /home/user/Desktop/torrents/Fences (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-22 15:39:15,418 - INFO - Starting upload: /home/user/Desktop/torrents/Fences (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Fences (2016) [1080p] [YTS.AG]
+2025-04-22 15:39:15,418 - INFO - Uploading directory of size 2145.05 MB
+2025-04-22 15:40:52,062 - INFO - Successfully uploaded to onedrive:Torrents/Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:40:52,062 - INFO - Verifying upload for: Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:40:52,063 - INFO - Verifying upload: /home/user/Desktop/torrents/Jack the Giant Slayer (2013) [1080p] -> onedrive:Torrents/Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:40:54,111 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:40:54,121 - INFO - Deleting torrent from qBittorrent: Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:40:54,121 - INFO - Deleting torrent with hash 1a94f13b7732358840456c7792d8ae426a375ee8 (delete_files=False)
+2025-04-22 15:40:54,131 - INFO - Successfully deleted torrent with hash 1a94f13b7732358840456c7792d8ae426a375ee8
+2025-04-22 15:40:54,131 - INFO - Deleting content files: Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:40:54,132 - INFO - Deleting content: /home/user/Desktop/torrents/Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:40:54,133 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:40:54,133 - INFO - Successfully processed torrent: Jack the Giant Slayer (2013) [1080p]
+2025-04-22 15:40:54,133 - INFO - Processing torrent: 47 Ronin (2013) [1080p]
+2025-04-22 15:40:54,133 - INFO - Attempting to upload torrent: 47 Ronin (2013) [1080p]
+2025-04-22 15:40:54,133 - INFO - Content path: /home/user/Desktop/torrents/47 Ronin (2013) [1080p]
+2025-04-22 15:40:54,133 - INFO - Remote path: onedrive:Torrents/47 Ronin (2013) [1080p]
+2025-04-22 15:40:54,133 - INFO - Uploading torrent: 47 Ronin (2013) [1080p]
+2025-04-22 15:40:54,134 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Jack the Giant Slayer (2013) [1080p]'}
+2025-04-22 15:40:54,134 - INFO - Directory /home/user/Desktop/torrents/47 Ronin (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-22 15:40:54,134 - INFO - Starting upload: /home/user/Desktop/torrents/47 Ronin (2013) [1080p] -> onedrive:Torrents/47 Ronin (2013) [1080p]
+2025-04-22 15:40:54,134 - INFO - Uploading directory of size 1894.55 MB
+2025-04-22 15:41:40,142 - INFO - Successfully uploaded to onedrive:Torrents/Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:41:40,143 - INFO - Verifying upload for: Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:41:40,143 - INFO - Verifying upload: /home/user/Desktop/torrents/Wonder (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:41:42,895 - INFO - Upload verification successful for /home/user/Desktop/torrents/Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:41:42,905 - INFO - Deleting torrent from qBittorrent: Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:41:42,905 - INFO - Deleting torrent with hash 479c9bca3be56e10d7b8b580fd3159a64ef9564c (delete_files=False)
+2025-04-22 15:41:42,916 - INFO - Successfully deleted torrent with hash 479c9bca3be56e10d7b8b580fd3159a64ef9564c
+2025-04-22 15:41:42,916 - INFO - Deleting content files: Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:41:42,916 - INFO - Deleting content: /home/user/Desktop/torrents/Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:41:42,918 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:41:42,919 - INFO - Successfully processed torrent: Wonder (2017) [1080p] [YTS.AG]
+2025-04-22 15:41:42,919 - INFO - Processing torrent: Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:41:42,919 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Wonder (2017) [1080p] [YTS.AG]'}
+2025-04-22 15:41:42,919 - INFO - Attempting to upload torrent: Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:41:42,919 - INFO - Content path: /home/user/Desktop/torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:41:42,919 - INFO - Remote path: onedrive:Torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:41:42,919 - INFO - Uploading torrent: Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:41:42,920 - INFO - Directory /home/user/Desktop/torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-22 15:41:42,920 - INFO - Starting upload: /home/user/Desktop/torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Uri The Surgical Strike (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 15:41:42,920 - INFO - Uploading directory of size 2182.86 MB
