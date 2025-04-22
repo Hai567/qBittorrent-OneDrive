@@ -10421,3 +10421,43 @@
 2025-04-22 14:37:16,812 - INFO - Directory /home/user/Desktop/torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
 2025-04-22 14:37:16,812 - INFO - Starting upload: /home/user/Desktop/torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-22 14:37:16,812 - INFO - Uploading directory of size 1874.69 MB
+2025-04-22 14:40:20,314 - INFO - Successfully uploaded to onedrive:Torrents/Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:40:20,314 - INFO - Verifying upload for: Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:40:20,314 - INFO - Verifying upload: /home/user/Desktop/torrents/Star Trek Beyond (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:40:22,559 - INFO - Upload verification successful for /home/user/Desktop/torrents/Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:40:22,569 - INFO - Deleting torrent from qBittorrent: Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:40:22,569 - INFO - Deleting torrent with hash 2e0c4217a839b0bd573cfd27be00baf94e92f56b (delete_files=False)
+2025-04-22 14:40:22,579 - INFO - Successfully deleted torrent with hash 2e0c4217a839b0bd573cfd27be00baf94e92f56b
+2025-04-22 14:40:22,579 - INFO - Deleting content files: Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:40:22,579 - INFO - Deleting content: /home/user/Desktop/torrents/Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:40:22,582 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:40:22,582 - INFO - Successfully processed torrent: Star Trek Beyond (2016) [1080p] [YTS.AG]
+2025-04-22 14:40:22,582 - INFO - Processing torrent: Ender's Game (2013) [1080p]
+2025-04-22 14:40:22,582 - INFO - Attempting to upload torrent: Ender's Game (2013) [1080p]
+2025-04-22 14:40:22,582 - INFO - Content path: /home/user/Desktop/torrents/Ender's Game (2013) [1080p]
+2025-04-22 14:40:22,582 - INFO - Remote path: onedrive:Torrents/Ender's Game (2013) [1080p]
+2025-04-22 14:40:22,582 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Star Trek Beyond (2016) [1080p] [YTS.AG]'}
+2025-04-22 14:40:22,582 - INFO - Uploading torrent: Ender's Game (2013) [1080p]
+2025-04-22 14:40:22,583 - INFO - Directory /home/user/Desktop/torrents/Ender's Game (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-22 14:40:22,583 - INFO - Starting upload: /home/user/Desktop/torrents/Ender's Game (2013) [1080p] -> onedrive:Torrents/Ender's Game (2013) [1080p]
+2025-04-22 14:40:22,583 - INFO - Uploading directory of size 1691.19 MB
+2025-04-22 14:41:00,899 - INFO - Successfully uploaded to onedrive:Torrents/Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:41:00,899 - INFO - Verifying upload for: Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:41:00,899 - INFO - Verifying upload: /home/user/Desktop/torrents/Legend (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:41:03,864 - INFO - Upload verification successful for /home/user/Desktop/torrents/Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:41:03,875 - INFO - Deleting torrent from qBittorrent: Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:41:03,875 - INFO - Deleting torrent with hash 637f4a804b9c92f5eb1fb14b1779c8102ffeffbb (delete_files=False)
+2025-04-22 14:41:03,886 - INFO - Successfully deleted torrent with hash 637f4a804b9c92f5eb1fb14b1779c8102ffeffbb
+2025-04-22 14:41:03,886 - INFO - Deleting content files: Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:41:03,886 - INFO - Deleting content: /home/user/Desktop/torrents/Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:41:03,888 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:41:03,888 - INFO - Successfully processed torrent: Legend (2015) [1080p] [YTS.AG]
+2025-04-22 14:41:03,888 - INFO - Processing torrent: Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:41:03,888 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Legend (2015) [1080p] [YTS.AG]'}
+2025-04-22 14:41:03,889 - INFO - Attempting to upload torrent: Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:41:03,889 - INFO - Content path: /home/user/Desktop/torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:41:03,889 - INFO - Remote path: onedrive:Torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:41:03,889 - INFO - Uploading torrent: Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:41:03,889 - INFO - Directory /home/user/Desktop/torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-22 14:41:03,889 - INFO - Starting upload: /home/user/Desktop/torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Little Women (2019) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-22 14:41:03,890 - INFO - Uploading directory of size 2453.63 MB
