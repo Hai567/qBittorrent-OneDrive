@@ -11338,3 +11338,23 @@
 2025-04-22 16:43:13,817 - INFO - Directory /home/user/Desktop/torrents/The Judge (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-22 16:43:13,817 - INFO - Starting upload: /home/user/Desktop/torrents/The Judge (2014) [1080p] -> onedrive:Torrents/The Judge (2014) [1080p]
 2025-04-22 16:43:13,817 - INFO - Uploading directory of size 2105.96 MB
+2025-04-22 16:45:37,058 - INFO - Successfully uploaded to onedrive:Torrents/Braveheart (1995) [1080p]
+2025-04-22 16:45:37,058 - INFO - Verifying upload for: Braveheart (1995) [1080p]
+2025-04-22 16:45:37,058 - INFO - Verifying upload: /home/user/Desktop/torrents/Braveheart (1995) [1080p] -> onedrive:Torrents/Braveheart (1995) [1080p]
+2025-04-22 16:45:38,418 - INFO - Upload verification successful for /home/user/Desktop/torrents/Braveheart (1995) [1080p]
+2025-04-22 16:45:38,432 - INFO - Deleting torrent from qBittorrent: Braveheart (1995) [1080p]
+2025-04-22 16:45:38,433 - INFO - Deleting torrent with hash 125e66ecd5346cbdbd7aae72bef93651712877a9 (delete_files=False)
+2025-04-22 16:45:38,449 - INFO - Successfully deleted torrent with hash 125e66ecd5346cbdbd7aae72bef93651712877a9
+2025-04-22 16:45:38,449 - INFO - Deleting content files: Braveheart (1995) [1080p]
+2025-04-22 16:45:38,449 - INFO - Deleting content: /home/user/Desktop/torrents/Braveheart (1995) [1080p]
+2025-04-22 16:45:38,451 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Braveheart (1995) [1080p]
+2025-04-22 16:45:38,451 - INFO - Successfully processed torrent: Braveheart (1995) [1080p]
+2025-04-22 16:45:38,452 - INFO - Processing torrent: Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:45:38,452 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Braveheart (1995) [1080p]'}
+2025-04-22 16:45:38,452 - INFO - Attempting to upload torrent: Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:45:38,452 - INFO - Content path: /home/user/Desktop/torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:45:38,452 - INFO - Remote path: onedrive:Torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:45:38,452 - INFO - Uploading torrent: Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:45:38,453 - INFO - Directory /home/user/Desktop/torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-22 16:45:38,453 - INFO - Starting upload: /home/user/Desktop/torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Fighting With My Family (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-22 16:45:38,453 - INFO - Uploading directory of size 1764.12 MB
