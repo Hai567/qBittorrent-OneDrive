@@ -13716,3 +13716,43 @@
 2025-04-23 13:05:33,752 - INFO - Directory /home/user/Desktop/torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-23 13:05:33,752 - INFO - Starting upload: /home/user/Desktop/torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-23 13:05:33,753 - INFO - Uploading directory of size 2201.30 MB
+2025-04-23 13:10:33,611 - INFO - Successfully uploaded to onedrive:Torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:10:33,611 - INFO - Verifying upload for: Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:10:33,611 - INFO - Verifying upload: /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:10:36,313 - INFO - Upload verification successful for /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:10:36,324 - INFO - Deleting torrent from qBittorrent: Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:10:36,324 - INFO - Deleting torrent with hash 629542ea6f26c10eea0278325647db5173cf908d (delete_files=False)
+2025-04-23 13:10:36,331 - INFO - Successfully deleted torrent with hash 629542ea6f26c10eea0278325647db5173cf908d
+2025-04-23 13:10:36,332 - INFO - Deleting content files: Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:10:36,332 - INFO - Deleting content: /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:10:36,333 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:10:36,333 - INFO - Successfully processed torrent: Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:10:36,333 - INFO - Processing torrent: Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:10:36,333 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Crawl (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-23 13:10:36,333 - INFO - Attempting to upload torrent: Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:10:36,333 - INFO - Content path: /home/user/Desktop/torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:10:36,333 - INFO - Remote path: onedrive:Torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:10:36,333 - INFO - Uploading torrent: Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:10:36,334 - INFO - Directory /home/user/Desktop/torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-23 13:10:36,334 - INFO - Starting upload: /home/user/Desktop/torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:10:36,334 - INFO - Uploading directory of size 1847.31 MB
+2025-04-23 13:13:41,527 - INFO - Successfully uploaded to onedrive:Torrents/Rio 2 (2014) [1080p]
+2025-04-23 13:13:41,528 - INFO - Verifying upload for: Rio 2 (2014) [1080p]
+2025-04-23 13:13:41,528 - INFO - Verifying upload: /home/user/Desktop/torrents/Rio 2 (2014) [1080p] -> onedrive:Torrents/Rio 2 (2014) [1080p]
+2025-04-23 13:13:44,040 - INFO - Upload verification successful for /home/user/Desktop/torrents/Rio 2 (2014) [1080p]
+2025-04-23 13:13:44,050 - INFO - Deleting torrent from qBittorrent: Rio 2 (2014) [1080p]
+2025-04-23 13:13:44,050 - INFO - Deleting torrent with hash f817191cac3ec5832b789d39a9b1a2a6c0b43708 (delete_files=False)
+2025-04-23 13:13:44,058 - INFO - Successfully deleted torrent with hash f817191cac3ec5832b789d39a9b1a2a6c0b43708
+2025-04-23 13:13:44,058 - INFO - Deleting content files: Rio 2 (2014) [1080p]
+2025-04-23 13:13:44,058 - INFO - Deleting content: /home/user/Desktop/torrents/Rio 2 (2014) [1080p]
+2025-04-23 13:13:44,059 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Rio 2 (2014) [1080p]
+2025-04-23 13:13:44,059 - INFO - Successfully processed torrent: Rio 2 (2014) [1080p]
+2025-04-23 13:13:44,059 - INFO - Processing torrent: RoboCop (2014) [1080p]
+2025-04-23 13:13:44,059 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Rio 2 (2014) [1080p]'}
+2025-04-23 13:13:44,059 - INFO - Attempting to upload torrent: RoboCop (2014) [1080p]
+2025-04-23 13:13:44,060 - INFO - Content path: /home/user/Desktop/torrents/RoboCop (2014) [1080p]
+2025-04-23 13:13:44,060 - INFO - Remote path: onedrive:Torrents/RoboCop (2014) [1080p]
+2025-04-23 13:13:44,060 - INFO - Uploading torrent: RoboCop (2014) [1080p]
+2025-04-23 13:13:44,060 - INFO - Directory /home/user/Desktop/torrents/RoboCop (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-23 13:13:44,060 - INFO - Starting upload: /home/user/Desktop/torrents/RoboCop (2014) [1080p] -> onedrive:Torrents/RoboCop (2014) [1080p]
+2025-04-23 13:13:44,060 - INFO - Uploading directory of size 1889.58 MB
