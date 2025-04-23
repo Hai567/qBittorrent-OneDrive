@@ -14303,3 +14303,26 @@
 2025-04-23 15:59:56,216 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]
 2025-04-23 15:59:56,216 - INFO - Successfully processed torrent: The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]
 2025-04-23 15:59:56,216 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]'}
+2025-04-23 16:04:56,316 - INFO - Active upload threads: 5/5
+2025-04-23 16:04:56,316 - INFO - Checking for completed torrents...
+2025-04-23 16:04:56,322 - INFO - Found 11 completed torrents
+2025-04-23 16:04:56,323 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 16:04:56,323 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-23 16:04:56,323 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-23 16:04:56,323 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-23 16:04:56,323 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-23 16:04:56,323 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-23 16:04:56,323 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-23 16:04:56,323 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-23 16:04:56,323 - INFO - Torrent 2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 16:04:56,323 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 16:04:56,323 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-23 16:04:56,323 - INFO - Submitting 1 torrents for parallel upload
+2025-04-23 16:04:56,323 - INFO - Processing torrent: 2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:04:56,324 - INFO - Attempting to upload torrent: 2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:04:56,324 - INFO - Content path: /home/user/Desktop/torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:04:56,324 - INFO - Remote path: onedrive:Torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:04:56,324 - INFO - Uploading torrent: 2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:04:56,324 - INFO - Directory /home/user/Desktop/torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-23 16:04:56,324 - INFO - Starting upload: /home/user/Desktop/torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:04:56,324 - INFO - Uploading directory of size 1728.08 MB
