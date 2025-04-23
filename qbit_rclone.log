@@ -14004,3 +14004,15 @@
 2025-04-23 14:25:57,723 - INFO - Directory /home/user/Desktop/torrents/Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-23 14:25:57,723 - INFO - Starting upload: /home/user/Desktop/torrents/Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-23 14:25:57,723 - INFO - Uploading directory of size 1891.15 MB
+2025-04-23 14:31:16,644 - INFO - Successfully uploaded to onedrive:Torrents/Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:31:16,644 - INFO - Verifying upload for: Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:31:16,645 - INFO - Verifying upload: /home/user/Desktop/torrents/Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:31:18,948 - INFO - Upload verification successful for /home/user/Desktop/torrents/Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:31:18,959 - INFO - Deleting torrent from qBittorrent: Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:31:18,959 - INFO - Deleting torrent with hash 8b04c2651796caea3cfae7190bb634db40f4314f (delete_files=False)
+2025-04-23 14:31:18,971 - INFO - Successfully deleted torrent with hash 8b04c2651796caea3cfae7190bb634db40f4314f
+2025-04-23 14:31:18,971 - INFO - Deleting content files: Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:31:18,972 - INFO - Deleting content: /home/user/Desktop/torrents/Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:31:18,973 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:31:18,973 - INFO - Successfully processed torrent: Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:31:18,974 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Robin Williams Come Inside My Mind (2018) [WEBRip] [1080p] [YTS.AM]'}
