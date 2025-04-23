@@ -13676,3 +13676,43 @@
 2025-04-23 13:02:18,584 - INFO - Directory /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
 2025-04-23 13:02:18,584 - INFO - Starting upload: /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-23 13:02:18,584 - INFO - Uploading directory of size 1401.57 MB
+2025-04-23 13:04:17,226 - INFO - Successfully uploaded to onedrive:Torrents/The Truman Show (1998) [1080p]
+2025-04-23 13:04:17,226 - INFO - Verifying upload for: The Truman Show (1998) [1080p]
+2025-04-23 13:04:17,226 - INFO - Verifying upload: /home/user/Desktop/torrents/The Truman Show (1998) [1080p] -> onedrive:Torrents/The Truman Show (1998) [1080p]
+2025-04-23 13:04:18,984 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Truman Show (1998) [1080p]
+2025-04-23 13:04:18,994 - INFO - Deleting torrent from qBittorrent: The Truman Show (1998) [1080p]
+2025-04-23 13:04:18,994 - INFO - Deleting torrent with hash 8949ece93d7bb1112353e98d34cce23996adf2a7 (delete_files=False)
+2025-04-23 13:04:19,003 - INFO - Successfully deleted torrent with hash 8949ece93d7bb1112353e98d34cce23996adf2a7
+2025-04-23 13:04:19,003 - INFO - Deleting content files: The Truman Show (1998) [1080p]
+2025-04-23 13:04:19,003 - INFO - Deleting content: /home/user/Desktop/torrents/The Truman Show (1998) [1080p]
+2025-04-23 13:04:19,004 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Truman Show (1998) [1080p]
+2025-04-23 13:04:19,004 - INFO - Successfully processed torrent: The Truman Show (1998) [1080p]
+2025-04-23 13:04:19,004 - INFO - Processing torrent: Rio 2 (2014) [1080p]
+2025-04-23 13:04:19,004 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Truman Show (1998) [1080p]'}
+2025-04-23 13:04:19,004 - INFO - Attempting to upload torrent: Rio 2 (2014) [1080p]
+2025-04-23 13:04:19,005 - INFO - Content path: /home/user/Desktop/torrents/Rio 2 (2014) [1080p]
+2025-04-23 13:04:19,005 - INFO - Remote path: onedrive:Torrents/Rio 2 (2014) [1080p]
+2025-04-23 13:04:19,005 - INFO - Uploading torrent: Rio 2 (2014) [1080p]
+2025-04-23 13:04:19,005 - INFO - Directory /home/user/Desktop/torrents/Rio 2 (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-23 13:04:19,005 - INFO - Starting upload: /home/user/Desktop/torrents/Rio 2 (2014) [1080p] -> onedrive:Torrents/Rio 2 (2014) [1080p]
+2025-04-23 13:04:19,005 - INFO - Uploading directory of size 1672.95 MB
+2025-04-23 13:05:31,482 - INFO - Successfully uploaded to onedrive:Torrents/T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 13:05:31,483 - INFO - Verifying upload for: T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 13:05:31,483 - INFO - Verifying upload: /home/user/Desktop/torrents/T2 Trainspotting (2017) [1080p] [YTS.AG] -> onedrive:Torrents/T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 13:05:33,731 - INFO - Upload verification successful for /home/user/Desktop/torrents/T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 13:05:33,742 - INFO - Deleting torrent from qBittorrent: T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 13:05:33,742 - INFO - Deleting torrent with hash c548ad0cf59ee545fd6a8f7a009f282631369ac2 (delete_files=False)
+2025-04-23 13:05:33,750 - INFO - Successfully deleted torrent with hash c548ad0cf59ee545fd6a8f7a009f282631369ac2
+2025-04-23 13:05:33,750 - INFO - Deleting content files: T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 13:05:33,750 - INFO - Deleting content: /home/user/Desktop/torrents/T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 13:05:33,752 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 13:05:33,752 - INFO - Successfully processed torrent: T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 13:05:33,752 - INFO - Processing torrent: BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:05:33,752 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'T2 Trainspotting (2017) [1080p] [YTS.AG]'}
+2025-04-23 13:05:33,752 - INFO - Attempting to upload torrent: BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:05:33,752 - INFO - Content path: /home/user/Desktop/torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:05:33,752 - INFO - Remote path: onedrive:Torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:05:33,752 - INFO - Uploading torrent: BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:05:33,752 - INFO - Directory /home/user/Desktop/torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 13:05:33,752 - INFO - Starting upload: /home/user/Desktop/torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:05:33,753 - INFO - Uploading directory of size 2201.30 MB
