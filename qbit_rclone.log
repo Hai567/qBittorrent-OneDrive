@@ -14161,3 +14161,27 @@
 2025-04-23 15:17:37,962 - INFO - Starting upload: /home/user/Desktop/torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-23 15:17:37,962 - INFO - Uploading directory of size 1965.20 MB
 2025-04-23 15:17:37,962 - INFO - Uploading directory of size 1656.50 MB
+2025-04-23 15:21:43,678 - INFO - Successfully uploaded to onedrive:Torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:21:43,679 - INFO - Verifying upload for: Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:21:43,679 - INFO - Verifying upload: /home/user/Desktop/torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:21:45,949 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:21:45,960 - INFO - Deleting torrent from qBittorrent: Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:21:45,960 - INFO - Deleting torrent with hash ed4079945d440f3ab5663006f94af227d5e1b0ba (delete_files=False)
+2025-04-23 15:21:45,970 - INFO - Successfully deleted torrent with hash ed4079945d440f3ab5663006f94af227d5e1b0ba
+2025-04-23 15:21:45,970 - INFO - Deleting content files: Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:21:45,970 - INFO - Deleting content: /home/user/Desktop/torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:21:45,972 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:21:45,972 - INFO - Successfully processed torrent: Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:21:45,972 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-23 15:23:00,349 - INFO - Successfully uploaded to onedrive:Torrents/Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:23:00,349 - INFO - Verifying upload for: Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:23:00,349 - INFO - Verifying upload: /home/user/Desktop/torrents/Acrimony (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:23:02,661 - INFO - Upload verification successful for /home/user/Desktop/torrents/Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:23:02,671 - INFO - Deleting torrent from qBittorrent: Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:23:02,671 - INFO - Deleting torrent with hash fab4ad9fc030f3fe7076bb8b1968e7ed38b81734 (delete_files=False)
+2025-04-23 15:23:02,681 - INFO - Successfully deleted torrent with hash fab4ad9fc030f3fe7076bb8b1968e7ed38b81734
+2025-04-23 15:23:02,681 - INFO - Deleting content files: Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:23:02,681 - INFO - Deleting content: /home/user/Desktop/torrents/Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:23:02,682 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:23:02,682 - INFO - Successfully processed torrent: Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:23:02,683 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Acrimony (2018) [WEBRip] [1080p] [YTS.AM]'}
