@@ -14416,3 +14416,26 @@
 2025-04-23 16:40:50,221 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
 2025-04-23 16:40:50,221 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-23 16:40:50,221 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-23 16:45:50,310 - INFO - Active upload threads: 5/5
+2025-04-23 16:45:50,311 - INFO - Checking for completed torrents...
+2025-04-23 16:45:50,317 - INFO - Found 11 completed torrents
+2025-04-23 16:45:50,317 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 16:45:50,317 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-23 16:45:50,317 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-23 16:45:50,318 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-23 16:45:50,318 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-23 16:45:50,318 - INFO - Torrent A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]: content_path = /home/user/Desktop/torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM], exists: True
+2025-04-23 16:45:50,318 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-23 16:45:50,318 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-23 16:45:50,318 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-23 16:45:50,318 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 16:45:50,318 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-23 16:45:50,318 - INFO - Submitting 1 torrents for parallel upload
+2025-04-23 16:45:50,318 - INFO - Processing torrent: A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:45:50,318 - INFO - Attempting to upload torrent: A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:45:50,318 - INFO - Content path: /home/user/Desktop/torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:45:50,318 - INFO - Remote path: onedrive:Torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:45:50,318 - INFO - Uploading torrent: A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:45:50,319 - INFO - Directory /home/user/Desktop/torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 16:45:50,319 - INFO - Starting upload: /home/user/Desktop/torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM] -> onedrive:Torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:45:50,319 - INFO - Uploading directory of size 940.25 MB
