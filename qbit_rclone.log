@@ -13934,3 +13934,15 @@
 2025-04-23 14:03:42,136 - INFO - Directory /home/user/Desktop/torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-23 14:03:42,136 - INFO - Starting upload: /home/user/Desktop/torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-23 14:03:42,136 - INFO - Uploading directory of size 1926.54 MB
+2025-04-23 14:10:56,743 - INFO - Successfully uploaded to onedrive:Torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:10:56,744 - INFO - Verifying upload for: Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:10:56,744 - INFO - Verifying upload: /home/user/Desktop/torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:10:58,686 - INFO - Upload verification successful for /home/user/Desktop/torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:10:58,697 - INFO - Deleting torrent from qBittorrent: Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:10:58,697 - INFO - Deleting torrent with hash b499f44bfc7fe0cb53cd6ef21a5a9e74aba6b474 (delete_files=False)
+2025-04-23 14:10:58,708 - INFO - Successfully deleted torrent with hash b499f44bfc7fe0cb53cd6ef21a5a9e74aba6b474
+2025-04-23 14:10:58,709 - INFO - Deleting content files: Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:10:58,709 - INFO - Deleting content: /home/user/Desktop/torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:10:58,710 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:10:58,710 - INFO - Successfully processed torrent: Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:10:58,711 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Instant Family (2018) [WEBRip] [1080p] [YTS.AM]'}
