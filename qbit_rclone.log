@@ -14221,3 +14221,15 @@
 2025-04-23 15:33:02,851 - INFO - Directory /home/user/Desktop/torrents/Kevin Hart What Now (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-23 15:33:02,851 - INFO - Starting upload: /home/user/Desktop/torrents/Kevin Hart What Now (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Kevin Hart What Now (2016) [1080p] [YTS.AG]
 2025-04-23 15:33:02,852 - INFO - Uploading directory of size 1497.78 MB
+2025-04-23 15:37:39,522 - INFO - Successfully uploaded to onedrive:Torrents/Kevin Hart What Now (2016) [1080p] [YTS.AG]
+2025-04-23 15:37:39,523 - INFO - Verifying upload for: Kevin Hart What Now (2016) [1080p] [YTS.AG]
+2025-04-23 15:37:39,523 - INFO - Verifying upload: /home/user/Desktop/torrents/Kevin Hart What Now (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Kevin Hart What Now (2016) [1080p] [YTS.AG]
+2025-04-23 15:37:41,755 - INFO - Upload verification successful for /home/user/Desktop/torrents/Kevin Hart What Now (2016) [1080p] [YTS.AG]
+2025-04-23 15:37:41,766 - INFO - Deleting torrent from qBittorrent: Kevin Hart What Now (2016) [1080p] [YTS.AG]
+2025-04-23 15:37:41,766 - INFO - Deleting torrent with hash 998a38a621decc928cdcdaa08a4203d55af6745c (delete_files=False)
+2025-04-23 15:37:41,777 - INFO - Successfully deleted torrent with hash 998a38a621decc928cdcdaa08a4203d55af6745c
+2025-04-23 15:37:41,778 - INFO - Deleting content files: Kevin Hart What Now (2016) [1080p] [YTS.AG]
+2025-04-23 15:37:41,778 - INFO - Deleting content: /home/user/Desktop/torrents/Kevin Hart What Now (2016) [1080p] [YTS.AG]
+2025-04-23 15:37:41,779 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Kevin Hart What Now (2016) [1080p] [YTS.AG]
+2025-04-23 15:37:41,779 - INFO - Successfully processed torrent: Kevin Hart What Now (2016) [1080p] [YTS.AG]
+2025-04-23 15:37:41,779 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Kevin Hart What Now (2016) [1080p] [YTS.AG]'}
