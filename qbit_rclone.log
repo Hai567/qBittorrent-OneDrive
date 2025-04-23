@@ -14326,3 +14326,15 @@
 2025-04-23 16:04:56,324 - INFO - Directory /home/user/Desktop/torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
 2025-04-23 16:04:56,324 - INFO - Starting upload: /home/user/Desktop/torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-23 16:04:56,324 - INFO - Uploading directory of size 1728.08 MB
+2025-04-23 16:10:47,648 - INFO - Successfully uploaded to onedrive:Torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:10:47,648 - INFO - Verifying upload for: 2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:10:47,648 - INFO - Verifying upload: /home/user/Desktop/torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:10:49,909 - INFO - Upload verification successful for /home/user/Desktop/torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:10:49,919 - INFO - Deleting torrent from qBittorrent: 2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:10:49,920 - INFO - Deleting torrent with hash b3e0e7058938fb14fa1ac29b5a396887133325f1 (delete_files=False)
+2025-04-23 16:10:49,930 - INFO - Successfully deleted torrent with hash b3e0e7058938fb14fa1ac29b5a396887133325f1
+2025-04-23 16:10:49,930 - INFO - Deleting content files: 2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:10:49,930 - INFO - Deleting content: /home/user/Desktop/torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:10:49,931 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:10:49,931 - INFO - Successfully processed torrent: 2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 16:10:49,932 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': '2012 Ice Age (2011) [1080p] [BluRay] [5.1] [YTS.MX]'}
