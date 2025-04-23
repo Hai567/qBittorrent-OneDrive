@@ -12309,3 +12309,1230 @@
 2025-04-22 17:58:09,243 - INFO - Directory /home/user/Desktop/torrents/Son of a Gun (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-22 17:58:09,243 - INFO - Starting upload: /home/user/Desktop/torrents/Son of a Gun (2014) [1080p] -> onedrive:Torrents/Son of a Gun (2014) [1080p]
 2025-04-22 17:58:09,244 - INFO - Uploading directory of size 1688.48 MB
+2025-04-23 08:52:35,686 - INFO - Loaded configuration from config.json
+2025-04-23 08:52:35,687 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-23 08:52:35,690 - INFO - Loaded 1128 previously processed torrents
+2025-04-23 08:52:35,691 - INFO - Multithreaded uploading enabled with 5 workers
+2025-04-23 08:52:35,775 - INFO - Found onedrive remote in rclone configuration
+2025-04-23 08:52:35,781 - INFO - Successfully logged in to qBittorrent
+2025-04-23 08:52:35,781 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-23 08:52:35,782 - INFO - Running in multithreaded mode with 5 upload workers
+2025-04-23 08:52:35,782 - INFO - Active upload threads: 0/5
+2025-04-23 08:52:35,782 - INFO - Checking for completed torrents...
+2025-04-23 08:52:35,802 - INFO - Found 77 completed torrents
+2025-04-23 08:52:35,803 - INFO - Torrent Malèna (2000) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,803 - INFO - Torrent Justice League War (2014) [1080p]: content_path = /home/user/Desktop/torrents/Justice League War (2014) [1080p], exists: True
+2025-04-23 08:52:35,803 - INFO - Torrent Live By Night (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Live By Night (2016) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,803 - INFO - Torrent Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,803 - INFO - Torrent Shot Caller (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Shot Caller (2017) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,803 - INFO - Torrent Jigsaw (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Jigsaw (2017) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,803 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-23 08:52:35,803 - INFO - Torrent Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,803 - INFO - Torrent Everest (2015) [1080p]: content_path = /home/user/Desktop/torrents/Everest (2015) [1080p], exists: True
+2025-04-23 08:52:35,803 - INFO - Torrent Steve Jobs (2015) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Steve Jobs (2015) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,804 - INFO - Torrent The Great Gatsby (2013) [1080p]: content_path = /home/user/Desktop/torrents/The Great Gatsby (2013) [1080p], exists: True
+2025-04-23 08:52:35,804 - INFO - Torrent San Andreas (2015) [1080p]: content_path = /home/user/Desktop/torrents/San Andreas (2015) [1080p], exists: True
+2025-04-23 08:52:35,804 - INFO - Torrent Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,804 - INFO - Torrent Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,804 - INFO - Torrent Triple Threat (2019) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Triple Threat (2019) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,804 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-23 08:52:35,804 - INFO - Torrent Peppermint (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Peppermint (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,804 - INFO - Torrent Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,804 - INFO - Torrent 47 Meters Down (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/47 Meters Down (2017) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,804 - INFO - Torrent Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,805 - INFO - Torrent Turbo (2013) [1080p]: content_path = /home/user/Desktop/torrents/Turbo (2013) [1080p], exists: True
+2025-04-23 08:52:35,805 - INFO - Torrent Resident Evil Retribution (2012) [1080p]: content_path = /home/user/Desktop/torrents/Resident Evil Retribution (2012) [1080p], exists: True
+2025-04-23 08:52:35,805 - INFO - Torrent Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,805 - INFO - Torrent Leap! (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Leap! (2016) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,805 - INFO - Torrent The Jungle Book (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Jungle Book (2016) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,805 - INFO - Torrent Lady Bird (2017) [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Lady Bird (2017) [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,805 - INFO - Torrent Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,805 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-23 08:52:35,805 - INFO - Torrent Son of a Gun (2014) [1080p]: content_path = /home/user/Desktop/torrents/Son of a Gun (2014) [1080p], exists: True
+2025-04-23 08:52:35,805 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-23 08:52:35,805 - INFO - Torrent American Pie (1999) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/American Pie (1999) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,805 - INFO - Torrent Leon The Professional Extended (1994) [1080p]: content_path = /home/user/Desktop/torrents/Leon The Professional Extended (1994) [1080p], exists: True
+2025-04-23 08:52:35,805 - INFO - Torrent Knock Knock (2015) [1080p]: content_path = /home/user/Desktop/torrents/Knock Knock (2015) [1080p], exists: True
+2025-04-23 08:52:35,805 - INFO - Torrent Apocalypto (2006) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,805 - INFO - Torrent The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,806 - INFO - Torrent A Good Day to Die Hard (2013) [1080p]: content_path = /home/user/Desktop/torrents/A Good Day to Die Hard (2013) [1080p], exists: True
+2025-04-23 08:52:35,806 - INFO - Torrent Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]: content_path = /home/user/Desktop/torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX], exists: True
+2025-04-23 08:52:35,806 - INFO - Torrent Unbroken (2014) [1080p]: content_path = /home/user/Desktop/torrents/Unbroken (2014) [1080p], exists: True
+2025-04-23 08:52:35,806 - INFO - Torrent Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,806 - INFO - Torrent Ice Age (2002) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Ice Age (2002) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,806 - INFO - Torrent Before I Fall (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Before I Fall (2017) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,806 - INFO - Torrent The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,806 - INFO - Torrent Justice League Dark (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Justice League Dark (2017) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,806 - INFO - Torrent 3 Idiots (2009) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,806 - INFO - Torrent Seventh Son (2014) [3D] [HSBS]: content_path = /home/user/Desktop/torrents/Seventh Son (2014) [3D] [HSBS], exists: True
+2025-04-23 08:52:35,806 - INFO - Torrent Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,807 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 08:52:35,807 - INFO - Torrent Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,807 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-23 08:52:35,807 - INFO - Torrent Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,807 - INFO - Torrent Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,807 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-23 08:52:35,807 - INFO - Torrent Point Break (2015) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Point Break (2015) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,807 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-23 08:52:35,807 - INFO - Torrent Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]: content_path = /home/user/Desktop/torrents/Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx], exists: True
+2025-04-23 08:52:35,807 - INFO - Torrent Once Upon A Time In Venice (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Once Upon A Time In Venice (2017) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,807 - INFO - Torrent Office Christmas Party (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Office Christmas Party (2016) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,807 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-23 08:52:35,808 - INFO - Torrent Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent V for Vendetta (2006) [1080p]: content_path = /home/user/Desktop/torrents/V for Vendetta (2006) [1080p], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent Crawl (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent Rio 2 (2014) [1080p]: content_path = /home/user/Desktop/torrents/Rio 2 (2014) [1080p], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent The Man From U.N.C.L.E. (2015) [1080p]: content_path = /home/user/Desktop/torrents/The Man From U.N.C.L.E. (2015) [1080p], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent The Hustle (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent Masterminds (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Masterminds (2016) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent RoboCop (2014) [1080p]: content_path = /home/user/Desktop/torrents/RoboCop (2014) [1080p], exists: True
+2025-04-23 08:52:35,808 - INFO - Torrent Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,808 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 08:52:35,808 - INFO - Torrent T2 Trainspotting (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/T2 Trainspotting (2017) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,809 - INFO - Torrent The Truman Show (1998) [1080p]: content_path = /home/user/Desktop/torrents/The Truman Show (1998) [1080p], exists: True
+2025-04-23 08:52:35,809 - INFO - Torrent Detroit (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Detroit (2017) [1080p] [YTS.AG], exists: True
+2025-04-23 08:52:35,809 - INFO - Torrent Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 08:52:35,809 - INFO - Submitting 67 torrents for parallel upload
+2025-04-23 08:52:35,809 - INFO - Processing torrent: Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 08:52:35,810 - INFO - Attempting to upload torrent: Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 08:52:35,810 - INFO - Processing torrent: Justice League War (2014) [1080p]
+2025-04-23 08:52:35,810 - INFO - Content path: /home/user/Desktop/torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 08:52:35,810 - INFO - Processing torrent: Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 08:52:35,810 - INFO - Attempting to upload torrent: Justice League War (2014) [1080p]
+2025-04-23 08:52:35,811 - INFO - Processing torrent: Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 08:52:35,811 - INFO - Remote path: onedrive:Torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 08:52:35,812 - INFO - Processing torrent: Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 08:52:35,814 - INFO - Attempting to upload torrent: Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 08:52:35,814 - INFO - Content path: /home/user/Desktop/torrents/Justice League War (2014) [1080p]
+2025-04-23 08:52:35,814 - INFO - Attempting to upload torrent: Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 08:52:35,814 - INFO - Uploading torrent: Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 08:52:35,815 - INFO - Attempting to upload torrent: Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 08:52:35,815 - INFO - Content path: /home/user/Desktop/torrents/Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 08:52:35,815 - INFO - Remote path: onedrive:Torrents/Justice League War (2014) [1080p]
+2025-04-23 08:52:35,815 - INFO - Content path: /home/user/Desktop/torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 08:52:35,815 - INFO - Content path: /home/user/Desktop/torrents/Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 08:52:35,816 - INFO - Directory /home/user/Desktop/torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 08:52:35,816 - INFO - Remote path: onedrive:Torrents/Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 08:52:35,816 - INFO - Uploading torrent: Justice League War (2014) [1080p]
+2025-04-23 08:52:35,816 - INFO - Remote path: onedrive:Torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 08:52:35,817 - INFO - Remote path: onedrive:Torrents/Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 08:52:35,817 - INFO - Starting upload: /home/user/Desktop/torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 08:52:35,817 - INFO - Uploading torrent: Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 08:52:35,817 - INFO - Directory /home/user/Desktop/torrents/Justice League War (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-23 08:52:35,818 - INFO - Uploading torrent: Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 08:52:35,818 - INFO - Uploading torrent: Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 08:52:35,818 - INFO - Starting upload: /home/user/Desktop/torrents/Justice League War (2014) [1080p] -> onedrive:Torrents/Justice League War (2014) [1080p]
+2025-04-23 08:52:35,819 - INFO - Directory /home/user/Desktop/torrents/Shot Caller (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 08:52:35,819 - INFO - Directory /home/user/Desktop/torrents/Live By Night (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 08:52:35,819 - INFO - Directory /home/user/Desktop/torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-23 08:52:35,820 - INFO - Starting upload: /home/user/Desktop/torrents/Shot Caller (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 08:52:35,820 - INFO - Uploading directory of size 1737.07 MB
+2025-04-23 08:52:35,821 - INFO - Starting upload: /home/user/Desktop/torrents/Live By Night (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 08:52:35,821 - INFO - Uploading directory of size 1262.93 MB
+2025-04-23 08:52:35,821 - INFO - Starting upload: /home/user/Desktop/torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 08:52:35,824 - INFO - Uploading directory of size 1885.18 MB
+2025-04-23 08:52:35,824 - INFO - Uploading directory of size 2017.83 MB
+2025-04-23 08:52:35,824 - INFO - Uploading directory of size 1978.77 MB
+2025-04-23 09:01:32,228 - INFO - Successfully uploaded to onedrive:Torrents/Justice League War (2014) [1080p]
+2025-04-23 09:01:32,228 - INFO - Verifying upload for: Justice League War (2014) [1080p]
+2025-04-23 09:01:32,228 - INFO - Verifying upload: /home/user/Desktop/torrents/Justice League War (2014) [1080p] -> onedrive:Torrents/Justice League War (2014) [1080p]
+2025-04-23 09:01:34,662 - INFO - Upload verification successful for /home/user/Desktop/torrents/Justice League War (2014) [1080p]
+2025-04-23 09:01:34,674 - INFO - Deleting torrent from qBittorrent: Justice League War (2014) [1080p]
+2025-04-23 09:01:34,674 - INFO - Deleting torrent with hash 27390bbb0cff335679c06c1235df34f88b08ac76 (delete_files=False)
+2025-04-23 09:01:34,688 - INFO - Successfully deleted torrent with hash 27390bbb0cff335679c06c1235df34f88b08ac76
+2025-04-23 09:01:34,688 - INFO - Deleting content files: Justice League War (2014) [1080p]
+2025-04-23 09:01:34,688 - INFO - Deleting content: /home/user/Desktop/torrents/Justice League War (2014) [1080p]
+2025-04-23 09:01:34,690 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Justice League War (2014) [1080p]
+2025-04-23 09:01:34,690 - INFO - Successfully processed torrent: Justice League War (2014) [1080p]
+2025-04-23 09:01:34,691 - INFO - Processing torrent: Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:01:34,691 - INFO - Attempting to upload torrent: Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:01:34,691 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Justice League War (2014) [1080p]'}
+2025-04-23 09:01:34,691 - INFO - Content path: /home/user/Desktop/torrents/Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:01:34,691 - INFO - Remote path: onedrive:Torrents/Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:01:34,691 - INFO - Uploading torrent: Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:01:34,691 - INFO - Directory /home/user/Desktop/torrents/Jigsaw (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 09:01:34,691 - INFO - Starting upload: /home/user/Desktop/torrents/Jigsaw (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:01:34,692 - INFO - Uploading directory of size 1431.05 MB
+2025-04-23 09:03:07,064 - INFO - Successfully uploaded to onedrive:Torrents/Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 09:03:07,064 - INFO - Verifying upload for: Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 09:03:07,064 - INFO - Verifying upload: /home/user/Desktop/torrents/Shot Caller (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 09:03:08,671 - INFO - Upload verification successful for /home/user/Desktop/torrents/Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 09:03:08,681 - INFO - Deleting torrent from qBittorrent: Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 09:03:08,681 - INFO - Deleting torrent with hash 65ce02eeec8607b1b1841c816009fa24a33097f5 (delete_files=False)
+2025-04-23 09:03:08,690 - INFO - Successfully deleted torrent with hash 65ce02eeec8607b1b1841c816009fa24a33097f5
+2025-04-23 09:03:08,690 - INFO - Deleting content files: Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 09:03:08,690 - INFO - Deleting content: /home/user/Desktop/torrents/Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 09:03:08,695 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 09:03:08,696 - INFO - Successfully processed torrent: Shot Caller (2017) [1080p] [YTS.AG]
+2025-04-23 09:03:08,696 - INFO - Processing torrent: Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:03:08,696 - INFO - Attempting to upload torrent: Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:03:08,696 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Shot Caller (2017) [1080p] [YTS.AG]'}
+2025-04-23 09:03:08,696 - INFO - Content path: /home/user/Desktop/torrents/Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:03:08,696 - INFO - Remote path: onedrive:Torrents/Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:03:08,697 - INFO - Uploading torrent: Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:03:08,697 - INFO - Directory /home/user/Desktop/torrents/Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 09:03:08,697 - INFO - Starting upload: /home/user/Desktop/torrents/Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:03:08,697 - INFO - Uploading directory of size 1856.89 MB
+2025-04-23 09:03:12,659 - INFO - Successfully uploaded to onedrive:Torrents/Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 09:03:12,659 - INFO - Verifying upload for: Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 09:03:12,660 - INFO - Verifying upload: /home/user/Desktop/torrents/Live By Night (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 09:03:14,873 - INFO - Successfully uploaded to onedrive:Torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:03:14,873 - INFO - Verifying upload for: Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:03:14,873 - INFO - Verifying upload: /home/user/Desktop/torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:03:15,567 - INFO - Upload verification successful for /home/user/Desktop/torrents/Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 09:03:15,580 - INFO - Deleting torrent from qBittorrent: Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 09:03:15,581 - INFO - Deleting torrent with hash 23c520d29e35ecb1c272788f4e986c2d88310a39 (delete_files=False)
+2025-04-23 09:03:15,594 - INFO - Successfully deleted torrent with hash 23c520d29e35ecb1c272788f4e986c2d88310a39
+2025-04-23 09:03:15,594 - INFO - Deleting content files: Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 09:03:15,595 - INFO - Deleting content: /home/user/Desktop/torrents/Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 09:03:15,597 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 09:03:15,597 - INFO - Successfully processed torrent: Live By Night (2016) [1080p] [YTS.AG]
+2025-04-23 09:03:15,597 - INFO - Processing torrent: Everest (2015) [1080p]
+2025-04-23 09:03:15,597 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Live By Night (2016) [1080p] [YTS.AG]'}
+2025-04-23 09:03:15,597 - INFO - Attempting to upload torrent: Everest (2015) [1080p]
+2025-04-23 09:03:15,598 - INFO - Content path: /home/user/Desktop/torrents/Everest (2015) [1080p]
+2025-04-23 09:03:15,598 - INFO - Remote path: onedrive:Torrents/Everest (2015) [1080p]
+2025-04-23 09:03:15,598 - INFO - Uploading torrent: Everest (2015) [1080p]
+2025-04-23 09:03:15,598 - INFO - Directory /home/user/Desktop/torrents/Everest (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-23 09:03:15,598 - INFO - Starting upload: /home/user/Desktop/torrents/Everest (2015) [1080p] -> onedrive:Torrents/Everest (2015) [1080p]
+2025-04-23 09:03:15,598 - INFO - Uploading directory of size 1976.76 MB
+2025-04-23 09:03:16,846 - INFO - Upload verification successful for /home/user/Desktop/torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:03:16,856 - INFO - Deleting torrent from qBittorrent: Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:03:16,856 - INFO - Deleting torrent with hash 241422cea8de6a29a7c7f5d16e200aed38d6555f (delete_files=False)
+2025-04-23 09:03:16,864 - INFO - Successfully deleted torrent with hash 241422cea8de6a29a7c7f5d16e200aed38d6555f
+2025-04-23 09:03:16,864 - INFO - Deleting content files: Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:03:16,864 - INFO - Deleting content: /home/user/Desktop/torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:03:16,865 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:03:16,865 - INFO - Successfully processed torrent: Malèna (2000) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:03:16,865 - INFO - Processing torrent: Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:03:16,865 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Malèna (2000) [BluRay] [1080p] [YTS.AM]'}
+2025-04-23 09:03:16,865 - INFO - Attempting to upload torrent: Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:03:16,866 - INFO - Content path: /home/user/Desktop/torrents/Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:03:16,866 - INFO - Remote path: onedrive:Torrents/Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:03:16,866 - INFO - Uploading torrent: Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:03:16,866 - INFO - Directory /home/user/Desktop/torrents/Steve Jobs (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 09:03:16,866 - INFO - Starting upload: /home/user/Desktop/torrents/Steve Jobs (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:03:16,866 - INFO - Uploading directory of size 1911.26 MB
+2025-04-23 09:03:36,828 - INFO - Successfully uploaded to onedrive:Torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:03:36,828 - INFO - Verifying upload for: Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:03:36,828 - INFO - Verifying upload: /home/user/Desktop/torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:03:39,082 - INFO - Upload verification successful for /home/user/Desktop/torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:03:39,093 - INFO - Deleting torrent from qBittorrent: Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:03:39,093 - INFO - Deleting torrent with hash d8c11a7320290376eb43c68fefef852dffd81a38 (delete_files=False)
+2025-04-23 09:03:39,104 - INFO - Successfully deleted torrent with hash d8c11a7320290376eb43c68fefef852dffd81a38
+2025-04-23 09:03:39,105 - INFO - Deleting content files: Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:03:39,105 - INFO - Deleting content: /home/user/Desktop/torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:03:39,108 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:03:39,109 - INFO - Successfully processed torrent: Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:03:39,109 - INFO - Processing torrent: The Great Gatsby (2013) [1080p]
+2025-04-23 09:03:39,109 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Blacklight (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-23 09:03:39,109 - INFO - Attempting to upload torrent: The Great Gatsby (2013) [1080p]
+2025-04-23 09:03:39,109 - INFO - Content path: /home/user/Desktop/torrents/The Great Gatsby (2013) [1080p]
+2025-04-23 09:03:39,109 - INFO - Remote path: onedrive:Torrents/The Great Gatsby (2013) [1080p]
+2025-04-23 09:03:39,109 - INFO - Uploading torrent: The Great Gatsby (2013) [1080p]
+2025-04-23 09:03:39,110 - INFO - Directory /home/user/Desktop/torrents/The Great Gatsby (2013) [1080p] is readable, contains 3 files/dirs
+2025-04-23 09:03:39,110 - INFO - Starting upload: /home/user/Desktop/torrents/The Great Gatsby (2013) [1080p] -> onedrive:Torrents/The Great Gatsby (2013) [1080p]
+2025-04-23 09:03:39,110 - INFO - Uploading directory of size 2090.40 MB
+2025-04-23 09:09:19,509 - INFO - Successfully uploaded to onedrive:Torrents/Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:09:19,509 - INFO - Verifying upload for: Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:09:19,509 - INFO - Verifying upload: /home/user/Desktop/torrents/Jigsaw (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:09:22,917 - INFO - Upload verification successful for /home/user/Desktop/torrents/Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:09:22,927 - INFO - Deleting torrent from qBittorrent: Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:09:22,927 - INFO - Deleting torrent with hash 8812ec222487b121ced38cb3b5dbd3ada8d36deb (delete_files=False)
+2025-04-23 09:09:22,936 - INFO - Successfully deleted torrent with hash 8812ec222487b121ced38cb3b5dbd3ada8d36deb
+2025-04-23 09:09:22,936 - INFO - Deleting content files: Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:09:22,936 - INFO - Deleting content: /home/user/Desktop/torrents/Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:09:22,940 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:09:22,940 - INFO - Successfully processed torrent: Jigsaw (2017) [1080p] [YTS.AG]
+2025-04-23 09:09:22,941 - INFO - Processing torrent: San Andreas (2015) [1080p]
+2025-04-23 09:09:22,941 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Jigsaw (2017) [1080p] [YTS.AG]'}
+2025-04-23 09:09:22,941 - INFO - Attempting to upload torrent: San Andreas (2015) [1080p]
+2025-04-23 09:09:22,941 - INFO - Content path: /home/user/Desktop/torrents/San Andreas (2015) [1080p]
+2025-04-23 09:09:22,941 - INFO - Remote path: onedrive:Torrents/San Andreas (2015) [1080p]
+2025-04-23 09:09:22,941 - INFO - Uploading torrent: San Andreas (2015) [1080p]
+2025-04-23 09:09:22,941 - INFO - Directory /home/user/Desktop/torrents/San Andreas (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-23 09:09:22,942 - INFO - Starting upload: /home/user/Desktop/torrents/San Andreas (2015) [1080p] -> onedrive:Torrents/San Andreas (2015) [1080p]
+2025-04-23 09:09:22,942 - INFO - Uploading directory of size 1887.65 MB
+2025-04-23 09:11:37,599 - INFO - Successfully uploaded to onedrive:Torrents/Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:11:37,600 - INFO - Verifying upload for: Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:11:37,600 - INFO - Verifying upload: /home/user/Desktop/torrents/Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:11:40,128 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:11:40,138 - INFO - Deleting torrent from qBittorrent: Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:11:40,138 - INFO - Deleting torrent with hash a435bcd46547217c72c74691910a36aa6eae75a4 (delete_files=False)
+2025-04-23 09:11:40,148 - INFO - Successfully deleted torrent with hash a435bcd46547217c72c74691910a36aa6eae75a4
+2025-04-23 09:11:40,149 - INFO - Deleting content files: Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:11:40,149 - INFO - Deleting content: /home/user/Desktop/torrents/Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:11:40,152 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:11:40,152 - INFO - Successfully processed torrent: Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:11:40,152 - INFO - Processing torrent: Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:11:40,153 - INFO - Attempting to upload torrent: Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:11:40,153 - INFO - Content path: /home/user/Desktop/torrents/Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:11:40,153 - INFO - Remote path: onedrive:Torrents/Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:11:40,153 - INFO - Uploading torrent: Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:11:40,153 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Mamma Mia! Here We Go Again (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-23 09:11:40,153 - INFO - Directory /home/user/Desktop/torrents/Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-23 09:11:40,153 - INFO - Starting upload: /home/user/Desktop/torrents/Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:11:40,153 - INFO - Uploading directory of size 1912.33 MB
+2025-04-23 09:13:52,988 - INFO - Successfully uploaded to onedrive:Torrents/Everest (2015) [1080p]
+2025-04-23 09:13:52,989 - INFO - Verifying upload for: Everest (2015) [1080p]
+2025-04-23 09:13:52,989 - INFO - Verifying upload: /home/user/Desktop/torrents/Everest (2015) [1080p] -> onedrive:Torrents/Everest (2015) [1080p]
+2025-04-23 09:13:55,808 - INFO - Upload verification successful for /home/user/Desktop/torrents/Everest (2015) [1080p]
+2025-04-23 09:13:55,821 - INFO - Deleting torrent from qBittorrent: Everest (2015) [1080p]
+2025-04-23 09:13:55,821 - INFO - Deleting torrent with hash 2fc0cecc4ad23489296a06b118fdda9265da5d3a (delete_files=False)
+2025-04-23 09:13:55,834 - INFO - Successfully deleted torrent with hash 2fc0cecc4ad23489296a06b118fdda9265da5d3a
+2025-04-23 09:13:55,835 - INFO - Deleting content files: Everest (2015) [1080p]
+2025-04-23 09:13:55,835 - INFO - Deleting content: /home/user/Desktop/torrents/Everest (2015) [1080p]
+2025-04-23 09:13:55,842 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Everest (2015) [1080p]
+2025-04-23 09:13:55,843 - INFO - Successfully processed torrent: Everest (2015) [1080p]
+2025-04-23 09:13:55,843 - INFO - Processing torrent: Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:13:55,843 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Everest (2015) [1080p]'}
+2025-04-23 09:13:55,843 - INFO - Attempting to upload torrent: Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:13:55,843 - INFO - Content path: /home/user/Desktop/torrents/Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:13:55,843 - INFO - Remote path: onedrive:Torrents/Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:13:55,844 - INFO - Uploading torrent: Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:13:55,844 - INFO - Directory /home/user/Desktop/torrents/Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-23 09:13:55,844 - INFO - Starting upload: /home/user/Desktop/torrents/Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:13:55,844 - INFO - Uploading directory of size 2186.65 MB
+2025-04-23 09:18:48,624 - INFO - Successfully uploaded to onedrive:Torrents/The Great Gatsby (2013) [1080p]
+2025-04-23 09:18:48,625 - INFO - Verifying upload for: The Great Gatsby (2013) [1080p]
+2025-04-23 09:18:48,625 - INFO - Verifying upload: /home/user/Desktop/torrents/The Great Gatsby (2013) [1080p] -> onedrive:Torrents/The Great Gatsby (2013) [1080p]
+2025-04-23 09:18:51,128 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Great Gatsby (2013) [1080p]
+2025-04-23 09:18:51,139 - INFO - Deleting torrent from qBittorrent: The Great Gatsby (2013) [1080p]
+2025-04-23 09:18:51,139 - INFO - Deleting torrent with hash 56f6cbba64f07d96ae6fe51828a60b8e03a3f028 (delete_files=False)
+2025-04-23 09:18:51,148 - INFO - Successfully deleted torrent with hash 56f6cbba64f07d96ae6fe51828a60b8e03a3f028
+2025-04-23 09:18:51,148 - INFO - Deleting content files: The Great Gatsby (2013) [1080p]
+2025-04-23 09:18:51,148 - INFO - Deleting content: /home/user/Desktop/torrents/The Great Gatsby (2013) [1080p]
+2025-04-23 09:18:51,151 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Great Gatsby (2013) [1080p]
+2025-04-23 09:18:51,152 - INFO - Successfully processed torrent: The Great Gatsby (2013) [1080p]
+2025-04-23 09:18:51,152 - INFO - Processing torrent: Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:18:51,152 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Great Gatsby (2013) [1080p]'}
+2025-04-23 09:18:51,152 - INFO - Attempting to upload torrent: Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:18:51,152 - INFO - Content path: /home/user/Desktop/torrents/Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:18:51,152 - INFO - Remote path: onedrive:Torrents/Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:18:51,152 - INFO - Uploading torrent: Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:18:51,153 - INFO - Directory /home/user/Desktop/torrents/Triple Threat (2019) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 09:18:51,153 - INFO - Starting upload: /home/user/Desktop/torrents/Triple Threat (2019) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:18:51,153 - INFO - Uploading directory of size 1592.29 MB
+2025-04-23 09:20:26,872 - INFO - Successfully uploaded to onedrive:Torrents/San Andreas (2015) [1080p]
+2025-04-23 09:20:26,872 - INFO - Verifying upload for: San Andreas (2015) [1080p]
+2025-04-23 09:20:26,872 - INFO - Verifying upload: /home/user/Desktop/torrents/San Andreas (2015) [1080p] -> onedrive:Torrents/San Andreas (2015) [1080p]
+2025-04-23 09:20:28,781 - INFO - Upload verification successful for /home/user/Desktop/torrents/San Andreas (2015) [1080p]
+2025-04-23 09:20:28,793 - INFO - Deleting torrent from qBittorrent: San Andreas (2015) [1080p]
+2025-04-23 09:20:28,793 - INFO - Deleting torrent with hash e8bb36b5199eb989d49828460cf90019958a3f4c (delete_files=False)
+2025-04-23 09:20:28,803 - INFO - Successfully deleted torrent with hash e8bb36b5199eb989d49828460cf90019958a3f4c
+2025-04-23 09:20:28,803 - INFO - Deleting content files: San Andreas (2015) [1080p]
+2025-04-23 09:20:28,803 - INFO - Deleting content: /home/user/Desktop/torrents/San Andreas (2015) [1080p]
+2025-04-23 09:20:28,806 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/San Andreas (2015) [1080p]
+2025-04-23 09:20:28,806 - INFO - Successfully processed torrent: San Andreas (2015) [1080p]
+2025-04-23 09:20:28,806 - INFO - Processing torrent: Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:20:28,806 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'San Andreas (2015) [1080p]'}
+2025-04-23 09:20:28,807 - INFO - Attempting to upload torrent: Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:20:28,807 - INFO - Content path: /home/user/Desktop/torrents/Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:20:28,807 - INFO - Remote path: onedrive:Torrents/Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:20:28,807 - INFO - Uploading torrent: Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:20:28,807 - INFO - Directory /home/user/Desktop/torrents/Peppermint (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 09:20:28,807 - INFO - Starting upload: /home/user/Desktop/torrents/Peppermint (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:20:28,807 - INFO - Uploading directory of size 1671.73 MB
+2025-04-23 09:22:30,018 - INFO - Successfully uploaded to onedrive:Torrents/Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:22:30,018 - INFO - Verifying upload for: Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:22:30,018 - INFO - Verifying upload: /home/user/Desktop/torrents/Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:22:32,470 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:22:32,480 - INFO - Deleting torrent from qBittorrent: Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:22:32,480 - INFO - Deleting torrent with hash b9d71ec9230d8303a1ecc2c8997ca0336c33f789 (delete_files=False)
+2025-04-23 09:22:32,489 - INFO - Successfully deleted torrent with hash b9d71ec9230d8303a1ecc2c8997ca0336c33f789
+2025-04-23 09:22:32,489 - INFO - Deleting content files: Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:22:32,490 - INFO - Deleting content: /home/user/Desktop/torrents/Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:22:32,491 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:22:32,491 - INFO - Successfully processed torrent: Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:22:32,491 - INFO - Processing torrent: Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:22:32,492 - INFO - Attempting to upload torrent: Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:22:32,492 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Dog (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-23 09:22:32,492 - INFO - Content path: /home/user/Desktop/torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:22:32,492 - INFO - Remote path: onedrive:Torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:22:32,493 - INFO - Uploading torrent: Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:22:32,493 - INFO - Directory /home/user/Desktop/torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 09:22:32,493 - INFO - Starting upload: /home/user/Desktop/torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:22:32,493 - INFO - Uploading directory of size 2428.31 MB
+2025-04-23 09:25:34,323 - INFO - Successfully uploaded to onedrive:Torrents/Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:25:34,323 - INFO - Verifying upload for: Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:25:34,324 - INFO - Verifying upload: /home/user/Desktop/torrents/Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:25:36,538 - INFO - Upload verification successful for /home/user/Desktop/torrents/Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:25:36,548 - INFO - Deleting torrent from qBittorrent: Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:25:36,548 - INFO - Deleting torrent with hash 351e0906e06250d55797fa23f6ca9b29b94d7cbb (delete_files=False)
+2025-04-23 09:25:36,557 - INFO - Successfully deleted torrent with hash 351e0906e06250d55797fa23f6ca9b29b94d7cbb
+2025-04-23 09:25:36,557 - INFO - Deleting content files: Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:25:36,557 - INFO - Deleting content: /home/user/Desktop/torrents/Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:25:36,560 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:25:36,561 - INFO - Successfully processed torrent: Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:25:36,561 - INFO - Processing torrent: 47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:25:36,561 - INFO - Attempting to upload torrent: 47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:25:36,561 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Peninsula (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-23 09:25:36,561 - INFO - Content path: /home/user/Desktop/torrents/47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:25:36,562 - INFO - Remote path: onedrive:Torrents/47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:25:36,562 - INFO - Uploading torrent: 47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:25:36,562 - INFO - Directory /home/user/Desktop/torrents/47 Meters Down (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 09:25:36,562 - INFO - Starting upload: /home/user/Desktop/torrents/47 Meters Down (2017) [1080p] [YTS.AG] -> onedrive:Torrents/47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:25:36,562 - INFO - Uploading directory of size 1381.35 MB
+2025-04-23 09:27:38,261 - INFO - Successfully uploaded to onedrive:Torrents/Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:27:38,261 - INFO - Verifying upload for: Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:27:38,261 - INFO - Verifying upload: /home/user/Desktop/torrents/Triple Threat (2019) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:27:41,854 - INFO - Upload verification successful for /home/user/Desktop/torrents/Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:27:41,864 - INFO - Deleting torrent from qBittorrent: Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:27:41,864 - INFO - Deleting torrent with hash 368a4d7deae12cf1eebbc072c5897ff79c5a0370 (delete_files=False)
+2025-04-23 09:27:41,876 - INFO - Successfully deleted torrent with hash 368a4d7deae12cf1eebbc072c5897ff79c5a0370
+2025-04-23 09:27:41,876 - INFO - Deleting content files: Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:27:41,876 - INFO - Deleting content: /home/user/Desktop/torrents/Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:27:41,879 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:27:41,879 - INFO - Successfully processed torrent: Triple Threat (2019) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:27:41,880 - INFO - Processing torrent: Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:27:41,880 - INFO - Attempting to upload torrent: Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:27:41,880 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Triple Threat (2019) [BluRay] [1080p] [YTS.AM]'}
+2025-04-23 09:27:41,880 - INFO - Content path: /home/user/Desktop/torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:27:41,880 - INFO - Remote path: onedrive:Torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:27:41,880 - INFO - Uploading torrent: Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:27:41,880 - INFO - Directory /home/user/Desktop/torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-23 09:27:41,880 - INFO - Starting upload: /home/user/Desktop/torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:27:41,881 - INFO - Uploading directory of size 1804.34 MB
+2025-04-23 09:30:38,402 - INFO - Successfully uploaded to onedrive:Torrents/Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:30:38,402 - INFO - Verifying upload for: Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:30:38,403 - INFO - Verifying upload: /home/user/Desktop/torrents/Peppermint (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:30:41,264 - INFO - Upload verification successful for /home/user/Desktop/torrents/Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:30:41,274 - INFO - Deleting torrent from qBittorrent: Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:30:41,274 - INFO - Deleting torrent with hash a6beff886fa10087327898b2d8e461404b3a5e55 (delete_files=False)
+2025-04-23 09:30:41,288 - INFO - Successfully deleted torrent with hash a6beff886fa10087327898b2d8e461404b3a5e55
+2025-04-23 09:30:41,288 - INFO - Deleting content files: Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:30:41,288 - INFO - Deleting content: /home/user/Desktop/torrents/Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:30:41,290 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:30:41,290 - INFO - Successfully processed torrent: Peppermint (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 09:30:41,290 - INFO - Processing torrent: Turbo (2013) [1080p]
+2025-04-23 09:30:41,290 - INFO - Attempting to upload torrent: Turbo (2013) [1080p]
+2025-04-23 09:30:41,290 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Peppermint (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-23 09:30:41,290 - INFO - Content path: /home/user/Desktop/torrents/Turbo (2013) [1080p]
+2025-04-23 09:30:41,291 - INFO - Remote path: onedrive:Torrents/Turbo (2013) [1080p]
+2025-04-23 09:30:41,291 - INFO - Uploading torrent: Turbo (2013) [1080p]
+2025-04-23 09:30:41,291 - INFO - Directory /home/user/Desktop/torrents/Turbo (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-23 09:30:41,291 - INFO - Starting upload: /home/user/Desktop/torrents/Turbo (2013) [1080p] -> onedrive:Torrents/Turbo (2013) [1080p]
+2025-04-23 09:30:41,291 - INFO - Uploading directory of size 1476.31 MB
+2025-04-23 09:31:04,509 - INFO - Successfully uploaded to onedrive:Torrents/47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:31:04,510 - INFO - Verifying upload for: 47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:31:04,510 - INFO - Verifying upload: /home/user/Desktop/torrents/47 Meters Down (2017) [1080p] [YTS.AG] -> onedrive:Torrents/47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:31:07,276 - INFO - Upload verification successful for /home/user/Desktop/torrents/47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:31:07,288 - INFO - Deleting torrent from qBittorrent: 47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:31:07,288 - INFO - Deleting torrent with hash 6c3d435f4e3baf18348151943342e23346a11532 (delete_files=False)
+2025-04-23 09:31:07,296 - INFO - Successfully deleted torrent with hash 6c3d435f4e3baf18348151943342e23346a11532
+2025-04-23 09:31:07,296 - INFO - Deleting content files: 47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:31:07,296 - INFO - Deleting content: /home/user/Desktop/torrents/47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:31:07,298 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:31:07,299 - INFO - Successfully processed torrent: 47 Meters Down (2017) [1080p] [YTS.AG]
+2025-04-23 09:31:07,299 - INFO - Processing torrent: Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:31:07,299 - INFO - Attempting to upload torrent: Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:31:07,299 - INFO - Content path: /home/user/Desktop/torrents/Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:31:07,299 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': '47 Meters Down (2017) [1080p] [YTS.AG]'}
+2025-04-23 09:31:07,299 - INFO - Remote path: onedrive:Torrents/Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:31:07,300 - INFO - Uploading torrent: Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:31:07,300 - INFO - Directory /home/user/Desktop/torrents/Resident Evil Retribution (2012) [1080p] is readable, contains 3 files/dirs
+2025-04-23 09:31:07,300 - INFO - Starting upload: /home/user/Desktop/torrents/Resident Evil Retribution (2012) [1080p] -> onedrive:Torrents/Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:31:07,300 - INFO - Uploading directory of size 1539.49 MB
+2025-04-23 09:33:16,528 - INFO - Successfully uploaded to onedrive:Torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:33:16,529 - INFO - Verifying upload for: Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:33:16,529 - INFO - Verifying upload: /home/user/Desktop/torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:33:18,711 - INFO - Upload verification successful for /home/user/Desktop/torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:33:18,722 - INFO - Deleting torrent from qBittorrent: Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:33:18,722 - INFO - Deleting torrent with hash a4a4f78890f69fe259468f3b7ef90673da606e55 (delete_files=False)
+2025-04-23 09:33:18,732 - INFO - Successfully deleted torrent with hash a4a4f78890f69fe259468f3b7ef90673da606e55
+2025-04-23 09:33:18,732 - INFO - Deleting content files: Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:33:18,732 - INFO - Deleting content: /home/user/Desktop/torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:33:18,735 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:33:18,735 - INFO - Successfully processed torrent: Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:33:18,735 - INFO - Processing torrent: Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:33:18,736 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Perfume The Story Of A Murderer (2006) [BluRay] [1080p] [YTS.AM]'}
+2025-04-23 09:33:18,736 - INFO - Attempting to upload torrent: Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:33:18,736 - INFO - Content path: /home/user/Desktop/torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:33:18,736 - INFO - Remote path: onedrive:Torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:33:18,736 - INFO - Uploading torrent: Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:33:18,736 - INFO - Directory /home/user/Desktop/torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-23 09:33:18,736 - INFO - Starting upload: /home/user/Desktop/torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:33:18,736 - INFO - Uploading directory of size 1858.47 MB
+2025-04-23 09:37:47,496 - INFO - Successfully uploaded to onedrive:Torrents/Turbo (2013) [1080p]
+2025-04-23 09:37:47,496 - INFO - Verifying upload for: Turbo (2013) [1080p]
+2025-04-23 09:37:47,496 - INFO - Verifying upload: /home/user/Desktop/torrents/Turbo (2013) [1080p] -> onedrive:Torrents/Turbo (2013) [1080p]
+2025-04-23 09:37:49,747 - INFO - Upload verification successful for /home/user/Desktop/torrents/Turbo (2013) [1080p]
+2025-04-23 09:37:49,758 - INFO - Deleting torrent from qBittorrent: Turbo (2013) [1080p]
+2025-04-23 09:37:49,758 - INFO - Deleting torrent with hash 77abaa386db081248200ebb75df2215f72e28ed2 (delete_files=False)
+2025-04-23 09:37:49,768 - INFO - Successfully deleted torrent with hash 77abaa386db081248200ebb75df2215f72e28ed2
+2025-04-23 09:37:49,768 - INFO - Deleting content files: Turbo (2013) [1080p]
+2025-04-23 09:37:49,768 - INFO - Deleting content: /home/user/Desktop/torrents/Turbo (2013) [1080p]
+2025-04-23 09:37:49,770 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Turbo (2013) [1080p]
+2025-04-23 09:37:49,770 - INFO - Successfully processed torrent: Turbo (2013) [1080p]
+2025-04-23 09:37:49,770 - INFO - Processing torrent: Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:37:49,770 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Turbo (2013) [1080p]'}
+2025-04-23 09:37:49,770 - INFO - Attempting to upload torrent: Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:37:49,770 - INFO - Content path: /home/user/Desktop/torrents/Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:37:49,771 - INFO - Remote path: onedrive:Torrents/Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:37:49,771 - INFO - Uploading torrent: Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:37:49,771 - INFO - Directory /home/user/Desktop/torrents/Leap! (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 09:37:49,771 - INFO - Starting upload: /home/user/Desktop/torrents/Leap! (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:37:49,771 - INFO - Uploading directory of size 1387.10 MB
+2025-04-23 09:38:03,050 - INFO - Successfully uploaded to onedrive:Torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:38:03,050 - INFO - Verifying upload for: Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:38:03,050 - INFO - Verifying upload: /home/user/Desktop/torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:38:04,633 - INFO - Upload verification successful for /home/user/Desktop/torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:38:04,643 - INFO - Deleting torrent from qBittorrent: Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:38:04,643 - INFO - Deleting torrent with hash 11e6e754b6c87666d72df280c5c056b1882c55cb (delete_files=False)
+2025-04-23 09:38:04,653 - INFO - Successfully deleted torrent with hash 11e6e754b6c87666d72df280c5c056b1882c55cb
+2025-04-23 09:38:04,653 - INFO - Deleting content files: Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:38:04,653 - INFO - Deleting content: /home/user/Desktop/torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:38:04,657 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:38:04,657 - INFO - Successfully processed torrent: Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:38:04,657 - INFO - Processing torrent: The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:38:04,657 - INFO - Attempting to upload torrent: The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:38:04,657 - INFO - Content path: /home/user/Desktop/torrents/The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:38:04,658 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Escape Room Tournament Of Champions (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-23 09:38:04,658 - INFO - Remote path: onedrive:Torrents/The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:38:04,658 - INFO - Uploading torrent: The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:38:04,658 - INFO - Directory /home/user/Desktop/torrents/The Jungle Book (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 09:38:04,658 - INFO - Starting upload: /home/user/Desktop/torrents/The Jungle Book (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:38:04,658 - INFO - Uploading directory of size 1661.16 MB
+2025-04-23 09:38:17,457 - INFO - Successfully uploaded to onedrive:Torrents/Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:38:17,457 - INFO - Verifying upload for: Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:38:17,457 - INFO - Verifying upload: /home/user/Desktop/torrents/Resident Evil Retribution (2012) [1080p] -> onedrive:Torrents/Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:38:19,684 - INFO - Upload verification successful for /home/user/Desktop/torrents/Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:38:19,694 - INFO - Deleting torrent from qBittorrent: Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:38:19,694 - INFO - Deleting torrent with hash 87a915f1e07929600cf7a6cd9042a991816fcb4c (delete_files=False)
+2025-04-23 09:38:19,703 - INFO - Successfully deleted torrent with hash 87a915f1e07929600cf7a6cd9042a991816fcb4c
+2025-04-23 09:38:19,703 - INFO - Deleting content files: Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:38:19,704 - INFO - Deleting content: /home/user/Desktop/torrents/Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:38:19,707 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:38:19,707 - INFO - Successfully processed torrent: Resident Evil Retribution (2012) [1080p]
+2025-04-23 09:38:19,707 - INFO - Processing torrent: Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:38:19,708 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Resident Evil Retribution (2012) [1080p]'}
+2025-04-23 09:38:19,708 - INFO - Attempting to upload torrent: Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:38:19,708 - INFO - Content path: /home/user/Desktop/torrents/Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:38:19,708 - INFO - Remote path: onedrive:Torrents/Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:38:19,708 - INFO - Uploading torrent: Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:38:19,708 - INFO - Directory /home/user/Desktop/torrents/Lady Bird (2017) [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 09:38:19,708 - INFO - Starting upload: /home/user/Desktop/torrents/Lady Bird (2017) [1080p] [YTS.AM] -> onedrive:Torrents/Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:38:19,708 - INFO - Uploading directory of size 1453.35 MB
+2025-04-23 09:41:39,374 - INFO - Successfully uploaded to onedrive:Torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:39,375 - INFO - Verifying upload for: Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:39,375 - INFO - Verifying upload: /home/user/Desktop/torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,570 - INFO - Upload verification successful for /home/user/Desktop/torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,580 - INFO - Deleting torrent from qBittorrent: Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,581 - INFO - Deleting torrent with hash 471145937565bd86eee447fe16d0927744a19861 (delete_files=False)
+2025-04-23 09:41:41,589 - INFO - Successfully deleted torrent with hash 471145937565bd86eee447fe16d0927744a19861
+2025-04-23 09:41:41,589 - INFO - Deleting content files: Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,590 - INFO - Deleting content: /home/user/Desktop/torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,592 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,592 - INFO - Successfully processed torrent: Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,592 - INFO - Processing torrent: Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,592 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Honest Thief (2020) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-23 09:41:41,593 - INFO - Attempting to upload torrent: Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,593 - INFO - Content path: /home/user/Desktop/torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,593 - INFO - Remote path: onedrive:Torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,593 - INFO - Uploading torrent: Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,593 - INFO - Directory /home/user/Desktop/torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-23 09:41:41,593 - INFO - Starting upload: /home/user/Desktop/torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:41:41,593 - INFO - Uploading directory of size 1724.82 MB
+2025-04-23 09:42:18,836 - INFO - Successfully uploaded to onedrive:Torrents/Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:42:18,837 - INFO - Verifying upload for: Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:42:18,837 - INFO - Verifying upload: /home/user/Desktop/torrents/Leap! (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:42:21,042 - INFO - Upload verification successful for /home/user/Desktop/torrents/Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:42:21,055 - INFO - Deleting torrent from qBittorrent: Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:42:21,055 - INFO - Deleting torrent with hash 5f98685f744a60bb60c3367b60ad684adb839213 (delete_files=False)
+2025-04-23 09:42:21,069 - INFO - Successfully deleted torrent with hash 5f98685f744a60bb60c3367b60ad684adb839213
+2025-04-23 09:42:21,069 - INFO - Deleting content files: Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:42:21,070 - INFO - Deleting content: /home/user/Desktop/torrents/Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:42:21,071 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:42:21,071 - INFO - Successfully processed torrent: Leap! (2016) [1080p] [YTS.AG]
+2025-04-23 09:42:21,071 - INFO - Processing torrent: Son of a Gun (2014) [1080p]
+2025-04-23 09:42:21,071 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Leap! (2016) [1080p] [YTS.AG]'}
+2025-04-23 09:42:21,071 - INFO - Attempting to upload torrent: Son of a Gun (2014) [1080p]
+2025-04-23 09:42:21,072 - INFO - Content path: /home/user/Desktop/torrents/Son of a Gun (2014) [1080p]
+2025-04-23 09:42:21,072 - INFO - Remote path: onedrive:Torrents/Son of a Gun (2014) [1080p]
+2025-04-23 09:42:21,072 - INFO - Uploading torrent: Son of a Gun (2014) [1080p]
+2025-04-23 09:42:21,072 - INFO - Directory /home/user/Desktop/torrents/Son of a Gun (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-23 09:42:21,072 - INFO - Starting upload: /home/user/Desktop/torrents/Son of a Gun (2014) [1080p] -> onedrive:Torrents/Son of a Gun (2014) [1080p]
+2025-04-23 09:42:21,072 - INFO - Uploading directory of size 1688.48 MB
+2025-04-23 09:43:33,409 - INFO - Successfully uploaded to onedrive:Torrents/Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:43:33,409 - INFO - Verifying upload for: Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:43:33,410 - INFO - Verifying upload: /home/user/Desktop/torrents/Lady Bird (2017) [1080p] [YTS.AM] -> onedrive:Torrents/Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:43:35,674 - INFO - Upload verification successful for /home/user/Desktop/torrents/Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:43:35,687 - INFO - Deleting torrent from qBittorrent: Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:43:35,687 - INFO - Deleting torrent with hash 4e4952b8878debcbeea915d08482b8da5ef2cab3 (delete_files=False)
+2025-04-23 09:43:35,695 - INFO - Successfully deleted torrent with hash 4e4952b8878debcbeea915d08482b8da5ef2cab3
+2025-04-23 09:43:35,695 - INFO - Deleting content files: Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:43:35,695 - INFO - Deleting content: /home/user/Desktop/torrents/Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:43:35,696 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:43:35,697 - INFO - Successfully processed torrent: Lady Bird (2017) [1080p] [YTS.AM]
+2025-04-23 09:43:35,697 - INFO - Processing torrent: American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:43:35,697 - INFO - Attempting to upload torrent: American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:43:35,697 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Lady Bird (2017) [1080p] [YTS.AM]'}
+2025-04-23 09:43:35,697 - INFO - Content path: /home/user/Desktop/torrents/American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:43:35,698 - INFO - Remote path: onedrive:Torrents/American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:43:35,698 - INFO - Uploading torrent: American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:43:35,698 - INFO - Directory /home/user/Desktop/torrents/American Pie (1999) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 09:43:35,698 - INFO - Starting upload: /home/user/Desktop/torrents/American Pie (1999) [1080p] [YTS.AG] -> onedrive:Torrents/American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:43:35,698 - INFO - Uploading directory of size 1488.01 MB
+2025-04-23 09:47:54,037 - INFO - Successfully uploaded to onedrive:Torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:47:54,037 - INFO - Verifying upload for: Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:47:54,037 - INFO - Verifying upload: /home/user/Desktop/torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:47:56,258 - INFO - Upload verification successful for /home/user/Desktop/torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:47:56,268 - INFO - Deleting torrent from qBittorrent: Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:47:56,269 - INFO - Deleting torrent with hash 98f27e5b584d95c6f5d82a89cbb80936e3811a92 (delete_files=False)
+2025-04-23 09:47:56,279 - INFO - Successfully deleted torrent with hash 98f27e5b584d95c6f5d82a89cbb80936e3811a92
+2025-04-23 09:47:56,279 - INFO - Deleting content files: Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:47:56,279 - INFO - Deleting content: /home/user/Desktop/torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:47:56,285 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:47:56,285 - INFO - Successfully processed torrent: Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 09:47:56,285 - INFO - Processing torrent: Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:47:56,285 - INFO - Attempting to upload torrent: Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:47:56,285 - INFO - Content path: /home/user/Desktop/torrents/Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:47:56,285 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Sisu (2022) [BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-23 09:47:56,286 - INFO - Remote path: onedrive:Torrents/Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:47:56,286 - INFO - Uploading torrent: Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:47:56,286 - INFO - Directory /home/user/Desktop/torrents/Leon The Professional Extended (1994) [1080p] is readable, contains 4 files/dirs
+2025-04-23 09:47:56,286 - INFO - Starting upload: /home/user/Desktop/torrents/Leon The Professional Extended (1994) [1080p] -> onedrive:Torrents/Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:47:56,287 - INFO - Uploading directory of size 1736.82 MB
+2025-04-23 09:48:39,743 - INFO - Successfully uploaded to onedrive:Torrents/Son of a Gun (2014) [1080p]
+2025-04-23 09:48:39,743 - INFO - Verifying upload for: Son of a Gun (2014) [1080p]
+2025-04-23 09:48:39,743 - INFO - Verifying upload: /home/user/Desktop/torrents/Son of a Gun (2014) [1080p] -> onedrive:Torrents/Son of a Gun (2014) [1080p]
+2025-04-23 09:48:41,954 - INFO - Upload verification successful for /home/user/Desktop/torrents/Son of a Gun (2014) [1080p]
+2025-04-23 09:48:41,968 - INFO - Deleting torrent from qBittorrent: Son of a Gun (2014) [1080p]
+2025-04-23 09:48:41,968 - INFO - Deleting torrent with hash a61ea44c77e0d9d59f57ca5ecac3178836a531be (delete_files=False)
+2025-04-23 09:48:41,977 - INFO - Successfully deleted torrent with hash a61ea44c77e0d9d59f57ca5ecac3178836a531be
+2025-04-23 09:48:41,978 - INFO - Deleting content files: Son of a Gun (2014) [1080p]
+2025-04-23 09:48:41,978 - INFO - Deleting content: /home/user/Desktop/torrents/Son of a Gun (2014) [1080p]
+2025-04-23 09:48:41,980 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Son of a Gun (2014) [1080p]
+2025-04-23 09:48:41,981 - INFO - Successfully processed torrent: Son of a Gun (2014) [1080p]
+2025-04-23 09:48:41,981 - INFO - Processing torrent: Knock Knock (2015) [1080p]
+2025-04-23 09:48:41,981 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Son of a Gun (2014) [1080p]'}
+2025-04-23 09:48:41,981 - INFO - Attempting to upload torrent: Knock Knock (2015) [1080p]
+2025-04-23 09:48:41,982 - INFO - Content path: /home/user/Desktop/torrents/Knock Knock (2015) [1080p]
+2025-04-23 09:48:41,982 - INFO - Remote path: onedrive:Torrents/Knock Knock (2015) [1080p]
+2025-04-23 09:48:41,982 - INFO - Uploading torrent: Knock Knock (2015) [1080p]
+2025-04-23 09:48:41,982 - INFO - Directory /home/user/Desktop/torrents/Knock Knock (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-23 09:48:41,982 - INFO - Starting upload: /home/user/Desktop/torrents/Knock Knock (2015) [1080p] -> onedrive:Torrents/Knock Knock (2015) [1080p]
+2025-04-23 09:48:41,982 - INFO - Uploading directory of size 1474.31 MB
+2025-04-23 09:48:44,862 - INFO - Successfully uploaded to onedrive:Torrents/The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:48:44,862 - INFO - Verifying upload for: The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:48:44,863 - INFO - Verifying upload: /home/user/Desktop/torrents/The Jungle Book (2016) [1080p] [YTS.AG] -> onedrive:Torrents/The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:48:47,077 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:48:47,088 - INFO - Deleting torrent from qBittorrent: The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:48:47,088 - INFO - Deleting torrent with hash 7254bdb5efd440273f2555a60d8d5a722ac5edea (delete_files=False)
+2025-04-23 09:48:47,100 - INFO - Successfully deleted torrent with hash 7254bdb5efd440273f2555a60d8d5a722ac5edea
+2025-04-23 09:48:47,100 - INFO - Deleting content files: The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:48:47,100 - INFO - Deleting content: /home/user/Desktop/torrents/The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:48:47,101 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:48:47,101 - INFO - Successfully processed torrent: The Jungle Book (2016) [1080p] [YTS.AG]
+2025-04-23 09:48:47,101 - INFO - Processing torrent: Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:48:47,101 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Jungle Book (2016) [1080p] [YTS.AG]'}
+2025-04-23 09:48:47,102 - INFO - Attempting to upload torrent: Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:48:47,102 - INFO - Content path: /home/user/Desktop/torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:48:47,102 - INFO - Remote path: onedrive:Torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:48:47,102 - INFO - Uploading torrent: Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:48:47,102 - INFO - Directory /home/user/Desktop/torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 09:48:47,102 - INFO - Starting upload: /home/user/Desktop/torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:48:47,102 - INFO - Uploading directory of size 2281.91 MB
+2025-04-23 09:51:19,598 - INFO - Successfully uploaded to onedrive:Torrents/American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:51:19,599 - INFO - Verifying upload for: American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:51:19,599 - INFO - Verifying upload: /home/user/Desktop/torrents/American Pie (1999) [1080p] [YTS.AG] -> onedrive:Torrents/American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:51:22,031 - INFO - Upload verification successful for /home/user/Desktop/torrents/American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:51:22,041 - INFO - Deleting torrent from qBittorrent: American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:51:22,041 - INFO - Deleting torrent with hash 1a7944a0eec2f9a0b3624d628c2b616b7143bfc4 (delete_files=False)
+2025-04-23 09:51:22,052 - INFO - Successfully deleted torrent with hash 1a7944a0eec2f9a0b3624d628c2b616b7143bfc4
+2025-04-23 09:51:22,052 - INFO - Deleting content files: American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:51:22,052 - INFO - Deleting content: /home/user/Desktop/torrents/American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:51:22,055 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:51:22,055 - INFO - Successfully processed torrent: American Pie (1999) [1080p] [YTS.AG]
+2025-04-23 09:51:22,055 - INFO - Processing torrent: The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:51:22,056 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'American Pie (1999) [1080p] [YTS.AG]'}
+2025-04-23 09:51:22,056 - INFO - Attempting to upload torrent: The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:51:22,056 - INFO - Content path: /home/user/Desktop/torrents/The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:51:22,056 - INFO - Remote path: onedrive:Torrents/The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:51:22,056 - INFO - Uploading torrent: The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:51:22,056 - INFO - Directory /home/user/Desktop/torrents/The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-23 09:51:22,056 - INFO - Starting upload: /home/user/Desktop/torrents/The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 09:51:22,057 - INFO - Uploading directory of size 1952.77 MB
+2025-04-23 09:54:22,218 - INFO - Successfully uploaded to onedrive:Torrents/Knock Knock (2015) [1080p]
+2025-04-23 09:54:22,218 - INFO - Verifying upload for: Knock Knock (2015) [1080p]
+2025-04-23 09:54:22,218 - INFO - Verifying upload: /home/user/Desktop/torrents/Knock Knock (2015) [1080p] -> onedrive:Torrents/Knock Knock (2015) [1080p]
+2025-04-23 09:54:24,717 - INFO - Upload verification successful for /home/user/Desktop/torrents/Knock Knock (2015) [1080p]
+2025-04-23 09:54:24,729 - INFO - Deleting torrent from qBittorrent: Knock Knock (2015) [1080p]
+2025-04-23 09:54:24,730 - INFO - Deleting torrent with hash 9c1942f9789d7b704c3ab8b1a076101303466aa8 (delete_files=False)
+2025-04-23 09:54:24,738 - INFO - Successfully deleted torrent with hash 9c1942f9789d7b704c3ab8b1a076101303466aa8
+2025-04-23 09:54:24,738 - INFO - Deleting content files: Knock Knock (2015) [1080p]
+2025-04-23 09:54:24,739 - INFO - Deleting content: /home/user/Desktop/torrents/Knock Knock (2015) [1080p]
+2025-04-23 09:54:24,740 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Knock Knock (2015) [1080p]
+2025-04-23 09:54:24,740 - INFO - Successfully processed torrent: Knock Knock (2015) [1080p]
+2025-04-23 09:54:24,740 - INFO - Processing torrent: A Good Day to Die Hard (2013) [1080p]
+2025-04-23 09:54:24,740 - INFO - Attempting to upload torrent: A Good Day to Die Hard (2013) [1080p]
+2025-04-23 09:54:24,741 - INFO - Content path: /home/user/Desktop/torrents/A Good Day to Die Hard (2013) [1080p]
+2025-04-23 09:54:24,741 - INFO - Remote path: onedrive:Torrents/A Good Day to Die Hard (2013) [1080p]
+2025-04-23 09:54:24,741 - INFO - Uploading torrent: A Good Day to Die Hard (2013) [1080p]
+2025-04-23 09:54:24,741 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Knock Knock (2015) [1080p]'}
+2025-04-23 09:54:24,741 - INFO - Directory /home/user/Desktop/torrents/A Good Day to Die Hard (2013) [1080p] is readable, contains 3 files/dirs
+2025-04-23 09:54:24,741 - INFO - Starting upload: /home/user/Desktop/torrents/A Good Day to Die Hard (2013) [1080p] -> onedrive:Torrents/A Good Day to Die Hard (2013) [1080p]
+2025-04-23 09:54:24,742 - INFO - Uploading directory of size 1675.32 MB
+2025-04-23 09:55:51,339 - INFO - Successfully uploaded to onedrive:Torrents/Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:55:51,339 - INFO - Verifying upload for: Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:55:51,340 - INFO - Verifying upload: /home/user/Desktop/torrents/Steve Jobs (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:55:53,833 - INFO - Upload verification successful for /home/user/Desktop/torrents/Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:55:53,844 - INFO - Deleting torrent from qBittorrent: Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:55:53,844 - INFO - Deleting torrent with hash 46e7e399850bdc9039182074efa32957cd82c9f1 (delete_files=False)
+2025-04-23 09:55:53,853 - INFO - Successfully deleted torrent with hash 46e7e399850bdc9039182074efa32957cd82c9f1
+2025-04-23 09:55:53,853 - INFO - Deleting content files: Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:55:53,853 - INFO - Deleting content: /home/user/Desktop/torrents/Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:55:53,855 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:55:53,856 - INFO - Successfully processed torrent: Steve Jobs (2015) [1080p] [YTS.AG]
+2025-04-23 09:55:53,856 - INFO - Processing torrent: Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 09:55:53,856 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Steve Jobs (2015) [1080p] [YTS.AG]'}
+2025-04-23 09:55:53,856 - INFO - Attempting to upload torrent: Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 09:55:53,856 - INFO - Content path: /home/user/Desktop/torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 09:55:53,856 - INFO - Remote path: onedrive:Torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 09:55:53,857 - INFO - Uploading torrent: Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 09:55:53,857 - INFO - Directory /home/user/Desktop/torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-23 09:55:53,857 - INFO - Starting upload: /home/user/Desktop/torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 09:55:53,857 - INFO - Uploading directory of size 1078.88 MB
+2025-04-23 09:56:38,166 - INFO - Successfully uploaded to onedrive:Torrents/Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:56:38,167 - INFO - Verifying upload for: Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:56:38,167 - INFO - Verifying upload: /home/user/Desktop/torrents/Leon The Professional Extended (1994) [1080p] -> onedrive:Torrents/Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:56:40,725 - INFO - Upload verification successful for /home/user/Desktop/torrents/Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:56:40,735 - INFO - Deleting torrent from qBittorrent: Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:56:40,735 - INFO - Deleting torrent with hash f4dd3dd606cf31ce79be33311c6b8ab7b7c7dc2f (delete_files=False)
+2025-04-23 09:56:40,745 - INFO - Successfully deleted torrent with hash f4dd3dd606cf31ce79be33311c6b8ab7b7c7dc2f
+2025-04-23 09:56:40,745 - INFO - Deleting content files: Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:56:40,745 - INFO - Deleting content: /home/user/Desktop/torrents/Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:56:40,749 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:56:40,749 - INFO - Successfully processed torrent: Leon The Professional Extended (1994) [1080p]
+2025-04-23 09:56:40,749 - INFO - Processing torrent: Unbroken (2014) [1080p]
+2025-04-23 09:56:40,749 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Leon The Professional Extended (1994) [1080p]'}
+2025-04-23 09:56:40,749 - INFO - Attempting to upload torrent: Unbroken (2014) [1080p]
+2025-04-23 09:56:40,750 - INFO - Content path: /home/user/Desktop/torrents/Unbroken (2014) [1080p]
+2025-04-23 09:56:40,750 - INFO - Remote path: onedrive:Torrents/Unbroken (2014) [1080p]
+2025-04-23 09:56:40,750 - INFO - Uploading torrent: Unbroken (2014) [1080p]
+2025-04-23 09:56:40,750 - INFO - Directory /home/user/Desktop/torrents/Unbroken (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-23 09:56:40,750 - INFO - Starting upload: /home/user/Desktop/torrents/Unbroken (2014) [1080p] -> onedrive:Torrents/Unbroken (2014) [1080p]
+2025-04-23 09:56:40,750 - INFO - Uploading directory of size 2100.89 MB
+2025-04-23 09:59:17,594 - INFO - Successfully uploaded to onedrive:Torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:59:17,594 - INFO - Verifying upload for: Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:59:17,595 - INFO - Verifying upload: /home/user/Desktop/torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:59:19,847 - INFO - Upload verification successful for /home/user/Desktop/torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:59:19,857 - INFO - Deleting torrent from qBittorrent: Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:59:19,857 - INFO - Deleting torrent with hash 0c57de2deef4d6e86058053a47ebb69224381e69 (delete_files=False)
+2025-04-23 09:59:19,865 - INFO - Successfully deleted torrent with hash 0c57de2deef4d6e86058053a47ebb69224381e69
+2025-04-23 09:59:19,866 - INFO - Deleting content files: Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:59:19,866 - INFO - Deleting content: /home/user/Desktop/torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:59:19,868 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:59:19,868 - INFO - Successfully processed torrent: Apocalypto (2006) [BluRay] [1080p] [YTS.AM]
+2025-04-23 09:59:19,868 - INFO - Processing torrent: Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 09:59:19,868 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Apocalypto (2006) [BluRay] [1080p] [YTS.AM]'}
+2025-04-23 09:59:19,868 - INFO - Attempting to upload torrent: Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 09:59:19,869 - INFO - Content path: /home/user/Desktop/torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 09:59:19,869 - INFO - Remote path: onedrive:Torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 09:59:19,869 - INFO - Uploading torrent: Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 09:59:19,869 - INFO - Directory /home/user/Desktop/torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-23 09:59:19,869 - INFO - Starting upload: /home/user/Desktop/torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 09:59:19,869 - INFO - Uploading directory of size 1605.90 MB
+2025-04-23 10:00:43,692 - INFO - Successfully uploaded to onedrive:Torrents/The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 10:00:43,692 - INFO - Verifying upload for: The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 10:00:43,694 - INFO - Verifying upload: /home/user/Desktop/torrents/The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 10:00:45,880 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 10:00:45,891 - INFO - Deleting torrent from qBittorrent: The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 10:00:45,891 - INFO - Deleting torrent with hash f4237bdcbd331110b043f3bbc00fcd413d3c12c3 (delete_files=False)
+2025-04-23 10:00:45,901 - INFO - Successfully deleted torrent with hash f4237bdcbd331110b043f3bbc00fcd413d3c12c3
+2025-04-23 10:00:45,901 - INFO - Deleting content files: The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 10:00:45,901 - INFO - Deleting content: /home/user/Desktop/torrents/The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 10:00:45,903 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 10:00:45,903 - INFO - Successfully processed torrent: The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-23 10:00:45,904 - INFO - Processing torrent: Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:00:45,904 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Forever Purge (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-23 10:00:45,904 - INFO - Attempting to upload torrent: Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:00:45,904 - INFO - Content path: /home/user/Desktop/torrents/Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:00:45,904 - INFO - Remote path: onedrive:Torrents/Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:00:45,904 - INFO - Uploading torrent: Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:00:45,905 - INFO - Directory /home/user/Desktop/torrents/Ice Age (2002) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 10:00:45,905 - INFO - Starting upload: /home/user/Desktop/torrents/Ice Age (2002) [1080p] [YTS.AG] -> onedrive:Torrents/Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:00:45,905 - INFO - Uploading directory of size 1266.14 MB
+2025-04-23 10:02:10,463 - INFO - Successfully uploaded to onedrive:Torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 10:02:10,463 - INFO - Verifying upload for: Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 10:02:10,463 - INFO - Verifying upload: /home/user/Desktop/torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 10:02:12,495 - INFO - Upload verification successful for /home/user/Desktop/torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 10:02:12,506 - INFO - Deleting torrent from qBittorrent: Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 10:02:12,506 - INFO - Deleting torrent with hash e9001dc2f89b6c21f80d0a69299a831291d7c8c9 (delete_files=False)
+2025-04-23 10:02:12,516 - INFO - Successfully deleted torrent with hash e9001dc2f89b6c21f80d0a69299a831291d7c8c9
+2025-04-23 10:02:12,516 - INFO - Deleting content files: Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 10:02:12,516 - INFO - Deleting content: /home/user/Desktop/torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 10:02:12,518 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 10:02:12,519 - INFO - Successfully processed torrent: Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]
+2025-04-23 10:02:12,519 - INFO - Processing torrent: Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:02:12,519 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Quest For Atlantis Lost Kingdoms Buried Treasures And Mysterious Artifacts (2023) [1080p] [WEBRip] [YTS.MX]'}
+2025-04-23 10:02:12,519 - INFO - Attempting to upload torrent: Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:02:12,519 - INFO - Content path: /home/user/Desktop/torrents/Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:02:12,519 - INFO - Remote path: onedrive:Torrents/Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:02:12,519 - INFO - Uploading torrent: Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:02:12,519 - INFO - Directory /home/user/Desktop/torrents/Before I Fall (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 10:02:12,520 - INFO - Starting upload: /home/user/Desktop/torrents/Before I Fall (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:02:12,520 - INFO - Uploading directory of size 1539.96 MB
+2025-04-23 10:03:36,479 - INFO - Successfully uploaded to onedrive:Torrents/A Good Day to Die Hard (2013) [1080p]
+2025-04-23 10:03:36,480 - INFO - Verifying upload for: A Good Day to Die Hard (2013) [1080p]
+2025-04-23 10:03:36,480 - INFO - Verifying upload: /home/user/Desktop/torrents/A Good Day to Die Hard (2013) [1080p] -> onedrive:Torrents/A Good Day to Die Hard (2013) [1080p]
+2025-04-23 10:03:40,180 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Good Day to Die Hard (2013) [1080p]
+2025-04-23 10:03:40,190 - INFO - Deleting torrent from qBittorrent: A Good Day to Die Hard (2013) [1080p]
+2025-04-23 10:03:40,190 - INFO - Deleting torrent with hash e65fa726f06082adba2378d42515003c2b85e6c0 (delete_files=False)
+2025-04-23 10:03:40,201 - INFO - Successfully deleted torrent with hash e65fa726f06082adba2378d42515003c2b85e6c0
+2025-04-23 10:03:40,201 - INFO - Deleting content files: A Good Day to Die Hard (2013) [1080p]
+2025-04-23 10:03:40,201 - INFO - Deleting content: /home/user/Desktop/torrents/A Good Day to Die Hard (2013) [1080p]
+2025-04-23 10:03:40,202 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Good Day to Die Hard (2013) [1080p]
+2025-04-23 10:03:40,202 - INFO - Successfully processed torrent: A Good Day to Die Hard (2013) [1080p]
+2025-04-23 10:03:40,202 - INFO - Processing torrent: The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:03:40,202 - INFO - Attempting to upload torrent: The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:03:40,203 - INFO - Content path: /home/user/Desktop/torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:03:40,203 - INFO - Remote path: onedrive:Torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:03:40,203 - INFO - Uploading torrent: The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:03:40,203 - INFO - Directory /home/user/Desktop/torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-23 10:03:40,203 - INFO - Starting upload: /home/user/Desktop/torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:03:40,203 - INFO - Uploading directory of size 1890.20 MB
+2025-04-23 10:03:40,203 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A Good Day to Die Hard (2013) [1080p]'}
+2025-04-23 10:06:38,255 - INFO - Successfully uploaded to onedrive:Torrents/Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:06:38,255 - INFO - Verifying upload for: Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:06:38,255 - INFO - Verifying upload: /home/user/Desktop/torrents/Ice Age (2002) [1080p] [YTS.AG] -> onedrive:Torrents/Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:06:41,104 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:06:41,114 - INFO - Deleting torrent from qBittorrent: Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:06:41,114 - INFO - Deleting torrent with hash 9338693da8a6011675c732ae140ee227a9d06ddf (delete_files=False)
+2025-04-23 10:06:41,125 - INFO - Successfully deleted torrent with hash 9338693da8a6011675c732ae140ee227a9d06ddf
+2025-04-23 10:06:41,126 - INFO - Deleting content files: Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:06:41,126 - INFO - Deleting content: /home/user/Desktop/torrents/Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:06:41,128 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:06:41,128 - INFO - Successfully processed torrent: Ice Age (2002) [1080p] [YTS.AG]
+2025-04-23 10:06:41,128 - INFO - Processing torrent: Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:06:41,129 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ice Age (2002) [1080p] [YTS.AG]'}
+2025-04-23 10:06:41,129 - INFO - Attempting to upload torrent: Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:06:41,130 - INFO - Content path: /home/user/Desktop/torrents/Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:06:41,130 - INFO - Remote path: onedrive:Torrents/Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:06:41,130 - INFO - Uploading torrent: Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:06:41,130 - INFO - Directory /home/user/Desktop/torrents/Justice League Dark (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 10:06:41,130 - INFO - Starting upload: /home/user/Desktop/torrents/Justice League Dark (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:06:41,131 - INFO - Uploading directory of size 1185.76 MB
+2025-04-23 10:09:57,999 - INFO - Successfully uploaded to onedrive:Torrents/Unbroken (2014) [1080p]
+2025-04-23 10:09:57,999 - INFO - Verifying upload for: Unbroken (2014) [1080p]
+2025-04-23 10:09:58,000 - INFO - Verifying upload: /home/user/Desktop/torrents/Unbroken (2014) [1080p] -> onedrive:Torrents/Unbroken (2014) [1080p]
+2025-04-23 10:10:00,197 - INFO - Upload verification successful for /home/user/Desktop/torrents/Unbroken (2014) [1080p]
+2025-04-23 10:10:00,208 - INFO - Deleting torrent from qBittorrent: Unbroken (2014) [1080p]
+2025-04-23 10:10:00,209 - INFO - Deleting torrent with hash deac407a10ae056525a93efa957bd252715deb07 (delete_files=False)
+2025-04-23 10:10:00,220 - INFO - Successfully deleted torrent with hash deac407a10ae056525a93efa957bd252715deb07
+2025-04-23 10:10:00,220 - INFO - Deleting content files: Unbroken (2014) [1080p]
+2025-04-23 10:10:00,220 - INFO - Deleting content: /home/user/Desktop/torrents/Unbroken (2014) [1080p]
+2025-04-23 10:10:00,221 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Unbroken (2014) [1080p]
+2025-04-23 10:10:00,221 - INFO - Successfully processed torrent: Unbroken (2014) [1080p]
+2025-04-23 10:10:00,222 - INFO - Processing torrent: 3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:10:00,222 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Unbroken (2014) [1080p]'}
+2025-04-23 10:10:00,222 - INFO - Attempting to upload torrent: 3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:10:00,222 - INFO - Content path: /home/user/Desktop/torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:10:00,222 - INFO - Remote path: onedrive:Torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:10:00,222 - INFO - Uploading torrent: 3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:10:00,222 - INFO - Directory /home/user/Desktop/torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 10:10:00,222 - INFO - Starting upload: /home/user/Desktop/torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:10:00,222 - INFO - Uploading directory of size 2817.52 MB
+2025-04-23 10:12:22,333 - INFO - Successfully uploaded to onedrive:Torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 10:12:22,333 - INFO - Verifying upload for: Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 10:12:22,333 - INFO - Verifying upload: /home/user/Desktop/torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 10:12:24,644 - INFO - Upload verification successful for /home/user/Desktop/torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 10:12:24,654 - INFO - Deleting torrent from qBittorrent: Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 10:12:24,654 - INFO - Deleting torrent with hash 043a99eaa4f4e0a5736ff2d0c9b06aa8304a87ca (delete_files=False)
+2025-04-23 10:12:24,664 - INFO - Successfully deleted torrent with hash 043a99eaa4f4e0a5736ff2d0c9b06aa8304a87ca
+2025-04-23 10:12:24,664 - INFO - Deleting content files: Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 10:12:24,664 - INFO - Deleting content: /home/user/Desktop/torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 10:12:24,666 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 10:12:24,666 - INFO - Successfully processed torrent: Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 10:12:24,666 - INFO - Processing torrent: Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:12:24,666 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Renfield (2023) [1080p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]'}
+2025-04-23 10:12:24,666 - INFO - Attempting to upload torrent: Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:12:24,666 - INFO - Content path: /home/user/Desktop/torrents/Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:12:24,667 - INFO - Remote path: onedrive:Torrents/Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:12:24,667 - INFO - Uploading torrent: Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:12:24,667 - INFO - Directory /home/user/Desktop/torrents/Seventh Son (2014) [3D] [HSBS] is readable, contains 2 files/dirs
+2025-04-23 10:12:24,667 - INFO - Starting upload: /home/user/Desktop/torrents/Seventh Son (2014) [3D] [HSBS] -> onedrive:Torrents/Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:12:24,667 - INFO - Uploading directory of size 1670.90 MB
+2025-04-23 10:13:57,860 - INFO - Successfully uploaded to onedrive:Torrents/Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:13:57,860 - INFO - Verifying upload for: Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:13:57,860 - INFO - Verifying upload: /home/user/Desktop/torrents/Justice League Dark (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:00,123 - INFO - Upload verification successful for /home/user/Desktop/torrents/Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:00,133 - INFO - Deleting torrent from qBittorrent: Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:00,134 - INFO - Deleting torrent with hash 0eeb7d86ee9544bccab15d18df65144bb4d4fa20 (delete_files=False)
+2025-04-23 10:14:00,143 - INFO - Successfully deleted torrent with hash 0eeb7d86ee9544bccab15d18df65144bb4d4fa20
+2025-04-23 10:14:00,143 - INFO - Deleting content files: Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:00,143 - INFO - Deleting content: /home/user/Desktop/torrents/Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:00,144 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:00,144 - INFO - Successfully processed torrent: Justice League Dark (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:00,144 - INFO - Processing torrent: Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:14:00,144 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Justice League Dark (2017) [1080p] [YTS.AG]'}
+2025-04-23 10:14:00,145 - INFO - Attempting to upload torrent: Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:14:00,145 - INFO - Content path: /home/user/Desktop/torrents/Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:14:00,145 - INFO - Remote path: onedrive:Torrents/Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:14:00,145 - INFO - Uploading torrent: Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:14:00,145 - INFO - Directory /home/user/Desktop/torrents/Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 10:14:00,145 - INFO - Starting upload: /home/user/Desktop/torrents/Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:14:00,145 - INFO - Uploading directory of size 1467.85 MB
+2025-04-23 10:14:44,349 - INFO - Successfully uploaded to onedrive:Torrents/Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:44,350 - INFO - Verifying upload for: Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:44,350 - INFO - Verifying upload: /home/user/Desktop/torrents/Before I Fall (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:46,578 - INFO - Upload verification successful for /home/user/Desktop/torrents/Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:46,595 - INFO - Deleting torrent from qBittorrent: Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:46,595 - INFO - Deleting torrent with hash ae28baec7a304e9714228e0c70d45e4cb194ee91 (delete_files=False)
+2025-04-23 10:14:46,604 - INFO - Successfully deleted torrent with hash ae28baec7a304e9714228e0c70d45e4cb194ee91
+2025-04-23 10:14:46,604 - INFO - Deleting content files: Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:46,605 - INFO - Deleting content: /home/user/Desktop/torrents/Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:46,607 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:46,607 - INFO - Successfully processed torrent: Before I Fall (2017) [1080p] [YTS.AG]
+2025-04-23 10:14:46,607 - INFO - Processing torrent: Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:14:46,607 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Before I Fall (2017) [1080p] [YTS.AG]'}
+2025-04-23 10:14:46,607 - INFO - Attempting to upload torrent: Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:14:46,608 - INFO - Content path: /home/user/Desktop/torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:14:46,608 - INFO - Remote path: onedrive:Torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:14:46,608 - INFO - Uploading torrent: Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:14:46,608 - INFO - Directory /home/user/Desktop/torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 10:14:46,608 - INFO - Starting upload: /home/user/Desktop/torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:14:46,609 - INFO - Uploading directory of size 1582.40 MB
+2025-04-23 10:17:15,800 - INFO - Successfully uploaded to onedrive:Torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:15,800 - INFO - Verifying upload for: The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:15,800 - INFO - Verifying upload: /home/user/Desktop/torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,020 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,030 - INFO - Deleting torrent from qBittorrent: The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,031 - INFO - Deleting torrent with hash 5f67490ccd1548aa32e7c0063206598d74ad2a6e (delete_files=False)
+2025-04-23 10:17:18,040 - INFO - Successfully deleted torrent with hash 5f67490ccd1548aa32e7c0063206598d74ad2a6e
+2025-04-23 10:17:18,041 - INFO - Deleting content files: The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,041 - INFO - Deleting content: /home/user/Desktop/torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,042 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,042 - INFO - Successfully processed torrent: The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,043 - INFO - Processing torrent: Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,043 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Bad Guys (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-23 10:17:18,043 - INFO - Attempting to upload torrent: Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,043 - INFO - Content path: /home/user/Desktop/torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,043 - INFO - Remote path: onedrive:Torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,043 - INFO - Uploading torrent: Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,044 - INFO - Directory /home/user/Desktop/torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-23 10:17:18,044 - INFO - Starting upload: /home/user/Desktop/torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:17:18,044 - INFO - Uploading directory of size 1703.79 MB
+2025-04-23 10:21:53,782 - INFO - Successfully uploaded to onedrive:Torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:21:53,783 - INFO - Verifying upload for: Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:21:53,783 - INFO - Verifying upload: /home/user/Desktop/torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:21:56,125 - INFO - Upload verification successful for /home/user/Desktop/torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:21:56,135 - INFO - Deleting torrent from qBittorrent: Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:21:56,135 - INFO - Deleting torrent with hash 821a02f1a475880317992ebf016c46df44658004 (delete_files=False)
+2025-04-23 10:21:56,146 - INFO - Successfully deleted torrent with hash 821a02f1a475880317992ebf016c46df44658004
+2025-04-23 10:21:56,146 - INFO - Deleting content files: Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:21:56,146 - INFO - Deleting content: /home/user/Desktop/torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:21:56,149 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:21:56,150 - INFO - Successfully processed torrent: Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:21:56,150 - INFO - Processing torrent: Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:21:56,150 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Isle Of Dogs (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-23 10:21:56,151 - INFO - Attempting to upload torrent: Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:21:56,151 - INFO - Content path: /home/user/Desktop/torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:21:56,151 - INFO - Remote path: onedrive:Torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:21:56,151 - INFO - Uploading torrent: Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:21:56,151 - INFO - Directory /home/user/Desktop/torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-23 10:21:56,151 - INFO - Starting upload: /home/user/Desktop/torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:21:56,151 - INFO - Uploading directory of size 1820.86 MB
+2025-04-23 10:23:27,382 - INFO - Successfully uploaded to onedrive:Torrents/Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:23:27,382 - INFO - Verifying upload for: Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:23:27,383 - INFO - Verifying upload: /home/user/Desktop/torrents/Seventh Son (2014) [3D] [HSBS] -> onedrive:Torrents/Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:23:29,938 - INFO - Upload verification successful for /home/user/Desktop/torrents/Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:23:29,949 - INFO - Deleting torrent from qBittorrent: Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:23:29,949 - INFO - Deleting torrent with hash 6ef40918756fd3e56ba02d31fd498b4d5cc38cf9 (delete_files=False)
+2025-04-23 10:23:29,958 - INFO - Successfully deleted torrent with hash 6ef40918756fd3e56ba02d31fd498b4d5cc38cf9
+2025-04-23 10:23:29,958 - INFO - Deleting content files: Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:23:29,958 - INFO - Deleting content: /home/user/Desktop/torrents/Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:23:29,961 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:23:29,961 - INFO - Successfully processed torrent: Seventh Son (2014) [3D] [HSBS]
+2025-04-23 10:23:29,961 - INFO - Processing torrent: Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:23:29,962 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Seventh Son (2014) [3D] [HSBS]'}
+2025-04-23 10:23:29,962 - INFO - Attempting to upload torrent: Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:23:29,962 - INFO - Content path: /home/user/Desktop/torrents/Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:23:29,962 - INFO - Remote path: onedrive:Torrents/Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:23:29,962 - INFO - Uploading torrent: Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:23:29,962 - INFO - Directory /home/user/Desktop/torrents/Point Break (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 10:23:29,962 - INFO - Starting upload: /home/user/Desktop/torrents/Point Break (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:23:29,962 - INFO - Uploading directory of size 1792.23 MB
+2025-04-23 10:25:08,721 - INFO - Successfully uploaded to onedrive:Torrents/Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:25:08,721 - INFO - Verifying upload for: Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:25:08,722 - INFO - Verifying upload: /home/user/Desktop/torrents/Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:25:10,927 - INFO - Upload verification successful for /home/user/Desktop/torrents/Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:25:10,942 - INFO - Deleting torrent from qBittorrent: Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:25:10,942 - INFO - Deleting torrent with hash 3503ddfd394716b33720e06356ebda69bf5d0f3a (delete_files=False)
+2025-04-23 10:25:10,951 - INFO - Successfully deleted torrent with hash 3503ddfd394716b33720e06356ebda69bf5d0f3a
+2025-04-23 10:25:10,952 - INFO - Deleting content files: Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:25:10,952 - INFO - Deleting content: /home/user/Desktop/torrents/Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:25:10,955 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:25:10,955 - INFO - Successfully processed torrent: Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:25:10,955 - INFO - Processing torrent: Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:25:10,955 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Goosebumps 2 Haunted Halloween (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-23 10:25:10,955 - INFO - Attempting to upload torrent: Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:25:10,956 - INFO - Content path: /home/user/Desktop/torrents/Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:25:10,956 - INFO - Remote path: onedrive:Torrents/Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:25:10,956 - INFO - Uploading torrent: Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:25:10,956 - INFO - Directory /home/user/Desktop/torrents/Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] is readable, contains 2 files/dirs
+2025-04-23 10:25:10,956 - INFO - Starting upload: /home/user/Desktop/torrents/Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:25:10,956 - INFO - Uploading directory of size 1435.20 MB
+2025-04-23 10:28:29,942 - INFO - Successfully uploaded to onedrive:Torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:28:29,943 - INFO - Verifying upload for: 3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:28:29,943 - INFO - Verifying upload: /home/user/Desktop/torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:28:32,243 - INFO - Upload verification successful for /home/user/Desktop/torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:28:32,255 - INFO - Deleting torrent from qBittorrent: 3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:28:32,255 - INFO - Deleting torrent with hash f05fb1b5e23fbf98183958da6d66ef87db4d1a62 (delete_files=False)
+2025-04-23 10:28:32,264 - INFO - Successfully deleted torrent with hash f05fb1b5e23fbf98183958da6d66ef87db4d1a62
+2025-04-23 10:28:32,265 - INFO - Deleting content files: 3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:28:32,265 - INFO - Deleting content: /home/user/Desktop/torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:28:32,266 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:28:32,267 - INFO - Successfully processed torrent: 3 Idiots (2009) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:28:32,267 - INFO - Processing torrent: Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:28:32,267 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': '3 Idiots (2009) [BluRay] [1080p] [YTS.AM]'}
+2025-04-23 10:28:32,267 - INFO - Attempting to upload torrent: Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:28:32,267 - INFO - Content path: /home/user/Desktop/torrents/Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:28:32,267 - INFO - Remote path: onedrive:Torrents/Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:28:32,267 - INFO - Uploading torrent: Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:28:32,268 - INFO - Directory /home/user/Desktop/torrents/Once Upon A Time In Venice (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 10:28:32,268 - INFO - Starting upload: /home/user/Desktop/torrents/Once Upon A Time In Venice (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:28:32,268 - INFO - Uploading directory of size 1466.50 MB
+2025-04-23 10:30:20,060 - INFO - Successfully uploaded to onedrive:Torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:30:20,060 - INFO - Verifying upload for: Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:30:20,060 - INFO - Verifying upload: /home/user/Desktop/torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:30:22,578 - INFO - Upload verification successful for /home/user/Desktop/torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:30:22,590 - INFO - Deleting torrent from qBittorrent: Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:30:22,590 - INFO - Deleting torrent with hash f25b44a4d94a1b4278a860fc8cbbf2e697dac6a0 (delete_files=False)
+2025-04-23 10:30:22,599 - INFO - Successfully deleted torrent with hash f25b44a4d94a1b4278a860fc8cbbf2e697dac6a0
+2025-04-23 10:30:22,600 - INFO - Deleting content files: Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:30:22,600 - INFO - Deleting content: /home/user/Desktop/torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:30:22,603 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:30:22,603 - INFO - Successfully processed torrent: Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:30:22,603 - INFO - Processing torrent: Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:30:22,603 - INFO - Attempting to upload torrent: Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:30:22,603 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Justice League Dark Apokolips War (2020) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-23 10:30:22,603 - INFO - Content path: /home/user/Desktop/torrents/Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:30:22,603 - INFO - Remote path: onedrive:Torrents/Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:30:22,604 - INFO - Uploading torrent: Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:30:22,604 - INFO - Directory /home/user/Desktop/torrents/Office Christmas Party (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 10:30:22,604 - INFO - Starting upload: /home/user/Desktop/torrents/Office Christmas Party (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:30:22,604 - INFO - Uploading directory of size 1636.15 MB
+2025-04-23 10:31:54,893 - INFO - Successfully uploaded to onedrive:Torrents/Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:31:54,893 - INFO - Verifying upload for: Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:31:54,893 - INFO - Verifying upload: /home/user/Desktop/torrents/Point Break (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:31:55,710 - INFO - Successfully uploaded to onedrive:Torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:31:55,711 - INFO - Verifying upload for: Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:31:55,711 - INFO - Verifying upload: /home/user/Desktop/torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:31:57,132 - INFO - Upload verification successful for /home/user/Desktop/torrents/Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:31:57,143 - INFO - Deleting torrent from qBittorrent: Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:31:57,143 - INFO - Deleting torrent with hash d22ddcc3cf8089ab1008357a2d10442daa8dacb5 (delete_files=False)
+2025-04-23 10:31:57,153 - INFO - Successfully deleted torrent with hash d22ddcc3cf8089ab1008357a2d10442daa8dacb5
+2025-04-23 10:31:57,153 - INFO - Deleting content files: Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:31:57,153 - INFO - Deleting content: /home/user/Desktop/torrents/Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:31:57,155 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:31:57,155 - INFO - Successfully processed torrent: Point Break (2015) [1080p] [YTS.AG]
+2025-04-23 10:31:57,155 - INFO - Processing torrent: Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:31:57,155 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Point Break (2015) [1080p] [YTS.AG]'}
+2025-04-23 10:31:57,155 - INFO - Attempting to upload torrent: Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:31:57,155 - INFO - Content path: /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:31:57,156 - INFO - Remote path: onedrive:Torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:31:57,156 - INFO - Uploading torrent: Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:31:57,156 - INFO - Directory /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 10:31:57,156 - INFO - Starting upload: /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:31:57,156 - INFO - Uploading directory of size 2072.16 MB
+2025-04-23 10:31:57,510 - INFO - Upload verification successful for /home/user/Desktop/torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:31:57,520 - INFO - Deleting torrent from qBittorrent: Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:31:57,520 - INFO - Deleting torrent with hash bd88ab441f92eee5ff48580bbaa41fa688090474 (delete_files=False)
+2025-04-23 10:31:57,530 - INFO - Successfully deleted torrent with hash bd88ab441f92eee5ff48580bbaa41fa688090474
+2025-04-23 10:31:57,530 - INFO - Deleting content files: Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:31:57,530 - INFO - Deleting content: /home/user/Desktop/torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:31:57,532 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:31:57,532 - INFO - Successfully processed torrent: Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 10:31:57,533 - INFO - Processing torrent: Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:31:57,533 - INFO - Attempting to upload torrent: Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:31:57,533 - INFO - Content path: /home/user/Desktop/torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:31:57,533 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Evil Dead Rise (2023) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-23 10:31:57,533 - INFO - Remote path: onedrive:Torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:31:57,533 - INFO - Uploading torrent: Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:31:57,533 - INFO - Directory /home/user/Desktop/torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 10:31:57,534 - INFO - Starting upload: /home/user/Desktop/torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM] -> onedrive:Torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:31:57,534 - INFO - Uploading directory of size 218.00 MB
+2025-04-23 10:33:02,736 - INFO - Successfully uploaded to onedrive:Torrents/Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:33:02,736 - INFO - Verifying upload for: Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:33:02,736 - INFO - Verifying upload: /home/user/Desktop/torrents/Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:33:05,054 - INFO - Upload verification successful for /home/user/Desktop/torrents/Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:33:05,065 - INFO - Deleting torrent from qBittorrent: Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:33:05,065 - INFO - Deleting torrent with hash ad0563543c79337e20a972780b9f7991ea61898e (delete_files=False)
+2025-04-23 10:33:05,076 - INFO - Successfully deleted torrent with hash ad0563543c79337e20a972780b9f7991ea61898e
+2025-04-23 10:33:05,076 - INFO - Deleting content files: Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:33:05,076 - INFO - Deleting content: /home/user/Desktop/torrents/Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:33:05,077 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:33:05,077 - INFO - Successfully processed torrent: Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 10:33:05,077 - INFO - Processing torrent: V for Vendetta (2006) [1080p]
+2025-04-23 10:33:05,077 - INFO - Attempting to upload torrent: V for Vendetta (2006) [1080p]
+2025-04-23 10:33:05,078 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Memory.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]'}
+2025-04-23 10:33:05,078 - INFO - Content path: /home/user/Desktop/torrents/V for Vendetta (2006) [1080p]
+2025-04-23 10:33:05,078 - INFO - Remote path: onedrive:Torrents/V for Vendetta (2006) [1080p]
+2025-04-23 10:33:05,078 - INFO - Uploading torrent: V for Vendetta (2006) [1080p]
+2025-04-23 10:33:05,079 - INFO - Directory /home/user/Desktop/torrents/V for Vendetta (2006) [1080p] is readable, contains 4 files/dirs
+2025-04-23 10:33:05,079 - INFO - Starting upload: /home/user/Desktop/torrents/V for Vendetta (2006) [1080p] -> onedrive:Torrents/V for Vendetta (2006) [1080p]
+2025-04-23 10:33:05,079 - INFO - Uploading directory of size 1693.72 MB
+2025-04-23 10:33:21,960 - INFO - Successfully uploaded to onedrive:Torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:33:21,961 - INFO - Verifying upload for: Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:33:21,961 - INFO - Verifying upload: /home/user/Desktop/torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM] -> onedrive:Torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:33:24,564 - INFO - Upload verification successful for /home/user/Desktop/torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:33:24,575 - INFO - Deleting torrent from qBittorrent: Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:33:24,576 - INFO - Deleting torrent with hash ee766dc735477f66c32273e0b26d93ea746f21ab (delete_files=False)
+2025-04-23 10:33:24,588 - INFO - Successfully deleted torrent with hash ee766dc735477f66c32273e0b26d93ea746f21ab
+2025-04-23 10:33:24,588 - INFO - Deleting content files: Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:33:24,588 - INFO - Deleting content: /home/user/Desktop/torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:33:24,589 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:33:24,589 - INFO - Successfully processed torrent: Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]
+2025-04-23 10:33:24,589 - INFO - Processing torrent: BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:33:24,589 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Ice Age A Mammoth Christmas (2011) [BluRay] [720p] [YTS.AM]'}
+2025-04-23 10:33:24,589 - INFO - Attempting to upload torrent: BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:33:24,589 - INFO - Content path: /home/user/Desktop/torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:33:24,589 - INFO - Remote path: onedrive:Torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:33:24,589 - INFO - Uploading torrent: BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:33:24,589 - INFO - Directory /home/user/Desktop/torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 10:33:24,590 - INFO - Starting upload: /home/user/Desktop/torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 10:33:24,590 - INFO - Uploading directory of size 2201.30 MB
+2025-04-23 10:37:17,192 - INFO - Successfully uploaded to onedrive:Torrents/Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:37:17,192 - INFO - Verifying upload for: Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:37:17,192 - INFO - Verifying upload: /home/user/Desktop/torrents/Once Upon A Time In Venice (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:37:20,221 - INFO - Upload verification successful for /home/user/Desktop/torrents/Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:37:20,232 - INFO - Deleting torrent from qBittorrent: Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:37:20,232 - INFO - Deleting torrent with hash 0f304949400375cc979ffd8bed64ed3c76ad4a07 (delete_files=False)
+2025-04-23 10:37:20,244 - INFO - Successfully deleted torrent with hash 0f304949400375cc979ffd8bed64ed3c76ad4a07
+2025-04-23 10:37:20,244 - INFO - Deleting content files: Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:37:20,244 - INFO - Deleting content: /home/user/Desktop/torrents/Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:37:20,246 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:37:20,246 - INFO - Successfully processed torrent: Once Upon A Time In Venice (2017) [1080p] [YTS.AG]
+2025-04-23 10:37:20,246 - INFO - Processing torrent: Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 10:37:20,246 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Once Upon A Time In Venice (2017) [1080p] [YTS.AG]'}
+2025-04-23 10:37:20,247 - INFO - Attempting to upload torrent: Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 10:37:20,247 - INFO - Content path: /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 10:37:20,247 - INFO - Remote path: onedrive:Torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 10:37:20,247 - INFO - Uploading torrent: Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 10:37:20,247 - INFO - Directory /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-23 10:37:20,247 - INFO - Starting upload: /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 10:37:20,247 - INFO - Uploading directory of size 1401.57 MB
+2025-04-23 10:37:24,036 - INFO - Successfully uploaded to onedrive:Torrents/Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:37:24,036 - INFO - Verifying upload for: Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:37:24,036 - INFO - Verifying upload: /home/user/Desktop/torrents/Office Christmas Party (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:37:26,542 - INFO - Upload verification successful for /home/user/Desktop/torrents/Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:37:26,552 - INFO - Deleting torrent from qBittorrent: Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:37:26,553 - INFO - Deleting torrent with hash 1ec35a6c9132e83d2c715744f1261d0a18cdcbbc (delete_files=False)
+2025-04-23 10:37:26,562 - INFO - Successfully deleted torrent with hash 1ec35a6c9132e83d2c715744f1261d0a18cdcbbc
+2025-04-23 10:37:26,563 - INFO - Deleting content files: Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:37:26,563 - INFO - Deleting content: /home/user/Desktop/torrents/Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:37:26,564 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:37:26,564 - INFO - Successfully processed torrent: Office Christmas Party (2016) [1080p] [YTS.AG]
+2025-04-23 10:37:26,564 - INFO - Processing torrent: Rio 2 (2014) [1080p]
+2025-04-23 10:37:26,564 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Office Christmas Party (2016) [1080p] [YTS.AG]'}
+2025-04-23 10:37:26,565 - INFO - Attempting to upload torrent: Rio 2 (2014) [1080p]
+2025-04-23 10:37:26,565 - INFO - Content path: /home/user/Desktop/torrents/Rio 2 (2014) [1080p]
+2025-04-23 10:37:26,565 - INFO - Remote path: onedrive:Torrents/Rio 2 (2014) [1080p]
+2025-04-23 10:37:26,565 - INFO - Uploading torrent: Rio 2 (2014) [1080p]
+2025-04-23 10:37:26,565 - INFO - Directory /home/user/Desktop/torrents/Rio 2 (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-23 10:37:26,565 - INFO - Starting upload: /home/user/Desktop/torrents/Rio 2 (2014) [1080p] -> onedrive:Torrents/Rio 2 (2014) [1080p]
+2025-04-23 10:37:26,566 - INFO - Uploading directory of size 1672.95 MB
+2025-04-23 10:39:48,196 - INFO - Successfully uploaded to onedrive:Torrents/V for Vendetta (2006) [1080p]
+2025-04-23 10:39:48,197 - INFO - Verifying upload for: V for Vendetta (2006) [1080p]
+2025-04-23 10:39:48,197 - INFO - Verifying upload: /home/user/Desktop/torrents/V for Vendetta (2006) [1080p] -> onedrive:Torrents/V for Vendetta (2006) [1080p]
+2025-04-23 10:39:51,772 - INFO - Upload verification successful for /home/user/Desktop/torrents/V for Vendetta (2006) [1080p]
+2025-04-23 10:39:51,783 - INFO - Deleting torrent from qBittorrent: V for Vendetta (2006) [1080p]
+2025-04-23 10:39:51,783 - INFO - Deleting torrent with hash dc5e0f28c56cbb93e57fc11ca8e56cc79a5d2e13 (delete_files=False)
+2025-04-23 10:39:51,792 - INFO - Successfully deleted torrent with hash dc5e0f28c56cbb93e57fc11ca8e56cc79a5d2e13
+2025-04-23 10:39:51,793 - INFO - Deleting content files: V for Vendetta (2006) [1080p]
+2025-04-23 10:39:51,793 - INFO - Deleting content: /home/user/Desktop/torrents/V for Vendetta (2006) [1080p]
+2025-04-23 10:39:51,794 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/V for Vendetta (2006) [1080p]
+2025-04-23 10:39:51,794 - INFO - Successfully processed torrent: V for Vendetta (2006) [1080p]
+2025-04-23 10:39:51,794 - INFO - Processing torrent: Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:39:51,795 - INFO - Attempting to upload torrent: Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:39:51,795 - INFO - Content path: /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:39:51,795 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'V for Vendetta (2006) [1080p]'}
+2025-04-23 10:39:51,795 - INFO - Remote path: onedrive:Torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:39:51,795 - INFO - Uploading torrent: Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:39:51,795 - INFO - Directory /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 10:39:51,795 - INFO - Starting upload: /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 10:39:51,796 - INFO - Uploading directory of size 1896.30 MB
+2025-04-23 12:35:01,480 - INFO - Loaded configuration from config.json
+2025-04-23 12:35:01,480 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-23 12:35:01,484 - INFO - Loaded 1179 previously processed torrents
+2025-04-23 12:35:01,485 - INFO - Multithreaded uploading enabled with 5 workers
+2025-04-23 12:35:01,561 - INFO - Found onedrive remote in rclone configuration
+2025-04-23 12:35:01,566 - INFO - Successfully logged in to qBittorrent
+2025-04-23 12:35:01,566 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-23 12:35:01,567 - INFO - Running in multithreaded mode with 5 upload workers
+2025-04-23 12:35:01,567 - INFO - Active upload threads: 0/5
+2025-04-23 12:35:01,567 - INFO - Checking for completed torrents...
+2025-04-23 12:35:01,575 - INFO - Found 26 completed torrents
+2025-04-23 12:35:01,575 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 12:35:01,575 - INFO - Torrent The Man From U.N.C.L.E. (2015) [1080p]: content_path = /home/user/Desktop/torrents/The Man From U.N.C.L.E. (2015) [1080p], exists: True
+2025-04-23 12:35:01,575 - INFO - Torrent Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 12:35:01,575 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-23 12:35:01,575 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-23 12:35:01,575 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-23 12:35:01,575 - INFO - Torrent Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-23 12:35:01,575 - INFO - Torrent Masterminds (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Masterminds (2016) [1080p] [YTS.AG], exists: True
+2025-04-23 12:35:01,575 - INFO - Torrent The Hustle (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-23 12:35:01,575 - INFO - Torrent Detroit (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Detroit (2017) [1080p] [YTS.AG], exists: True
+2025-04-23 12:35:01,575 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-23 12:35:01,575 - INFO - Torrent T2 Trainspotting (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/T2 Trainspotting (2017) [1080p] [YTS.AG], exists: True
+2025-04-23 12:35:01,575 - INFO - Torrent Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 12:35:01,575 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-23 12:35:01,576 - INFO - Torrent The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 12:35:01,576 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-23 12:35:01,576 - INFO - Torrent Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-23 12:35:01,576 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-23 12:35:01,576 - INFO - Torrent The Truman Show (1998) [1080p]: content_path = /home/user/Desktop/torrents/The Truman Show (1998) [1080p], exists: True
+2025-04-23 12:35:01,576 - INFO - Torrent Crawl (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-23 12:35:01,576 - INFO - Torrent Rio 2 (2014) [1080p]: content_path = /home/user/Desktop/torrents/Rio 2 (2014) [1080p], exists: True
+2025-04-23 12:35:01,576 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 12:35:01,576 - INFO - Torrent BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-23 12:35:01,576 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-23 12:35:01,576 - INFO - Torrent Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 12:35:01,576 - INFO - Torrent RoboCop (2014) [1080p]: content_path = /home/user/Desktop/torrents/RoboCop (2014) [1080p], exists: True
+2025-04-23 12:35:01,576 - INFO - Submitting 16 torrents for parallel upload
+2025-04-23 12:35:01,577 - INFO - Processing torrent: The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:35:01,577 - INFO - Attempting to upload torrent: The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:35:01,577 - INFO - Processing torrent: Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:35:01,577 - INFO - Content path: /home/user/Desktop/torrents/The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:35:01,577 - INFO - Attempting to upload torrent: Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:35:01,577 - INFO - Remote path: onedrive:Torrents/The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:35:01,578 - INFO - Processing torrent: Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:35:01,578 - INFO - Content path: /home/user/Desktop/torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:35:01,578 - INFO - Uploading torrent: The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:35:01,578 - INFO - Attempting to upload torrent: Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:35:01,578 - INFO - Processing torrent: Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:35:01,579 - INFO - Processing torrent: The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:35:01,579 - INFO - Remote path: onedrive:Torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:35:01,579 - INFO - Content path: /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:35:01,580 - INFO - Attempting to upload torrent: Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:35:01,580 - INFO - Directory /home/user/Desktop/torrents/The Man From U.N.C.L.E. (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-23 12:35:01,580 - INFO - Attempting to upload torrent: The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:35:01,580 - INFO - Uploading torrent: Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:35:01,580 - INFO - Remote path: onedrive:Torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:35:01,580 - INFO - Content path: /home/user/Desktop/torrents/Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:35:01,580 - INFO - Starting upload: /home/user/Desktop/torrents/The Man From U.N.C.L.E. (2015) [1080p] -> onedrive:Torrents/The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:35:01,580 - INFO - Content path: /home/user/Desktop/torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:35:01,581 - INFO - Uploading torrent: Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:35:01,581 - INFO - Remote path: onedrive:Torrents/Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:35:01,581 - INFO - Directory /home/user/Desktop/torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-23 12:35:01,581 - INFO - Remote path: onedrive:Torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:35:01,581 - INFO - Uploading torrent: Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:35:01,581 - INFO - Directory /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 12:35:01,582 - INFO - Uploading directory of size 1381.52 MB
+2025-04-23 12:35:01,582 - INFO - Starting upload: /home/user/Desktop/torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:35:01,582 - INFO - Uploading torrent: The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:35:01,582 - INFO - Starting upload: /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:35:01,582 - INFO - Directory /home/user/Desktop/torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-23 12:35:01,584 - INFO - Starting upload: /home/user/Desktop/torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:35:01,584 - INFO - Directory /home/user/Desktop/torrents/Masterminds (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 12:35:01,584 - INFO - Starting upload: /home/user/Desktop/torrents/Masterminds (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:35:01,585 - INFO - Uploading directory of size 1981.54 MB
+2025-04-23 12:35:01,585 - INFO - Uploading directory of size 1572.13 MB
+2025-04-23 12:35:01,587 - INFO - Uploading directory of size 1896.30 MB
+2025-04-23 12:35:01,587 - INFO - Uploading directory of size 1479.15 MB
