@@ -14439,3 +14439,15 @@
 2025-04-23 16:45:50,319 - INFO - Directory /home/user/Desktop/torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-23 16:45:50,319 - INFO - Starting upload: /home/user/Desktop/torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM] -> onedrive:Torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
 2025-04-23 16:45:50,319 - INFO - Uploading directory of size 940.25 MB
+2025-04-23 16:49:10,050 - INFO - Successfully uploaded to onedrive:Torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:49:10,051 - INFO - Verifying upload for: A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:49:10,051 - INFO - Verifying upload: /home/user/Desktop/torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM] -> onedrive:Torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:49:11,852 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:49:11,862 - INFO - Deleting torrent from qBittorrent: A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:49:11,863 - INFO - Deleting torrent with hash e0888a6f9261cdffbfff31c686af76855c4cf1d3 (delete_files=False)
+2025-04-23 16:49:11,871 - INFO - Successfully deleted torrent with hash e0888a6f9261cdffbfff31c686af76855c4cf1d3
+2025-04-23 16:49:11,871 - INFO - Deleting content files: A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:49:11,871 - INFO - Deleting content: /home/user/Desktop/torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:49:11,872 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:49:11,872 - INFO - Successfully processed torrent: A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]
+2025-04-23 16:49:11,873 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A Wrinkle In Time (2018) [BluRay] [720p] [YTS.AM]'}
