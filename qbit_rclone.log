@@ -13768,3 +13768,39 @@
 2025-04-23 13:17:46,583 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-23 13:17:46,583 - INFO - Successfully processed torrent: BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-23 13:17:46,583 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'BlacKkKlansman (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-23 13:21:08,526 - INFO - Successfully uploaded to onedrive:Torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:08,527 - INFO - Verifying upload for: The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:08,527 - INFO - Verifying upload: /home/user/Desktop/torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:11,306 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:11,317 - INFO - Deleting torrent from qBittorrent: The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:11,317 - INFO - Deleting torrent with hash 81eefc010f2009201fb33108092e8305bbe931b7 (delete_files=False)
+2025-04-23 13:21:11,325 - INFO - Successfully deleted torrent with hash 81eefc010f2009201fb33108092e8305bbe931b7
+2025-04-23 13:21:11,325 - INFO - Deleting content files: The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:11,325 - INFO - Deleting content: /home/user/Desktop/torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:11,326 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:11,327 - INFO - Successfully processed torrent: The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:11,327 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-23 13:21:27,612 - INFO - Successfully uploaded to onedrive:Torrents/RoboCop (2014) [1080p]
+2025-04-23 13:21:27,613 - INFO - Verifying upload for: RoboCop (2014) [1080p]
+2025-04-23 13:21:27,613 - INFO - Verifying upload: /home/user/Desktop/torrents/RoboCop (2014) [1080p] -> onedrive:Torrents/RoboCop (2014) [1080p]
+2025-04-23 13:21:30,409 - INFO - Upload verification successful for /home/user/Desktop/torrents/RoboCop (2014) [1080p]
+2025-04-23 13:21:30,421 - INFO - Deleting torrent from qBittorrent: RoboCop (2014) [1080p]
+2025-04-23 13:21:30,421 - INFO - Deleting torrent with hash 2739e390227b3851106b62dcae4b994720419817 (delete_files=False)
+2025-04-23 13:21:30,428 - INFO - Successfully deleted torrent with hash 2739e390227b3851106b62dcae4b994720419817
+2025-04-23 13:21:30,428 - INFO - Deleting content files: RoboCop (2014) [1080p]
+2025-04-23 13:21:30,428 - INFO - Deleting content: /home/user/Desktop/torrents/RoboCop (2014) [1080p]
+2025-04-23 13:21:30,429 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/RoboCop (2014) [1080p]
+2025-04-23 13:21:30,430 - INFO - Successfully processed torrent: RoboCop (2014) [1080p]
+2025-04-23 13:21:30,430 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'RoboCop (2014) [1080p]'}
+2025-04-23 13:21:31,892 - INFO - Successfully uploaded to onedrive:Torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:31,892 - INFO - Verifying upload for: Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:31,892 - INFO - Verifying upload: /home/user/Desktop/torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:34,228 - INFO - Upload verification successful for /home/user/Desktop/torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:34,239 - INFO - Deleting torrent from qBittorrent: Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:34,239 - INFO - Deleting torrent with hash 11786c5f7573c14c4fcb9eff97b5f8c00c089245 (delete_files=False)
+2025-04-23 13:21:34,247 - INFO - Successfully deleted torrent with hash 11786c5f7573c14c4fcb9eff97b5f8c00c089245
+2025-04-23 13:21:34,247 - INFO - Deleting content files: Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:34,247 - INFO - Deleting content: /home/user/Desktop/torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:34,249 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:34,250 - INFO - Successfully processed torrent: Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:21:34,250 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]'}
