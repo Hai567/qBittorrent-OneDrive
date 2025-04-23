@@ -14117,3 +14117,15 @@
 2025-04-23 15:06:19,525 - INFO - Directory /home/user/Desktop/torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] is readable, contains 2 files/dirs
 2025-04-23 15:06:19,526 - INFO - Starting upload: /home/user/Desktop/torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-23 15:06:19,526 - INFO - Uploading directory of size 1435.71 MB
+2025-04-23 15:12:35,494 - INFO - Successfully uploaded to onedrive:Torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:12:35,495 - INFO - Verifying upload for: Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:12:35,495 - INFO - Verifying upload: /home/user/Desktop/torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:12:37,809 - INFO - Upload verification successful for /home/user/Desktop/torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:12:37,829 - INFO - Deleting torrent from qBittorrent: Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:12:37,829 - INFO - Deleting torrent with hash 087682ec50da2a143d9541263eb98f197212fb9a (delete_files=False)
+2025-04-23 15:12:37,848 - INFO - Successfully deleted torrent with hash 087682ec50da2a143d9541263eb98f197212fb9a
+2025-04-23 15:12:37,848 - INFO - Deleting content files: Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:12:37,849 - INFO - Deleting content: /home/user/Desktop/torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:12:37,850 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:12:37,851 - INFO - Successfully processed torrent: Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:12:37,851 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]'}
