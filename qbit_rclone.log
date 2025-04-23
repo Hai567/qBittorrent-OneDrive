@@ -14233,3 +14233,26 @@
 2025-04-23 15:37:41,779 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Kevin Hart What Now (2016) [1080p] [YTS.AG]
 2025-04-23 15:37:41,779 - INFO - Successfully processed torrent: Kevin Hart What Now (2016) [1080p] [YTS.AG]
 2025-04-23 15:37:41,779 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Kevin Hart What Now (2016) [1080p] [YTS.AG]'}
+2025-04-23 15:42:41,880 - INFO - Active upload threads: 5/5
+2025-04-23 15:42:41,880 - INFO - Checking for completed torrents...
+2025-04-23 15:42:41,887 - INFO - Found 11 completed torrents
+2025-04-23 15:42:41,887 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 15:42:41,887 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-23 15:42:41,887 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-23 15:42:41,887 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-23 15:42:41,887 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-23 15:42:41,887 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-23 15:42:41,887 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-23 15:42:41,888 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-23 15:42:41,888 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 15:42:41,888 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-23 15:42:41,888 - INFO - Torrent Fifty Shades Of Black (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG], exists: True
+2025-04-23 15:42:41,888 - INFO - Submitting 1 torrents for parallel upload
+2025-04-23 15:42:41,888 - INFO - Processing torrent: Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:42:41,888 - INFO - Attempting to upload torrent: Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:42:41,888 - INFO - Content path: /home/user/Desktop/torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:42:41,888 - INFO - Remote path: onedrive:Torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:42:41,888 - INFO - Uploading torrent: Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:42:41,888 - INFO - Directory /home/user/Desktop/torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 15:42:41,888 - INFO - Starting upload: /home/user/Desktop/torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:42:41,889 - INFO - Uploading directory of size 1423.86 MB
