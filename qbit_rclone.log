@@ -13536,3 +13536,43 @@
 2025-04-23 12:35:01,585 - INFO - Uploading directory of size 1572.13 MB
 2025-04-23 12:35:01,587 - INFO - Uploading directory of size 1896.30 MB
 2025-04-23 12:35:01,587 - INFO - Uploading directory of size 1479.15 MB
+2025-04-23 12:41:35,695 - INFO - Successfully uploaded to onedrive:Torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:41:35,696 - INFO - Verifying upload for: The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:41:35,696 - INFO - Verifying upload: /home/user/Desktop/torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:41:38,185 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:41:38,195 - INFO - Deleting torrent from qBittorrent: The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:41:38,195 - INFO - Deleting torrent with hash 89c250d4b319046913b4dc3a83ec3ff0ae60cd4b (delete_files=False)
+2025-04-23 12:41:38,202 - INFO - Successfully deleted torrent with hash 89c250d4b319046913b4dc3a83ec3ff0ae60cd4b
+2025-04-23 12:41:38,202 - INFO - Deleting content files: The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:41:38,202 - INFO - Deleting content: /home/user/Desktop/torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:41:38,204 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:41:38,204 - INFO - Successfully processed torrent: The Hustle (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 12:41:38,204 - INFO - Processing torrent: Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:41:38,204 - INFO - Attempting to upload torrent: Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:41:38,204 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Hustle (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-23 12:41:38,204 - INFO - Content path: /home/user/Desktop/torrents/Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:41:38,205 - INFO - Remote path: onedrive:Torrents/Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:41:38,205 - INFO - Uploading torrent: Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:41:38,205 - INFO - Directory /home/user/Desktop/torrents/Detroit (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 12:41:38,205 - INFO - Starting upload: /home/user/Desktop/torrents/Detroit (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:41:38,205 - INFO - Uploading directory of size 2218.03 MB
+2025-04-23 12:43:00,779 - INFO - Successfully uploaded to onedrive:Torrents/The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:43:00,780 - INFO - Verifying upload for: The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:43:00,780 - INFO - Verifying upload: /home/user/Desktop/torrents/The Man From U.N.C.L.E. (2015) [1080p] -> onedrive:Torrents/The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:43:03,143 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:43:03,153 - INFO - Deleting torrent from qBittorrent: The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:43:03,153 - INFO - Deleting torrent with hash 746162059f157b17d9484d2ed325b9ce31971bcc (delete_files=False)
+2025-04-23 12:43:03,163 - INFO - Successfully deleted torrent with hash 746162059f157b17d9484d2ed325b9ce31971bcc
+2025-04-23 12:43:03,163 - INFO - Deleting content files: The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:43:03,163 - INFO - Deleting content: /home/user/Desktop/torrents/The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:43:03,165 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:43:03,165 - INFO - Successfully processed torrent: The Man From U.N.C.L.E. (2015) [1080p]
+2025-04-23 12:43:03,165 - INFO - Processing torrent: T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 12:43:03,166 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Man From U.N.C.L.E. (2015) [1080p]'}
+2025-04-23 12:43:03,166 - INFO - Attempting to upload torrent: T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 12:43:03,166 - INFO - Content path: /home/user/Desktop/torrents/T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 12:43:03,166 - INFO - Remote path: onedrive:Torrents/T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 12:43:03,166 - INFO - Uploading torrent: T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 12:43:03,166 - INFO - Directory /home/user/Desktop/torrents/T2 Trainspotting (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-23 12:43:03,166 - INFO - Starting upload: /home/user/Desktop/torrents/T2 Trainspotting (2017) [1080p] [YTS.AG] -> onedrive:Torrents/T2 Trainspotting (2017) [1080p] [YTS.AG]
+2025-04-23 12:43:03,166 - INFO - Uploading directory of size 1825.51 MB
