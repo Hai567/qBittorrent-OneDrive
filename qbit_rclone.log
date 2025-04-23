@@ -13969,3 +13969,15 @@
 2025-04-23 14:15:58,820 - INFO - Directory /home/user/Desktop/torrents/Early Man (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-23 14:15:58,820 - INFO - Starting upload: /home/user/Desktop/torrents/Early Man (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Early Man (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-23 14:15:58,820 - INFO - Uploading directory of size 1395.18 MB
+2025-04-23 14:20:55,847 - INFO - Successfully uploaded to onedrive:Torrents/Early Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:20:55,848 - INFO - Verifying upload for: Early Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:20:55,848 - INFO - Verifying upload: /home/user/Desktop/torrents/Early Man (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Early Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:20:57,675 - INFO - Upload verification successful for /home/user/Desktop/torrents/Early Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:20:57,686 - INFO - Deleting torrent from qBittorrent: Early Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:20:57,686 - INFO - Deleting torrent with hash 69509422e6239d85a0c486045f478ab7ac4fcf74 (delete_files=False)
+2025-04-23 14:20:57,699 - INFO - Successfully deleted torrent with hash 69509422e6239d85a0c486045f478ab7ac4fcf74
+2025-04-23 14:20:57,699 - INFO - Deleting content files: Early Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:20:57,699 - INFO - Deleting content: /home/user/Desktop/torrents/Early Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:20:57,700 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Early Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:20:57,700 - INFO - Successfully processed torrent: Early Man (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:20:57,701 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Early Man (2018) [WEBRip] [1080p] [YTS.AM]'}
