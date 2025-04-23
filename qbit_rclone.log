@@ -13576,3 +13576,63 @@
 2025-04-23 12:43:03,166 - INFO - Directory /home/user/Desktop/torrents/T2 Trainspotting (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-23 12:43:03,166 - INFO - Starting upload: /home/user/Desktop/torrents/T2 Trainspotting (2017) [1080p] [YTS.AG] -> onedrive:Torrents/T2 Trainspotting (2017) [1080p] [YTS.AG]
 2025-04-23 12:43:03,166 - INFO - Uploading directory of size 1825.51 MB
+2025-04-23 12:50:42,572 - INFO - Successfully uploaded to onedrive:Torrents/Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:50:42,573 - INFO - Verifying upload for: Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:50:42,573 - INFO - Verifying upload: /home/user/Desktop/torrents/Masterminds (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:50:44,816 - INFO - Upload verification successful for /home/user/Desktop/torrents/Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:50:44,826 - INFO - Deleting torrent from qBittorrent: Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:50:44,826 - INFO - Deleting torrent with hash 0a47aa1811a740072f0a9ae4e50099bb259d6ce0 (delete_files=False)
+2025-04-23 12:50:44,834 - INFO - Successfully deleted torrent with hash 0a47aa1811a740072f0a9ae4e50099bb259d6ce0
+2025-04-23 12:50:44,834 - INFO - Deleting content files: Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:50:44,834 - INFO - Deleting content: /home/user/Desktop/torrents/Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:50:44,835 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:50:44,835 - INFO - Successfully processed torrent: Masterminds (2016) [1080p] [YTS.AG]
+2025-04-23 12:50:44,835 - INFO - Processing torrent: Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:50:44,836 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Masterminds (2016) [1080p] [YTS.AG]'}
+2025-04-23 12:50:44,836 - INFO - Attempting to upload torrent: Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:50:44,836 - INFO - Content path: /home/user/Desktop/torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:50:44,836 - INFO - Remote path: onedrive:Torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:50:44,836 - INFO - Uploading torrent: Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:50:44,836 - INFO - Directory /home/user/Desktop/torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-23 12:50:44,836 - INFO - Starting upload: /home/user/Desktop/torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:50:44,836 - INFO - Uploading directory of size 2065.38 MB
+2025-04-23 12:52:33,008 - INFO - Successfully uploaded to onedrive:Torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:52:33,008 - INFO - Verifying upload for: Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:52:33,008 - INFO - Verifying upload: /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:52:35,826 - INFO - Upload verification successful for /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:52:35,836 - INFO - Deleting torrent from qBittorrent: Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:52:35,836 - INFO - Deleting torrent with hash 7f7dc7d30ac3ae64832cbc73a895a06ea33e49b2 (delete_files=False)
+2025-04-23 12:52:35,844 - INFO - Successfully deleted torrent with hash 7f7dc7d30ac3ae64832cbc73a895a06ea33e49b2
+2025-04-23 12:52:35,844 - INFO - Deleting content files: Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:52:35,844 - INFO - Deleting content: /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:52:35,845 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:52:35,846 - INFO - Successfully processed torrent: Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]
+2025-04-23 12:52:35,846 - INFO - Processing torrent: The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:52:35,846 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Full Metal Jacket (1987) [BluRay] [1080p] [YTS.AM]'}
+2025-04-23 12:52:35,846 - INFO - Attempting to upload torrent: The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:52:35,846 - INFO - Content path: /home/user/Desktop/torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:52:35,846 - INFO - Remote path: onedrive:Torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:52:35,846 - INFO - Uploading torrent: The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:52:35,846 - INFO - Directory /home/user/Desktop/torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-23 12:52:35,846 - INFO - Starting upload: /home/user/Desktop/torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Unbearable Weight Of Massive Talent (2022) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:52:35,847 - INFO - Uploading directory of size 2016.08 MB
+2025-04-23 12:53:20,507 - INFO - Successfully uploaded to onedrive:Torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:53:20,507 - INFO - Verifying upload for: Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:53:20,507 - INFO - Verifying upload: /home/user/Desktop/torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:53:23,468 - INFO - Upload verification successful for /home/user/Desktop/torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:53:23,479 - INFO - Deleting torrent from qBittorrent: Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:53:23,479 - INFO - Deleting torrent with hash 37da58a10b28d606fab9400a707d67a3be67cfc2 (delete_files=False)
+2025-04-23 12:53:23,486 - INFO - Successfully deleted torrent with hash 37da58a10b28d606fab9400a707d67a3be67cfc2
+2025-04-23 12:53:23,486 - INFO - Deleting content files: Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:53:23,486 - INFO - Deleting content: /home/user/Desktop/torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:53:23,489 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:53:23,489 - INFO - Successfully processed torrent: Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 12:53:23,489 - INFO - Processing torrent: Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 12:53:23,489 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Rise Of The Planet Of The Apes (2011) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-23 12:53:23,489 - INFO - Attempting to upload torrent: Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 12:53:23,489 - INFO - Content path: /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 12:53:23,490 - INFO - Remote path: onedrive:Torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 12:53:23,490 - INFO - Uploading torrent: Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 12:53:23,490 - INFO - Directory /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 12:53:23,490 - INFO - Starting upload: /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 12:53:23,490 - INFO - Uploading directory of size 2072.16 MB
