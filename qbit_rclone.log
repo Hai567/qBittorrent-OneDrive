@@ -14256,3 +14256,15 @@
 2025-04-23 15:42:41,888 - INFO - Directory /home/user/Desktop/torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-23 15:42:41,888 - INFO - Starting upload: /home/user/Desktop/torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG]
 2025-04-23 15:42:41,889 - INFO - Uploading directory of size 1423.86 MB
+2025-04-23 15:47:44,010 - INFO - Successfully uploaded to onedrive:Torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:47:44,010 - INFO - Verifying upload for: Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:47:44,010 - INFO - Verifying upload: /home/user/Desktop/torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:47:46,481 - INFO - Upload verification successful for /home/user/Desktop/torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:47:46,492 - INFO - Deleting torrent from qBittorrent: Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:47:46,492 - INFO - Deleting torrent with hash 623428069c6061502b0b6e680eb6feaa9a0bbaa2 (delete_files=False)
+2025-04-23 15:47:46,502 - INFO - Successfully deleted torrent with hash 623428069c6061502b0b6e680eb6feaa9a0bbaa2
+2025-04-23 15:47:46,502 - INFO - Deleting content files: Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:47:46,503 - INFO - Deleting content: /home/user/Desktop/torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:47:46,504 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:47:46,504 - INFO - Successfully processed torrent: Fifty Shades Of Black (2016) [1080p] [YTS.AG]
+2025-04-23 15:47:46,504 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Fifty Shades Of Black (2016) [1080p] [YTS.AG]'}
