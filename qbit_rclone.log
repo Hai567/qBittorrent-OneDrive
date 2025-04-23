@@ -13911,3 +13911,26 @@
 2025-04-23 13:58:42,024 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Mule (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-23 13:58:42,024 - INFO - Successfully processed torrent: The Mule (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-23 13:58:42,025 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Mule (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-23 14:03:42,125 - INFO - Active upload threads: 5/5
+2025-04-23 14:03:42,126 - INFO - Checking for completed torrents...
+2025-04-23 14:03:42,133 - INFO - Found 11 completed torrents
+2025-04-23 14:03:42,134 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 14:03:42,134 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-23 14:03:42,134 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-23 14:03:42,134 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-23 14:03:42,134 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-23 14:03:42,134 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-23 14:03:42,134 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-23 14:03:42,134 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-23 14:03:42,134 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 14:03:42,134 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-23 14:03:42,134 - INFO - Torrent Instant Family (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-23 14:03:42,135 - INFO - Submitting 1 torrents for parallel upload
+2025-04-23 14:03:42,135 - INFO - Processing torrent: Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:03:42,135 - INFO - Attempting to upload torrent: Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:03:42,135 - INFO - Content path: /home/user/Desktop/torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:03:42,135 - INFO - Remote path: onedrive:Torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:03:42,136 - INFO - Uploading torrent: Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:03:42,136 - INFO - Directory /home/user/Desktop/torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 14:03:42,136 - INFO - Starting upload: /home/user/Desktop/torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Instant Family (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 14:03:42,136 - INFO - Uploading directory of size 1926.54 MB
