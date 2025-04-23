@@ -13804,3 +13804,15 @@
 2025-04-23 13:21:34,249 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-23 13:21:34,250 - INFO - Successfully processed torrent: Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-23 13:21:34,250 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-23 13:29:14,422 - INFO - Successfully uploaded to onedrive:Torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:29:14,423 - INFO - Verifying upload for: Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:29:14,423 - INFO - Verifying upload: /home/user/Desktop/torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:29:16,221 - INFO - Upload verification successful for /home/user/Desktop/torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:29:16,231 - INFO - Deleting torrent from qBittorrent: Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:29:16,231 - INFO - Deleting torrent with hash 99f8369ce33e520966bacd5e6c574ce0fb530453 (delete_files=False)
+2025-04-23 13:29:16,239 - INFO - Successfully deleted torrent with hash 99f8369ce33e520966bacd5e6c574ce0fb530453
+2025-04-23 13:29:16,239 - INFO - Deleting content files: Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:29:16,239 - INFO - Deleting content: /home/user/Desktop/torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:29:16,240 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:29:16,240 - INFO - Successfully processed torrent: Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 13:29:16,240 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Rush Hour (1998) [1080p] [BluRay] [5.1] [YTS.MX]'}
