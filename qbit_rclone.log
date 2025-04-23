@@ -13656,3 +13656,23 @@
 2025-04-23 12:57:19,386 - INFO - Directory /home/user/Desktop/torrents/The Truman Show (1998) [1080p] is readable, contains 2 files/dirs
 2025-04-23 12:57:19,386 - INFO - Starting upload: /home/user/Desktop/torrents/The Truman Show (1998) [1080p] -> onedrive:Torrents/The Truman Show (1998) [1080p]
 2025-04-23 12:57:19,387 - INFO - Uploading directory of size 1685.88 MB
+2025-04-23 13:02:16,624 - INFO - Successfully uploaded to onedrive:Torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:02:16,624 - INFO - Verifying upload for: Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:02:16,624 - INFO - Verifying upload: /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:02:18,559 - INFO - Upload verification successful for /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:02:18,570 - INFO - Deleting torrent from qBittorrent: Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:02:18,570 - INFO - Deleting torrent with hash 3f1861a35a9702620f9c721f3522227889d3ffd6 (delete_files=False)
+2025-04-23 13:02:18,579 - INFO - Successfully deleted torrent with hash 3f1861a35a9702620f9c721f3522227889d3ffd6
+2025-04-23 13:02:18,579 - INFO - Deleting content files: Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:02:18,580 - INFO - Deleting content: /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:02:18,582 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:02:18,583 - INFO - Successfully processed torrent: Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:02:18,583 - INFO - Processing torrent: Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:02:18,583 - INFO - Attempting to upload torrent: Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:02:18,583 - INFO - Content path: /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:02:18,583 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-23 13:02:18,583 - INFO - Remote path: onedrive:Torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:02:18,583 - INFO - Uploading torrent: Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:02:18,584 - INFO - Directory /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-23 13:02:18,584 - INFO - Starting upload: /home/user/Desktop/torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Crawl (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-23 13:02:18,584 - INFO - Uploading directory of size 1401.57 MB
