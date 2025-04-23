@@ -14291,3 +14291,15 @@
 2025-04-23 15:52:46,586 - INFO - Directory /home/user/Desktop/torrents/The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-23 15:52:46,586 - INFO - Starting upload: /home/user/Desktop/torrents/The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]
 2025-04-23 15:52:46,586 - INFO - Uploading directory of size 1720.55 MB
+2025-04-23 15:59:53,972 - INFO - Successfully uploaded to onedrive:Torrents/The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]
+2025-04-23 15:59:53,973 - INFO - Verifying upload for: The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]
+2025-04-23 15:59:53,973 - INFO - Verifying upload: /home/user/Desktop/torrents/The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG] -> onedrive:Torrents/The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]
+2025-04-23 15:59:56,193 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]
+2025-04-23 15:59:56,204 - INFO - Deleting torrent from qBittorrent: The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]
+2025-04-23 15:59:56,204 - INFO - Deleting torrent with hash 1469bb9b8fb95ba55d94a97909801b280583fd15 (delete_files=False)
+2025-04-23 15:59:56,214 - INFO - Successfully deleted torrent with hash 1469bb9b8fb95ba55d94a97909801b280583fd15
+2025-04-23 15:59:56,214 - INFO - Deleting content files: The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]
+2025-04-23 15:59:56,214 - INFO - Deleting content: /home/user/Desktop/torrents/The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]
+2025-04-23 15:59:56,216 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]
+2025-04-23 15:59:56,216 - INFO - Successfully processed torrent: The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]
+2025-04-23 15:59:56,216 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Legend Of Tarzan (2016) [3D] [HSBS] [YTS.AG]'}
