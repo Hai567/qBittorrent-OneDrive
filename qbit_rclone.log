@@ -13636,3 +13636,23 @@
 2025-04-23 12:53:23,490 - INFO - Directory /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-23 12:53:23,490 - INFO - Starting upload: /home/user/Desktop/torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]
 2025-04-23 12:53:23,490 - INFO - Uploading directory of size 2072.16 MB
+2025-04-23 12:57:16,534 - INFO - Successfully uploaded to onedrive:Torrents/Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:57:16,534 - INFO - Verifying upload for: Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:57:16,534 - INFO - Verifying upload: /home/user/Desktop/torrents/Detroit (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:57:19,366 - INFO - Upload verification successful for /home/user/Desktop/torrents/Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:57:19,376 - INFO - Deleting torrent from qBittorrent: Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:57:19,376 - INFO - Deleting torrent with hash 0950346dc679a6b839c7a2ec63afafdd200317eb (delete_files=False)
+2025-04-23 12:57:19,384 - INFO - Successfully deleted torrent with hash 0950346dc679a6b839c7a2ec63afafdd200317eb
+2025-04-23 12:57:19,384 - INFO - Deleting content files: Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:57:19,384 - INFO - Deleting content: /home/user/Desktop/torrents/Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:57:19,385 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:57:19,386 - INFO - Successfully processed torrent: Detroit (2017) [1080p] [YTS.AG]
+2025-04-23 12:57:19,386 - INFO - Processing torrent: The Truman Show (1998) [1080p]
+2025-04-23 12:57:19,386 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Detroit (2017) [1080p] [YTS.AG]'}
+2025-04-23 12:57:19,386 - INFO - Attempting to upload torrent: The Truman Show (1998) [1080p]
+2025-04-23 12:57:19,386 - INFO - Content path: /home/user/Desktop/torrents/The Truman Show (1998) [1080p]
+2025-04-23 12:57:19,386 - INFO - Remote path: onedrive:Torrents/The Truman Show (1998) [1080p]
+2025-04-23 12:57:19,386 - INFO - Uploading torrent: The Truman Show (1998) [1080p]
+2025-04-23 12:57:19,386 - INFO - Directory /home/user/Desktop/torrents/The Truman Show (1998) [1080p] is readable, contains 2 files/dirs
+2025-04-23 12:57:19,386 - INFO - Starting upload: /home/user/Desktop/torrents/The Truman Show (1998) [1080p] -> onedrive:Torrents/The Truman Show (1998) [1080p]
+2025-04-23 12:57:19,387 - INFO - Uploading directory of size 1685.88 MB
