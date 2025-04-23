@@ -14094,3 +14094,26 @@
 2025-04-23 15:01:19,415 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
 2025-04-23 15:01:19,415 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-23 15:01:19,415 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-23 15:06:19,515 - INFO - Active upload threads: 5/5
+2025-04-23 15:06:19,515 - INFO - Checking for completed torrents...
+2025-04-23 15:06:19,523 - INFO - Found 11 completed torrents
+2025-04-23 15:06:19,523 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 15:06:19,524 - INFO - Torrent Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]: content_path = /home/user/Desktop/torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx], exists: True
+2025-04-23 15:06:19,524 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-23 15:06:19,524 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-23 15:06:19,524 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-23 15:06:19,524 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-23 15:06:19,524 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-23 15:06:19,524 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-23 15:06:19,524 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-23 15:06:19,524 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 15:06:19,524 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-23 15:06:19,524 - INFO - Submitting 1 torrents for parallel upload
+2025-04-23 15:06:19,525 - INFO - Processing torrent: Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:06:19,525 - INFO - Attempting to upload torrent: Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:06:19,525 - INFO - Content path: /home/user/Desktop/torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:06:19,525 - INFO - Remote path: onedrive:Torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:06:19,525 - INFO - Uploading torrent: Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:06:19,525 - INFO - Directory /home/user/Desktop/torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] is readable, contains 2 files/dirs
+2025-04-23 15:06:19,526 - INFO - Starting upload: /home/user/Desktop/torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-23 15:06:19,526 - INFO - Uploading directory of size 1435.71 MB
