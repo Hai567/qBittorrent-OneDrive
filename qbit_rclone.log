@@ -13887,3 +13887,27 @@
 2025-04-23 13:49:16,518 - INFO - Directory /home/user/Desktop/torrents/Searching (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-23 13:49:16,519 - INFO - Starting upload: /home/user/Desktop/torrents/Searching (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Searching (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-23 13:49:16,519 - INFO - Uploading directory of size 1670.70 MB
+2025-04-23 13:57:18,705 - INFO - Successfully uploaded to onedrive:Torrents/Searching (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:57:18,706 - INFO - Verifying upload for: Searching (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:57:18,706 - INFO - Verifying upload: /home/user/Desktop/torrents/Searching (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Searching (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:57:20,078 - INFO - Upload verification successful for /home/user/Desktop/torrents/Searching (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:57:20,094 - INFO - Deleting torrent from qBittorrent: Searching (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:57:20,094 - INFO - Deleting torrent with hash fc421f8db2592dc4788290088e1282b8a2b2b8bc (delete_files=False)
+2025-04-23 13:57:20,118 - INFO - Successfully deleted torrent with hash fc421f8db2592dc4788290088e1282b8a2b2b8bc
+2025-04-23 13:57:20,119 - INFO - Deleting content files: Searching (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:57:20,119 - INFO - Deleting content: /home/user/Desktop/torrents/Searching (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:57:20,121 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Searching (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:57:20,121 - INFO - Successfully processed torrent: Searching (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:57:20,121 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Searching (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-23 13:58:40,203 - INFO - Successfully uploaded to onedrive:Torrents/The Mule (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:58:40,204 - INFO - Verifying upload for: The Mule (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:58:40,204 - INFO - Verifying upload: /home/user/Desktop/torrents/The Mule (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Mule (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:58:41,987 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Mule (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:58:42,005 - INFO - Deleting torrent from qBittorrent: The Mule (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:58:42,005 - INFO - Deleting torrent with hash 4ab14b1dc9269feb74741bb279a4aaff79b1ab06 (delete_files=False)
+2025-04-23 13:58:42,022 - INFO - Successfully deleted torrent with hash 4ab14b1dc9269feb74741bb279a4aaff79b1ab06
+2025-04-23 13:58:42,022 - INFO - Deleting content files: The Mule (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:58:42,022 - INFO - Deleting content: /home/user/Desktop/torrents/The Mule (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:58:42,024 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Mule (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:58:42,024 - INFO - Successfully processed torrent: The Mule (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 13:58:42,025 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Mule (2018) [WEBRip] [1080p] [YTS.AM]'}
