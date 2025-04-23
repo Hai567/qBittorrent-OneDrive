@@ -14129,3 +14129,35 @@
 2025-04-23 15:12:37,850 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-23 15:12:37,851 - INFO - Successfully processed torrent: Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
 2025-04-23 15:12:37,851 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Beast.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]'}
+2025-04-23 15:17:37,951 - INFO - Active upload threads: 5/5
+2025-04-23 15:17:37,952 - INFO - Checking for completed torrents...
+2025-04-23 15:17:37,958 - INFO - Found 12 completed torrents
+2025-04-23 15:17:37,959 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 15:17:37,959 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-23 15:17:37,959 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-23 15:17:37,959 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-23 15:17:37,959 - INFO - Torrent Acrimony (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Acrimony (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-23 15:17:37,959 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-23 15:17:37,959 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-23 15:17:37,959 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-23 15:17:37,960 - INFO - Torrent Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-23 15:17:37,960 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-23 15:17:37,960 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-23 15:17:37,960 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-23 15:17:37,960 - INFO - Submitting 2 torrents for parallel upload
+2025-04-23 15:17:37,960 - INFO - Processing torrent: Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:17:37,960 - INFO - Processing torrent: Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:17:37,960 - INFO - Attempting to upload torrent: Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:17:37,961 - INFO - Attempting to upload torrent: Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:17:37,961 - INFO - Content path: /home/user/Desktop/torrents/Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:17:37,961 - INFO - Content path: /home/user/Desktop/torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:17:37,961 - INFO - Remote path: onedrive:Torrents/Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:17:37,961 - INFO - Remote path: onedrive:Torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:17:37,961 - INFO - Uploading torrent: Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:17:37,962 - INFO - Uploading torrent: Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:17:37,962 - INFO - Directory /home/user/Desktop/torrents/Acrimony (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-23 15:17:37,962 - INFO - Starting upload: /home/user/Desktop/torrents/Acrimony (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Acrimony (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-23 15:17:37,962 - INFO - Directory /home/user/Desktop/torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 2 files/dirs
+2025-04-23 15:17:37,962 - INFO - Starting upload: /home/user/Desktop/torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Ice Age Continental Drift Scrat Got Your Tongue (2012) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-23 15:17:37,962 - INFO - Uploading directory of size 1965.20 MB
+2025-04-23 15:17:37,962 - INFO - Uploading directory of size 1656.50 MB
