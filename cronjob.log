@@ -2457,3 +2457,12 @@
 2025-04-23 12:36:18,507 - git-cronjob - INFO - Checking for changes in repository
 2025-04-23 12:36:18,511 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
 2025-04-23 12:36:18,511 - git-cronjob - INFO - Running command: git add .
+2025-04-23 12:36:18,551 - git-cronjob - INFO - Success: 
+2025-04-23 12:36:18,551 - git-cronjob - INFO - Running command: git commit -m [bot] update crawling data
+2025-04-23 12:36:18,583 - git-cronjob - INFO - Success: [vps 38bf49f] [bot] update crawling data
+ 5 files changed, 1512 insertions(+), 12 deletions(-)
+2025-04-23 12:36:18,583 - git-cronjob - INFO - Running command: git push origin vps
+2025-04-23 12:36:19,372 - git-cronjob - ERROR - Command failed with exit code 128
+2025-04-23 12:36:19,373 - git-cronjob - ERROR - Error message: remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/Hai567/qBittorrent-OneDrive.git/'
+2025-04-23 12:36:19,373 - git-cronjob - INFO - Scheduler running. Press Ctrl+C to stop.
