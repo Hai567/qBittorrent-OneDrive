@@ -15107,3 +15107,43 @@
 2025-04-24 04:52:49,085 - INFO - Uploading directory of size 1506.07 MB
 2025-04-24 04:52:49,088 - INFO - Uploading directory of size 1763.57 MB
 2025-04-24 04:52:49,089 - INFO - Uploading directory of size 1986.21 MB
+2025-04-24 04:58:38,080 - INFO - Successfully uploaded to onedrive:Torrents/Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:58:38,081 - INFO - Verifying upload for: Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:58:38,081 - INFO - Verifying upload: /home/user/Desktop/torrents/Code 8 (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:58:40,403 - INFO - Upload verification successful for /home/user/Desktop/torrents/Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:58:40,415 - INFO - Deleting torrent from qBittorrent: Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:58:40,416 - INFO - Deleting torrent with hash 4792af704fc74900baae1a68021ac19d4dd26615 (delete_files=False)
+2025-04-24 04:58:40,428 - INFO - Successfully deleted torrent with hash 4792af704fc74900baae1a68021ac19d4dd26615
+2025-04-24 04:58:40,428 - INFO - Deleting content files: Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:58:40,429 - INFO - Deleting content: /home/user/Desktop/torrents/Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:58:40,430 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:58:40,430 - INFO - Successfully processed torrent: Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:58:40,430 - INFO - Processing torrent: Survivor (2015) [1080p]
+2025-04-24 04:58:40,431 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Code 8 (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-24 04:58:40,431 - INFO - Attempting to upload torrent: Survivor (2015) [1080p]
+2025-04-24 04:58:40,431 - INFO - Content path: /home/user/Desktop/torrents/Survivor (2015) [1080p]
+2025-04-24 04:58:40,431 - INFO - Remote path: onedrive:Torrents/Survivor (2015) [1080p]
+2025-04-24 04:58:40,431 - INFO - Uploading torrent: Survivor (2015) [1080p]
+2025-04-24 04:58:40,432 - INFO - Directory /home/user/Desktop/torrents/Survivor (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-24 04:58:40,432 - INFO - Starting upload: /home/user/Desktop/torrents/Survivor (2015) [1080p] -> onedrive:Torrents/Survivor (2015) [1080p]
+2025-04-24 04:58:40,432 - INFO - Uploading directory of size 1473.84 MB
+2025-04-24 04:58:58,853 - INFO - Successfully uploaded to onedrive:Torrents/When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:58:58,853 - INFO - Verifying upload for: When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:58:58,853 - INFO - Verifying upload: /home/user/Desktop/torrents/When We First Met (2018) [1080p] [YTS.AG] -> onedrive:Torrents/When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:59:01,390 - INFO - Upload verification successful for /home/user/Desktop/torrents/When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:59:01,401 - INFO - Deleting torrent from qBittorrent: When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:59:01,401 - INFO - Deleting torrent with hash 8b905049b8eef7e97078d364ee982b2eed1e74fa (delete_files=False)
+2025-04-24 04:59:01,411 - INFO - Successfully deleted torrent with hash 8b905049b8eef7e97078d364ee982b2eed1e74fa
+2025-04-24 04:59:01,411 - INFO - Deleting content files: When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:59:01,411 - INFO - Deleting content: /home/user/Desktop/torrents/When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:59:01,413 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:59:01,413 - INFO - Successfully processed torrent: When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:59:01,413 - INFO - Processing torrent: Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:59:01,413 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'When We First Met (2018) [1080p] [YTS.AG]'}
+2025-04-24 04:59:01,413 - INFO - Attempting to upload torrent: Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:59:01,414 - INFO - Content path: /home/user/Desktop/torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:59:01,414 - INFO - Remote path: onedrive:Torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:59:01,414 - INFO - Uploading torrent: Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:59:01,414 - INFO - Directory /home/user/Desktop/torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-24 04:59:01,414 - INFO - Starting upload: /home/user/Desktop/torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:59:01,414 - INFO - Uploading directory of size 3001.75 MB
