@@ -16082,3 +16082,15 @@
 2025-04-24 06:33:17,126 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/It Follows (2014) [1080p]
 2025-04-24 06:33:17,126 - INFO - Successfully processed torrent: It Follows (2014) [1080p]
 2025-04-24 06:33:17,126 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'It Follows (2014) [1080p]'}
+2025-04-24 06:35:56,070 - INFO - Successfully uploaded to onedrive:Torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:35:56,071 - INFO - Verifying upload for: Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:35:56,071 - INFO - Verifying upload: /home/user/Desktop/torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:35:58,364 - INFO - Upload verification successful for /home/user/Desktop/torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:35:58,378 - INFO - Deleting torrent from qBittorrent: Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:35:58,378 - INFO - Deleting torrent with hash 6bb04c72db3444cc9037657c2731cf4d96ff1163 (delete_files=False)
+2025-04-24 06:35:58,388 - INFO - Successfully deleted torrent with hash 6bb04c72db3444cc9037657c2731cf4d96ff1163
+2025-04-24 06:35:58,388 - INFO - Deleting content files: Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:35:58,388 - INFO - Deleting content: /home/user/Desktop/torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:35:58,389 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:35:58,390 - INFO - Successfully processed torrent: Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:35:58,390 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Stuber (2019) [WEBRip] [1080p] [YTS.LT]'}
