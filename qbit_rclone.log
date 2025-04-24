@@ -16451,3 +16451,27 @@
 2025-04-24 11:03:11,224 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
 2025-04-24 11:03:11,224 - INFO - Successfully processed torrent: Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
 2025-04-24 11:03:11,224 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]"}
+2025-04-24 11:06:17,678 - INFO - Successfully uploaded to onedrive:Torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 11:06:17,678 - INFO - Verifying upload for: Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 11:06:17,678 - INFO - Verifying upload: /home/user/Desktop/torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 11:06:20,721 - INFO - Upload verification successful for /home/user/Desktop/torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 11:06:20,731 - INFO - Deleting torrent from qBittorrent: Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 11:06:20,731 - INFO - Deleting torrent with hash afabbdfba96364b5f054fbbb3d68f778fe13806d (delete_files=False)
+2025-04-24 11:06:20,739 - INFO - Successfully deleted torrent with hash afabbdfba96364b5f054fbbb3d68f778fe13806d
+2025-04-24 11:06:20,739 - INFO - Deleting content files: Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 11:06:20,739 - INFO - Deleting content: /home/user/Desktop/torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 11:06:20,740 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 11:06:20,741 - INFO - Successfully processed torrent: Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 11:06:20,741 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-24 11:06:27,298 - INFO - Successfully uploaded to onedrive:Torrents/A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 11:06:27,298 - INFO - Verifying upload for: A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 11:06:27,298 - INFO - Verifying upload: /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p] -> onedrive:Torrents/A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 11:06:29,677 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 11:06:29,687 - INFO - Deleting torrent from qBittorrent: A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 11:06:29,687 - INFO - Deleting torrent with hash 89f9abffd65ead963b6c509883cdb736471ebb03 (delete_files=False)
+2025-04-24 11:06:29,694 - INFO - Successfully deleted torrent with hash 89f9abffd65ead963b6c509883cdb736471ebb03
+2025-04-24 11:06:29,694 - INFO - Deleting content files: A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 11:06:29,694 - INFO - Deleting content: /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 11:06:29,695 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 11:06:29,695 - INFO - Successfully processed torrent: A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 11:06:29,695 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A Million Ways to Die in the West (2014) [1080p]'}
