@@ -15478,3 +15478,23 @@
 2025-04-24 05:32:03,676 - INFO - Directory /home/user/Desktop/torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-24 05:32:03,676 - INFO - Starting upload: /home/user/Desktop/torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
 2025-04-24 05:32:03,676 - INFO - Uploading directory of size 2130.29 MB
+2025-04-24 05:37:07,696 - INFO - Successfully uploaded to onedrive:Torrents/Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:37:07,696 - INFO - Verifying upload for: Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:37:07,697 - INFO - Verifying upload: /home/user/Desktop/torrents/Mine (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:37:09,962 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:37:09,976 - INFO - Deleting torrent from qBittorrent: Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:37:09,976 - INFO - Deleting torrent with hash 9b22b01a78331bc8eb2fcd851a4ab86a7c7f9168 (delete_files=False)
+2025-04-24 05:37:09,986 - INFO - Successfully deleted torrent with hash 9b22b01a78331bc8eb2fcd851a4ab86a7c7f9168
+2025-04-24 05:37:09,986 - INFO - Deleting content files: Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:37:09,986 - INFO - Deleting content: /home/user/Desktop/torrents/Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:37:09,988 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:37:09,988 - INFO - Successfully processed torrent: Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:37:09,988 - INFO - Processing torrent: Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:37:09,988 - INFO - Attempting to upload torrent: Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:37:09,989 - INFO - Content path: /home/user/Desktop/torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:37:09,989 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Mine (2016) [1080p] [YTS.AG]'}
+2025-04-24 05:37:09,989 - INFO - Remote path: onedrive:Torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:37:09,989 - INFO - Uploading torrent: Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:37:09,989 - INFO - Directory /home/user/Desktop/torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-24 05:37:09,990 - INFO - Starting upload: /home/user/Desktop/torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:37:09,990 - INFO - Uploading directory of size 1538.16 MB
