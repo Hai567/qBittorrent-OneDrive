@@ -15638,3 +15638,79 @@
 2025-04-24 05:50:12,415 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
 2025-04-24 05:50:12,415 - INFO - Successfully processed torrent: Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
 2025-04-24 05:50:12,416 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]'}
+2025-04-24 05:55:12,515 - INFO - Active upload threads: 5/5
+2025-04-24 05:55:12,515 - INFO - Checking for completed torrents...
+2025-04-24 05:55:12,529 - INFO - Found 32 completed torrents
+2025-04-24 05:55:12,529 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 05:55:12,529 - INFO - Torrent The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-24 05:55:12,529 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 05:55:12,529 - INFO - Torrent The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-24 05:55:12,529 - INFO - Torrent Star Trek (2009) [1080p]: content_path = /home/user/Desktop/torrents/Star Trek (2009) [1080p], exists: True
+2025-04-24 05:55:12,529 - INFO - Torrent SAW I UNRATED (2004) [1080p]: content_path = /home/user/Desktop/torrents/SAW I UNRATED (2004) [1080p], exists: True
+2025-04-24 05:55:12,529 - INFO - Torrent Vice (2015) [1080p]: content_path = /home/user/Desktop/torrents/Vice (2015) [1080p], exists: True
+2025-04-24 05:55:12,529 - INFO - Torrent Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-24 05:55:12,530 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 05:55:12,530 - INFO - Torrent The Other Woman (2014) [1080p]: content_path = /home/user/Desktop/torrents/The Other Woman (2014) [1080p], exists: True
+2025-04-24 05:55:12,530 - INFO - Torrent Epic (2013) [1080p]: content_path = /home/user/Desktop/torrents/Epic (2013) [1080p], exists: True
+2025-04-24 05:55:12,530 - INFO - Torrent The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG], exists: True
+2025-04-24 05:55:12,530 - INFO - Torrent The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-24 05:55:12,530 - INFO - Torrent The Cabin in the Woods (2011) [1080p]: content_path = /home/user/Desktop/torrents/The Cabin in the Woods (2011) [1080p], exists: True
+2025-04-24 05:55:12,530 - INFO - Torrent Die Hard 3 (1995) [1080p]: content_path = /home/user/Desktop/torrents/Die Hard 3 (1995) [1080p], exists: True
+2025-04-24 05:55:12,530 - INFO - Torrent Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-24 05:55:12,530 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 05:55:12,530 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 05:55:12,530 - INFO - Torrent The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-24 05:55:12,530 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 05:55:12,530 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 05:55:12,530 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 05:55:12,530 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 05:55:12,530 - INFO - Torrent Foxcatcher (2014) [1080p]: content_path = /home/user/Desktop/torrents/Foxcatcher (2014) [1080p], exists: True
+2025-04-24 05:55:12,530 - INFO - Torrent The Cloverfield Paradox (2018) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Cloverfield Paradox (2018) [1080p] [YTS.AG], exists: True
+2025-04-24 05:55:12,531 - INFO - Torrent Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-24 05:55:12,531 - INFO - Torrent Evil Dead (2013) [1080p]: content_path = /home/user/Desktop/torrents/Evil Dead (2013) [1080p], exists: True
+2025-04-24 05:55:12,531 - INFO - Skipping already processed torrent: Jurassic Park III (2001) [1080p]
+2025-04-24 05:55:12,531 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 05:55:12,531 - INFO - Torrent Resident Evil Afterlife (2010) [1080p]: content_path = /home/user/Desktop/torrents/Resident Evil Afterlife (2010) [1080p], exists: True
+2025-04-24 05:55:12,531 - INFO - Torrent It Follows (2014) [1080p]: content_path = /home/user/Desktop/torrents/It Follows (2014) [1080p], exists: True
+2025-04-24 05:55:12,531 - INFO - Torrent Stuber (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-24 05:55:12,531 - INFO - Submitting 21 torrents for parallel upload
+2025-04-24 05:55:12,531 - INFO - Processing torrent: The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:55:12,532 - INFO - Processing torrent: The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:55:12,532 - INFO - Attempting to upload torrent: The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:55:12,532 - INFO - Processing torrent: Star Trek (2009) [1080p]
+2025-04-24 05:55:12,532 - INFO - Processing torrent: SAW I UNRATED (2004) [1080p]
+2025-04-24 05:55:12,532 - INFO - Processing torrent: Vice (2015) [1080p]
+2025-04-24 05:55:12,532 - INFO - Attempting to upload torrent: The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:55:12,533 - INFO - Content path: /home/user/Desktop/torrents/The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:55:12,533 - INFO - Attempting to upload torrent: Star Trek (2009) [1080p]
+2025-04-24 05:55:12,533 - INFO - Attempting to upload torrent: SAW I UNRATED (2004) [1080p]
+2025-04-24 05:55:12,533 - INFO - Attempting to upload torrent: Vice (2015) [1080p]
+2025-04-24 05:55:12,533 - INFO - Content path: /home/user/Desktop/torrents/The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:55:12,533 - INFO - Remote path: onedrive:Torrents/The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:55:12,534 - INFO - Content path: /home/user/Desktop/torrents/Star Trek (2009) [1080p]
+2025-04-24 05:55:12,534 - INFO - Content path: /home/user/Desktop/torrents/SAW I UNRATED (2004) [1080p]
+2025-04-24 05:55:12,534 - INFO - Content path: /home/user/Desktop/torrents/Vice (2015) [1080p]
+2025-04-24 05:55:12,534 - INFO - Remote path: onedrive:Torrents/The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:55:12,534 - INFO - Uploading torrent: The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:55:12,534 - INFO - Remote path: onedrive:Torrents/Star Trek (2009) [1080p]
+2025-04-24 05:55:12,534 - INFO - Remote path: onedrive:Torrents/SAW I UNRATED (2004) [1080p]
+2025-04-24 05:55:12,535 - INFO - Remote path: onedrive:Torrents/Vice (2015) [1080p]
+2025-04-24 05:55:12,535 - INFO - Uploading torrent: The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:55:12,535 - INFO - Uploading torrent: Star Trek (2009) [1080p]
+2025-04-24 05:55:12,535 - INFO - Uploading torrent: SAW I UNRATED (2004) [1080p]
+2025-04-24 05:55:12,535 - INFO - Directory /home/user/Desktop/torrents/The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-24 05:55:12,536 - INFO - Uploading torrent: Vice (2015) [1080p]
+2025-04-24 05:55:12,536 - INFO - Starting upload: /home/user/Desktop/torrents/The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:55:12,537 - INFO - Directory /home/user/Desktop/torrents/The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-24 05:55:12,537 - INFO - Directory /home/user/Desktop/torrents/SAW I UNRATED (2004) [1080p] is readable, contains 3 files/dirs
+2025-04-24 05:55:12,537 - INFO - Starting upload: /home/user/Desktop/torrents/The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:55:12,537 - INFO - Directory /home/user/Desktop/torrents/Star Trek (2009) [1080p] is readable, contains 4 files/dirs
+2025-04-24 05:55:12,537 - INFO - Directory /home/user/Desktop/torrents/Vice (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-24 05:55:12,537 - INFO - Uploading directory of size 2233.19 MB
+2025-04-24 05:55:12,538 - INFO - Starting upload: /home/user/Desktop/torrents/SAW I UNRATED (2004) [1080p] -> onedrive:Torrents/SAW I UNRATED (2004) [1080p]
+2025-04-24 05:55:12,538 - INFO - Starting upload: /home/user/Desktop/torrents/Star Trek (2009) [1080p] -> onedrive:Torrents/Star Trek (2009) [1080p]
+2025-04-24 05:55:12,539 - INFO - Starting upload: /home/user/Desktop/torrents/Vice (2015) [1080p] -> onedrive:Torrents/Vice (2015) [1080p]
+2025-04-24 05:55:12,539 - INFO - Uploading directory of size 2412.87 MB
+2025-04-24 05:55:12,541 - INFO - Uploading directory of size 1536.08 MB
+2025-04-24 05:55:12,542 - INFO - Uploading directory of size 1473.49 MB
+2025-04-24 05:55:12,543 - INFO - Uploading directory of size 1534.27 MB
