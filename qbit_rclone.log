@@ -15398,3 +15398,83 @@
 2025-04-24 05:27:15,479 - INFO - Directory /home/user/Desktop/torrents/Miss Sloane (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-24 05:27:15,479 - INFO - Starting upload: /home/user/Desktop/torrents/Miss Sloane (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Miss Sloane (2016) [1080p] [YTS.AG]
 2025-04-24 05:27:15,479 - INFO - Uploading directory of size 2059.14 MB
+2025-04-24 05:30:19,424 - INFO - Successfully uploaded to onedrive:Torrents/Stillwater (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:30:19,425 - INFO - Verifying upload for: Stillwater (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:30:19,425 - INFO - Verifying upload: /home/user/Desktop/torrents/Stillwater (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Stillwater (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:30:22,016 - INFO - Upload verification successful for /home/user/Desktop/torrents/Stillwater (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:30:22,034 - INFO - Deleting torrent from qBittorrent: Stillwater (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:30:22,034 - INFO - Deleting torrent with hash d6a6786b2b8377efd799eb1da14c9016b5615720 (delete_files=False)
+2025-04-24 05:30:22,047 - INFO - Successfully deleted torrent with hash d6a6786b2b8377efd799eb1da14c9016b5615720
+2025-04-24 05:30:22,047 - INFO - Deleting content files: Stillwater (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:30:22,047 - INFO - Deleting content: /home/user/Desktop/torrents/Stillwater (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:30:22,050 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Stillwater (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:30:22,050 - INFO - Successfully processed torrent: Stillwater (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:30:22,051 - INFO - Processing torrent: Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:30:22,051 - INFO - Attempting to upload torrent: Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:30:22,051 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Stillwater (2021) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-24 05:30:22,051 - INFO - Content path: /home/user/Desktop/torrents/Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:30:22,052 - INFO - Remote path: onedrive:Torrents/Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:30:22,052 - INFO - Uploading torrent: Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:30:22,052 - INFO - Directory /home/user/Desktop/torrents/Mine (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 05:30:22,052 - INFO - Starting upload: /home/user/Desktop/torrents/Mine (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Mine (2016) [1080p] [YTS.AG]
+2025-04-24 05:30:22,052 - INFO - Uploading directory of size 1651.90 MB
+2025-04-24 05:31:17,420 - INFO - Successfully uploaded to onedrive:Torrents/Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:31:17,420 - INFO - Verifying upload for: Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:31:17,420 - INFO - Verifying upload: /home/user/Desktop/torrents/Dragonheart 3 The Sorcerer's Curse (2015) [1080p] -> onedrive:Torrents/Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:31:20,250 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:31:20,263 - INFO - Deleting torrent from qBittorrent: Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:31:20,263 - INFO - Deleting torrent with hash cd0bc34292d4a5aa9a8b04ab916158c1e9f6bfdd (delete_files=False)
+2025-04-24 05:31:20,273 - INFO - Successfully deleted torrent with hash cd0bc34292d4a5aa9a8b04ab916158c1e9f6bfdd
+2025-04-24 05:31:20,273 - INFO - Deleting content files: Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:31:20,273 - INFO - Deleting content: /home/user/Desktop/torrents/Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:31:20,274 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:31:20,275 - INFO - Successfully processed torrent: Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:31:20,275 - INFO - Processing torrent: Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:31:20,275 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "Dragonheart 3 The Sorcerer's Curse (2015) [1080p]"}
+2025-04-24 05:31:20,275 - INFO - Attempting to upload torrent: Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:31:20,275 - INFO - Content path: /home/user/Desktop/torrents/Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:31:20,275 - INFO - Remote path: onedrive:Torrents/Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:31:20,276 - INFO - Uploading torrent: Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:31:20,276 - INFO - Directory /home/user/Desktop/torrents/Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-24 05:31:20,276 - INFO - Starting upload: /home/user/Desktop/torrents/Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:31:20,276 - INFO - Uploading directory of size 2335.09 MB
+2025-04-24 05:31:42,819 - INFO - Successfully uploaded to onedrive:Torrents/28 Days Later... (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:31:42,819 - INFO - Verifying upload for: 28 Days Later... (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:31:42,820 - INFO - Verifying upload: /home/user/Desktop/torrents/28 Days Later... (2002) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/28 Days Later... (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:31:45,600 - INFO - Upload verification successful for /home/user/Desktop/torrents/28 Days Later... (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:31:45,611 - INFO - Deleting torrent from qBittorrent: 28 Days Later... (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:31:45,612 - INFO - Deleting torrent with hash 100abf40a2370cd71e9f16461153cc8533476e17 (delete_files=False)
+2025-04-24 05:31:45,623 - INFO - Successfully deleted torrent with hash 100abf40a2370cd71e9f16461153cc8533476e17
+2025-04-24 05:31:45,623 - INFO - Deleting content files: 28 Days Later... (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:31:45,623 - INFO - Deleting content: /home/user/Desktop/torrents/28 Days Later... (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:31:45,625 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/28 Days Later... (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:31:45,625 - INFO - Successfully processed torrent: 28 Days Later... (2002) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:31:45,625 - INFO - Processing torrent: A Walk to Remember (2002) [1080p]
+2025-04-24 05:31:45,625 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': '28 Days Later... (2002) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-24 05:31:45,625 - INFO - Attempting to upload torrent: A Walk to Remember (2002) [1080p]
+2025-04-24 05:31:45,626 - INFO - Content path: /home/user/Desktop/torrents/A Walk to Remember (2002) [1080p]
+2025-04-24 05:31:45,626 - INFO - Remote path: onedrive:Torrents/A Walk to Remember (2002) [1080p]
+2025-04-24 05:31:45,626 - INFO - Uploading torrent: A Walk to Remember (2002) [1080p]
+2025-04-24 05:31:45,626 - INFO - Directory /home/user/Desktop/torrents/A Walk to Remember (2002) [1080p] is readable, contains 2 files/dirs
+2025-04-24 05:31:45,626 - INFO - Starting upload: /home/user/Desktop/torrents/A Walk to Remember (2002) [1080p] -> onedrive:Torrents/A Walk to Remember (2002) [1080p]
+2025-04-24 05:31:45,626 - INFO - Uploading directory of size 1671.86 MB
+2025-04-24 05:32:01,132 - INFO - Successfully uploaded to onedrive:Torrents/Bonhoeffer Pastor. Spy. Assassin. (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 05:32:01,133 - INFO - Verifying upload for: Bonhoeffer Pastor. Spy. Assassin. (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 05:32:01,133 - INFO - Verifying upload: /home/user/Desktop/torrents/Bonhoeffer Pastor. Spy. Assassin. (2024) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/Bonhoeffer Pastor. Spy. Assassin. (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 05:32:03,650 - INFO - Upload verification successful for /home/user/Desktop/torrents/Bonhoeffer Pastor. Spy. Assassin. (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 05:32:03,663 - INFO - Deleting torrent from qBittorrent: Bonhoeffer Pastor. Spy. Assassin. (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 05:32:03,664 - INFO - Deleting torrent with hash 2441528401712a75b27af21b214de95f228d48e1 (delete_files=False)
+2025-04-24 05:32:03,672 - INFO - Successfully deleted torrent with hash 2441528401712a75b27af21b214de95f228d48e1
+2025-04-24 05:32:03,673 - INFO - Deleting content files: Bonhoeffer Pastor. Spy. Assassin. (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 05:32:03,673 - INFO - Deleting content: /home/user/Desktop/torrents/Bonhoeffer Pastor. Spy. Assassin. (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 05:32:03,674 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Bonhoeffer Pastor. Spy. Assassin. (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 05:32:03,675 - INFO - Successfully processed torrent: Bonhoeffer Pastor. Spy. Assassin. (2024) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 05:32:03,675 - INFO - Processing torrent: Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:32:03,675 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Bonhoeffer Pastor. Spy. Assassin. (2024) [1080p] [WEBRip] [YTS.MX]'}
+2025-04-24 05:32:03,675 - INFO - Attempting to upload torrent: Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:32:03,675 - INFO - Content path: /home/user/Desktop/torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:32:03,675 - INFO - Remote path: onedrive:Torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:32:03,676 - INFO - Uploading torrent: Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:32:03,676 - INFO - Directory /home/user/Desktop/torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-24 05:32:03,676 - INFO - Starting upload: /home/user/Desktop/torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:32:03,676 - INFO - Uploading directory of size 2130.29 MB
