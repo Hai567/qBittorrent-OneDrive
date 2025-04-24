@@ -16553,3 +16553,27 @@
 2025-04-24 11:44:41,845 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
 2025-04-24 11:44:41,845 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
 2025-04-24 11:44:41,845 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 11:49:41,945 - INFO - Active upload threads: 5/5
+2025-04-24 11:49:41,945 - INFO - Checking for completed torrents...
+2025-04-24 11:49:41,951 - INFO - Found 12 completed torrents
+2025-04-24 11:49:41,951 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 11:49:41,951 - INFO - Skipping already processed torrent: Jurassic Park III (2001) [1080p]
+2025-04-24 11:49:41,951 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 11:49:41,951 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 11:49:41,951 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 11:49:41,951 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 11:49:41,951 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 11:49:41,952 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 11:49:41,952 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 11:49:41,952 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 11:49:41,952 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 11:49:41,952 - INFO - Torrent Terminal (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-24 11:49:41,952 - INFO - Submitting 1 torrents for parallel upload
+2025-04-24 11:49:41,952 - INFO - Processing torrent: Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:49:41,952 - INFO - Attempting to upload torrent: Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:49:41,952 - INFO - Content path: /home/user/Desktop/torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:49:41,952 - INFO - Remote path: onedrive:Torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:49:41,952 - INFO - Uploading torrent: Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:49:41,953 - INFO - Directory /home/user/Desktop/torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-24 11:49:41,953 - INFO - Starting upload: /home/user/Desktop/torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:49:41,953 - INFO - Uploading directory of size 1567.27 MB
