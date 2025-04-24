@@ -15498,3 +15498,83 @@
 2025-04-24 05:37:09,989 - INFO - Directory /home/user/Desktop/torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
 2025-04-24 05:37:09,990 - INFO - Starting upload: /home/user/Desktop/torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-24 05:37:09,990 - INFO - Uploading directory of size 1538.16 MB
+2025-04-24 05:40:06,161 - INFO - Successfully uploaded to onedrive:Torrents/A Walk to Remember (2002) [1080p]
+2025-04-24 05:40:06,162 - INFO - Verifying upload for: A Walk to Remember (2002) [1080p]
+2025-04-24 05:40:06,162 - INFO - Verifying upload: /home/user/Desktop/torrents/A Walk to Remember (2002) [1080p] -> onedrive:Torrents/A Walk to Remember (2002) [1080p]
+2025-04-24 05:40:08,569 - INFO - Upload verification successful for /home/user/Desktop/torrents/A Walk to Remember (2002) [1080p]
+2025-04-24 05:40:08,581 - INFO - Deleting torrent from qBittorrent: A Walk to Remember (2002) [1080p]
+2025-04-24 05:40:08,582 - INFO - Deleting torrent with hash 5f19f9875794114ae4241e4929f4542a388f6e52 (delete_files=False)
+2025-04-24 05:40:08,591 - INFO - Successfully deleted torrent with hash 5f19f9875794114ae4241e4929f4542a388f6e52
+2025-04-24 05:40:08,591 - INFO - Deleting content files: A Walk to Remember (2002) [1080p]
+2025-04-24 05:40:08,591 - INFO - Deleting content: /home/user/Desktop/torrents/A Walk to Remember (2002) [1080p]
+2025-04-24 05:40:08,592 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Walk to Remember (2002) [1080p]
+2025-04-24 05:40:08,592 - INFO - Successfully processed torrent: A Walk to Remember (2002) [1080p]
+2025-04-24 05:40:08,593 - INFO - Processing torrent: Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:40:08,593 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A Walk to Remember (2002) [1080p]'}
+2025-04-24 05:40:08,593 - INFO - Attempting to upload torrent: Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:40:08,594 - INFO - Content path: /home/user/Desktop/torrents/Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:40:08,594 - INFO - Remote path: onedrive:Torrents/Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:40:08,594 - INFO - Uploading torrent: Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:40:08,594 - INFO - Directory /home/user/Desktop/torrents/Indiana Jones and the Raiders of the Lost Ark (1981) [1080p] is readable, contains 3 files/dirs
+2025-04-24 05:40:08,594 - INFO - Starting upload: /home/user/Desktop/torrents/Indiana Jones and the Raiders of the Lost Ark (1981) [1080p] -> onedrive:Torrents/Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:40:08,594 - INFO - Uploading directory of size 1746.72 MB
+2025-04-24 05:41:43,044 - INFO - Successfully uploaded to onedrive:Torrents/Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:41:43,044 - INFO - Verifying upload for: Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:41:43,045 - INFO - Verifying upload: /home/user/Desktop/torrents/Miss Sloane (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:41:45,369 - INFO - Upload verification successful for /home/user/Desktop/torrents/Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:41:45,384 - INFO - Deleting torrent from qBittorrent: Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:41:45,384 - INFO - Deleting torrent with hash 3321145d3ffb4feb6a5a48c9285a154e7f99c3ef (delete_files=False)
+2025-04-24 05:41:45,394 - INFO - Successfully deleted torrent with hash 3321145d3ffb4feb6a5a48c9285a154e7f99c3ef
+2025-04-24 05:41:45,394 - INFO - Deleting content files: Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:41:45,394 - INFO - Deleting content: /home/user/Desktop/torrents/Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:41:45,395 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:41:45,395 - INFO - Successfully processed torrent: Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:41:45,395 - INFO - Processing torrent: Aloha (2015) [1080p]
+2025-04-24 05:41:45,395 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Miss Sloane (2016) [1080p] [YTS.AG]'}
+2025-04-24 05:41:45,395 - INFO - Attempting to upload torrent: Aloha (2015) [1080p]
+2025-04-24 05:41:45,396 - INFO - Content path: /home/user/Desktop/torrents/Aloha (2015) [1080p]
+2025-04-24 05:41:45,396 - INFO - Remote path: onedrive:Torrents/Aloha (2015) [1080p]
+2025-04-24 05:41:45,396 - INFO - Uploading torrent: Aloha (2015) [1080p]
+2025-04-24 05:41:45,396 - INFO - Directory /home/user/Desktop/torrents/Aloha (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-24 05:41:45,396 - INFO - Starting upload: /home/user/Desktop/torrents/Aloha (2015) [1080p] -> onedrive:Torrents/Aloha (2015) [1080p]
+2025-04-24 05:41:45,396 - INFO - Uploading directory of size 1681.76 MB
+2025-04-24 05:41:53,984 - INFO - Successfully uploaded to onedrive:Torrents/Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:41:53,984 - INFO - Verifying upload for: Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:41:53,984 - INFO - Verifying upload: /home/user/Desktop/torrents/Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:41:56,290 - INFO - Upload verification successful for /home/user/Desktop/torrents/Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:41:56,305 - INFO - Deleting torrent from qBittorrent: Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:41:56,305 - INFO - Deleting torrent with hash 24bb62799c402a5c2278ae0e57180a5b5971fa83 (delete_files=False)
+2025-04-24 05:41:56,315 - INFO - Successfully deleted torrent with hash 24bb62799c402a5c2278ae0e57180a5b5971fa83
+2025-04-24 05:41:56,315 - INFO - Deleting content files: Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:41:56,316 - INFO - Deleting content: /home/user/Desktop/torrents/Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:41:56,317 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:41:56,317 - INFO - Successfully processed torrent: Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 05:41:56,317 - INFO - Processing torrent: The Raid Redemption (2011) [1080p]
+2025-04-24 05:41:56,318 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Bad Times At The El Royale (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-24 05:41:56,318 - INFO - Attempting to upload torrent: The Raid Redemption (2011) [1080p]
+2025-04-24 05:41:56,319 - INFO - Content path: /home/user/Desktop/torrents/The Raid Redemption (2011) [1080p]
+2025-04-24 05:41:56,319 - INFO - Remote path: onedrive:Torrents/The Raid Redemption (2011) [1080p]
+2025-04-24 05:41:56,319 - INFO - Uploading torrent: The Raid Redemption (2011) [1080p]
+2025-04-24 05:41:56,319 - INFO - Directory /home/user/Desktop/torrents/The Raid Redemption (2011) [1080p] is readable, contains 3 files/dirs
+2025-04-24 05:41:56,319 - INFO - Starting upload: /home/user/Desktop/torrents/The Raid Redemption (2011) [1080p] -> onedrive:Torrents/The Raid Redemption (2011) [1080p]
+2025-04-24 05:41:56,319 - INFO - Uploading directory of size 1637.17 MB
+2025-04-24 05:43:51,111 - INFO - Successfully uploaded to onedrive:Torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:43:51,111 - INFO - Verifying upload for: Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:43:51,111 - INFO - Verifying upload: /home/user/Desktop/torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:43:53,866 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:43:53,880 - INFO - Deleting torrent from qBittorrent: Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:43:53,880 - INFO - Deleting torrent with hash ef8632b43a888f30a04e2254c34c43281967ad5b (delete_files=False)
+2025-04-24 05:43:53,889 - INFO - Successfully deleted torrent with hash ef8632b43a888f30a04e2254c34c43281967ad5b
+2025-04-24 05:43:53,889 - INFO - Deleting content files: Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:43:53,889 - INFO - Deleting content: /home/user/Desktop/torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:43:53,891 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:43:53,891 - INFO - Successfully processed torrent: Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 05:43:53,892 - INFO - Processing torrent: Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:43:53,892 - INFO - Attempting to upload torrent: Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:43:53,892 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Mary Poppins Returns (2018) [BluRay] [1080p] [YTS.AM]'}
+2025-04-24 05:43:53,893 - INFO - Content path: /home/user/Desktop/torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:43:53,893 - INFO - Remote path: onedrive:Torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:43:53,893 - INFO - Uploading torrent: Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:43:53,893 - INFO - Directory /home/user/Desktop/torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 05:43:53,893 - INFO - Starting upload: /home/user/Desktop/torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:43:53,893 - INFO - Uploading directory of size 1526.21 MB
