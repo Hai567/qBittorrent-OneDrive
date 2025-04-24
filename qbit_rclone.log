@@ -15914,3 +15914,43 @@
 2025-04-24 06:15:10,823 - INFO - Directory /home/user/Desktop/torrents/Foxcatcher (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-24 06:15:10,823 - INFO - Starting upload: /home/user/Desktop/torrents/Foxcatcher (2014) [1080p] -> onedrive:Torrents/Foxcatcher (2014) [1080p]
 2025-04-24 06:15:10,823 - INFO - Uploading directory of size 1999.48 MB
+2025-04-24 06:17:13,404 - INFO - Successfully uploaded to onedrive:Torrents/The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:17:13,405 - INFO - Verifying upload for: The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:17:13,405 - INFO - Verifying upload: /home/user/Desktop/torrents/The Cabin in the Woods (2011) [1080p] -> onedrive:Torrents/The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:17:16,296 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:17:16,312 - INFO - Deleting torrent from qBittorrent: The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:17:16,312 - INFO - Deleting torrent with hash ee48ac557b1abe606d87f9c89758498f5ad660ba (delete_files=False)
+2025-04-24 06:17:16,323 - INFO - Successfully deleted torrent with hash ee48ac557b1abe606d87f9c89758498f5ad660ba
+2025-04-24 06:17:16,324 - INFO - Deleting content files: The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:17:16,324 - INFO - Deleting content: /home/user/Desktop/torrents/The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:17:16,325 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:17:16,325 - INFO - Successfully processed torrent: The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:17:16,326 - INFO - Processing torrent: The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:17:16,326 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Cabin in the Woods (2011) [1080p]'}
+2025-04-24 06:17:16,326 - INFO - Attempting to upload torrent: The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:17:16,326 - INFO - Content path: /home/user/Desktop/torrents/The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:17:16,326 - INFO - Remote path: onedrive:Torrents/The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:17:16,326 - INFO - Uploading torrent: The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:17:16,327 - INFO - Directory /home/user/Desktop/torrents/The Cloverfield Paradox (2018) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 06:17:16,327 - INFO - Starting upload: /home/user/Desktop/torrents/The Cloverfield Paradox (2018) [1080p] [YTS.AG] -> onedrive:Torrents/The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:17:16,327 - INFO - Uploading directory of size 1591.75 MB
+2025-04-24 06:20:03,760 - INFO - Successfully uploaded to onedrive:Torrents/Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:20:03,761 - INFO - Verifying upload for: Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:20:03,761 - INFO - Verifying upload: /home/user/Desktop/torrents/Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:20:06,737 - INFO - Upload verification successful for /home/user/Desktop/torrents/Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:20:06,778 - INFO - Deleting torrent from qBittorrent: Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:20:06,778 - INFO - Deleting torrent with hash 3f9aff0bc529d1d23f3e75ce08fdec6559109c46 (delete_files=False)
+2025-04-24 06:20:06,791 - INFO - Successfully deleted torrent with hash 3f9aff0bc529d1d23f3e75ce08fdec6559109c46
+2025-04-24 06:20:06,791 - INFO - Deleting content files: Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:20:06,791 - INFO - Deleting content: /home/user/Desktop/torrents/Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:20:06,794 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:20:06,794 - INFO - Successfully processed torrent: Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:20:06,794 - INFO - Processing torrent: Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:20:06,794 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-24 06:20:06,795 - INFO - Attempting to upload torrent: Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:20:06,795 - INFO - Content path: /home/user/Desktop/torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:20:06,795 - INFO - Remote path: onedrive:Torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:20:06,795 - INFO - Uploading torrent: Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:20:06,795 - INFO - Directory /home/user/Desktop/torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-24 06:20:06,795 - INFO - Starting upload: /home/user/Desktop/torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:20:06,796 - INFO - Uploading directory of size 1895.61 MB
