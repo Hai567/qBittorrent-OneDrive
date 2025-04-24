@@ -15794,3 +15794,6 @@
 2025-04-24 06:05:10,495 - INFO - Directory /home/user/Desktop/torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-24 06:05:10,495 - INFO - Starting upload: /home/user/Desktop/torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
 2025-04-24 06:05:10,495 - INFO - Uploading directory of size 1419.72 MB
+2025-04-24 06:10:15,154 - INFO - Successfully uploaded to onedrive:Torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:10:15,155 - INFO - Verifying upload for: Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:10:15,155 - INFO - Verifying upload: /home/user/Desktop/torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
