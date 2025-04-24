@@ -16202,3 +16202,116 @@
 2025-04-24 06:48:40,146 - INFO - Directory /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-24 06:48:40,146 - INFO - Starting upload: /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
 2025-04-24 06:48:40,146 - INFO - Uploading directory of size 2267.16 MB
+2025-04-24 06:50:48,516 - INFO - Successfully uploaded to onedrive:Torrents/Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:50:48,517 - INFO - Verifying upload for: Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:50:48,518 - INFO - Verifying upload: /home/user/Desktop/torrents/Long Shot (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:50:51,774 - INFO - Upload verification successful for /home/user/Desktop/torrents/Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:50:51,788 - INFO - Deleting torrent from qBittorrent: Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:50:51,788 - INFO - Deleting torrent with hash 7019d584301272bb2a43db8e1cfad69e7c309da9 (delete_files=False)
+2025-04-24 06:50:51,800 - INFO - Successfully deleted torrent with hash 7019d584301272bb2a43db8e1cfad69e7c309da9
+2025-04-24 06:50:51,800 - INFO - Deleting content files: Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:50:51,800 - INFO - Deleting content: /home/user/Desktop/torrents/Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:50:51,802 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:50:51,803 - INFO - Successfully processed torrent: Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:50:51,803 - INFO - Processing torrent: Alice in Wonderland (2010) [1080p]
+2025-04-24 06:50:51,803 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Long Shot (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-24 06:50:51,803 - INFO - Attempting to upload torrent: Alice in Wonderland (2010) [1080p]
+2025-04-24 06:50:51,804 - INFO - Content path: /home/user/Desktop/torrents/Alice in Wonderland (2010) [1080p]
+2025-04-24 06:50:51,804 - INFO - Remote path: onedrive:Torrents/Alice in Wonderland (2010) [1080p]
+2025-04-24 06:50:51,804 - INFO - Uploading torrent: Alice in Wonderland (2010) [1080p]
+2025-04-24 06:50:51,804 - INFO - Directory /home/user/Desktop/torrents/Alice in Wonderland (2010) [1080p] is readable, contains 2 files/dirs
+2025-04-24 06:50:51,805 - INFO - Starting upload: /home/user/Desktop/torrents/Alice in Wonderland (2010) [1080p] -> onedrive:Torrents/Alice in Wonderland (2010) [1080p]
+2025-04-24 06:50:51,805 - INFO - Uploading directory of size 1684.05 MB
+2025-04-24 06:53:47,635 - INFO - Successfully uploaded to onedrive:Torrents/Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:53:47,635 - INFO - Verifying upload for: Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:53:47,636 - INFO - Verifying upload: /home/user/Desktop/torrents/Anon (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:53:49,943 - INFO - Upload verification successful for /home/user/Desktop/torrents/Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:53:49,955 - INFO - Deleting torrent from qBittorrent: Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:53:49,955 - INFO - Deleting torrent with hash 49a5322578ca9fc4e9a7ed32a2fdaea9f2166e57 (delete_files=False)
+2025-04-24 06:53:49,966 - INFO - Successfully deleted torrent with hash 49a5322578ca9fc4e9a7ed32a2fdaea9f2166e57
+2025-04-24 06:53:49,966 - INFO - Deleting content files: Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:53:49,966 - INFO - Deleting content: /home/user/Desktop/torrents/Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:53:49,967 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:53:49,967 - INFO - Successfully processed torrent: Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:53:49,968 - INFO - Processing torrent: Room (2015) [1080p] [YTS.AG]
+2025-04-24 06:53:49,968 - INFO - Attempting to upload torrent: Room (2015) [1080p] [YTS.AG]
+2025-04-24 06:53:49,968 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Anon (2018) [BluRay] [1080p] [YTS.AM]'}
+2025-04-24 06:53:49,968 - INFO - Content path: /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG]
+2025-04-24 06:53:49,968 - INFO - Remote path: onedrive:Torrents/Room (2015) [1080p] [YTS.AG]
+2025-04-24 06:53:49,968 - INFO - Uploading torrent: Room (2015) [1080p] [YTS.AG]
+2025-04-24 06:53:49,968 - INFO - Directory /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 06:53:49,968 - INFO - Starting upload: /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Room (2015) [1080p] [YTS.AG]
+2025-04-24 06:53:49,969 - INFO - Uploading directory of size 1829.38 MB
+2025-04-24 10:23:32,523 - INFO - Loaded configuration from config.json
+2025-04-24 10:23:32,523 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-24 10:23:32,526 - INFO - Loaded 1277 previously processed torrents
+2025-04-24 10:23:32,527 - INFO - Multithreaded uploading enabled with 5 workers
+2025-04-24 10:23:32,606 - INFO - Found onedrive remote in rclone configuration
+2025-04-24 10:23:32,610 - INFO - Successfully logged in to qBittorrent
+2025-04-24 10:23:32,610 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-24 10:23:32,610 - INFO - Running in multithreaded mode with 5 upload workers
+2025-04-24 10:23:32,610 - INFO - Active upload threads: 0/5
+2025-04-24 10:23:32,610 - INFO - Checking for completed torrents...
+2025-04-24 10:23:32,616 - INFO - Found 21 completed torrents
+2025-04-24 10:23:32,617 - INFO - Torrent Alice in Wonderland (2010) [1080p]: content_path = /home/user/Desktop/torrents/Alice in Wonderland (2010) [1080p], exists: True
+2025-04-24 10:23:32,617 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 10:23:32,617 - INFO - Skipping already processed torrent: Jurassic Park III (2001) [1080p]
+2025-04-24 10:23:32,617 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 10:23:32,617 - INFO - Torrent Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG], exists: True
+2025-04-24 10:23:32,617 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 10:23:32,617 - INFO - Torrent Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]: content_path = /home/user/Desktop/torrents/Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx], exists: True
+2025-04-24 10:23:32,617 - INFO - Torrent Widows (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-24 10:23:32,617 - INFO - Torrent Security (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Security (2017) [1080p] [YTS.AG], exists: True
+2025-04-24 10:23:32,617 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 10:23:32,617 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 10:23:32,617 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 10:23:32,617 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 10:23:32,617 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 10:23:32,617 - INFO - Torrent Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-24 10:23:32,617 - INFO - Torrent Die Hard 2 (1990) [1080p]: content_path = /home/user/Desktop/torrents/Die Hard 2 (1990) [1080p], exists: True
+2025-04-24 10:23:32,617 - INFO - Torrent Room (2015) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG], exists: True
+2025-04-24 10:23:32,618 - INFO - Torrent Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-24 10:23:32,618 - INFO - Torrent A Million Ways to Die in the West (2014) [1080p]: content_path = /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p], exists: True
+2025-04-24 10:23:32,618 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 10:23:32,618 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 10:23:32,618 - INFO - Submitting 10 torrents for parallel upload
+2025-04-24 10:23:32,618 - INFO - Processing torrent: Alice in Wonderland (2010) [1080p]
+2025-04-24 10:23:32,618 - INFO - Attempting to upload torrent: Alice in Wonderland (2010) [1080p]
+2025-04-24 10:23:32,619 - INFO - Content path: /home/user/Desktop/torrents/Alice in Wonderland (2010) [1080p]
+2025-04-24 10:23:32,619 - INFO - Remote path: onedrive:Torrents/Alice in Wonderland (2010) [1080p]
+2025-04-24 10:23:32,619 - INFO - Uploading torrent: Alice in Wonderland (2010) [1080p]
+2025-04-24 10:23:32,619 - INFO - Processing torrent: Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 10:23:32,619 - INFO - Attempting to upload torrent: Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 10:23:32,619 - INFO - Content path: /home/user/Desktop/torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 10:23:32,619 - INFO - Directory /home/user/Desktop/torrents/Alice in Wonderland (2010) [1080p] is readable, contains 2 files/dirs
+2025-04-24 10:23:32,620 - INFO - Processing torrent: Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:23:32,620 - INFO - Remote path: onedrive:Torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 10:23:32,620 - INFO - Starting upload: /home/user/Desktop/torrents/Alice in Wonderland (2010) [1080p] -> onedrive:Torrents/Alice in Wonderland (2010) [1080p]
+2025-04-24 10:23:32,620 - INFO - Processing torrent: Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:23:32,620 - INFO - Attempting to upload torrent: Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:23:32,621 - INFO - Processing torrent: Security (2017) [1080p] [YTS.AG]
+2025-04-24 10:23:32,621 - INFO - Uploading torrent: Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 10:23:32,621 - INFO - Attempting to upload torrent: Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:23:32,621 - INFO - Uploading directory of size 1684.05 MB
+2025-04-24 10:23:32,622 - INFO - Content path: /home/user/Desktop/torrents/Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:23:32,622 - INFO - Attempting to upload torrent: Security (2017) [1080p] [YTS.AG]
+2025-04-24 10:23:32,622 - INFO - Content path: /home/user/Desktop/torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:23:32,622 - INFO - Directory /home/user/Desktop/torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 10:23:32,622 - INFO - Remote path: onedrive:Torrents/Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:23:32,623 - INFO - Content path: /home/user/Desktop/torrents/Security (2017) [1080p] [YTS.AG]
+2025-04-24 10:23:32,623 - INFO - Remote path: onedrive:Torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:23:32,624 - INFO - Starting upload: /home/user/Desktop/torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 10:23:32,624 - INFO - Uploading torrent: Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:23:32,624 - INFO - Remote path: onedrive:Torrents/Security (2017) [1080p] [YTS.AG]
+2025-04-24 10:23:32,624 - INFO - Uploading torrent: Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:23:32,625 - INFO - Uploading torrent: Security (2017) [1080p] [YTS.AG]
+2025-04-24 10:23:32,625 - INFO - Uploading directory of size 1756.25 MB
+2025-04-24 10:23:32,625 - INFO - Directory /home/user/Desktop/torrents/Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] is readable, contains 3 files/dirs
+2025-04-24 10:23:32,626 - INFO - Starting upload: /home/user/Desktop/torrents/Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:23:32,626 - INFO - Directory /home/user/Desktop/torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-24 10:23:32,627 - INFO - Directory /home/user/Desktop/torrents/Security (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 10:23:32,628 - INFO - Starting upload: /home/user/Desktop/torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:23:32,628 - INFO - Starting upload: /home/user/Desktop/torrents/Security (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Security (2017) [1080p] [YTS.AG]
+2025-04-24 10:23:32,628 - INFO - Uploading directory of size 1436.13 MB
+2025-04-24 10:23:32,629 - INFO - Uploading directory of size 2129.06 MB
+2025-04-24 10:23:32,629 - INFO - Uploading directory of size 1436.00 MB
