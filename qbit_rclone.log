@@ -15954,3 +15954,63 @@
 2025-04-24 06:20:06,795 - INFO - Directory /home/user/Desktop/torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 5 files/dirs
 2025-04-24 06:20:06,795 - INFO - Starting upload: /home/user/Desktop/torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-24 06:20:06,796 - INFO - Uploading directory of size 1895.61 MB
+2025-04-24 06:23:13,419 - INFO - Successfully uploaded to onedrive:Torrents/The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:23:13,420 - INFO - Verifying upload for: The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:23:13,420 - INFO - Verifying upload: /home/user/Desktop/torrents/The Cloverfield Paradox (2018) [1080p] [YTS.AG] -> onedrive:Torrents/The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:23:15,219 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:23:15,232 - INFO - Deleting torrent from qBittorrent: The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:23:15,232 - INFO - Deleting torrent with hash ac890c66ab804f46150ae134a8e1770d08b8f7fe (delete_files=False)
+2025-04-24 06:23:15,242 - INFO - Successfully deleted torrent with hash ac890c66ab804f46150ae134a8e1770d08b8f7fe
+2025-04-24 06:23:15,243 - INFO - Deleting content files: The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:23:15,243 - INFO - Deleting content: /home/user/Desktop/torrents/The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:23:15,245 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:23:15,246 - INFO - Successfully processed torrent: The Cloverfield Paradox (2018) [1080p] [YTS.AG]
+2025-04-24 06:23:15,246 - INFO - Processing torrent: Evil Dead (2013) [1080p]
+2025-04-24 06:23:15,246 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Cloverfield Paradox (2018) [1080p] [YTS.AG]'}
+2025-04-24 06:23:15,246 - INFO - Attempting to upload torrent: Evil Dead (2013) [1080p]
+2025-04-24 06:23:15,247 - INFO - Content path: /home/user/Desktop/torrents/Evil Dead (2013) [1080p]
+2025-04-24 06:23:15,247 - INFO - Remote path: onedrive:Torrents/Evil Dead (2013) [1080p]
+2025-04-24 06:23:15,247 - INFO - Uploading torrent: Evil Dead (2013) [1080p]
+2025-04-24 06:23:15,247 - INFO - Directory /home/user/Desktop/torrents/Evil Dead (2013) [1080p] is readable, contains 3 files/dirs
+2025-04-24 06:23:15,247 - INFO - Starting upload: /home/user/Desktop/torrents/Evil Dead (2013) [1080p] -> onedrive:Torrents/Evil Dead (2013) [1080p]
+2025-04-24 06:23:15,247 - INFO - Uploading directory of size 1470.36 MB
+2025-04-24 06:23:30,256 - INFO - Successfully uploaded to onedrive:Torrents/Die Hard 3 (1995) [1080p]
+2025-04-24 06:23:30,256 - INFO - Verifying upload for: Die Hard 3 (1995) [1080p]
+2025-04-24 06:23:30,257 - INFO - Verifying upload: /home/user/Desktop/torrents/Die Hard 3 (1995) [1080p] -> onedrive:Torrents/Die Hard 3 (1995) [1080p]
+2025-04-24 06:23:32,780 - INFO - Upload verification successful for /home/user/Desktop/torrents/Die Hard 3 (1995) [1080p]
+2025-04-24 06:23:32,794 - INFO - Deleting torrent from qBittorrent: Die Hard 3 (1995) [1080p]
+2025-04-24 06:23:32,794 - INFO - Deleting torrent with hash f0c6405a7d090fdf7898522b097af2fa41ae2c75 (delete_files=False)
+2025-04-24 06:23:32,803 - INFO - Successfully deleted torrent with hash f0c6405a7d090fdf7898522b097af2fa41ae2c75
+2025-04-24 06:23:32,803 - INFO - Deleting content files: Die Hard 3 (1995) [1080p]
+2025-04-24 06:23:32,804 - INFO - Deleting content: /home/user/Desktop/torrents/Die Hard 3 (1995) [1080p]
+2025-04-24 06:23:32,805 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Die Hard 3 (1995) [1080p]
+2025-04-24 06:23:32,805 - INFO - Successfully processed torrent: Die Hard 3 (1995) [1080p]
+2025-04-24 06:23:32,805 - INFO - Processing torrent: Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:23:32,805 - INFO - Attempting to upload torrent: Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:23:32,805 - INFO - Content path: /home/user/Desktop/torrents/Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:23:32,805 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Die Hard 3 (1995) [1080p]'}
+2025-04-24 06:23:32,806 - INFO - Remote path: onedrive:Torrents/Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:23:32,806 - INFO - Uploading torrent: Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:23:32,806 - INFO - Directory /home/user/Desktop/torrents/Resident Evil Afterlife (2010) [1080p] is readable, contains 3 files/dirs
+2025-04-24 06:23:32,806 - INFO - Starting upload: /home/user/Desktop/torrents/Resident Evil Afterlife (2010) [1080p] -> onedrive:Torrents/Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:23:32,806 - INFO - Uploading directory of size 1332.63 MB
+2025-04-24 06:25:14,519 - INFO - Successfully uploaded to onedrive:Torrents/The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:25:14,520 - INFO - Verifying upload for: The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:25:14,520 - INFO - Verifying upload: /home/user/Desktop/torrents/The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:25:16,868 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:25:16,882 - INFO - Deleting torrent from qBittorrent: The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:25:16,882 - INFO - Deleting torrent with hash 4a7c09fbcb7b3471e2a31df1a261eeffb7345c52 (delete_files=False)
+2025-04-24 06:25:16,892 - INFO - Successfully deleted torrent with hash 4a7c09fbcb7b3471e2a31df1a261eeffb7345c52
+2025-04-24 06:25:16,892 - INFO - Deleting content files: The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:25:16,892 - INFO - Deleting content: /home/user/Desktop/torrents/The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:25:16,894 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:25:16,894 - INFO - Successfully processed torrent: The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:25:16,894 - INFO - Processing torrent: It Follows (2014) [1080p]
+2025-04-24 06:25:16,895 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-24 06:25:16,895 - INFO - Attempting to upload torrent: It Follows (2014) [1080p]
+2025-04-24 06:25:16,895 - INFO - Content path: /home/user/Desktop/torrents/It Follows (2014) [1080p]
+2025-04-24 06:25:16,895 - INFO - Remote path: onedrive:Torrents/It Follows (2014) [1080p]
+2025-04-24 06:25:16,895 - INFO - Uploading torrent: It Follows (2014) [1080p]
+2025-04-24 06:25:16,895 - INFO - Directory /home/user/Desktop/torrents/It Follows (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-24 06:25:16,895 - INFO - Starting upload: /home/user/Desktop/torrents/It Follows (2014) [1080p] -> onedrive:Torrents/It Follows (2014) [1080p]
+2025-04-24 06:25:16,896 - INFO - Uploading directory of size 1472.93 MB
