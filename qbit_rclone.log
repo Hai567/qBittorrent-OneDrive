@@ -15251,3 +15251,39 @@
 2025-04-24 05:08:50,928 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-24 05:08:50,928 - INFO - Successfully processed torrent: The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-24 05:08:50,928 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-24 05:11:27,917 - INFO - Successfully uploaded to onedrive:Torrents/The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:11:27,918 - INFO - Verifying upload for: The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:11:27,918 - INFO - Verifying upload: /home/user/Desktop/torrents/The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:11:30,226 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:11:30,239 - INFO - Deleting torrent from qBittorrent: The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:11:30,239 - INFO - Deleting torrent with hash 307fb584d1d08b05ef4386b34cb62f3cd24fea2e (delete_files=False)
+2025-04-24 05:11:30,249 - INFO - Successfully deleted torrent with hash 307fb584d1d08b05ef4386b34cb62f3cd24fea2e
+2025-04-24 05:11:30,249 - INFO - Deleting content files: The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:11:30,249 - INFO - Deleting content: /home/user/Desktop/torrents/The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:11:30,250 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:11:30,250 - INFO - Successfully processed torrent: The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:11:30,251 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-24 05:11:56,328 - INFO - Successfully uploaded to onedrive:Torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:11:56,329 - INFO - Verifying upload for: Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:11:56,329 - INFO - Verifying upload: /home/user/Desktop/torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:11:58,597 - INFO - Upload verification successful for /home/user/Desktop/torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:11:58,608 - INFO - Deleting torrent from qBittorrent: Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:11:58,608 - INFO - Deleting torrent with hash a30e1381e8ce66980e3e77f41a736892c3a20c5a (delete_files=False)
+2025-04-24 05:11:58,619 - INFO - Successfully deleted torrent with hash a30e1381e8ce66980e3e77f41a736892c3a20c5a
+2025-04-24 05:11:58,619 - INFO - Deleting content files: Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:11:58,619 - INFO - Deleting content: /home/user/Desktop/torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:11:58,621 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:11:58,621 - INFO - Successfully processed torrent: Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:11:58,622 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-24 05:12:04,562 - INFO - Successfully uploaded to onedrive:Torrents/The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:12:04,562 - INFO - Verifying upload for: The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:12:04,563 - INFO - Verifying upload: /home/user/Desktop/torrents/The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:12:06,376 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:12:06,388 - INFO - Deleting torrent from qBittorrent: The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:12:06,388 - INFO - Deleting torrent with hash 97479d87d057044af410c38886a580f8ea6a8c8a (delete_files=False)
+2025-04-24 05:12:06,396 - INFO - Successfully deleted torrent with hash 97479d87d057044af410c38886a580f8ea6a8c8a
+2025-04-24 05:12:06,397 - INFO - Deleting content files: The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:12:06,397 - INFO - Deleting content: /home/user/Desktop/torrents/The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:12:06,399 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:12:06,399 - INFO - Successfully processed torrent: The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:12:06,399 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]'}
