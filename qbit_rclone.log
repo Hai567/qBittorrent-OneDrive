@@ -15578,3 +15578,51 @@
 2025-04-24 05:43:53,893 - INFO - Directory /home/user/Desktop/torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-24 05:43:53,893 - INFO - Starting upload: /home/user/Desktop/torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
 2025-04-24 05:43:53,893 - INFO - Uploading directory of size 1526.21 MB
+2025-04-24 05:47:53,651 - INFO - Successfully uploaded to onedrive:Torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:47:53,652 - INFO - Verifying upload for: Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:47:53,652 - INFO - Verifying upload: /home/user/Desktop/torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:47:55,931 - INFO - Upload verification successful for /home/user/Desktop/torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:47:55,948 - INFO - Deleting torrent from qBittorrent: Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:47:55,949 - INFO - Deleting torrent with hash f27c23b49478a13aa27cb5603e89300bf31f38fb (delete_files=False)
+2025-04-24 05:47:55,962 - INFO - Successfully deleted torrent with hash f27c23b49478a13aa27cb5603e89300bf31f38fb
+2025-04-24 05:47:55,963 - INFO - Deleting content files: Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:47:55,963 - INFO - Deleting content: /home/user/Desktop/torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:47:55,964 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:47:55,964 - INFO - Successfully processed torrent: Brightburn (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:47:55,965 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Brightburn (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-24 05:48:18,278 - INFO - Successfully uploaded to onedrive:Torrents/The Raid Redemption (2011) [1080p]
+2025-04-24 05:48:18,278 - INFO - Verifying upload for: The Raid Redemption (2011) [1080p]
+2025-04-24 05:48:18,279 - INFO - Verifying upload: /home/user/Desktop/torrents/The Raid Redemption (2011) [1080p] -> onedrive:Torrents/The Raid Redemption (2011) [1080p]
+2025-04-24 05:48:20,585 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Raid Redemption (2011) [1080p]
+2025-04-24 05:48:20,605 - INFO - Deleting torrent from qBittorrent: The Raid Redemption (2011) [1080p]
+2025-04-24 05:48:20,605 - INFO - Deleting torrent with hash 49e74b914876ad23503291a3cbccc3b58db339e7 (delete_files=False)
+2025-04-24 05:48:20,615 - INFO - Successfully deleted torrent with hash 49e74b914876ad23503291a3cbccc3b58db339e7
+2025-04-24 05:48:20,615 - INFO - Deleting content files: The Raid Redemption (2011) [1080p]
+2025-04-24 05:48:20,615 - INFO - Deleting content: /home/user/Desktop/torrents/The Raid Redemption (2011) [1080p]
+2025-04-24 05:48:20,617 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Raid Redemption (2011) [1080p]
+2025-04-24 05:48:20,617 - INFO - Successfully processed torrent: The Raid Redemption (2011) [1080p]
+2025-04-24 05:48:20,617 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Raid Redemption (2011) [1080p]'}
+2025-04-24 05:48:34,546 - INFO - Successfully uploaded to onedrive:Torrents/Aloha (2015) [1080p]
+2025-04-24 05:48:34,546 - INFO - Verifying upload for: Aloha (2015) [1080p]
+2025-04-24 05:48:34,546 - INFO - Verifying upload: /home/user/Desktop/torrents/Aloha (2015) [1080p] -> onedrive:Torrents/Aloha (2015) [1080p]
+2025-04-24 05:48:36,939 - INFO - Upload verification successful for /home/user/Desktop/torrents/Aloha (2015) [1080p]
+2025-04-24 05:48:37,064 - INFO - Deleting torrent from qBittorrent: Aloha (2015) [1080p]
+2025-04-24 05:48:37,064 - INFO - Deleting torrent with hash cb612b9c3198af49ee3685898eead099270b16fd (delete_files=False)
+2025-04-24 05:48:37,074 - INFO - Successfully deleted torrent with hash cb612b9c3198af49ee3685898eead099270b16fd
+2025-04-24 05:48:37,075 - INFO - Deleting content files: Aloha (2015) [1080p]
+2025-04-24 05:48:37,075 - INFO - Deleting content: /home/user/Desktop/torrents/Aloha (2015) [1080p]
+2025-04-24 05:48:37,076 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Aloha (2015) [1080p]
+2025-04-24 05:48:37,076 - INFO - Successfully processed torrent: Aloha (2015) [1080p]
+2025-04-24 05:48:37,077 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Aloha (2015) [1080p]'}
+2025-04-24 05:49:18,000 - INFO - Successfully uploaded to onedrive:Torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:49:18,000 - INFO - Verifying upload for: Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:49:18,001 - INFO - Verifying upload: /home/user/Desktop/torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:49:20,278 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:49:20,292 - INFO - Deleting torrent from qBittorrent: Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:49:20,292 - INFO - Deleting torrent with hash 52e74c75b21b1ebca2dfc145379ae7716b86ce62 (delete_files=False)
+2025-04-24 05:49:20,304 - INFO - Successfully deleted torrent with hash 52e74c75b21b1ebca2dfc145379ae7716b86ce62
+2025-04-24 05:49:20,305 - INFO - Deleting content files: Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:49:20,305 - INFO - Deleting content: /home/user/Desktop/torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:49:20,306 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:49:20,306 - INFO - Successfully processed torrent: Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
+2025-04-24 05:49:20,307 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]'}
