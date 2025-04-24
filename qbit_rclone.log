@@ -16355,3 +16355,23 @@
 2025-04-24 10:37:57,693 - INFO - Directory /home/user/Desktop/torrents/Die Hard 2 (1990) [1080p] is readable, contains 3 files/dirs
 2025-04-24 10:37:57,693 - INFO - Starting upload: /home/user/Desktop/torrents/Die Hard 2 (1990) [1080p] -> onedrive:Torrents/Die Hard 2 (1990) [1080p]
 2025-04-24 10:37:57,693 - INFO - Uploading directory of size 1841.40 MB
+2025-04-24 10:40:23,150 - INFO - Successfully uploaded to onedrive:Torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:40:23,150 - INFO - Verifying upload for: Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:40:23,151 - INFO - Verifying upload: /home/user/Desktop/torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:40:25,895 - INFO - Upload verification successful for /home/user/Desktop/torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:40:25,906 - INFO - Deleting torrent from qBittorrent: Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:40:25,907 - INFO - Deleting torrent with hash 2ae7c65ea206179fedd4c342fc02e368f1f4e4d6 (delete_files=False)
+2025-04-24 10:40:25,914 - INFO - Successfully deleted torrent with hash 2ae7c65ea206179fedd4c342fc02e368f1f4e4d6
+2025-04-24 10:40:25,914 - INFO - Deleting content files: Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:40:25,914 - INFO - Deleting content: /home/user/Desktop/torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:40:25,916 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:40:25,916 - INFO - Successfully processed torrent: Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:40:25,916 - INFO - Processing torrent: Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:40:25,916 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Widows (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-24 10:40:25,916 - INFO - Attempting to upload torrent: Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:40:25,916 - INFO - Content path: /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:40:25,916 - INFO - Remote path: onedrive:Torrents/Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:40:25,916 - INFO - Uploading torrent: Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:40:25,916 - INFO - Directory /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 10:40:25,917 - INFO - Starting upload: /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:40:25,917 - INFO - Uploading directory of size 1829.38 MB
