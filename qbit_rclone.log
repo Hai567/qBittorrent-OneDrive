@@ -15714,3 +15714,83 @@
 2025-04-24 05:55:12,541 - INFO - Uploading directory of size 1536.08 MB
 2025-04-24 05:55:12,542 - INFO - Uploading directory of size 1473.49 MB
 2025-04-24 05:55:12,543 - INFO - Uploading directory of size 1534.27 MB
+2025-04-24 06:01:49,502 - INFO - Successfully uploaded to onedrive:Torrents/SAW I UNRATED (2004) [1080p]
+2025-04-24 06:01:49,503 - INFO - Verifying upload for: SAW I UNRATED (2004) [1080p]
+2025-04-24 06:01:49,503 - INFO - Verifying upload: /home/user/Desktop/torrents/SAW I UNRATED (2004) [1080p] -> onedrive:Torrents/SAW I UNRATED (2004) [1080p]
+2025-04-24 06:01:52,205 - INFO - Upload verification successful for /home/user/Desktop/torrents/SAW I UNRATED (2004) [1080p]
+2025-04-24 06:01:52,219 - INFO - Deleting torrent from qBittorrent: SAW I UNRATED (2004) [1080p]
+2025-04-24 06:01:52,219 - INFO - Deleting torrent with hash 44f00c2c38ea5b629a869b5be40d7ac54a4bb700 (delete_files=False)
+2025-04-24 06:01:52,229 - INFO - Successfully deleted torrent with hash 44f00c2c38ea5b629a869b5be40d7ac54a4bb700
+2025-04-24 06:01:52,229 - INFO - Deleting content files: SAW I UNRATED (2004) [1080p]
+2025-04-24 06:01:52,229 - INFO - Deleting content: /home/user/Desktop/torrents/SAW I UNRATED (2004) [1080p]
+2025-04-24 06:01:52,231 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/SAW I UNRATED (2004) [1080p]
+2025-04-24 06:01:52,231 - INFO - Successfully processed torrent: SAW I UNRATED (2004) [1080p]
+2025-04-24 06:01:52,231 - INFO - Processing torrent: Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:01:52,231 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'SAW I UNRATED (2004) [1080p]'}
+2025-04-24 06:01:52,231 - INFO - Attempting to upload torrent: Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:01:52,232 - INFO - Content path: /home/user/Desktop/torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:01:52,232 - INFO - Remote path: onedrive:Torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:01:52,232 - INFO - Uploading torrent: Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:01:52,232 - INFO - Directory /home/user/Desktop/torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-24 06:01:52,232 - INFO - Starting upload: /home/user/Desktop/torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:01:52,232 - INFO - Uploading directory of size 1485.39 MB
+2025-04-24 06:02:01,573 - INFO - Successfully uploaded to onedrive:Torrents/Vice (2015) [1080p]
+2025-04-24 06:02:01,574 - INFO - Verifying upload for: Vice (2015) [1080p]
+2025-04-24 06:02:01,574 - INFO - Verifying upload: /home/user/Desktop/torrents/Vice (2015) [1080p] -> onedrive:Torrents/Vice (2015) [1080p]
+2025-04-24 06:02:03,171 - INFO - Upload verification successful for /home/user/Desktop/torrents/Vice (2015) [1080p]
+2025-04-24 06:02:03,184 - INFO - Deleting torrent from qBittorrent: Vice (2015) [1080p]
+2025-04-24 06:02:03,184 - INFO - Deleting torrent with hash d767f17bf4f7a122df260f4f4048545242d50b31 (delete_files=False)
+2025-04-24 06:02:03,193 - INFO - Successfully deleted torrent with hash d767f17bf4f7a122df260f4f4048545242d50b31
+2025-04-24 06:02:03,193 - INFO - Deleting content files: Vice (2015) [1080p]
+2025-04-24 06:02:03,193 - INFO - Deleting content: /home/user/Desktop/torrents/Vice (2015) [1080p]
+2025-04-24 06:02:03,195 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Vice (2015) [1080p]
+2025-04-24 06:02:03,195 - INFO - Successfully processed torrent: Vice (2015) [1080p]
+2025-04-24 06:02:03,195 - INFO - Processing torrent: The Other Woman (2014) [1080p]
+2025-04-24 06:02:03,195 - INFO - Attempting to upload torrent: The Other Woman (2014) [1080p]
+2025-04-24 06:02:03,195 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Vice (2015) [1080p]'}
+2025-04-24 06:02:03,195 - INFO - Content path: /home/user/Desktop/torrents/The Other Woman (2014) [1080p]
+2025-04-24 06:02:03,195 - INFO - Remote path: onedrive:Torrents/The Other Woman (2014) [1080p]
+2025-04-24 06:02:03,196 - INFO - Uploading torrent: The Other Woman (2014) [1080p]
+2025-04-24 06:02:03,196 - INFO - Directory /home/user/Desktop/torrents/The Other Woman (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-24 06:02:03,196 - INFO - Starting upload: /home/user/Desktop/torrents/The Other Woman (2014) [1080p] -> onedrive:Torrents/The Other Woman (2014) [1080p]
+2025-04-24 06:02:03,196 - INFO - Uploading directory of size 1677.90 MB
+2025-04-24 06:02:10,091 - INFO - Successfully uploaded to onedrive:Torrents/Star Trek (2009) [1080p]
+2025-04-24 06:02:10,091 - INFO - Verifying upload for: Star Trek (2009) [1080p]
+2025-04-24 06:02:10,091 - INFO - Verifying upload: /home/user/Desktop/torrents/Star Trek (2009) [1080p] -> onedrive:Torrents/Star Trek (2009) [1080p]
+2025-04-24 06:02:12,156 - INFO - Upload verification successful for /home/user/Desktop/torrents/Star Trek (2009) [1080p]
+2025-04-24 06:02:12,170 - INFO - Deleting torrent from qBittorrent: Star Trek (2009) [1080p]
+2025-04-24 06:02:12,170 - INFO - Deleting torrent with hash 22f6161c997db8fbd076b2c94b3154ad67ea9960 (delete_files=False)
+2025-04-24 06:02:12,179 - INFO - Successfully deleted torrent with hash 22f6161c997db8fbd076b2c94b3154ad67ea9960
+2025-04-24 06:02:12,179 - INFO - Deleting content files: Star Trek (2009) [1080p]
+2025-04-24 06:02:12,179 - INFO - Deleting content: /home/user/Desktop/torrents/Star Trek (2009) [1080p]
+2025-04-24 06:02:12,181 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Star Trek (2009) [1080p]
+2025-04-24 06:02:12,181 - INFO - Successfully processed torrent: Star Trek (2009) [1080p]
+2025-04-24 06:02:12,181 - INFO - Processing torrent: Epic (2013) [1080p]
+2025-04-24 06:02:12,181 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Star Trek (2009) [1080p]'}
+2025-04-24 06:02:12,181 - INFO - Attempting to upload torrent: Epic (2013) [1080p]
+2025-04-24 06:02:12,181 - INFO - Content path: /home/user/Desktop/torrents/Epic (2013) [1080p]
+2025-04-24 06:02:12,182 - INFO - Remote path: onedrive:Torrents/Epic (2013) [1080p]
+2025-04-24 06:02:12,182 - INFO - Uploading torrent: Epic (2013) [1080p]
+2025-04-24 06:02:12,182 - INFO - Directory /home/user/Desktop/torrents/Epic (2013) [1080p] is readable, contains 3 files/dirs
+2025-04-24 06:02:12,182 - INFO - Starting upload: /home/user/Desktop/torrents/Epic (2013) [1080p] -> onedrive:Torrents/Epic (2013) [1080p]
+2025-04-24 06:02:12,182 - INFO - Uploading directory of size 1678.97 MB
+2025-04-24 06:05:08,161 - INFO - Successfully uploaded to onedrive:Torrents/The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:05:08,162 - INFO - Verifying upload for: The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:05:08,162 - INFO - Verifying upload: /home/user/Desktop/torrents/The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:05:10,467 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:05:10,482 - INFO - Deleting torrent from qBittorrent: The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:05:10,482 - INFO - Deleting torrent with hash 5b9fac1d464341b12e3d2c33335d643b6bcc5f07 (delete_files=False)
+2025-04-24 06:05:10,492 - INFO - Successfully deleted torrent with hash 5b9fac1d464341b12e3d2c33335d643b6bcc5f07
+2025-04-24 06:05:10,492 - INFO - Deleting content files: The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:05:10,492 - INFO - Deleting content: /home/user/Desktop/torrents/The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:05:10,494 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:05:10,494 - INFO - Successfully processed torrent: The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:05:10,494 - INFO - Processing torrent: The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:05:10,494 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Vault (2021) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-24 06:05:10,495 - INFO - Attempting to upload torrent: The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:05:10,495 - INFO - Content path: /home/user/Desktop/torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:05:10,495 - INFO - Remote path: onedrive:Torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:05:10,495 - INFO - Uploading torrent: The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:05:10,495 - INFO - Directory /home/user/Desktop/torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 06:05:10,495 - INFO - Starting upload: /home/user/Desktop/torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:05:10,495 - INFO - Uploading directory of size 1419.72 MB
