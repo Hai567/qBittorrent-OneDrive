@@ -15041,3 +15041,69 @@
 2025-04-24 04:47:48,975 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Perks of Being a Wallflower (2012) [1080p]
 2025-04-24 04:47:48,975 - INFO - Successfully processed torrent: The Perks of Being a Wallflower (2012) [1080p]
 2025-04-24 04:47:48,975 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Perks of Being a Wallflower (2012) [1080p]'}
+2025-04-24 04:52:49,063 - INFO - Active upload threads: 5/5
+2025-04-24 04:52:49,063 - INFO - Checking for completed torrents...
+2025-04-24 04:52:49,074 - INFO - Found 22 completed torrents
+2025-04-24 04:52:49,075 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 04:52:49,075 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 04:52:49,075 - INFO - Torrent Code 8 (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Code 8 (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-24 04:52:49,075 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 04:52:49,075 - INFO - Torrent National Treasure Book of Secrets (2007) [1080p]: content_path = /home/user/Desktop/torrents/National Treasure Book of Secrets (2007) [1080p], exists: True
+2025-04-24 04:52:49,075 - INFO - Torrent When We First Met (2018) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/When We First Met (2018) [1080p] [YTS.AG], exists: True
+2025-04-24 04:52:49,075 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 04:52:49,075 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 04:52:49,075 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 04:52:49,075 - INFO - Torrent Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-24 04:52:49,075 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 04:52:49,075 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 04:52:49,075 - INFO - Torrent Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-24 04:52:49,076 - INFO - Torrent Survivor (2015) [1080p]: content_path = /home/user/Desktop/torrents/Survivor (2015) [1080p], exists: True
+2025-04-24 04:52:49,076 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 04:52:49,076 - INFO - Torrent Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-24 04:52:49,076 - INFO - Skipping already processed torrent: Jurassic Park III (2001) [1080p]
+2025-04-24 04:52:49,076 - INFO - Torrent The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-24 04:52:49,076 - INFO - Torrent Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-24 04:52:49,076 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 04:52:49,076 - INFO - Torrent The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-24 04:52:49,076 - INFO - Torrent The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX], exists: True
+2025-04-24 04:52:49,076 - INFO - Submitting 11 torrents for parallel upload
+2025-04-24 04:52:49,077 - INFO - Processing torrent: Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:52:49,077 - INFO - Processing torrent: National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 04:52:49,077 - INFO - Attempting to upload torrent: Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:52:49,077 - INFO - Processing torrent: When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:52:49,078 - INFO - Processing torrent: Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 04:52:49,078 - INFO - Processing torrent: Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:52:49,078 - INFO - Attempting to upload torrent: National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 04:52:49,078 - INFO - Content path: /home/user/Desktop/torrents/Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:52:49,078 - INFO - Attempting to upload torrent: When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:52:49,078 - INFO - Attempting to upload torrent: Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 04:52:49,079 - INFO - Attempting to upload torrent: Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:52:49,079 - INFO - Content path: /home/user/Desktop/torrents/National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 04:52:49,079 - INFO - Remote path: onedrive:Torrents/Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:52:49,079 - INFO - Content path: /home/user/Desktop/torrents/When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:52:49,079 - INFO - Content path: /home/user/Desktop/torrents/Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 04:52:49,079 - INFO - Content path: /home/user/Desktop/torrents/Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:52:49,079 - INFO - Remote path: onedrive:Torrents/National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 04:52:49,080 - INFO - Uploading torrent: Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:52:49,080 - INFO - Remote path: onedrive:Torrents/When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:52:49,080 - INFO - Remote path: onedrive:Torrents/Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 04:52:49,080 - INFO - Remote path: onedrive:Torrents/Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:52:49,080 - INFO - Uploading torrent: National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 04:52:49,080 - INFO - Uploading torrent: When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:52:49,081 - INFO - Uploading torrent: Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 04:52:49,081 - INFO - Uploading torrent: Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:52:49,081 - INFO - Directory /home/user/Desktop/torrents/Code 8 (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 3 files/dirs
+2025-04-24 04:52:49,081 - INFO - Directory /home/user/Desktop/torrents/National Treasure Book of Secrets (2007) [1080p] is readable, contains 3 files/dirs
+2025-04-24 04:52:49,082 - INFO - Starting upload: /home/user/Desktop/torrents/Code 8 (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Code 8 (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 04:52:49,082 - INFO - Directory /home/user/Desktop/torrents/When We First Met (2018) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 04:52:49,082 - INFO - Starting upload: /home/user/Desktop/torrents/National Treasure Book of Secrets (2007) [1080p] -> onedrive:Torrents/National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 04:52:49,082 - INFO - Directory /home/user/Desktop/torrents/Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-24 04:52:49,082 - INFO - Directory /home/user/Desktop/torrents/Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-24 04:52:49,083 - INFO - Starting upload: /home/user/Desktop/torrents/When We First Met (2018) [1080p] [YTS.AG] -> onedrive:Torrents/When We First Met (2018) [1080p] [YTS.AG]
+2025-04-24 04:52:49,083 - INFO - Uploading directory of size 1518.25 MB
+2025-04-24 04:52:49,083 - INFO - Starting upload: /home/user/Desktop/torrents/Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:52:49,083 - INFO - Uploading directory of size 1744.95 MB
+2025-04-24 04:52:49,084 - INFO - Starting upload: /home/user/Desktop/torrents/Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 04:52:49,085 - INFO - Uploading directory of size 1506.07 MB
+2025-04-24 04:52:49,088 - INFO - Uploading directory of size 1763.57 MB
+2025-04-24 04:52:49,089 - INFO - Uploading directory of size 1986.21 MB
