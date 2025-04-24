@@ -14490,3 +14490,294 @@
 2025-04-23 17:04:12,150 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
 2025-04-23 17:04:12,150 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
 2025-04-23 17:04:12,150 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 03:04:03,370 - INFO - Loaded configuration from config.json
+2025-04-24 03:04:03,370 - INFO - Found rclone in PATH: /usr/bin/rclone
+2025-04-24 03:04:03,373 - INFO - Loaded 1208 previously processed torrents
+2025-04-24 03:04:03,374 - INFO - Multithreaded uploading enabled with 5 workers
+2025-04-24 03:04:03,453 - INFO - Found onedrive remote in rclone configuration
+2025-04-24 03:04:03,459 - INFO - Successfully logged in to qBittorrent
+2025-04-24 03:04:03,459 - INFO - Starting qBittorrent to OneDrive uploader service
+2025-04-24 03:04:03,459 - INFO - Running in multithreaded mode with 5 upload workers
+2025-04-24 03:04:03,459 - INFO - Active upload threads: 0/5
+2025-04-24 03:04:03,459 - INFO - Checking for completed torrents...
+2025-04-24 03:04:03,464 - INFO - Found 10 completed torrents
+2025-04-24 03:04:03,464 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:04:03,464 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 03:04:03,464 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 03:04:03,464 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:04:03,464 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 03:04:03,464 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 03:04:03,464 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 03:04:03,464 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 03:04:03,464 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 03:04:03,464 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 03:09:03,561 - INFO - Active upload threads: 0/5
+2025-04-24 03:09:03,561 - INFO - Checking for completed torrents...
+2025-04-24 03:09:03,567 - INFO - Found 10 completed torrents
+2025-04-24 03:09:03,567 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:09:03,568 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 03:09:03,568 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 03:09:03,568 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:09:03,568 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 03:09:03,568 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 03:09:03,568 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 03:09:03,568 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 03:09:03,568 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 03:09:03,568 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 03:14:03,647 - INFO - Active upload threads: 0/5
+2025-04-24 03:14:03,648 - INFO - Checking for completed torrents...
+2025-04-24 03:14:03,659 - INFO - Found 10 completed torrents
+2025-04-24 03:14:03,659 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:14:03,659 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 03:14:03,660 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 03:14:03,660 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:14:03,660 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 03:14:03,660 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 03:14:03,660 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 03:14:03,660 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 03:14:03,660 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 03:14:03,660 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 03:19:03,760 - INFO - Active upload threads: 0/5
+2025-04-24 03:19:03,760 - INFO - Checking for completed torrents...
+2025-04-24 03:19:03,766 - INFO - Found 10 completed torrents
+2025-04-24 03:19:03,766 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:19:03,766 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 03:19:03,766 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 03:19:03,767 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:19:03,767 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 03:19:03,767 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 03:19:03,767 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 03:19:03,767 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 03:19:03,767 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 03:19:03,767 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 03:24:03,867 - INFO - Active upload threads: 0/5
+2025-04-24 03:24:03,868 - INFO - Checking for completed torrents...
+2025-04-24 03:24:03,873 - INFO - Found 10 completed torrents
+2025-04-24 03:24:03,873 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:24:03,873 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 03:24:03,874 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 03:24:03,874 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:24:03,874 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 03:24:03,874 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 03:24:03,874 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 03:24:03,874 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 03:24:03,874 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 03:24:03,874 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 03:29:03,975 - INFO - Active upload threads: 0/5
+2025-04-24 03:29:03,975 - INFO - Checking for completed torrents...
+2025-04-24 03:29:03,982 - INFO - Found 10 completed torrents
+2025-04-24 03:29:03,982 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:29:03,982 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 03:29:03,982 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 03:29:03,982 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:29:03,982 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 03:29:03,982 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 03:29:03,982 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 03:29:03,982 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 03:29:03,983 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 03:29:03,983 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 03:34:04,061 - INFO - Active upload threads: 0/5
+2025-04-24 03:34:04,062 - INFO - Checking for completed torrents...
+2025-04-24 03:34:04,068 - INFO - Found 10 completed torrents
+2025-04-24 03:34:04,068 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:34:04,068 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 03:34:04,068 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 03:34:04,068 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:34:04,068 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 03:34:04,068 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 03:34:04,068 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 03:34:04,068 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 03:34:04,069 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 03:34:04,069 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 03:39:04,124 - INFO - Active upload threads: 0/5
+2025-04-24 03:39:04,124 - INFO - Checking for completed torrents...
+2025-04-24 03:39:04,130 - INFO - Found 11 completed torrents
+2025-04-24 03:39:04,131 - INFO - Torrent Goosebumps (2015) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Goosebumps (2015) [1080p] [YTS.AG], exists: True
+2025-04-24 03:39:04,131 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:39:04,131 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 03:39:04,131 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 03:39:04,131 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:39:04,131 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 03:39:04,131 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 03:39:04,131 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 03:39:04,131 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 03:39:04,131 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 03:39:04,131 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 03:39:04,131 - INFO - Submitting 1 torrents for parallel upload
+2025-04-24 03:39:04,132 - INFO - Processing torrent: Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:39:04,132 - INFO - Attempting to upload torrent: Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:39:04,132 - INFO - Content path: /home/user/Desktop/torrents/Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:39:04,132 - INFO - Remote path: onedrive:Torrents/Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:39:04,132 - INFO - Uploading torrent: Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:39:04,132 - INFO - Directory /home/user/Desktop/torrents/Goosebumps (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 03:39:04,132 - INFO - Starting upload: /home/user/Desktop/torrents/Goosebumps (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:39:04,133 - INFO - Uploading directory of size 1599.28 MB
+2025-04-24 03:43:07,971 - INFO - Successfully uploaded to onedrive:Torrents/Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:43:07,971 - INFO - Verifying upload for: Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:43:07,972 - INFO - Verifying upload: /home/user/Desktop/torrents/Goosebumps (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:43:10,335 - INFO - Upload verification successful for /home/user/Desktop/torrents/Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:43:10,347 - INFO - Deleting torrent from qBittorrent: Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:43:10,347 - INFO - Deleting torrent with hash 8d8ad1581d7b880fd1a811faeb17fb75d94a5111 (delete_files=False)
+2025-04-24 03:43:10,359 - INFO - Successfully deleted torrent with hash 8d8ad1581d7b880fd1a811faeb17fb75d94a5111
+2025-04-24 03:43:10,359 - INFO - Deleting content files: Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:43:10,359 - INFO - Deleting content: /home/user/Desktop/torrents/Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:43:10,361 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:43:10,361 - INFO - Successfully processed torrent: Goosebumps (2015) [1080p] [YTS.AG]
+2025-04-24 03:43:10,362 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Goosebumps (2015) [1080p] [YTS.AG]'}
+2025-04-24 03:48:10,437 - INFO - Active upload threads: 1/5
+2025-04-24 03:48:10,437 - INFO - Checking for completed torrents...
+2025-04-24 03:48:10,443 - INFO - Found 10 completed torrents
+2025-04-24 03:48:10,444 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:48:10,444 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 03:48:10,444 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 03:48:10,444 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:48:10,444 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 03:48:10,444 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 03:48:10,444 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 03:48:10,444 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 03:48:10,444 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 03:48:10,444 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 03:53:10,521 - INFO - Active upload threads: 1/5
+2025-04-24 03:53:10,522 - INFO - Checking for completed torrents...
+2025-04-24 03:53:10,528 - INFO - Found 10 completed torrents
+2025-04-24 03:53:10,528 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:53:10,528 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 03:53:10,528 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 03:53:10,528 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:53:10,528 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 03:53:10,528 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 03:53:10,528 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 03:53:10,528 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 03:53:10,528 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 03:53:10,528 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 03:58:10,548 - INFO - Active upload threads: 1/5
+2025-04-24 03:58:10,548 - INFO - Checking for completed torrents...
+2025-04-24 03:58:10,555 - INFO - Found 10 completed torrents
+2025-04-24 03:58:10,555 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:58:10,555 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 03:58:10,555 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 03:58:10,555 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 03:58:10,555 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 03:58:10,555 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 03:58:10,555 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 03:58:10,556 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 03:58:10,556 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 03:58:10,556 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 04:03:10,647 - INFO - Active upload threads: 1/5
+2025-04-24 04:03:10,648 - INFO - Checking for completed torrents...
+2025-04-24 04:03:10,654 - INFO - Found 10 completed torrents
+2025-04-24 04:03:10,654 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 04:03:10,654 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 04:03:10,654 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 04:03:10,654 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 04:03:10,654 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 04:03:10,655 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 04:03:10,655 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 04:03:10,655 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 04:03:10,655 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 04:03:10,655 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 04:08:10,755 - INFO - Active upload threads: 1/5
+2025-04-24 04:08:10,756 - INFO - Checking for completed torrents...
+2025-04-24 04:08:10,763 - INFO - Found 11 completed torrents
+2025-04-24 04:08:10,763 - INFO - Torrent Victor Frankenstein (2015) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Victor Frankenstein (2015) [1080p] [YTS.AG], exists: True
+2025-04-24 04:08:10,763 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 04:08:10,763 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 04:08:10,763 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 04:08:10,763 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 04:08:10,763 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 04:08:10,763 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 04:08:10,763 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 04:08:10,763 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 04:08:10,763 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 04:08:10,763 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 04:08:10,763 - INFO - Submitting 1 torrents for parallel upload
+2025-04-24 04:08:10,764 - INFO - Processing torrent: Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:08:10,764 - INFO - Attempting to upload torrent: Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:08:10,764 - INFO - Content path: /home/user/Desktop/torrents/Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:08:10,764 - INFO - Remote path: onedrive:Torrents/Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:08:10,764 - INFO - Uploading torrent: Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:08:10,764 - INFO - Directory /home/user/Desktop/torrents/Victor Frankenstein (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 04:08:10,764 - INFO - Starting upload: /home/user/Desktop/torrents/Victor Frankenstein (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:08:10,764 - INFO - Uploading directory of size 1708.33 MB
+2025-04-24 04:13:02,353 - INFO - Successfully uploaded to onedrive:Torrents/Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:13:02,360 - INFO - Verifying upload for: Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:13:02,360 - INFO - Verifying upload: /home/user/Desktop/torrents/Victor Frankenstein (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:13:04,750 - INFO - Upload verification successful for /home/user/Desktop/torrents/Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:13:04,763 - INFO - Deleting torrent from qBittorrent: Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:13:04,763 - INFO - Deleting torrent with hash a2aebab31863d16b87d029d7eb7343183ada11c8 (delete_files=False)
+2025-04-24 04:13:04,775 - INFO - Successfully deleted torrent with hash a2aebab31863d16b87d029d7eb7343183ada11c8
+2025-04-24 04:13:04,775 - INFO - Deleting content files: Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:13:04,775 - INFO - Deleting content: /home/user/Desktop/torrents/Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:13:04,777 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:13:04,777 - INFO - Successfully processed torrent: Victor Frankenstein (2015) [1080p] [YTS.AG]
+2025-04-24 04:13:04,777 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Victor Frankenstein (2015) [1080p] [YTS.AG]'}
+2025-04-24 04:18:04,840 - INFO - Active upload threads: 1/5
+2025-04-24 04:18:04,840 - INFO - Checking for completed torrents...
+2025-04-24 04:18:04,853 - INFO - Found 26 completed torrents
+2025-04-24 04:18:04,854 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 04:18:04,854 - INFO - Torrent 2 Guns (2013) [1080p]: content_path = /home/user/Desktop/torrents/2 Guns (2013) [1080p], exists: True
+2025-04-24 04:18:04,854 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 04:18:04,854 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 04:18:04,854 - INFO - Torrent In Time (2011) [1080p]: content_path = /home/user/Desktop/torrents/In Time (2011) [1080p], exists: True
+2025-04-24 04:18:04,854 - INFO - Torrent National Treasure (2004) [1080p]: content_path = /home/user/Desktop/torrents/National Treasure (2004) [1080p], exists: True
+2025-04-24 04:18:04,854 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 04:18:04,854 - INFO - Torrent Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-24 04:18:04,854 - INFO - Torrent Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-24 04:18:04,854 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 04:18:04,854 - INFO - Torrent Indiana Jones and the Last Crusade (1989) [1080p]: content_path = /home/user/Desktop/torrents/Indiana Jones and the Last Crusade (1989) [1080p], exists: True
+2025-04-24 04:18:04,854 - INFO - Torrent The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Green Knight (2021) [1080p] [WEBRip] [YTS.MX], exists: True
+2025-04-24 04:18:04,854 - INFO - Skipping already processed torrent: Jurassic Park III (2001) [1080p]
+2025-04-24 04:18:04,854 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 04:18:04,854 - INFO - Torrent The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/The.Way.Back.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4, exists: True
+2025-04-24 04:18:04,854 - INFO - Torrent Predators (2010) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Predators (2010) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-24 04:18:04,854 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 04:18:04,855 - INFO - Torrent Law Abiding Citizen (2009) [1080p]: content_path = /home/user/Desktop/torrents/Law Abiding Citizen (2009) [1080p], exists: True
+2025-04-24 04:18:04,855 - INFO - Torrent Battleship (2012) [1080p]: content_path = /home/user/Desktop/torrents/Battleship (2012) [1080p], exists: True
+2025-04-24 04:18:04,855 - INFO - Torrent Angry Birds (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Angry Birds (2016) [1080p] [YTS.AG], exists: True
+2025-04-24 04:18:04,855 - INFO - Torrent Collide (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Collide (2016) [1080p] [YTS.AG], exists: True
+2025-04-24 04:18:04,855 - INFO - Torrent The Witch (2015) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Witch (2015) [1080p] [YTS.AG], exists: True
+2025-04-24 04:18:04,855 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 04:18:04,855 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 04:18:04,855 - INFO - Torrent The Perks of Being a Wallflower (2012) [1080p]: content_path = /home/user/Desktop/torrents/The Perks of Being a Wallflower (2012) [1080p], exists: True
+2025-04-24 04:18:04,855 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 04:18:04,855 - INFO - Submitting 15 torrents for parallel upload
+2025-04-24 04:18:04,856 - INFO - Processing torrent: 2 Guns (2013) [1080p]
+2025-04-24 04:18:04,856 - INFO - Processing torrent: In Time (2011) [1080p]
+2025-04-24 04:18:04,856 - INFO - Attempting to upload torrent: 2 Guns (2013) [1080p]
+2025-04-24 04:18:04,856 - INFO - Attempting to upload torrent: In Time (2011) [1080p]
+2025-04-24 04:18:04,856 - INFO - Content path: /home/user/Desktop/torrents/2 Guns (2013) [1080p]
+2025-04-24 04:18:04,856 - INFO - Processing torrent: National Treasure (2004) [1080p]
+2025-04-24 04:18:04,857 - INFO - Content path: /home/user/Desktop/torrents/In Time (2011) [1080p]
+2025-04-24 04:18:04,857 - INFO - Processing torrent: Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:18:04,857 - INFO - Remote path: onedrive:Torrents/2 Guns (2013) [1080p]
+2025-04-24 04:18:04,858 - INFO - Processing torrent: Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:18:04,858 - INFO - Attempting to upload torrent: National Treasure (2004) [1080p]
+2025-04-24 04:18:04,858 - INFO - Remote path: onedrive:Torrents/In Time (2011) [1080p]
+2025-04-24 04:18:04,859 - INFO - Attempting to upload torrent: Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:18:04,859 - INFO - Uploading torrent: 2 Guns (2013) [1080p]
+2025-04-24 04:18:04,859 - INFO - Attempting to upload torrent: Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:18:04,859 - INFO - Content path: /home/user/Desktop/torrents/National Treasure (2004) [1080p]
+2025-04-24 04:18:04,859 - INFO - Uploading torrent: In Time (2011) [1080p]
+2025-04-24 04:18:04,860 - INFO - Content path: /home/user/Desktop/torrents/Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:18:04,860 - INFO - Content path: /home/user/Desktop/torrents/Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:18:04,860 - INFO - Remote path: onedrive:Torrents/National Treasure (2004) [1080p]
+2025-04-24 04:18:04,860 - INFO - Directory /home/user/Desktop/torrents/2 Guns (2013) [1080p] is readable, contains 2 files/dirs
+2025-04-24 04:18:04,861 - INFO - Remote path: onedrive:Torrents/Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:18:04,861 - INFO - Remote path: onedrive:Torrents/Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:18:04,861 - INFO - Uploading torrent: National Treasure (2004) [1080p]
+2025-04-24 04:18:04,861 - INFO - Starting upload: /home/user/Desktop/torrents/2 Guns (2013) [1080p] -> onedrive:Torrents/2 Guns (2013) [1080p]
+2025-04-24 04:18:04,861 - INFO - Uploading torrent: Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:18:04,861 - INFO - Uploading torrent: Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:18:04,862 - INFO - Directory /home/user/Desktop/torrents/In Time (2011) [1080p] is readable, contains 3 files/dirs
+2025-04-24 04:18:04,862 - INFO - Directory /home/user/Desktop/torrents/National Treasure (2004) [1080p] is readable, contains 3 files/dirs
+2025-04-24 04:18:04,862 - INFO - Uploading directory of size 1679.04 MB
+2025-04-24 04:18:04,862 - INFO - Starting upload: /home/user/Desktop/torrents/In Time (2011) [1080p] -> onedrive:Torrents/In Time (2011) [1080p]
+2025-04-24 04:18:04,862 - INFO - Directory /home/user/Desktop/torrents/Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-24 04:18:04,862 - INFO - Starting upload: /home/user/Desktop/torrents/National Treasure (2004) [1080p] -> onedrive:Torrents/National Treasure (2004) [1080p]
+2025-04-24 04:18:04,863 - INFO - Directory /home/user/Desktop/torrents/Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-24 04:18:04,864 - INFO - Starting upload: /home/user/Desktop/torrents/Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:18:04,864 - INFO - Uploading directory of size 1530.90 MB
+2025-04-24 04:18:04,864 - INFO - Starting upload: /home/user/Desktop/torrents/Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:18:04,864 - INFO - Uploading directory of size 1795.07 MB
+2025-04-24 04:18:04,866 - INFO - Uploading directory of size 2046.32 MB
+2025-04-24 04:18:04,867 - INFO - Uploading directory of size 2664.75 MB
