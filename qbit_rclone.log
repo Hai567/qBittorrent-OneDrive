@@ -16094,3 +16094,71 @@
 2025-04-24 06:35:58,389 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-24 06:35:58,390 - INFO - Successfully processed torrent: Stuber (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-24 06:35:58,390 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Stuber (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-24 06:40:58,421 - INFO - Active upload threads: 5/5
+2025-04-24 06:40:58,422 - INFO - Checking for completed torrents...
+2025-04-24 06:40:58,435 - INFO - Found 24 completed torrents
+2025-04-24 06:40:58,435 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 06:40:58,435 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 06:40:58,435 - INFO - Torrent Anon (2018) [BluRay] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Anon (2018) [BluRay] [1080p] [YTS.AM], exists: True
+2025-04-24 06:40:58,435 - INFO - Torrent Mr and Mrs Smith (2005) [1080p]: content_path = /home/user/Desktop/torrents/Mr and Mrs Smith (2005) [1080p], exists: True
+2025-04-24 06:40:58,435 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
+2025-04-24 06:40:58,435 - INFO - Torrent Long Shot (2019) [WEBRip] [1080p] [YTS.LT]: content_path = /home/user/Desktop/torrents/Long Shot (2019) [WEBRip] [1080p] [YTS.LT], exists: True
+2025-04-24 06:40:58,436 - INFO - Torrent Widows (2018) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-24 06:40:58,436 - INFO - Torrent The Peanuts Movie (2015) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/The Peanuts Movie (2015) [1080p] [YTS.AG], exists: True
+2025-04-24 06:40:58,436 - INFO - Torrent A Million Ways to Die in the West (2014) [1080p]: content_path = /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p], exists: True
+2025-04-24 06:40:58,436 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 06:40:58,436 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 06:40:58,436 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 06:40:58,436 - INFO - Torrent Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]: content_path = /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM], exists: True
+2025-04-24 06:40:58,436 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 06:40:58,436 - INFO - Torrent Alice in Wonderland (2010) [1080p]: content_path = /home/user/Desktop/torrents/Alice in Wonderland (2010) [1080p], exists: True
+2025-04-24 06:40:58,436 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 06:40:58,437 - INFO - Torrent Room (2015) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG], exists: True
+2025-04-24 06:40:58,437 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 06:40:58,437 - INFO - Skipping already processed torrent: Jurassic Park III (2001) [1080p]
+2025-04-24 06:40:58,437 - INFO - Torrent Die Hard 2 (1990) [1080p]: content_path = /home/user/Desktop/torrents/Die Hard 2 (1990) [1080p], exists: True
+2025-04-24 06:40:58,437 - INFO - Torrent Security (2017) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Security (2017) [1080p] [YTS.AG], exists: True
+2025-04-24 06:40:58,437 - INFO - Torrent Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]: content_path = /home/user/Desktop/torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG], exists: True
+2025-04-24 06:40:58,437 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 06:40:58,437 - INFO - Torrent Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]: content_path = /home/user/Desktop/torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX], exists: True
+2025-04-24 06:40:58,437 - INFO - Submitting 13 torrents for parallel upload
+2025-04-24 06:40:58,438 - INFO - Processing torrent: Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:40:58,438 - INFO - Processing torrent: Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:40:58,438 - INFO - Attempting to upload torrent: Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:40:58,438 - INFO - Attempting to upload torrent: Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:40:58,439 - INFO - Processing torrent: Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:40:58,439 - INFO - Processing torrent: Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:40:58,439 - INFO - Processing torrent: The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:40:58,439 - INFO - Content path: /home/user/Desktop/torrents/Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:40:58,439 - INFO - Content path: /home/user/Desktop/torrents/Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:40:58,439 - INFO - Attempting to upload torrent: Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:40:58,439 - INFO - Attempting to upload torrent: Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:40:58,440 - INFO - Attempting to upload torrent: The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:40:58,440 - INFO - Remote path: onedrive:Torrents/Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:40:58,440 - INFO - Remote path: onedrive:Torrents/Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:40:58,440 - INFO - Content path: /home/user/Desktop/torrents/Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:40:58,440 - INFO - Content path: /home/user/Desktop/torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:40:58,440 - INFO - Content path: /home/user/Desktop/torrents/The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:40:58,440 - INFO - Uploading torrent: Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:40:58,441 - INFO - Uploading torrent: Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:40:58,441 - INFO - Remote path: onedrive:Torrents/Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:40:58,441 - INFO - Remote path: onedrive:Torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:40:58,441 - INFO - Remote path: onedrive:Torrents/The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:40:58,442 - INFO - Directory /home/user/Desktop/torrents/Anon (2018) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-24 06:40:58,442 - INFO - Uploading torrent: Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:40:58,442 - INFO - Uploading torrent: Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:40:58,442 - INFO - Directory /home/user/Desktop/torrents/Mr and Mrs Smith (2005) [1080p] is readable, contains 4 files/dirs
+2025-04-24 06:40:58,442 - INFO - Uploading torrent: The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:40:58,442 - INFO - Starting upload: /home/user/Desktop/torrents/Anon (2018) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Anon (2018) [BluRay] [1080p] [YTS.AM]
+2025-04-24 06:40:58,443 - INFO - Directory /home/user/Desktop/torrents/Long Shot (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-24 06:40:58,443 - INFO - Starting upload: /home/user/Desktop/torrents/Mr and Mrs Smith (2005) [1080p] -> onedrive:Torrents/Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:40:58,443 - INFO - Directory /home/user/Desktop/torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-24 06:40:58,443 - INFO - Directory /home/user/Desktop/torrents/The Peanuts Movie (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 06:40:58,444 - INFO - Starting upload: /home/user/Desktop/torrents/Long Shot (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Long Shot (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:40:58,444 - INFO - Uploading directory of size 1629.35 MB
+2025-04-24 06:40:58,444 - INFO - Starting upload: /home/user/Desktop/torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Widows (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:40:58,444 - INFO - Starting upload: /home/user/Desktop/torrents/The Peanuts Movie (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:40:58,446 - INFO - Uploading directory of size 2038.98 MB
+2025-04-24 06:40:58,446 - INFO - Uploading directory of size 1536.00 MB
+2025-04-24 06:40:58,447 - INFO - Uploading directory of size 2129.06 MB
+2025-04-24 06:40:58,447 - INFO - Uploading directory of size 1375.48 MB
