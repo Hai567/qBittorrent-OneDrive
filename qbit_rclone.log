@@ -15358,3 +15358,43 @@
 2025-04-24 05:17:06,443 - INFO - Uploading directory of size 2623.46 MB
 2025-04-24 05:17:06,447 - INFO - Uploading directory of size 1765.48 MB
 2025-04-24 05:17:06,447 - INFO - Uploading directory of size 2267.52 MB
+2025-04-24 05:26:04,189 - INFO - Successfully uploaded to onedrive:Torrents/Hidden Strike (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 05:26:04,189 - INFO - Verifying upload for: Hidden Strike (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 05:26:04,190 - INFO - Verifying upload: /home/user/Desktop/torrents/Hidden Strike (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX] -> onedrive:Torrents/Hidden Strike (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 05:26:06,776 - INFO - Upload verification successful for /home/user/Desktop/torrents/Hidden Strike (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 05:26:06,789 - INFO - Deleting torrent from qBittorrent: Hidden Strike (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 05:26:06,790 - INFO - Deleting torrent with hash 7dd5febc46ced408f79bff183b272487148aef49 (delete_files=False)
+2025-04-24 05:26:06,799 - INFO - Successfully deleted torrent with hash 7dd5febc46ced408f79bff183b272487148aef49
+2025-04-24 05:26:06,800 - INFO - Deleting content files: Hidden Strike (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 05:26:06,800 - INFO - Deleting content: /home/user/Desktop/torrents/Hidden Strike (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 05:26:06,802 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Hidden Strike (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 05:26:06,802 - INFO - Successfully processed torrent: Hidden Strike (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 05:26:06,802 - INFO - Processing torrent: Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:26:06,802 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Hidden Strike (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]'}
+2025-04-24 05:26:06,802 - INFO - Attempting to upload torrent: Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:26:06,803 - INFO - Content path: /home/user/Desktop/torrents/Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:26:06,803 - INFO - Remote path: onedrive:Torrents/Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:26:06,803 - INFO - Uploading torrent: Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:26:06,803 - INFO - Directory /home/user/Desktop/torrents/Dragonheart 3 The Sorcerer's Curse (2015) [1080p] is readable, contains 2 files/dirs
+2025-04-24 05:26:06,803 - INFO - Starting upload: /home/user/Desktop/torrents/Dragonheart 3 The Sorcerer's Curse (2015) [1080p] -> onedrive:Torrents/Dragonheart 3 The Sorcerer's Curse (2015) [1080p]
+2025-04-24 05:26:06,803 - INFO - Uploading directory of size 1470.36 MB
+2025-04-24 05:27:12,674 - INFO - Successfully uploaded to onedrive:Torrents/The Chronicles of Narnia -  Prince Caspian (2008) [1080p]
+2025-04-24 05:27:12,674 - INFO - Verifying upload for: The Chronicles of Narnia -  Prince Caspian (2008) [1080p]
+2025-04-24 05:27:12,674 - INFO - Verifying upload: /home/user/Desktop/torrents/The Chronicles of Narnia -  Prince Caspian (2008) [1080p] -> onedrive:Torrents/The Chronicles of Narnia -  Prince Caspian (2008) [1080p]
+2025-04-24 05:27:15,450 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Chronicles of Narnia -  Prince Caspian (2008) [1080p]
+2025-04-24 05:27:15,464 - INFO - Deleting torrent from qBittorrent: The Chronicles of Narnia -  Prince Caspian (2008) [1080p]
+2025-04-24 05:27:15,464 - INFO - Deleting torrent with hash 20749405dc26ea9d8e9f44298e3cc66a3215bdce (delete_files=False)
+2025-04-24 05:27:15,476 - INFO - Successfully deleted torrent with hash 20749405dc26ea9d8e9f44298e3cc66a3215bdce
+2025-04-24 05:27:15,476 - INFO - Deleting content files: The Chronicles of Narnia -  Prince Caspian (2008) [1080p]
+2025-04-24 05:27:15,476 - INFO - Deleting content: /home/user/Desktop/torrents/The Chronicles of Narnia -  Prince Caspian (2008) [1080p]
+2025-04-24 05:27:15,477 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Chronicles of Narnia -  Prince Caspian (2008) [1080p]
+2025-04-24 05:27:15,477 - INFO - Successfully processed torrent: The Chronicles of Narnia -  Prince Caspian (2008) [1080p]
+2025-04-24 05:27:15,478 - INFO - Processing torrent: Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:27:15,478 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Chronicles of Narnia -  Prince Caspian (2008) [1080p]'}
+2025-04-24 05:27:15,478 - INFO - Attempting to upload torrent: Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:27:15,478 - INFO - Content path: /home/user/Desktop/torrents/Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:27:15,478 - INFO - Remote path: onedrive:Torrents/Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:27:15,478 - INFO - Uploading torrent: Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:27:15,479 - INFO - Directory /home/user/Desktop/torrents/Miss Sloane (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 05:27:15,479 - INFO - Starting upload: /home/user/Desktop/torrents/Miss Sloane (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Miss Sloane (2016) [1080p] [YTS.AG]
+2025-04-24 05:27:15,479 - INFO - Uploading directory of size 2059.14 MB
