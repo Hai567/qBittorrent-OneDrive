@@ -14841,3 +14841,23 @@
 2025-04-24 04:27:47,605 - INFO - File /home/user/Desktop/torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/The.Way.Back.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4 is readable
 2025-04-24 04:27:47,605 - INFO - Starting upload: /home/user/Desktop/torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/The.Way.Back.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4 -> onedrive:Torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-24 04:27:47,605 - INFO - Uploading file of size 2045.18 MB
+2025-04-24 04:31:21,019 - INFO - Successfully uploaded to onedrive:Torrents/National Treasure (2004) [1080p]
+2025-04-24 04:31:21,020 - INFO - Verifying upload for: National Treasure (2004) [1080p]
+2025-04-24 04:31:21,020 - INFO - Verifying upload: /home/user/Desktop/torrents/National Treasure (2004) [1080p] -> onedrive:Torrents/National Treasure (2004) [1080p]
+2025-04-24 04:31:23,914 - INFO - Upload verification successful for /home/user/Desktop/torrents/National Treasure (2004) [1080p]
+2025-04-24 04:31:23,927 - INFO - Deleting torrent from qBittorrent: National Treasure (2004) [1080p]
+2025-04-24 04:31:23,928 - INFO - Deleting torrent with hash 36f39dea863c1886df228ded50d29d8538b55ffb (delete_files=False)
+2025-04-24 04:31:23,938 - INFO - Successfully deleted torrent with hash 36f39dea863c1886df228ded50d29d8538b55ffb
+2025-04-24 04:31:23,938 - INFO - Deleting content files: National Treasure (2004) [1080p]
+2025-04-24 04:31:23,938 - INFO - Deleting content: /home/user/Desktop/torrents/National Treasure (2004) [1080p]
+2025-04-24 04:31:23,939 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/National Treasure (2004) [1080p]
+2025-04-24 04:31:23,940 - INFO - Successfully processed torrent: National Treasure (2004) [1080p]
+2025-04-24 04:31:23,940 - INFO - Processing torrent: Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:31:23,940 - INFO - Attempting to upload torrent: Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:31:23,940 - INFO - Content path: /home/user/Desktop/torrents/Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:31:23,940 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'National Treasure (2004) [1080p]'}
+2025-04-24 04:31:23,940 - INFO - Remote path: onedrive:Torrents/Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:31:23,941 - INFO - Uploading torrent: Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:31:23,941 - INFO - Directory /home/user/Desktop/torrents/Predators (2010) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-24 04:31:23,941 - INFO - Starting upload: /home/user/Desktop/torrents/Predators (2010) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:31:23,941 - INFO - Uploading directory of size 1766.51 MB
