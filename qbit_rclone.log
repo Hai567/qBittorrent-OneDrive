@@ -14781,3 +14781,63 @@
 2025-04-24 04:18:04,864 - INFO - Uploading directory of size 1795.07 MB
 2025-04-24 04:18:04,866 - INFO - Uploading directory of size 2046.32 MB
 2025-04-24 04:18:04,867 - INFO - Uploading directory of size 2664.75 MB
+2025-04-24 04:26:49,643 - INFO - Successfully uploaded to onedrive:Torrents/In Time (2011) [1080p]
+2025-04-24 04:26:49,643 - INFO - Verifying upload for: In Time (2011) [1080p]
+2025-04-24 04:26:49,643 - INFO - Verifying upload: /home/user/Desktop/torrents/In Time (2011) [1080p] -> onedrive:Torrents/In Time (2011) [1080p]
+2025-04-24 04:26:52,845 - INFO - Upload verification successful for /home/user/Desktop/torrents/In Time (2011) [1080p]
+2025-04-24 04:26:52,859 - INFO - Deleting torrent from qBittorrent: In Time (2011) [1080p]
+2025-04-24 04:26:52,859 - INFO - Deleting torrent with hash ca7453da93467e740fc4af0b499449ab779b99dc (delete_files=False)
+2025-04-24 04:26:52,869 - INFO - Successfully deleted torrent with hash ca7453da93467e740fc4af0b499449ab779b99dc
+2025-04-24 04:26:52,870 - INFO - Deleting content files: In Time (2011) [1080p]
+2025-04-24 04:26:52,870 - INFO - Deleting content: /home/user/Desktop/torrents/In Time (2011) [1080p]
+2025-04-24 04:26:52,871 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/In Time (2011) [1080p]
+2025-04-24 04:26:52,871 - INFO - Successfully processed torrent: In Time (2011) [1080p]
+2025-04-24 04:26:52,871 - INFO - Processing torrent: Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:26:52,872 - INFO - Attempting to upload torrent: Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:26:52,872 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'In Time (2011) [1080p]'}
+2025-04-24 04:26:52,872 - INFO - Content path: /home/user/Desktop/torrents/Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:26:52,872 - INFO - Remote path: onedrive:Torrents/Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:26:52,873 - INFO - Uploading torrent: Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:26:52,873 - INFO - Directory /home/user/Desktop/torrents/Indiana Jones and the Last Crusade (1989) [1080p] is readable, contains 3 files/dirs
+2025-04-24 04:26:52,873 - INFO - Starting upload: /home/user/Desktop/torrents/Indiana Jones and the Last Crusade (1989) [1080p] -> onedrive:Torrents/Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:26:52,873 - INFO - Uploading directory of size 1849.07 MB
+2025-04-24 04:26:57,387 - INFO - Successfully uploaded to onedrive:Torrents/2 Guns (2013) [1080p]
+2025-04-24 04:26:57,387 - INFO - Verifying upload for: 2 Guns (2013) [1080p]
+2025-04-24 04:26:57,387 - INFO - Verifying upload: /home/user/Desktop/torrents/2 Guns (2013) [1080p] -> onedrive:Torrents/2 Guns (2013) [1080p]
+2025-04-24 04:27:00,214 - INFO - Upload verification successful for /home/user/Desktop/torrents/2 Guns (2013) [1080p]
+2025-04-24 04:27:00,232 - INFO - Deleting torrent from qBittorrent: 2 Guns (2013) [1080p]
+2025-04-24 04:27:00,233 - INFO - Deleting torrent with hash 2da1e8ca685c84b17a53d023cc52ddbadb1939f7 (delete_files=False)
+2025-04-24 04:27:00,242 - INFO - Successfully deleted torrent with hash 2da1e8ca685c84b17a53d023cc52ddbadb1939f7
+2025-04-24 04:27:00,242 - INFO - Deleting content files: 2 Guns (2013) [1080p]
+2025-04-24 04:27:00,243 - INFO - Deleting content: /home/user/Desktop/torrents/2 Guns (2013) [1080p]
+2025-04-24 04:27:00,244 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/2 Guns (2013) [1080p]
+2025-04-24 04:27:00,244 - INFO - Successfully processed torrent: 2 Guns (2013) [1080p]
+2025-04-24 04:27:00,244 - INFO - Processing torrent: The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:27:00,244 - INFO - Attempting to upload torrent: The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:27:00,245 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': '2 Guns (2013) [1080p]'}
+2025-04-24 04:27:00,245 - INFO - Content path: /home/user/Desktop/torrents/The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:27:00,245 - INFO - Remote path: onedrive:Torrents/The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:27:00,245 - INFO - Uploading torrent: The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:27:00,245 - INFO - Directory /home/user/Desktop/torrents/The Green Knight (2021) [1080p] [WEBRip] [YTS.MX] is readable, contains 4 files/dirs
+2025-04-24 04:27:00,245 - INFO - Starting upload: /home/user/Desktop/torrents/The Green Knight (2021) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:27:00,245 - INFO - Uploading directory of size 2210.54 MB
+2025-04-24 04:27:45,133 - INFO - Successfully uploaded to onedrive:Torrents/Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:45,134 - INFO - Verifying upload for: Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:45,134 - INFO - Verifying upload: /home/user/Desktop/torrents/Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:47,583 - INFO - Upload verification successful for /home/user/Desktop/torrents/Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:47,593 - INFO - Deleting torrent from qBittorrent: Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:47,593 - INFO - Deleting torrent with hash 2f8c775cc4ca6f7213be2ce5aba5c85591c83b92 (delete_files=False)
+2025-04-24 04:27:47,603 - INFO - Successfully deleted torrent with hash 2f8c775cc4ca6f7213be2ce5aba5c85591c83b92
+2025-04-24 04:27:47,603 - INFO - Deleting content files: Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:47,603 - INFO - Deleting content: /home/user/Desktop/torrents/Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:47,604 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:47,604 - INFO - Successfully processed torrent: Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:47,604 - INFO - Processing torrent: The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:47,604 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Old (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-24 04:27:47,605 - INFO - Attempting to upload torrent: The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:47,605 - INFO - Content path: /home/user/Desktop/torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/The.Way.Back.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+2025-04-24 04:27:47,605 - INFO - Remote path: onedrive:Torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:47,605 - INFO - Uploading torrent: The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:47,605 - INFO - File /home/user/Desktop/torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/The.Way.Back.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4 is readable
+2025-04-24 04:27:47,605 - INFO - Starting upload: /home/user/Desktop/torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/The.Way.Back.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4 -> onedrive:Torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:27:47,605 - INFO - Uploading file of size 2045.18 MB
