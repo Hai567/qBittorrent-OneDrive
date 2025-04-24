@@ -16427,3 +16427,27 @@
 2025-04-24 10:54:53,765 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG]
 2025-04-24 10:54:53,765 - INFO - Successfully processed torrent: Room (2015) [1080p] [YTS.AG]
 2025-04-24 10:54:53,766 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Room (2015) [1080p] [YTS.AG]'}
+2025-04-24 11:01:54,380 - INFO - Successfully uploaded to onedrive:Torrents/Security (2017) [1080p] [YTS.AG]
+2025-04-24 11:01:54,380 - INFO - Verifying upload for: Security (2017) [1080p] [YTS.AG]
+2025-04-24 11:01:54,380 - INFO - Verifying upload: /home/user/Desktop/torrents/Security (2017) [1080p] [YTS.AG] -> onedrive:Torrents/Security (2017) [1080p] [YTS.AG]
+2025-04-24 11:01:56,634 - INFO - Upload verification successful for /home/user/Desktop/torrents/Security (2017) [1080p] [YTS.AG]
+2025-04-24 11:01:56,645 - INFO - Deleting torrent from qBittorrent: Security (2017) [1080p] [YTS.AG]
+2025-04-24 11:01:56,645 - INFO - Deleting torrent with hash a58faee80d413dbe68eb0bedeff949ddceca8638 (delete_files=False)
+2025-04-24 11:01:56,653 - INFO - Successfully deleted torrent with hash a58faee80d413dbe68eb0bedeff949ddceca8638
+2025-04-24 11:01:56,653 - INFO - Deleting content files: Security (2017) [1080p] [YTS.AG]
+2025-04-24 11:01:56,653 - INFO - Deleting content: /home/user/Desktop/torrents/Security (2017) [1080p] [YTS.AG]
+2025-04-24 11:01:56,654 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Security (2017) [1080p] [YTS.AG]
+2025-04-24 11:01:56,654 - INFO - Successfully processed torrent: Security (2017) [1080p] [YTS.AG]
+2025-04-24 11:01:56,654 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Security (2017) [1080p] [YTS.AG]'}
+2025-04-24 11:03:08,066 - INFO - Successfully uploaded to onedrive:Torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 11:03:08,066 - INFO - Verifying upload for: Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 11:03:08,067 - INFO - Verifying upload: /home/user/Desktop/torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 11:03:11,205 - INFO - Upload verification successful for /home/user/Desktop/torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 11:03:11,215 - INFO - Deleting torrent from qBittorrent: Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 11:03:11,215 - INFO - Deleting torrent with hash 51d634c2cf4aa5e1a232a511596c43b477425b07 (delete_files=False)
+2025-04-24 11:03:11,222 - INFO - Successfully deleted torrent with hash 51d634c2cf4aa5e1a232a511596c43b477425b07
+2025-04-24 11:03:11,222 - INFO - Deleting content files: Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 11:03:11,222 - INFO - Deleting content: /home/user/Desktop/torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 11:03:11,224 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 11:03:11,224 - INFO - Successfully processed torrent: Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]
+2025-04-24 11:03:11,224 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "Billy Lynn's Long Halftime Walk (2016) [1080p] [YTS.AG]"}
