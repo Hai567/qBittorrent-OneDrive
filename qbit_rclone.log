@@ -14941,3 +14941,79 @@
 2025-04-24 04:37:56,206 - INFO - Directory /home/user/Desktop/torrents/Collide (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-24 04:37:56,206 - INFO - Starting upload: /home/user/Desktop/torrents/Collide (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Collide (2016) [1080p] [YTS.AG]
 2025-04-24 04:37:56,206 - INFO - Uploading directory of size 1551.30 MB
+2025-04-24 04:40:12,785 - INFO - Successfully uploaded to onedrive:Torrents/Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:40:12,785 - INFO - Verifying upload for: Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:40:12,785 - INFO - Verifying upload: /home/user/Desktop/torrents/Predators (2010) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:40:14,988 - INFO - Upload verification successful for /home/user/Desktop/torrents/Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:40:15,000 - INFO - Deleting torrent from qBittorrent: Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:40:15,000 - INFO - Deleting torrent with hash 1f781b0c04c97b7a912352ec719489414eb99dfc (delete_files=False)
+2025-04-24 04:40:15,011 - INFO - Successfully deleted torrent with hash 1f781b0c04c97b7a912352ec719489414eb99dfc
+2025-04-24 04:40:15,011 - INFO - Deleting content files: Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:40:15,011 - INFO - Deleting content: /home/user/Desktop/torrents/Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:40:15,012 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:40:15,012 - INFO - Successfully processed torrent: Predators (2010) [BluRay] [1080p] [YTS.AM]
+2025-04-24 04:40:15,012 - INFO - Processing torrent: The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:40:15,013 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Predators (2010) [BluRay] [1080p] [YTS.AM]'}
+2025-04-24 04:40:15,013 - INFO - Attempting to upload torrent: The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:40:15,013 - INFO - Content path: /home/user/Desktop/torrents/The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:40:15,013 - INFO - Remote path: onedrive:Torrents/The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:40:15,013 - INFO - Uploading torrent: The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:40:15,014 - INFO - Directory /home/user/Desktop/torrents/The Witch (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 04:40:15,014 - INFO - Starting upload: /home/user/Desktop/torrents/The Witch (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:40:15,014 - INFO - Uploading directory of size 1435.87 MB
+2025-04-24 04:43:01,507 - INFO - Successfully uploaded to onedrive:Torrents/Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:43:01,507 - INFO - Verifying upload for: Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:43:01,507 - INFO - Verifying upload: /home/user/Desktop/torrents/Angry Birds (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:43:04,487 - INFO - Upload verification successful for /home/user/Desktop/torrents/Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:43:04,499 - INFO - Deleting torrent from qBittorrent: Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:43:04,500 - INFO - Deleting torrent with hash 1c55ddfe37a9f247c4d72cfcdc326f0b196a9a06 (delete_files=False)
+2025-04-24 04:43:04,509 - INFO - Successfully deleted torrent with hash 1c55ddfe37a9f247c4d72cfcdc326f0b196a9a06
+2025-04-24 04:43:04,509 - INFO - Deleting content files: Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:43:04,509 - INFO - Deleting content: /home/user/Desktop/torrents/Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:43:04,511 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:43:04,511 - INFO - Successfully processed torrent: Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:43:04,511 - INFO - Processing torrent: The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:43:04,511 - INFO - Attempting to upload torrent: The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:43:04,511 - INFO - Content path: /home/user/Desktop/torrents/The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:43:04,511 - INFO - Remote path: onedrive:Torrents/The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:43:04,511 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Angry Birds (2016) [1080p] [YTS.AG]'}
+2025-04-24 04:43:04,512 - INFO - Uploading torrent: The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:43:04,512 - INFO - Directory /home/user/Desktop/torrents/The Perks of Being a Wallflower (2012) [1080p] is readable, contains 3 files/dirs
+2025-04-24 04:43:04,512 - INFO - Starting upload: /home/user/Desktop/torrents/The Perks of Being a Wallflower (2012) [1080p] -> onedrive:Torrents/The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:43:04,513 - INFO - Uploading directory of size 1638.29 MB
+2025-04-24 04:43:48,993 - INFO - Successfully uploaded to onedrive:Torrents/Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:43:48,994 - INFO - Verifying upload for: Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:43:48,994 - INFO - Verifying upload: /home/user/Desktop/torrents/Law Abiding Citizen (2009) [1080p] -> onedrive:Torrents/Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:43:51,274 - INFO - Upload verification successful for /home/user/Desktop/torrents/Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:43:51,286 - INFO - Deleting torrent from qBittorrent: Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:43:51,286 - INFO - Deleting torrent with hash a255ef72c317c0701cfedd1141eb4ae7889d85e5 (delete_files=False)
+2025-04-24 04:43:51,296 - INFO - Successfully deleted torrent with hash a255ef72c317c0701cfedd1141eb4ae7889d85e5
+2025-04-24 04:43:51,296 - INFO - Deleting content files: Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:43:51,296 - INFO - Deleting content: /home/user/Desktop/torrents/Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:43:51,298 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:43:51,298 - INFO - Successfully processed torrent: Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:43:51,298 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Law Abiding Citizen (2009) [1080p]'}
+2025-04-24 04:43:59,648 - INFO - Successfully uploaded to onedrive:Torrents/Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:43:59,648 - INFO - Verifying upload for: Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:43:59,648 - INFO - Verifying upload: /home/user/Desktop/torrents/Collide (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:44:02,152 - INFO - Upload verification successful for /home/user/Desktop/torrents/Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:44:02,167 - INFO - Deleting torrent from qBittorrent: Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:44:02,167 - INFO - Deleting torrent with hash 4df587a45d10a5aad9c55c059e2f173e357b5912 (delete_files=False)
+2025-04-24 04:44:02,177 - INFO - Successfully deleted torrent with hash 4df587a45d10a5aad9c55c059e2f173e357b5912
+2025-04-24 04:44:02,178 - INFO - Deleting content files: Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:44:02,178 - INFO - Deleting content: /home/user/Desktop/torrents/Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:44:02,180 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:44:02,180 - INFO - Successfully processed torrent: Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:44:02,181 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Collide (2016) [1080p] [YTS.AG]'}
+2025-04-24 04:44:17,096 - INFO - Successfully uploaded to onedrive:Torrents/Battleship (2012) [1080p]
+2025-04-24 04:44:17,096 - INFO - Verifying upload for: Battleship (2012) [1080p]
+2025-04-24 04:44:17,096 - INFO - Verifying upload: /home/user/Desktop/torrents/Battleship (2012) [1080p] -> onedrive:Torrents/Battleship (2012) [1080p]
+2025-04-24 04:44:19,328 - INFO - Upload verification successful for /home/user/Desktop/torrents/Battleship (2012) [1080p]
+2025-04-24 04:44:19,339 - INFO - Deleting torrent from qBittorrent: Battleship (2012) [1080p]
+2025-04-24 04:44:19,339 - INFO - Deleting torrent with hash 46820f05c9e4372de6426bdf3dc089dffa1831eb (delete_files=False)
+2025-04-24 04:44:19,348 - INFO - Successfully deleted torrent with hash 46820f05c9e4372de6426bdf3dc089dffa1831eb
+2025-04-24 04:44:19,348 - INFO - Deleting content files: Battleship (2012) [1080p]
+2025-04-24 04:44:19,348 - INFO - Deleting content: /home/user/Desktop/torrents/Battleship (2012) [1080p]
+2025-04-24 04:44:19,349 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Battleship (2012) [1080p]
+2025-04-24 04:44:19,350 - INFO - Successfully processed torrent: Battleship (2012) [1080p]
+2025-04-24 04:44:19,350 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Battleship (2012) [1080p]'}
