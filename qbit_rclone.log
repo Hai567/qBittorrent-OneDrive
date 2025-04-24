@@ -15797,3 +15797,120 @@
 2025-04-24 06:10:15,154 - INFO - Successfully uploaded to onedrive:Torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-24 06:10:15,155 - INFO - Verifying upload for: Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-24 06:10:15,155 - INFO - Verifying upload: /home/user/Desktop/torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:10:18,081 - INFO - Upload verification successful for /home/user/Desktop/torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:10:18,095 - INFO - Deleting torrent from qBittorrent: Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:10:18,096 - INFO - Deleting torrent with hash 5bb42716cf996ab02e77ff0a9e33129b09e122ae (delete_files=False)
+2025-04-24 06:10:18,106 - INFO - Successfully deleted torrent with hash 5bb42716cf996ab02e77ff0a9e33129b09e122ae
+2025-04-24 06:10:18,107 - INFO - Deleting content files: Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:10:18,107 - INFO - Deleting content: /home/user/Desktop/torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:10:18,108 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:10:18,108 - INFO - Successfully processed torrent: Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:10:18,108 - INFO - Processing torrent: The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:18,108 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Stolen Princess Ruslan And Ludmila (2018) [WEBRip] [1080p] [YTS.AM]'}
+2025-04-24 06:10:18,108 - INFO - Attempting to upload torrent: The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:18,109 - INFO - Content path: /home/user/Desktop/torrents/The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:18,109 - INFO - Remote path: onedrive:Torrents/The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:18,109 - INFO - Uploading torrent: The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:18,109 - INFO - Directory /home/user/Desktop/torrents/The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-24 06:10:18,109 - INFO - Starting upload: /home/user/Desktop/torrents/The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:18,109 - INFO - Uploading directory of size 792.41 MB
+2025-04-24 06:10:42,339 - INFO - Successfully uploaded to onedrive:Torrents/The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:42,339 - INFO - Verifying upload for: The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:42,339 - INFO - Verifying upload: /home/user/Desktop/torrents/The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:44,904 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:44,918 - INFO - Deleting torrent from qBittorrent: The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:44,918 - INFO - Deleting torrent with hash 859bfa2a4d443ba63415a8f7b1b3f6ee5a6fb88f (delete_files=False)
+2025-04-24 06:10:44,928 - INFO - Successfully deleted torrent with hash 859bfa2a4d443ba63415a8f7b1b3f6ee5a6fb88f
+2025-04-24 06:10:44,928 - INFO - Deleting content files: The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:44,928 - INFO - Deleting content: /home/user/Desktop/torrents/The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:44,930 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:44,930 - INFO - Successfully processed torrent: The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:10:44,931 - INFO - Processing torrent: The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:10:44,931 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Little Things (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-24 06:10:44,931 - INFO - Attempting to upload torrent: The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:10:44,931 - INFO - Content path: /home/user/Desktop/torrents/The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:10:44,931 - INFO - Remote path: onedrive:Torrents/The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:10:44,931 - INFO - Uploading torrent: The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:10:44,931 - INFO - Directory /home/user/Desktop/torrents/The Cabin in the Woods (2011) [1080p] is readable, contains 3 files/dirs
+2025-04-24 06:10:44,932 - INFO - Starting upload: /home/user/Desktop/torrents/The Cabin in the Woods (2011) [1080p] -> onedrive:Torrents/The Cabin in the Woods (2011) [1080p]
+2025-04-24 06:10:44,932 - INFO - Uploading directory of size 1434.44 MB
+2025-04-24 06:12:23,423 - INFO - Successfully uploaded to onedrive:Torrents/The Other Woman (2014) [1080p]
+2025-04-24 06:12:23,423 - INFO - Verifying upload for: The Other Woman (2014) [1080p]
+2025-04-24 06:12:23,423 - INFO - Verifying upload: /home/user/Desktop/torrents/The Other Woman (2014) [1080p] -> onedrive:Torrents/The Other Woman (2014) [1080p]
+2025-04-24 06:12:25,965 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Other Woman (2014) [1080p]
+2025-04-24 06:12:25,978 - INFO - Deleting torrent from qBittorrent: The Other Woman (2014) [1080p]
+2025-04-24 06:12:25,978 - INFO - Deleting torrent with hash ec6b07d956dc0fe6b14d85f49bad738b1519e5d3 (delete_files=False)
+2025-04-24 06:12:25,987 - INFO - Successfully deleted torrent with hash ec6b07d956dc0fe6b14d85f49bad738b1519e5d3
+2025-04-24 06:12:25,988 - INFO - Deleting content files: The Other Woman (2014) [1080p]
+2025-04-24 06:12:25,988 - INFO - Deleting content: /home/user/Desktop/torrents/The Other Woman (2014) [1080p]
+2025-04-24 06:12:25,989 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Other Woman (2014) [1080p]
+2025-04-24 06:12:25,989 - INFO - Successfully processed torrent: The Other Woman (2014) [1080p]
+2025-04-24 06:12:25,989 - INFO - Processing torrent: Die Hard 3 (1995) [1080p]
+2025-04-24 06:12:25,989 - INFO - Attempting to upload torrent: Die Hard 3 (1995) [1080p]
+2025-04-24 06:12:25,989 - INFO - Content path: /home/user/Desktop/torrents/Die Hard 3 (1995) [1080p]
+2025-04-24 06:12:25,990 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Other Woman (2014) [1080p]'}
+2025-04-24 06:12:25,990 - INFO - Remote path: onedrive:Torrents/Die Hard 3 (1995) [1080p]
+2025-04-24 06:12:25,990 - INFO - Uploading torrent: Die Hard 3 (1995) [1080p]
+2025-04-24 06:12:25,990 - INFO - Directory /home/user/Desktop/torrents/Die Hard 3 (1995) [1080p] is readable, contains 3 files/dirs
+2025-04-24 06:12:25,990 - INFO - Starting upload: /home/user/Desktop/torrents/Die Hard 3 (1995) [1080p] -> onedrive:Torrents/Die Hard 3 (1995) [1080p]
+2025-04-24 06:12:25,991 - INFO - Uploading directory of size 1841.58 MB
+2025-04-24 06:13:12,871 - INFO - Successfully uploaded to onedrive:Torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:13:12,871 - INFO - Verifying upload for: The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:13:12,871 - INFO - Verifying upload: /home/user/Desktop/torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG] -> onedrive:Torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:13:15,153 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:13:15,167 - INFO - Deleting torrent from qBittorrent: The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:13:15,167 - INFO - Deleting torrent with hash 8bb5a1ff329a065ae28a3c53c3ea6cded17739bc (delete_files=False)
+2025-04-24 06:13:15,180 - INFO - Successfully deleted torrent with hash 8bb5a1ff329a065ae28a3c53c3ea6cded17739bc
+2025-04-24 06:13:15,180 - INFO - Deleting content files: The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:13:15,180 - INFO - Deleting content: /home/user/Desktop/torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:13:15,181 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:13:15,182 - INFO - Successfully processed torrent: The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]
+2025-04-24 06:13:15,182 - INFO - Processing torrent: Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:13:15,182 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Nut Job 2 Nutty By Nature (2017) [1080p] [YTS.AG]'}
+2025-04-24 06:13:15,182 - INFO - Attempting to upload torrent: Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:13:15,183 - INFO - Content path: /home/user/Desktop/torrents/Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:13:15,183 - INFO - Remote path: onedrive:Torrents/Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:13:15,183 - INFO - Uploading torrent: Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:13:15,183 - INFO - Directory /home/user/Desktop/torrents/Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 5 files/dirs
+2025-04-24 06:13:15,183 - INFO - Starting upload: /home/user/Desktop/torrents/Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Disaster Holiday (2024) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:13:15,184 - INFO - Uploading directory of size 1762.44 MB
+2025-04-24 06:13:24,900 - INFO - Successfully uploaded to onedrive:Torrents/Epic (2013) [1080p]
+2025-04-24 06:13:24,900 - INFO - Verifying upload for: Epic (2013) [1080p]
+2025-04-24 06:13:24,900 - INFO - Verifying upload: /home/user/Desktop/torrents/Epic (2013) [1080p] -> onedrive:Torrents/Epic (2013) [1080p]
+2025-04-24 06:13:27,137 - INFO - Upload verification successful for /home/user/Desktop/torrents/Epic (2013) [1080p]
+2025-04-24 06:13:27,149 - INFO - Deleting torrent from qBittorrent: Epic (2013) [1080p]
+2025-04-24 06:13:27,149 - INFO - Deleting torrent with hash b3e429bcdf14fe36514103d59f851018472727e6 (delete_files=False)
+2025-04-24 06:13:27,157 - INFO - Successfully deleted torrent with hash b3e429bcdf14fe36514103d59f851018472727e6
+2025-04-24 06:13:27,157 - INFO - Deleting content files: Epic (2013) [1080p]
+2025-04-24 06:13:27,157 - INFO - Deleting content: /home/user/Desktop/torrents/Epic (2013) [1080p]
+2025-04-24 06:13:27,159 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Epic (2013) [1080p]
+2025-04-24 06:13:27,159 - INFO - Successfully processed torrent: Epic (2013) [1080p]
+2025-04-24 06:13:27,159 - INFO - Processing torrent: The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:13:27,160 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Epic (2013) [1080p]'}
+2025-04-24 06:13:27,160 - INFO - Attempting to upload torrent: The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:13:27,160 - INFO - Content path: /home/user/Desktop/torrents/The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:13:27,160 - INFO - Remote path: onedrive:Torrents/The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:13:27,160 - INFO - Uploading torrent: The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:13:27,160 - INFO - Directory /home/user/Desktop/torrents/The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-24 06:13:27,161 - INFO - Starting upload: /home/user/Desktop/torrents/The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/The Disaster Artist (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:13:27,161 - INFO - Uploading directory of size 1763.25 MB
+2025-04-24 06:15:07,284 - INFO - Successfully uploaded to onedrive:Torrents/The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:15:07,284 - INFO - Verifying upload for: The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:15:07,284 - INFO - Verifying upload: /home/user/Desktop/torrents/The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:15:10,796 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:15:10,810 - INFO - Deleting torrent from qBittorrent: The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:15:10,811 - INFO - Deleting torrent with hash 96cdc2741ae0cd40ccdfa8a84b8e2d2e4c7ab5ee (delete_files=False)
+2025-04-24 06:15:10,820 - INFO - Successfully deleted torrent with hash 96cdc2741ae0cd40ccdfa8a84b8e2d2e4c7ab5ee
+2025-04-24 06:15:10,820 - INFO - Deleting content files: The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:15:10,820 - INFO - Deleting content: /home/user/Desktop/torrents/The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:15:10,822 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:15:10,822 - INFO - Successfully processed torrent: The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 06:15:10,822 - INFO - Processing torrent: Foxcatcher (2014) [1080p]
+2025-04-24 06:15:10,822 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Guardians Of The Galaxy Holiday Special (2022) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-24 06:15:10,822 - INFO - Attempting to upload torrent: Foxcatcher (2014) [1080p]
+2025-04-24 06:15:10,822 - INFO - Content path: /home/user/Desktop/torrents/Foxcatcher (2014) [1080p]
+2025-04-24 06:15:10,822 - INFO - Remote path: onedrive:Torrents/Foxcatcher (2014) [1080p]
+2025-04-24 06:15:10,823 - INFO - Uploading torrent: Foxcatcher (2014) [1080p]
+2025-04-24 06:15:10,823 - INFO - Directory /home/user/Desktop/torrents/Foxcatcher (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-24 06:15:10,823 - INFO - Starting upload: /home/user/Desktop/torrents/Foxcatcher (2014) [1080p] -> onedrive:Torrents/Foxcatcher (2014) [1080p]
+2025-04-24 06:15:10,823 - INFO - Uploading directory of size 1999.48 MB
