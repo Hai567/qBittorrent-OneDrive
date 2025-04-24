@@ -3072,3 +3072,13 @@ fatal: Authentication failed for 'https://github.com/Hai567/qBittorrent-OneDrive
 2025-04-24 04:44:43,159 - git-cronjob - INFO - Checking for changes in repository
 2025-04-24 04:44:43,165 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
 2025-04-24 04:44:43,165 - git-cronjob - INFO - Running command: git add .
+2025-04-24 04:44:43,210 - git-cronjob - INFO - Success: 
+2025-04-24 04:44:43,210 - git-cronjob - INFO - Running command: git commit -m [bot] update crawling data
+2025-04-24 04:44:43,245 - git-cronjob - INFO - Success: [vps adfb987] [bot] update crawling data
+ 3 files changed, 111 insertions(+)
+2025-04-24 04:44:43,245 - git-cronjob - INFO - Running command: git push origin vps
+2025-04-24 04:44:45,039 - git-cronjob - INFO - Success: 
+2025-04-24 04:44:45,039 - git-cronjob - INFO - Git operations completed successfully
+2025-04-24 04:49:45,337 - git-cronjob - INFO - Checking for changes in repository
+2025-04-24 04:49:45,342 - git-cronjob - INFO - Changes detected. Proceeding with commit and push.
+2025-04-24 04:49:45,343 - git-cronjob - INFO - Running command: git add .

@@ -15017,3 +15017,27 @@
 2025-04-24 04:44:19,349 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Battleship (2012) [1080p]
 2025-04-24 04:44:19,350 - INFO - Successfully processed torrent: Battleship (2012) [1080p]
 2025-04-24 04:44:19,350 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Battleship (2012) [1080p]'}
+2025-04-24 04:46:02,103 - INFO - Successfully uploaded to onedrive:Torrents/The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:46:02,103 - INFO - Verifying upload for: The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:46:02,103 - INFO - Verifying upload: /home/user/Desktop/torrents/The Witch (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:46:04,475 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:46:04,485 - INFO - Deleting torrent from qBittorrent: The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:46:04,485 - INFO - Deleting torrent with hash d476b049a5d4650e9cfbd65e24c97bfd91a420fc (delete_files=False)
+2025-04-24 04:46:04,497 - INFO - Successfully deleted torrent with hash d476b049a5d4650e9cfbd65e24c97bfd91a420fc
+2025-04-24 04:46:04,498 - INFO - Deleting content files: The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:46:04,498 - INFO - Deleting content: /home/user/Desktop/torrents/The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:46:04,500 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:46:04,500 - INFO - Successfully processed torrent: The Witch (2015) [1080p] [YTS.AG]
+2025-04-24 04:46:04,500 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Witch (2015) [1080p] [YTS.AG]'}
+2025-04-24 04:47:46,669 - INFO - Successfully uploaded to onedrive:Torrents/The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:47:46,669 - INFO - Verifying upload for: The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:47:46,669 - INFO - Verifying upload: /home/user/Desktop/torrents/The Perks of Being a Wallflower (2012) [1080p] -> onedrive:Torrents/The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:47:48,954 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:47:48,964 - INFO - Deleting torrent from qBittorrent: The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:47:48,965 - INFO - Deleting torrent with hash 6e4836eb717303628b4c90d5ea2de0a0acbaed0c (delete_files=False)
+2025-04-24 04:47:48,973 - INFO - Successfully deleted torrent with hash 6e4836eb717303628b4c90d5ea2de0a0acbaed0c
+2025-04-24 04:47:48,974 - INFO - Deleting content files: The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:47:48,974 - INFO - Deleting content: /home/user/Desktop/torrents/The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:47:48,975 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:47:48,975 - INFO - Successfully processed torrent: The Perks of Being a Wallflower (2012) [1080p]
+2025-04-24 04:47:48,975 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Perks of Being a Wallflower (2012) [1080p]'}
