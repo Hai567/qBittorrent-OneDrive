@@ -16475,3 +16475,17 @@
 2025-04-24 11:06:29,695 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p]
 2025-04-24 11:06:29,695 - INFO - Successfully processed torrent: A Million Ways to Die in the West (2014) [1080p]
 2025-04-24 11:06:29,695 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'A Million Ways to Die in the West (2014) [1080p]'}
+2025-04-24 11:11:29,796 - INFO - Active upload threads: 5/5
+2025-04-24 11:11:29,796 - INFO - Checking for completed torrents...
+2025-04-24 11:11:29,802 - INFO - Found 11 completed torrents
+2025-04-24 11:11:29,802 - INFO - Skipping already processed torrent: Sherlock Holmes (2009) [1080p]
+2025-04-24 11:11:29,802 - INFO - Skipping already processed torrent: Jurassic Park III (2001) [1080p]
+2025-04-24 11:11:29,802 - INFO - Skipping already processed torrent: Kung Fu Panda 4 (2024) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 11:11:29,802 - INFO - Skipping already processed torrent: The Social Network (2010) [1080]
+2025-04-24 11:11:29,802 - INFO - Skipping already processed torrent: Warcraft (2016) [1080p] [YTS.AG]
+2025-04-24 11:11:29,802 - INFO - Skipping already processed torrent: Sherlock Holmes A Game Of Shadows (2011) [1080p]
+2025-04-24 11:11:29,802 - INFO - Skipping already processed torrent: The Mummy (1999) [1080p]
+2025-04-24 11:11:29,802 - INFO - Skipping already processed torrent: Kandahar (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]
+2025-04-24 11:11:29,802 - INFO - Skipping already processed torrent: Paddington (2014) [1080p]
+2025-04-24 11:11:29,802 - INFO - Skipping already processed torrent: The Pursuit of Happyness (2006) [1080p]
+2025-04-24 11:11:29,802 - INFO - Skipping already processed torrent: Ted (2012) [1080p]
