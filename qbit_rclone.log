@@ -16014,3 +16014,23 @@
 2025-04-24 06:25:16,895 - INFO - Directory /home/user/Desktop/torrents/It Follows (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-24 06:25:16,895 - INFO - Starting upload: /home/user/Desktop/torrents/It Follows (2014) [1080p] -> onedrive:Torrents/It Follows (2014) [1080p]
 2025-04-24 06:25:16,896 - INFO - Uploading directory of size 1472.93 MB
+2025-04-24 06:28:33,721 - INFO - Successfully uploaded to onedrive:Torrents/Foxcatcher (2014) [1080p]
+2025-04-24 06:28:33,722 - INFO - Verifying upload for: Foxcatcher (2014) [1080p]
+2025-04-24 06:28:33,722 - INFO - Verifying upload: /home/user/Desktop/torrents/Foxcatcher (2014) [1080p] -> onedrive:Torrents/Foxcatcher (2014) [1080p]
+2025-04-24 06:28:35,982 - INFO - Upload verification successful for /home/user/Desktop/torrents/Foxcatcher (2014) [1080p]
+2025-04-24 06:28:35,994 - INFO - Deleting torrent from qBittorrent: Foxcatcher (2014) [1080p]
+2025-04-24 06:28:35,994 - INFO - Deleting torrent with hash 9b84bc82445496114f147fc6d9e818b9f0bcb23e (delete_files=False)
+2025-04-24 06:28:36,003 - INFO - Successfully deleted torrent with hash 9b84bc82445496114f147fc6d9e818b9f0bcb23e
+2025-04-24 06:28:36,004 - INFO - Deleting content files: Foxcatcher (2014) [1080p]
+2025-04-24 06:28:36,004 - INFO - Deleting content: /home/user/Desktop/torrents/Foxcatcher (2014) [1080p]
+2025-04-24 06:28:36,005 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Foxcatcher (2014) [1080p]
+2025-04-24 06:28:36,005 - INFO - Successfully processed torrent: Foxcatcher (2014) [1080p]
+2025-04-24 06:28:36,005 - INFO - Processing torrent: Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:28:36,006 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Foxcatcher (2014) [1080p]'}
+2025-04-24 06:28:36,006 - INFO - Attempting to upload torrent: Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:28:36,006 - INFO - Content path: /home/user/Desktop/torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:28:36,006 - INFO - Remote path: onedrive:Torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:28:36,006 - INFO - Uploading torrent: Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:28:36,006 - INFO - Directory /home/user/Desktop/torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-24 06:28:36,006 - INFO - Starting upload: /home/user/Desktop/torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 06:28:36,006 - INFO - Uploading directory of size 1488.09 MB
