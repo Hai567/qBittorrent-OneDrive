@@ -16513,3 +16513,15 @@
 2025-04-24 11:16:29,905 - INFO - Directory /home/user/Desktop/torrents/If I Stay (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-24 11:16:29,905 - INFO - Starting upload: /home/user/Desktop/torrents/If I Stay (2014) [1080p] -> onedrive:Torrents/If I Stay (2014) [1080p]
 2025-04-24 11:16:29,905 - INFO - Uploading directory of size 1684.27 MB
+2025-04-24 11:34:39,103 - INFO - Successfully uploaded to onedrive:Torrents/If I Stay (2014) [1080p]
+2025-04-24 11:34:39,103 - INFO - Verifying upload for: If I Stay (2014) [1080p]
+2025-04-24 11:34:39,103 - INFO - Verifying upload: /home/user/Desktop/torrents/If I Stay (2014) [1080p] -> onedrive:Torrents/If I Stay (2014) [1080p]
+2025-04-24 11:34:41,625 - INFO - Upload verification successful for /home/user/Desktop/torrents/If I Stay (2014) [1080p]
+2025-04-24 11:34:41,635 - INFO - Deleting torrent from qBittorrent: If I Stay (2014) [1080p]
+2025-04-24 11:34:41,635 - INFO - Deleting torrent with hash f7272f52b6009671a92580c8defd28f669e826d6 (delete_files=False)
+2025-04-24 11:34:41,642 - INFO - Successfully deleted torrent with hash f7272f52b6009671a92580c8defd28f669e826d6
+2025-04-24 11:34:41,642 - INFO - Deleting content files: If I Stay (2014) [1080p]
+2025-04-24 11:34:41,643 - INFO - Deleting content: /home/user/Desktop/torrents/If I Stay (2014) [1080p]
+2025-04-24 11:34:41,644 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/If I Stay (2014) [1080p]
+2025-04-24 11:34:41,644 - INFO - Successfully processed torrent: If I Stay (2014) [1080p]
+2025-04-24 11:34:41,644 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'If I Stay (2014) [1080p]'}
