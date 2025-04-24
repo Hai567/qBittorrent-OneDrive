@@ -16162,3 +16162,43 @@
 2025-04-24 06:40:58,446 - INFO - Uploading directory of size 1536.00 MB
 2025-04-24 06:40:58,447 - INFO - Uploading directory of size 2129.06 MB
 2025-04-24 06:40:58,447 - INFO - Uploading directory of size 1375.48 MB
+2025-04-24 06:46:50,068 - INFO - Successfully uploaded to onedrive:Torrents/The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:46:50,069 - INFO - Verifying upload for: The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:46:50,069 - INFO - Verifying upload: /home/user/Desktop/torrents/The Peanuts Movie (2015) [1080p] [YTS.AG] -> onedrive:Torrents/The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:46:52,882 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:46:52,894 - INFO - Deleting torrent from qBittorrent: The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:46:52,895 - INFO - Deleting torrent with hash bac482f6a08cba42d580ee618e49e7da7ea76bc1 (delete_files=False)
+2025-04-24 06:46:52,904 - INFO - Successfully deleted torrent with hash bac482f6a08cba42d580ee618e49e7da7ea76bc1
+2025-04-24 06:46:52,904 - INFO - Deleting content files: The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:46:52,904 - INFO - Deleting content: /home/user/Desktop/torrents/The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:46:52,905 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:46:52,906 - INFO - Successfully processed torrent: The Peanuts Movie (2015) [1080p] [YTS.AG]
+2025-04-24 06:46:52,906 - INFO - Processing torrent: A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 06:46:52,906 - INFO - Attempting to upload torrent: A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 06:46:52,906 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Peanuts Movie (2015) [1080p] [YTS.AG]'}
+2025-04-24 06:46:52,906 - INFO - Content path: /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 06:46:52,906 - INFO - Remote path: onedrive:Torrents/A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 06:46:52,906 - INFO - Uploading torrent: A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 06:46:52,906 - INFO - Directory /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-24 06:46:52,906 - INFO - Starting upload: /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p] -> onedrive:Torrents/A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 06:46:52,907 - INFO - Uploading directory of size 1894.88 MB
+2025-04-24 06:48:36,160 - INFO - Successfully uploaded to onedrive:Torrents/Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:48:36,160 - INFO - Verifying upload for: Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:48:36,160 - INFO - Verifying upload: /home/user/Desktop/torrents/Mr and Mrs Smith (2005) [1080p] -> onedrive:Torrents/Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:48:40,123 - INFO - Upload verification successful for /home/user/Desktop/torrents/Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:48:40,136 - INFO - Deleting torrent from qBittorrent: Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:48:40,136 - INFO - Deleting torrent with hash 5251e66773298923fc6574881750407aacacce70 (delete_files=False)
+2025-04-24 06:48:40,144 - INFO - Successfully deleted torrent with hash 5251e66773298923fc6574881750407aacacce70
+2025-04-24 06:48:40,144 - INFO - Deleting content files: Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:48:40,144 - INFO - Deleting content: /home/user/Desktop/torrents/Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:48:40,145 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:48:40,145 - INFO - Successfully processed torrent: Mr and Mrs Smith (2005) [1080p]
+2025-04-24 06:48:40,145 - INFO - Processing torrent: Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:48:40,146 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Mr and Mrs Smith (2005) [1080p]'}
+2025-04-24 06:48:40,146 - INFO - Attempting to upload torrent: Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:48:40,146 - INFO - Content path: /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:48:40,146 - INFO - Remote path: onedrive:Torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:48:40,146 - INFO - Uploading torrent: Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:48:40,146 - INFO - Directory /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-24 06:48:40,146 - INFO - Starting upload: /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 06:48:40,146 - INFO - Uploading directory of size 2267.16 MB
