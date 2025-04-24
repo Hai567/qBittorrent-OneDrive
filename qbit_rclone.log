@@ -16415,3 +16415,15 @@
 2025-04-24 10:53:47,543 - INFO - Directory /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p] is readable, contains 2 files/dirs
 2025-04-24 10:53:47,543 - INFO - Starting upload: /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p] -> onedrive:Torrents/A Million Ways to Die in the West (2014) [1080p]
 2025-04-24 10:53:47,543 - INFO - Uploading directory of size 1894.88 MB
+2025-04-24 10:54:50,431 - INFO - Successfully uploaded to onedrive:Torrents/Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:54:50,431 - INFO - Verifying upload for: Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:54:50,431 - INFO - Verifying upload: /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:54:53,746 - INFO - Upload verification successful for /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:54:53,757 - INFO - Deleting torrent from qBittorrent: Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:54:53,757 - INFO - Deleting torrent with hash f6287e2169d68fb1a315ded14d6bf74765736564 (delete_files=False)
+2025-04-24 10:54:53,764 - INFO - Successfully deleted torrent with hash f6287e2169d68fb1a315ded14d6bf74765736564
+2025-04-24 10:54:53,764 - INFO - Deleting content files: Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:54:53,764 - INFO - Deleting content: /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:54:53,765 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:54:53,765 - INFO - Successfully processed torrent: Room (2015) [1080p] [YTS.AG]
+2025-04-24 10:54:53,766 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Room (2015) [1080p] [YTS.AG]'}
