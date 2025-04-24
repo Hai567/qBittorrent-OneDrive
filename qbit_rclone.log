@@ -14861,3 +14861,83 @@
 2025-04-24 04:31:23,941 - INFO - Directory /home/user/Desktop/torrents/Predators (2010) [BluRay] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-24 04:31:23,941 - INFO - Starting upload: /home/user/Desktop/torrents/Predators (2010) [BluRay] [1080p] [YTS.AM] -> onedrive:Torrents/Predators (2010) [BluRay] [1080p] [YTS.AM]
 2025-04-24 04:31:23,941 - INFO - Uploading directory of size 1766.51 MB
+2025-04-24 04:35:22,971 - INFO - Successfully uploaded to onedrive:Torrents/Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:35:22,971 - INFO - Verifying upload for: Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:35:22,971 - INFO - Verifying upload: /home/user/Desktop/torrents/Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:35:25,577 - INFO - Upload verification successful for /home/user/Desktop/torrents/Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:35:25,590 - INFO - Deleting torrent from qBittorrent: Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:35:25,591 - INFO - Deleting torrent with hash e700cb93013aebdb63a3d2078e890b89a749f550 (delete_files=False)
+2025-04-24 04:35:25,601 - INFO - Successfully deleted torrent with hash e700cb93013aebdb63a3d2078e890b89a749f550
+2025-04-24 04:35:25,602 - INFO - Deleting content files: Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:35:25,602 - INFO - Deleting content: /home/user/Desktop/torrents/Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:35:25,604 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:35:25,605 - INFO - Successfully processed torrent: Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:35:25,605 - INFO - Processing torrent: Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:35:25,605 - INFO - Attempting to upload torrent: Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:35:25,605 - INFO - Content path: /home/user/Desktop/torrents/Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:35:25,605 - INFO - Remote path: onedrive:Torrents/Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:35:25,605 - INFO - Uploading torrent: Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:35:25,605 - INFO - Directory /home/user/Desktop/torrents/Law Abiding Citizen (2009) [1080p] is readable, contains 2 files/dirs
+2025-04-24 04:35:25,605 - INFO - Starting upload: /home/user/Desktop/torrents/Law Abiding Citizen (2009) [1080p] -> onedrive:Torrents/Law Abiding Citizen (2009) [1080p]
+2025-04-24 04:35:25,605 - INFO - Uploading directory of size 1884.38 MB
+2025-04-24 04:35:25,607 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Glass Onion A Knives Out Mystery (2022) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-24 04:36:16,917 - INFO - Successfully uploaded to onedrive:Torrents/Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:36:16,917 - INFO - Verifying upload for: Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:36:16,918 - INFO - Verifying upload: /home/user/Desktop/torrents/Indiana Jones and the Last Crusade (1989) [1080p] -> onedrive:Torrents/Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:36:19,532 - INFO - Upload verification successful for /home/user/Desktop/torrents/Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:36:19,543 - INFO - Deleting torrent from qBittorrent: Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:36:19,543 - INFO - Deleting torrent with hash 5c0e49252229c96840ac65a533bc4c5a6daffa6d (delete_files=False)
+2025-04-24 04:36:19,552 - INFO - Successfully deleted torrent with hash 5c0e49252229c96840ac65a533bc4c5a6daffa6d
+2025-04-24 04:36:19,553 - INFO - Deleting content files: Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:36:19,553 - INFO - Deleting content: /home/user/Desktop/torrents/Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:36:19,554 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:36:19,554 - INFO - Successfully processed torrent: Indiana Jones and the Last Crusade (1989) [1080p]
+2025-04-24 04:36:19,554 - INFO - Processing torrent: Battleship (2012) [1080p]
+2025-04-24 04:36:19,554 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Indiana Jones and the Last Crusade (1989) [1080p]'}
+2025-04-24 04:36:19,554 - INFO - Attempting to upload torrent: Battleship (2012) [1080p]
+2025-04-24 04:36:19,555 - INFO - Content path: /home/user/Desktop/torrents/Battleship (2012) [1080p]
+2025-04-24 04:36:19,555 - INFO - Remote path: onedrive:Torrents/Battleship (2012) [1080p]
+2025-04-24 04:36:19,555 - INFO - Uploading torrent: Battleship (2012) [1080p]
+2025-04-24 04:36:19,555 - INFO - Directory /home/user/Desktop/torrents/Battleship (2012) [1080p] is readable, contains 3 files/dirs
+2025-04-24 04:36:19,555 - INFO - Starting upload: /home/user/Desktop/torrents/Battleship (2012) [1080p] -> onedrive:Torrents/Battleship (2012) [1080p]
+2025-04-24 04:36:19,556 - INFO - Uploading directory of size 2048.07 MB
+2025-04-24 04:36:23,839 - INFO - Successfully uploaded to onedrive:Torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:36:23,839 - INFO - Verifying upload for: The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:36:23,840 - INFO - Verifying upload: /home/user/Desktop/torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/The.Way.Back.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4 -> onedrive:Torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:36:26,070 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/The.Way.Back.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+2025-04-24 04:36:26,081 - INFO - Deleting torrent from qBittorrent: The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:36:26,082 - INFO - Deleting torrent with hash fad70c7ebafe0c47629a173a87f5760d9512b4e4 (delete_files=False)
+2025-04-24 04:36:26,092 - INFO - Successfully deleted torrent with hash fad70c7ebafe0c47629a173a87f5760d9512b4e4
+2025-04-24 04:36:26,092 - INFO - Deleting content files: The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:36:26,092 - INFO - Deleting content: /home/user/Desktop/torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/The.Way.Back.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+2025-04-24 04:36:26,093 - INFO - Successfully deleted file: /home/user/Desktop/torrents/The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/The.Way.Back.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+2025-04-24 04:36:26,094 - INFO - Successfully processed torrent: The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 04:36:26,094 - INFO - Processing torrent: Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:36:26,094 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Way Back (2020) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-24 04:36:26,094 - INFO - Attempting to upload torrent: Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:36:26,095 - INFO - Content path: /home/user/Desktop/torrents/Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:36:26,095 - INFO - Remote path: onedrive:Torrents/Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:36:26,095 - INFO - Uploading torrent: Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:36:26,096 - INFO - Directory /home/user/Desktop/torrents/Angry Birds (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 04:36:26,096 - INFO - Starting upload: /home/user/Desktop/torrents/Angry Birds (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Angry Birds (2016) [1080p] [YTS.AG]
+2025-04-24 04:36:26,096 - INFO - Uploading directory of size 1513.92 MB
+2025-04-24 04:37:53,879 - INFO - Successfully uploaded to onedrive:Torrents/The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:37:53,880 - INFO - Verifying upload for: The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:37:53,880 - INFO - Verifying upload: /home/user/Desktop/torrents/The Green Knight (2021) [1080p] [WEBRip] [YTS.MX] -> onedrive:Torrents/The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:37:56,183 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:37:56,193 - INFO - Deleting torrent from qBittorrent: The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:37:56,193 - INFO - Deleting torrent with hash b685367894123fca4c8977996e0479e2a7c30cd7 (delete_files=False)
+2025-04-24 04:37:56,203 - INFO - Successfully deleted torrent with hash b685367894123fca4c8977996e0479e2a7c30cd7
+2025-04-24 04:37:56,203 - INFO - Deleting content files: The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:37:56,203 - INFO - Deleting content: /home/user/Desktop/torrents/The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:37:56,205 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:37:56,205 - INFO - Successfully processed torrent: The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]
+2025-04-24 04:37:56,205 - INFO - Processing torrent: Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:37:56,206 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Green Knight (2021) [1080p] [WEBRip] [YTS.MX]'}
+2025-04-24 04:37:56,206 - INFO - Attempting to upload torrent: Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:37:56,206 - INFO - Content path: /home/user/Desktop/torrents/Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:37:56,206 - INFO - Remote path: onedrive:Torrents/Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:37:56,206 - INFO - Uploading torrent: Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:37:56,206 - INFO - Directory /home/user/Desktop/torrents/Collide (2016) [1080p] [YTS.AG] is readable, contains 2 files/dirs
+2025-04-24 04:37:56,206 - INFO - Starting upload: /home/user/Desktop/torrents/Collide (2016) [1080p] [YTS.AG] -> onedrive:Torrents/Collide (2016) [1080p] [YTS.AG]
+2025-04-24 04:37:56,206 - INFO - Uploading directory of size 1551.30 MB
