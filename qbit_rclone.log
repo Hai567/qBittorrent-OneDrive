@@ -16375,3 +16375,43 @@
 2025-04-24 10:40:25,916 - INFO - Directory /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG] is readable, contains 2 files/dirs
 2025-04-24 10:40:25,917 - INFO - Starting upload: /home/user/Desktop/torrents/Room (2015) [1080p] [YTS.AG] -> onedrive:Torrents/Room (2015) [1080p] [YTS.AG]
 2025-04-24 10:40:25,917 - INFO - Uploading directory of size 1829.38 MB
+2025-04-24 10:52:58,031 - INFO - Successfully uploaded to onedrive:Torrents/Die Hard 2 (1990) [1080p]
+2025-04-24 10:52:58,031 - INFO - Verifying upload for: Die Hard 2 (1990) [1080p]
+2025-04-24 10:52:58,031 - INFO - Verifying upload: /home/user/Desktop/torrents/Die Hard 2 (1990) [1080p] -> onedrive:Torrents/Die Hard 2 (1990) [1080p]
+2025-04-24 10:53:01,219 - INFO - Upload verification successful for /home/user/Desktop/torrents/Die Hard 2 (1990) [1080p]
+2025-04-24 10:53:01,229 - INFO - Deleting torrent from qBittorrent: Die Hard 2 (1990) [1080p]
+2025-04-24 10:53:01,229 - INFO - Deleting torrent with hash 446bd563a35d6c63bda7cfe446b7c8e1cf20710c (delete_files=False)
+2025-04-24 10:53:01,237 - INFO - Successfully deleted torrent with hash 446bd563a35d6c63bda7cfe446b7c8e1cf20710c
+2025-04-24 10:53:01,237 - INFO - Deleting content files: Die Hard 2 (1990) [1080p]
+2025-04-24 10:53:01,237 - INFO - Deleting content: /home/user/Desktop/torrents/Die Hard 2 (1990) [1080p]
+2025-04-24 10:53:01,238 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Die Hard 2 (1990) [1080p]
+2025-04-24 10:53:01,238 - INFO - Successfully processed torrent: Die Hard 2 (1990) [1080p]
+2025-04-24 10:53:01,238 - INFO - Processing torrent: Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 10:53:01,238 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Die Hard 2 (1990) [1080p]'}
+2025-04-24 10:53:01,238 - INFO - Attempting to upload torrent: Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 10:53:01,238 - INFO - Content path: /home/user/Desktop/torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 10:53:01,238 - INFO - Remote path: onedrive:Torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 10:53:01,238 - INFO - Uploading torrent: Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 10:53:01,239 - INFO - Directory /home/user/Desktop/torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-24 10:53:01,239 - INFO - Starting upload: /home/user/Desktop/torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Batman The Long Halloween Part Two (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 10:53:01,239 - INFO - Uploading directory of size 1643.33 MB
+2025-04-24 10:53:45,298 - INFO - Successfully uploaded to onedrive:Torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:53:45,298 - INFO - Verifying upload for: Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:53:45,298 - INFO - Verifying upload: /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:53:47,521 - INFO - Upload verification successful for /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:53:47,532 - INFO - Deleting torrent from qBittorrent: Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:53:47,532 - INFO - Deleting torrent with hash 6fbbe2a1990176b0e5b7ff860a93d8ee6d04b634 (delete_files=False)
+2025-04-24 10:53:47,539 - INFO - Successfully deleted torrent with hash 6fbbe2a1990176b0e5b7ff860a93d8ee6d04b634
+2025-04-24 10:53:47,539 - INFO - Deleting content files: Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:53:47,540 - INFO - Deleting content: /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:53:47,542 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:53:47,542 - INFO - Successfully processed torrent: Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:53:47,542 - INFO - Processing torrent: A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 10:53:47,542 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': "Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]"}
+2025-04-24 10:53:47,542 - INFO - Attempting to upload torrent: A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 10:53:47,542 - INFO - Content path: /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 10:53:47,543 - INFO - Remote path: onedrive:Torrents/A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 10:53:47,543 - INFO - Uploading torrent: A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 10:53:47,543 - INFO - Directory /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p] is readable, contains 2 files/dirs
+2025-04-24 10:53:47,543 - INFO - Starting upload: /home/user/Desktop/torrents/A Million Ways to Die in the West (2014) [1080p] -> onedrive:Torrents/A Million Ways to Die in the West (2014) [1080p]
+2025-04-24 10:53:47,543 - INFO - Uploading directory of size 1894.88 MB
