@@ -15207,3 +15207,47 @@
 2025-04-24 05:01:51,003 - INFO - Directory /home/user/Desktop/torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
 2025-04-24 05:01:51,003 - INFO - Starting upload: /home/user/Desktop/torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
 2025-04-24 05:01:51,003 - INFO - Uploading directory of size 1750.68 MB
+2025-04-24 05:06:20,895 - INFO - Successfully uploaded to onedrive:Torrents/Survivor (2015) [1080p]
+2025-04-24 05:06:20,896 - INFO - Verifying upload for: Survivor (2015) [1080p]
+2025-04-24 05:06:20,896 - INFO - Verifying upload: /home/user/Desktop/torrents/Survivor (2015) [1080p] -> onedrive:Torrents/Survivor (2015) [1080p]
+2025-04-24 05:06:23,208 - INFO - Upload verification successful for /home/user/Desktop/torrents/Survivor (2015) [1080p]
+2025-04-24 05:06:23,221 - INFO - Deleting torrent from qBittorrent: Survivor (2015) [1080p]
+2025-04-24 05:06:23,221 - INFO - Deleting torrent with hash e56dd1c138ed9f3882aae6966df14272e024eff2 (delete_files=False)
+2025-04-24 05:06:23,232 - INFO - Successfully deleted torrent with hash e56dd1c138ed9f3882aae6966df14272e024eff2
+2025-04-24 05:06:23,232 - INFO - Deleting content files: Survivor (2015) [1080p]
+2025-04-24 05:06:23,232 - INFO - Deleting content: /home/user/Desktop/torrents/Survivor (2015) [1080p]
+2025-04-24 05:06:23,234 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Survivor (2015) [1080p]
+2025-04-24 05:06:23,234 - INFO - Successfully processed torrent: Survivor (2015) [1080p]
+2025-04-24 05:06:23,234 - INFO - Processing torrent: The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:06:23,234 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Survivor (2015) [1080p]'}
+2025-04-24 05:06:23,234 - INFO - Attempting to upload torrent: The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:06:23,235 - INFO - Content path: /home/user/Desktop/torrents/The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:06:23,235 - INFO - Remote path: onedrive:Torrents/The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:06:23,235 - INFO - Uploading torrent: The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:06:23,235 - INFO - Directory /home/user/Desktop/torrents/The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-24 05:06:23,235 - INFO - Starting upload: /home/user/Desktop/torrents/The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Lion King II Simbas Pride (1998) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:06:23,235 - INFO - Uploading directory of size 1526.39 MB
+2025-04-24 05:06:58,959 - INFO - Successfully uploaded to onedrive:Torrents/Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:06:58,959 - INFO - Verifying upload for: Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:06:58,959 - INFO - Verifying upload: /home/user/Desktop/torrents/Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:07:01,201 - INFO - Upload verification successful for /home/user/Desktop/torrents/Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:07:01,213 - INFO - Deleting torrent from qBittorrent: Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:07:01,214 - INFO - Deleting torrent with hash 8c730517fd5ffbbeb520fc0fb615216b959f1c48 (delete_files=False)
+2025-04-24 05:07:01,224 - INFO - Successfully deleted torrent with hash 8c730517fd5ffbbeb520fc0fb615216b959f1c48
+2025-04-24 05:07:01,225 - INFO - Deleting content files: Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:07:01,225 - INFO - Deleting content: /home/user/Desktop/torrents/Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:07:01,226 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:07:01,226 - INFO - Successfully processed torrent: Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:07:01,227 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]'}
+2025-04-24 05:08:48,580 - INFO - Successfully uploaded to onedrive:Torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:08:48,581 - INFO - Verifying upload for: The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:08:48,581 - INFO - Verifying upload: /home/user/Desktop/torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:08:50,903 - INFO - Upload verification successful for /home/user/Desktop/torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:08:50,916 - INFO - Deleting torrent from qBittorrent: The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:08:50,916 - INFO - Deleting torrent with hash 3df748711ffbc5f679ae931af892e2f50c9b7646 (delete_files=False)
+2025-04-24 05:08:50,926 - INFO - Successfully deleted torrent with hash 3df748711ffbc5f679ae931af892e2f50c9b7646
+2025-04-24 05:08:50,926 - INFO - Deleting content files: The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:08:50,926 - INFO - Deleting content: /home/user/Desktop/torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:08:50,928 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:08:50,928 - INFO - Successfully processed torrent: The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:08:50,928 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]'}
