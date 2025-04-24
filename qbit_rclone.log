@@ -15147,3 +15147,63 @@
 2025-04-24 04:59:01,414 - INFO - Directory /home/user/Desktop/torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX] is readable, contains 3 files/dirs
 2025-04-24 04:59:01,414 - INFO - Starting upload: /home/user/Desktop/torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Elvis (2022) [1080p] [WEBRip] [5.1] [YTS.MX]
 2025-04-24 04:59:01,414 - INFO - Uploading directory of size 3001.75 MB
+2025-04-24 04:59:57,873 - INFO - Successfully uploaded to onedrive:Torrents/National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 04:59:57,874 - INFO - Verifying upload for: National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 04:59:57,874 - INFO - Verifying upload: /home/user/Desktop/torrents/National Treasure Book of Secrets (2007) [1080p] -> onedrive:Torrents/National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 04:59:59,169 - INFO - Successfully uploaded to onedrive:Torrents/Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 04:59:59,169 - INFO - Verifying upload for: Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 04:59:59,169 - INFO - Verifying upload: /home/user/Desktop/torrents/Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:00,145 - INFO - Upload verification successful for /home/user/Desktop/torrents/National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 05:00:00,160 - INFO - Deleting torrent from qBittorrent: National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 05:00:00,160 - INFO - Deleting torrent with hash 2198587b35e17e8d2c5cc46e115cd32b78397ed4 (delete_files=False)
+2025-04-24 05:00:00,171 - INFO - Successfully deleted torrent with hash 2198587b35e17e8d2c5cc46e115cd32b78397ed4
+2025-04-24 05:00:00,172 - INFO - Deleting content files: National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 05:00:00,172 - INFO - Deleting content: /home/user/Desktop/torrents/National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 05:00:00,173 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 05:00:00,173 - INFO - Successfully processed torrent: National Treasure Book of Secrets (2007) [1080p]
+2025-04-24 05:00:00,173 - INFO - Processing torrent: The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:00,174 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'National Treasure Book of Secrets (2007) [1080p]'}
+2025-04-24 05:00:00,174 - INFO - Attempting to upload torrent: The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:00,174 - INFO - Content path: /home/user/Desktop/torrents/The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:00,175 - INFO - Remote path: onedrive:Torrents/The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:00,175 - INFO - Uploading torrent: The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:00,175 - INFO - Directory /home/user/Desktop/torrents/The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-24 05:00:00,175 - INFO - Starting upload: /home/user/Desktop/torrents/The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Curious Case Of Benjamin Button (2008) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:00,175 - INFO - Uploading directory of size 3137.06 MB
+2025-04-24 05:00:01,697 - INFO - Upload verification successful for /home/user/Desktop/torrents/Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:01,708 - INFO - Deleting torrent from qBittorrent: Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:01,708 - INFO - Deleting torrent with hash c002b8ff615240147d193896e18332583073d7b9 (delete_files=False)
+2025-04-24 05:00:01,717 - INFO - Successfully deleted torrent with hash c002b8ff615240147d193896e18332583073d7b9
+2025-04-24 05:00:01,718 - INFO - Deleting content files: Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:01,718 - INFO - Deleting content: /home/user/Desktop/torrents/Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:01,720 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:01,720 - INFO - Successfully processed torrent: Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:00:01,720 - INFO - Processing torrent: Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:00:01,720 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Dragonheart Vengeance (2020) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-24 05:00:01,720 - INFO - Attempting to upload torrent: Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:00:01,721 - INFO - Content path: /home/user/Desktop/torrents/Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:00:01,721 - INFO - Remote path: onedrive:Torrents/Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:00:01,721 - INFO - Uploading torrent: Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:00:01,721 - INFO - Directory /home/user/Desktop/torrents/Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
+2025-04-24 05:00:01,721 - INFO - Starting upload: /home/user/Desktop/torrents/Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Murder Mystery (2019) [WEBRip] [1080p] [YTS.LT]
+2025-04-24 05:00:01,721 - INFO - Uploading directory of size 1599.20 MB
+2025-04-24 05:01:48,468 - INFO - Successfully uploaded to onedrive:Torrents/Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:01:48,468 - INFO - Verifying upload for: Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:01:48,468 - INFO - Verifying upload: /home/user/Desktop/torrents/Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX] -> onedrive:Torrents/Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:01:50,979 - INFO - Upload verification successful for /home/user/Desktop/torrents/Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:01:50,990 - INFO - Deleting torrent from qBittorrent: Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:01:50,990 - INFO - Deleting torrent with hash 089da6c5a0713b69291185500301018872ca8f57 (delete_files=False)
+2025-04-24 05:01:50,999 - INFO - Successfully deleted torrent with hash 089da6c5a0713b69291185500301018872ca8f57
+2025-04-24 05:01:51,000 - INFO - Deleting content files: Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:01:51,000 - INFO - Deleting content: /home/user/Desktop/torrents/Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:01:51,001 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:01:51,002 - INFO - Successfully processed torrent: Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]
+2025-04-24 05:01:51,002 - INFO - Processing torrent: The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:01:51,002 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Halloween Kills (2021) [1080p] [WEBRip] [5.1] [YTS.MX]'}
+2025-04-24 05:01:51,002 - INFO - Attempting to upload torrent: The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:01:51,003 - INFO - Content path: /home/user/Desktop/torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:01:51,003 - INFO - Remote path: onedrive:Torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:01:51,003 - INFO - Uploading torrent: The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:01:51,003 - INFO - Directory /home/user/Desktop/torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX] is readable, contains 3 files/dirs
+2025-04-24 05:01:51,003 - INFO - Starting upload: /home/user/Desktop/torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/The Addams Family 2 (2021) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 05:01:51,003 - INFO - Uploading directory of size 1750.68 MB
