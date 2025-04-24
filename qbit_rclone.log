@@ -16577,3 +16577,15 @@
 2025-04-24 11:49:41,953 - INFO - Directory /home/user/Desktop/torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
 2025-04-24 11:49:41,953 - INFO - Starting upload: /home/user/Desktop/torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM]
 2025-04-24 11:49:41,953 - INFO - Uploading directory of size 1567.27 MB
+2025-04-24 11:56:29,506 - INFO - Successfully uploaded to onedrive:Torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:56:29,506 - INFO - Verifying upload for: Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:56:29,506 - INFO - Verifying upload: /home/user/Desktop/torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:56:31,728 - INFO - Upload verification successful for /home/user/Desktop/torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:56:31,738 - INFO - Deleting torrent from qBittorrent: Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:56:31,738 - INFO - Deleting torrent with hash 86bedb682cb3540c3a71f2bc913540c9ba64dc87 (delete_files=False)
+2025-04-24 11:56:31,746 - INFO - Successfully deleted torrent with hash 86bedb682cb3540c3a71f2bc913540c9ba64dc87
+2025-04-24 11:56:31,746 - INFO - Deleting content files: Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:56:31,746 - INFO - Deleting content: /home/user/Desktop/torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:56:31,747 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:56:31,747 - INFO - Successfully processed torrent: Terminal (2018) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 11:56:31,747 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Terminal (2018) [WEBRip] [1080p] [YTS.AM]'}
