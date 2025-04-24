@@ -15626,3 +15626,15 @@
 2025-04-24 05:49:20,306 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
 2025-04-24 05:49:20,306 - INFO - Successfully processed torrent: Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]
 2025-04-24 05:49:20,307 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Dragonheart Battle For The Heartfire (2017) [1080p] [YTS.AG]'}
+2025-04-24 05:50:10,111 - INFO - Successfully uploaded to onedrive:Torrents/Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:50:10,112 - INFO - Verifying upload for: Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:50:10,112 - INFO - Verifying upload: /home/user/Desktop/torrents/Indiana Jones and the Raiders of the Lost Ark (1981) [1080p] -> onedrive:Torrents/Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:50:12,391 - INFO - Upload verification successful for /home/user/Desktop/torrents/Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:50:12,403 - INFO - Deleting torrent from qBittorrent: Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:50:12,403 - INFO - Deleting torrent with hash 00d76f58439fa2fc9889c95d98e05930a7c036a0 (delete_files=False)
+2025-04-24 05:50:12,414 - INFO - Successfully deleted torrent with hash 00d76f58439fa2fc9889c95d98e05930a7c036a0
+2025-04-24 05:50:12,414 - INFO - Deleting content files: Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:50:12,414 - INFO - Deleting content: /home/user/Desktop/torrents/Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:50:12,415 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:50:12,415 - INFO - Successfully processed torrent: Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]
+2025-04-24 05:50:12,416 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Indiana Jones and the Raiders of the Lost Ark (1981) [1080p]'}
