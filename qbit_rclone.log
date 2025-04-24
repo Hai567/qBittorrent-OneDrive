@@ -16315,3 +16315,43 @@
 2025-04-24 10:23:32,628 - INFO - Uploading directory of size 1436.13 MB
 2025-04-24 10:23:32,629 - INFO - Uploading directory of size 2129.06 MB
 2025-04-24 10:23:32,629 - INFO - Uploading directory of size 1436.00 MB
+2025-04-24 10:35:01,509 - INFO - Successfully uploaded to onedrive:Torrents/Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:35:01,510 - INFO - Verifying upload for: Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:35:01,510 - INFO - Verifying upload: /home/user/Desktop/torrents/Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] -> onedrive:Torrents/Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:35:04,522 - INFO - Upload verification successful for /home/user/Desktop/torrents/Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:35:04,532 - INFO - Deleting torrent from qBittorrent: Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:35:04,532 - INFO - Deleting torrent with hash 9d21b47ff0676345b07276d6c8b7d1d48f7517cb (delete_files=False)
+2025-04-24 10:35:04,540 - INFO - Successfully deleted torrent with hash 9d21b47ff0676345b07276d6c8b7d1d48f7517cb
+2025-04-24 10:35:04,540 - INFO - Deleting content files: Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:35:04,540 - INFO - Deleting content: /home/user/Desktop/torrents/Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:35:04,542 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:35:04,542 - INFO - Successfully processed torrent: Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]
+2025-04-24 10:35:04,542 - INFO - Processing torrent: Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:35:04,542 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Knock.at.the.Cabin.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]'}
+2025-04-24 10:35:04,542 - INFO - Attempting to upload torrent: Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:35:04,542 - INFO - Content path: /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:35:04,542 - INFO - Remote path: onedrive:Torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:35:04,542 - INFO - Uploading torrent: Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:35:04,543 - INFO - Directory /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM] is readable, contains 2 files/dirs
+2025-04-24 10:35:04,543 - INFO - Starting upload: /home/user/Desktop/torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM] -> onedrive:Torrents/Molly's Game (2017) [WEBRip] [1080p] [YTS.AM]
+2025-04-24 10:35:04,543 - INFO - Uploading directory of size 2267.16 MB
+2025-04-24 10:37:54,715 - INFO - Successfully uploaded to onedrive:Torrents/Alice in Wonderland (2010) [1080p]
+2025-04-24 10:37:54,716 - INFO - Verifying upload for: Alice in Wonderland (2010) [1080p]
+2025-04-24 10:37:54,716 - INFO - Verifying upload: /home/user/Desktop/torrents/Alice in Wonderland (2010) [1080p] -> onedrive:Torrents/Alice in Wonderland (2010) [1080p]
+2025-04-24 10:37:57,672 - INFO - Upload verification successful for /home/user/Desktop/torrents/Alice in Wonderland (2010) [1080p]
+2025-04-24 10:37:57,682 - INFO - Deleting torrent from qBittorrent: Alice in Wonderland (2010) [1080p]
+2025-04-24 10:37:57,683 - INFO - Deleting torrent with hash 7dbc6d189054565687ad5a34b0a4aa6c625b09ba (delete_files=False)
+2025-04-24 10:37:57,690 - INFO - Successfully deleted torrent with hash 7dbc6d189054565687ad5a34b0a4aa6c625b09ba
+2025-04-24 10:37:57,690 - INFO - Deleting content files: Alice in Wonderland (2010) [1080p]
+2025-04-24 10:37:57,691 - INFO - Deleting content: /home/user/Desktop/torrents/Alice in Wonderland (2010) [1080p]
+2025-04-24 10:37:57,692 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Alice in Wonderland (2010) [1080p]
+2025-04-24 10:37:57,692 - INFO - Successfully processed torrent: Alice in Wonderland (2010) [1080p]
+2025-04-24 10:37:57,692 - INFO - Processing torrent: Die Hard 2 (1990) [1080p]
+2025-04-24 10:37:57,692 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Alice in Wonderland (2010) [1080p]'}
+2025-04-24 10:37:57,692 - INFO - Attempting to upload torrent: Die Hard 2 (1990) [1080p]
+2025-04-24 10:37:57,692 - INFO - Content path: /home/user/Desktop/torrents/Die Hard 2 (1990) [1080p]
+2025-04-24 10:37:57,693 - INFO - Remote path: onedrive:Torrents/Die Hard 2 (1990) [1080p]
+2025-04-24 10:37:57,693 - INFO - Uploading torrent: Die Hard 2 (1990) [1080p]
+2025-04-24 10:37:57,693 - INFO - Directory /home/user/Desktop/torrents/Die Hard 2 (1990) [1080p] is readable, contains 3 files/dirs
+2025-04-24 10:37:57,693 - INFO - Starting upload: /home/user/Desktop/torrents/Die Hard 2 (1990) [1080p] -> onedrive:Torrents/Die Hard 2 (1990) [1080p]
+2025-04-24 10:37:57,693 - INFO - Uploading directory of size 1841.40 MB
