@@ -16034,3 +16034,51 @@
 2025-04-24 06:28:36,006 - INFO - Directory /home/user/Desktop/torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT] is readable, contains 2 files/dirs
 2025-04-24 06:28:36,006 - INFO - Starting upload: /home/user/Desktop/torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT] -> onedrive:Torrents/Stuber (2019) [WEBRip] [1080p] [YTS.LT]
 2025-04-24 06:28:36,006 - INFO - Uploading directory of size 1488.09 MB
+2025-04-24 06:30:35,693 - INFO - Successfully uploaded to onedrive:Torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:30:35,693 - INFO - Verifying upload for: Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:30:35,693 - INFO - Verifying upload: /home/user/Desktop/torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX] -> onedrive:Torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:30:38,314 - INFO - Upload verification successful for /home/user/Desktop/torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:30:38,328 - INFO - Deleting torrent from qBittorrent: Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:30:38,328 - INFO - Deleting torrent with hash 173abce2f891c7b099c96e7b8f44d7368160d874 (delete_files=False)
+2025-04-24 06:30:38,337 - INFO - Successfully deleted torrent with hash 173abce2f891c7b099c96e7b8f44d7368160d874
+2025-04-24 06:30:38,337 - INFO - Deleting content files: Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:30:38,337 - INFO - Deleting content: /home/user/Desktop/torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:30:38,338 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:30:38,338 - INFO - Successfully processed torrent: Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]
+2025-04-24 06:30:38,339 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Drive (2011) [1080p] [BluRay] [5.1] [YTS.MX]'}
+2025-04-24 06:31:56,488 - INFO - Successfully uploaded to onedrive:Torrents/Evil Dead (2013) [1080p]
+2025-04-24 06:31:56,488 - INFO - Verifying upload for: Evil Dead (2013) [1080p]
+2025-04-24 06:31:56,488 - INFO - Verifying upload: /home/user/Desktop/torrents/Evil Dead (2013) [1080p] -> onedrive:Torrents/Evil Dead (2013) [1080p]
+2025-04-24 06:31:58,909 - INFO - Upload verification successful for /home/user/Desktop/torrents/Evil Dead (2013) [1080p]
+2025-04-24 06:31:58,921 - INFO - Deleting torrent from qBittorrent: Evil Dead (2013) [1080p]
+2025-04-24 06:31:58,921 - INFO - Deleting torrent with hash 854800d77ee9f85f0883d29a1c3ddf1e701c1c17 (delete_files=False)
+2025-04-24 06:31:58,929 - INFO - Successfully deleted torrent with hash 854800d77ee9f85f0883d29a1c3ddf1e701c1c17
+2025-04-24 06:31:58,929 - INFO - Deleting content files: Evil Dead (2013) [1080p]
+2025-04-24 06:31:58,929 - INFO - Deleting content: /home/user/Desktop/torrents/Evil Dead (2013) [1080p]
+2025-04-24 06:31:58,930 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Evil Dead (2013) [1080p]
+2025-04-24 06:31:58,930 - INFO - Successfully processed torrent: Evil Dead (2013) [1080p]
+2025-04-24 06:31:58,930 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Evil Dead (2013) [1080p]'}
+2025-04-24 06:32:18,530 - INFO - Successfully uploaded to onedrive:Torrents/Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:32:18,530 - INFO - Verifying upload for: Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:32:18,530 - INFO - Verifying upload: /home/user/Desktop/torrents/Resident Evil Afterlife (2010) [1080p] -> onedrive:Torrents/Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:32:20,770 - INFO - Upload verification successful for /home/user/Desktop/torrents/Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:32:20,784 - INFO - Deleting torrent from qBittorrent: Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:32:20,784 - INFO - Deleting torrent with hash 70df748268c522f47848cde1e58d26995d3cd736 (delete_files=False)
+2025-04-24 06:32:20,796 - INFO - Successfully deleted torrent with hash 70df748268c522f47848cde1e58d26995d3cd736
+2025-04-24 06:32:20,796 - INFO - Deleting content files: Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:32:20,796 - INFO - Deleting content: /home/user/Desktop/torrents/Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:32:20,798 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:32:20,798 - INFO - Successfully processed torrent: Resident Evil Afterlife (2010) [1080p]
+2025-04-24 06:32:20,799 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'Resident Evil Afterlife (2010) [1080p]'}
+2025-04-24 06:33:14,859 - INFO - Successfully uploaded to onedrive:Torrents/It Follows (2014) [1080p]
+2025-04-24 06:33:14,859 - INFO - Verifying upload for: It Follows (2014) [1080p]
+2025-04-24 06:33:14,859 - INFO - Verifying upload: /home/user/Desktop/torrents/It Follows (2014) [1080p] -> onedrive:Torrents/It Follows (2014) [1080p]
+2025-04-24 06:33:17,103 - INFO - Upload verification successful for /home/user/Desktop/torrents/It Follows (2014) [1080p]
+2025-04-24 06:33:17,115 - INFO - Deleting torrent from qBittorrent: It Follows (2014) [1080p]
+2025-04-24 06:33:17,116 - INFO - Deleting torrent with hash 3ac92081bffa4dde1a123a7866da2ed5d25566d9 (delete_files=False)
+2025-04-24 06:33:17,124 - INFO - Successfully deleted torrent with hash 3ac92081bffa4dde1a123a7866da2ed5d25566d9
+2025-04-24 06:33:17,125 - INFO - Deleting content files: It Follows (2014) [1080p]
+2025-04-24 06:33:17,125 - INFO - Deleting content: /home/user/Desktop/torrents/It Follows (2014) [1080p]
+2025-04-24 06:33:17,126 - INFO - Successfully deleted directory: /home/user/Desktop/torrents/It Follows (2014) [1080p]
+2025-04-24 06:33:17,126 - INFO - Successfully processed torrent: It Follows (2014) [1080p]
+2025-04-24 06:33:17,126 - INFO - Thread completed successfully with result: {'status': 'success', 'torrent_name': 'It Follows (2014) [1080p]'}
